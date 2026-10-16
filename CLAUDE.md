@@ -99,7 +99,7 @@ D-13 substitui os ramos antigos: única referência [V03 oficial](<storyboards/M
 
 **MM-01 · D-21:** única referência oficial [V05](<storyboards/MM-01/STB MM01.jpg>), escolhida pelo usuário e preservada sem alteração. Outras versões e seus prompts excluídos da pasta. Não usar v06/v07/v08 nem reaplicar D-17–D-20 sem novo pedido. Consultar [contrato vigente](storyboards/briefings-dos-quadros.md#mm-01--exteriorentrada-da-prisão). Escolha artística confirmada; teste LED e confirmação de padronagem oficial não realizados.
 
-**MM-05 · D-24:** única referência oficial [V03](<storyboards/MM-05/STB MM05-v03.jpg>), aprovada pelo usuário e preservada sem alteração. Outras versões/prompts excluídos. Seguir [contrato vigente](storyboards/briefings-dos-quadros.md#mm-05--queda--silhuetas-de-luz): seis quadros, entrega/mordida, percepção e desespero final, corpo desfocado. Aprovação artística confirmada; animação/teste LED pendentes.
+**MM-05 · D-24:** única referência oficial [V03](<storyboards/MM-05/STB MM05.jpg>), aprovada pelo usuário e preservada sem alteração. Outras versões/prompts excluídos. Seguir [contrato vigente](storyboards/briefings-dos-quadros.md#mm-05--queda--silhuetas-de-luz): seis quadros, entrega/mordida, percepção e desespero final, corpo desfocado. Aprovação artística confirmada; animação/teste LED pendentes.
 
 ## Nomes das imagens · consulta obrigatória
 
