@@ -1,6 +1,6 @@
 # Status da produção
 
-**Última atualização:** 16/10/2026 · por Codex, a pedido do usuário (MM-05: V03 oficial; anteriores excluídas)
+**Última atualização:** 16/10/2026 · por Codex, a pedido do usuário (MM-09: v02, proclamação conforme roteiro)
 
 Cada pessoa atualiza **a própria linha** quando muda de etapa. Na dúvida sobre as etapas, veja [guias/fluxo-de-trabalho.md](guias/fluxo-de-trabalho.md).
 
@@ -18,7 +18,7 @@ Cada pessoa atualiza **a própria linha** quando muda de etapa. Na dúvida sobre
 | MM-06 | Retorno temporal → bebê | 3 | Isaac | ⬜ | - | Storyboard dos 4 estágios + loop final do bebê | - |
 | MM-07 | Nasceu em Belém (playback) | 3 | Eduardo | ⬜ | - | Mapear a faixa | MM-06 (frame final) |
 | MM-08 | Maravilhosa Graça / Goel (arquivo) | 4 | Isaac | ⬜ | - | Localizar material bruto de Goel | P-03 |
-| MM-09 | Profetas (loop) | 5 | Melissa | 🎨 | storyboard v01 | Revisar [prancha](storyboards/MM-09/prancha-v01.jpg), fixar referências e alinhar saída com Eduardo/MM-10 | - |
+| MM-09 | Profetas (loop) | 5 | Melissa | 🎨 | storyboard v02 | Revisar [prancha](storyboards/MM-09/prancha-v02.jpg), agora com proclamação a ouvintes conforme roteiro; alinhar saída MM-10 | - |
 | MM-10 | Cristo eterno / universo | 5 | Eduardo | ⬜ | - | - | - |
 | MM-11 | Luz do Mundo (playback) | 5 | Isaac | ⬜ | - | Mapear a faixa | P-02 (audio master) |
 | MM-12 | Viagem, cidade e estábulo | 6–7 | Lucas | ⬜ | - | - | - |

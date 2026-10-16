@@ -823,6 +823,10 @@ Os prompts abaixo já repetem a instrução de imagem limpa; ao levá-los à fer
 
 ## MM-09 · Profetas
 
+**Vigência:** v02/D-26 revisa o foco narrativo conforme a indicação literal de profetas pregando/anunciando; escolhas v01 abaixo são históricas, não direção aprovada.
+
+**Retomada documental · 16/10/2026:** usuário pediu seguir para MM-09. V01 reapresentada sem gerar/editar imagem, após conferir Bíblia §§3/5.2/9 (BIB-Q012/Q013), roteiro Cena 5 e briefing MM-09. Arquivos locais `MM-09/prancha-v01.jpg` e `MM-09/STB MM09.png` inspecionados: mesma composição visual de estudo. Referências antes descritas como ausentes refletem a situação da geração original, não a disponibilidade atual. V01 permanece proposta sem aprovação; saída para MM-10 requer integração real. Não ampliar para filme narrativo ou adotar seis quadros apenas porque MM-05 recebeu esse pedido específico.
+
 **Cena:** 5 · Bloco III. **Responsável:** Melissa. **Situação:** storyboard v01, proposta de execução de 16/10/2026; aprovação pendente.
 
 **Fontes e costuras:** briefing v1.0, seção MM-09; roteiro Cena 5; D-00; mapa de cenas; dependências; página de Melissa; ficha MM-09; guia de construção; contrato e Q01/Q02 do MM-10 como orientação documental de continuidade. Entrada: “Bom, séculos antes de Jesus nascer, houveram vários profetas que anunciaram a vinda dele.” Saída: “No princípio Ele já estava lá.” Não há peça/frame fornecedor de entrada definido. Entrega último estado visual, paleta e direção de movimento ao Eduardo/MM-10; seu storyboard não será alterado.
@@ -903,6 +907,38 @@ Os prompts abaixo já repetem a instrução de imagem limpa; ao levá-los à fer
 - **Arquivo leve:** [MM-09/prancha-v01.jpg](MM-09/prancha-v01.jpg), 1536×1024, 547,263 bytes, v01. É prancha de planejamento, não imagem-base 4K.
 - **Feedback:** Atmosfera histórica, pergaminho sem escrita legível, identidade geral do profeta, paleta e anotações conferidos visualmente pelo Codex. Há variações na postura/escala do profeta, nas construções e nas colinas entre quadros; Q04 não repete exatamente Q01. Para produção, fixar uma referência de ambiente/personagem e derivar Q04 de Q01. O sol visível e os realces quentes precisam ter brilho testado com palco e falas. A prancha não comprova repetição sem emenda ou integração com o arquivo real de Eduardo.
 - **Aprovação:** pendente da equipe/direção; nenhum alpha, ensaio ou aceite técnico neste trabalho. Saída pelo gatilho de fala em qualquer fase; duração a ajustar no ensaio.
+
+
+### Revisão MM-09 v02 · D-26 · leitura do roteiro
+
+**Problema identificado:** usuário pede reler roteiro porque v01 parece desalinhada. Cena 5 abre literalmente com “Profetas pregando e anunciando a vinda do Messias no telão”. As falas mencionam vários profetas ao longo dos séculos, espera por gerações, crença/dúvida, e só depois passam a João 1. V01 usa um profeta isolado, pergaminho e cidade vazios em dois quadros; não basta atmosfera para comunicar a proclamação pedida. O briefing continua pedindo poucas composições e loop discreto, não aula/montagem extensa.
+
+**Fontes consultadas:** roteiro Cena 5 completo até entrada MM-10/Luz do Mundo, briefing MM-09, Bíblia §§3/5.2/9 (BIB-Q012/Q013), alinhamento, dependências, mapa, página de Melissa, guia, contrato v01 e imagens MM-09 existentes. Única referência visual enviada: [prancha-v01.jpg](MM-09/prancha-v01.jpg), inspecionada, para paleta/vale/arquitetura. `STB MM09.png` também inspecionado, mostra a mesma prancha e será preservado, sem aprovação presumida. Sem novo frame real da costura MM-10.
+
+**Função/controle:** loop contemplativo de anúncio/espera, enquanto as detentas conversam no palco; não duplicar elenco ou humor na projeção. Entrada “séculos antes de Jesus nascer”; saída “No princípio Ele já estava lá” para MM-10, em qualquer fase, sem aguardar Q04. Quatro composições propostas, sem número/duração impostos pelo roteiro; não transferir seis quadros de MM-05 a esta peça. Animação de gesto/câmera lenta precisa de teste futuro; sem som labial/fala sincronizada ou tempos medidos.
+
+**Identidades propostas, não personagens bíblicos nomeados:** profeta A, cerca de 60 anos, pele oliva/morena, cabelo/barba grisalhos, túnica castanha e manto ocre, baseado visualmente na figura v01. Profeta B, cerca de 45–50 anos, pele oliva/morena, cabelo curto encaracolado/barba escuros com discretos grisalhos, túnica clara/manto azul-cinza. Um profeta e quatro ouvintes adultos por quadro; quantidade/figuração são escolhas artísticas. Ouvintes de idades variadas 20–70 anos, homens/mulheres com roupas antigas discretas de tons terrosos; não representam as atrizes. A volta em Q04 usa exatamente grupo de Q01; B permanece em Q02/Q03. Dois anunciadores evocam pluralidade sem nomear profeta ou alegar reconstrução literal dos séculos.
+
+**Ambiente/paleta:** mesmo vale e pequena cidade antiga de pedra clara à direita, caminho rochoso/pátio, horizonte/céu amplos, azul profundo/dourado contido/pedra. Mesma hora e luz baixa da direita, sem clímax ou passagem real dia/noite. Figura/ouvintes têm peso visual; pergaminho é acessório na mão, não substitui proclamação. Sem texto/versículo/nomes/datas na base. Cristo/cosmos/presépio não aparecem antes de MM-10.
+
+| ID mantido | Instante/composição v02 | Movimento/ligação proposta | Evitar |
+| --- | --- | --- | --- |
+| MM-09-Q01 · A promessa anunciada | Profeta A à esquerda sobre pedra baixa, de frente para quatro ouvintes centro/direita, mão aberta anunciando; cidade atrás | Aproximação mínima e atmosfera; entrada pela fala | Gesto dirigido ao vazio ou cenário dominando toda a ação |
+| MM-09-Q02 · A palavra proclamada | Profeta B num pátio/viela, pequeno pergaminho à cintura, gesto livre dirigido a quatro adultos que ouvem | Gesto mínimo, transição discreta; espera variável | Close de pergaminho sem gente, escrita ilegível como foco, aula |
+| MM-09-Q03 · Gerações em espera | Mesmo B/grupo, adultos jovens/maduros/idosos escutam/refletem, espera e dúvida discretas | Sustentação; apoiar “por muitas gerações” sem cue obrigatório | Cidade vazia, linha do tempo/biografias ou cumprimento antecipado |
+| MM-09-Q04 · Anúncio e expectativa | Mesmo A e quatro ouvintes de Q01, um pouco mais aberto, anúncio ainda presente e céu azul amplo | Retorno possível a Q01 ou saída pela fala a MM-10 | Cosmos/Cristo/glória final, mudança de personagem ou nova hora |
+
+**Prompt efetivo integral:** [prompt-prancha-v02.txt](MM-09/prompt-prancha-v02.txt). Todas as composições são propostas para avaliação, não nova decisão artística aprovada. Registrar resultado/dimensões/limitações após gerar; base/loop/integracão LED continuam pendentes.
+
+
+### Registro de geração · MM-09 v02 · Q01–Q04
+
+- **Data/executor:** 16/10/2026 · Codex. Consulta prévia ao guia/caderno e fontes do contrato v02, roteiro Cena 5 lido literalmente, imagens existentes inspecionadas.
+- **Ferramenta/referência:** `image_gen.imagegen`, fundo opaco, única referência `/workspace/Hesed-GET/storyboards/MM-09/prancha-v01.jpg`. `STB MM09.png` foi inspecionado, mas não enviado porque mostra a mesma composição. **Prompt efetivo integral:** [prompt-prancha-v02.txt](MM-09/prompt-prancha-v02.txt).
+- **Original preservado:** `/workspace/generated_images/exec-c18e427f-9550-4c77-aaf2-1969dfbcf751.png`, PNG 1672×941, 2600420 bytes, fora do repositório. **Arquivo leve:** [prancha-v02.jpg](MM-09/prancha-v02.jpg), JPEG 1672×941, 643742 bytes, apenas conversão de formato, mesma composição. Próximo de 16:9; não base 4K/matriz LED.
+- **Revisão visual:** Q01/Q04 mostram profeta A falando a grupo, Q02/Q03 mostram outro profeta proclamando/explicando com pergaminho de apoio; cidade/vale e pessoas coexistem, sem vazio dominar a ação. A ferramenta produziu cinco ouvintes em Q01/Q04 em vez dos quatro propostos; Q02/Q03 mantêm pequeno grupo. Isso é variação de execução, não exigência do roteiro. Gestos/roupas/arquitetura têm variações entre quadros; não comprova identidade métrica nem loop. Algumas figuras/posição dos ouvintes mudam entre Q02/Q03: fixar base/pessoas antes da animação. Sem nomes atribuídos aos profetas; não interpretar aparência como Cristo. Luz de fim de tarde permanece contida; testar contraste com palco.
+- **Direção visual comum:** imagem inclui paleta com amostras/nomes, descrições de elementos, efeitos/movimento e gatilhos/loop; ficha complementa funções de cor, luz/atmosfera e operação, conforme atualização remota D-25. Sem música própria ou tempos inventados.
+- **Situação:** proposta v02 para revisão, sem aprovação, animação/alpha, Drive ou teste LED. V01 e PNG recebido preservados. Peças MM-10/MM-11 não alteradas; materiais agora existentes no repositório não são prova de uma costura final aceita.
 
 ## MM-14 · Resumo dos pecados
 
