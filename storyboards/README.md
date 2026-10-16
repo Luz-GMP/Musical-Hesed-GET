@@ -6,7 +6,7 @@ Storyboard é a etapa 🎨 do [fluxo de trabalho](../guias/fluxo-de-trabalho.md)
 
 ## Construção e briefing de cada quadro
 
-Seguimos o padrão das pranchas do Eduardo (Dudu), conectado ao briefing de cada MM: quadros numerados, descrição, movimento, efeitos, paleta e relação com a música ou a fala.
+**Storyboards ligados à música** seguem o padrão das pranchas do Eduardo (Dudu): cabeçalho com objetivo/estilo, quadros descritos e bloco de momentos musicais/impactos ligado aos quadros. **Os demais** podem usar uma estrutura mais simples com gatilhos de fala/operação. **Todos** devem apresentar paleta com amostras e nomes, luz/atmosfera, elementos visuais, movimento/efeitos e continuidade. O [guia canônico](guia-de-construcao.md) detalha os blocos e exemplos. Sem master, o mapa musical fica como estudo com tempos a definir; não usar forma de onda inventada.
 
 - [Guia de construção](guia-de-construcao.md): como planejar as composições, manter continuidade e passar da prancha para imagens individuais.
 - [Briefings dos quadros](briefings-dos-quadros.md): caderno vivo com o detalhamento e o prompt de cada imagem. A versão inicial cobre os 46 quadros das referências de MM-07, MM-10, MM-13 e MM-16D; novas peças e revisões devem ser registradas nele.

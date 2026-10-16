@@ -1,6 +1,6 @@
 # Construção de storyboards e imagens · HESED
 
-**Padrão de trabalho:** seguir a estrutura das pranchas compartilhadas por Eduardo (Dudu), conforme orientação do usuário: quadros numerados, descrição, movimento, efeitos, paleta e relação com a música ou a fala, conectados ao briefing de cada MM. Os detalhamentos de execução abaixo apoiam esse padrão. Tempos, sincronização e eventuais conflitos com os documentos-base ainda precisam de conferência.
+**Padrão de trabalho:** storyboards ligados à música devem seguir a estrutura de comunicação das pranchas de Eduardo (Dudu), incluindo progressão musical e impactos visuais. Os demais podem usar uma estrutura mais simples, mantendo os blocos comuns de direção: objetivo, paleta, luz, elementos visuais, movimento, efeitos e continuidade. O formato de apresentação não amplia o conteúdo exigido pelo briefing de cada MM. Tempos e sincronização precisam de fonte verificada.
 
 Este guia orienta a criação. O [caderno de briefings por quadro](briefings-dos-quadros.md) registra o que construir em cada imagem. As fichas em `storyboards/MM-XX/README.md` continuam sendo o resumo de cada peça. Consulte também o [briefing oficial](../docs/briefing.md), o [roteiro](../docs/roteiro.md), as [decisões](../docs/decisoes.md) e as [dependências](../docs/dependencias.md).
 
@@ -30,13 +30,48 @@ Se um pedido mudar uma diretriz, atualize o documento canônico correspondente e
 
 Um quadro representa um estado visual relevante. Não é necessariamente um corte, um arquivo de vídeo ou um intervalo fixo de tempo. Uma mesma base pode produzir mais de um estado por reenquadramento e luz. Evite gerar imagens novas para movimentos que a edição resolve.
 
+### Padrão das pranchas · música e direção visual comum
+
+**Referências examinadas:** [MM-07](<MM-07/STB MM07.png>), [MM-10](<MM-10/STB MM10.png>), [MM-13](<MM-13/STB MM13.png>) e [MM-16D](<MM-16D/STB MM16D.png>). A análise considera a forma de comunicar o planejamento, sem aprovar automaticamente o conteúdo ou os tempos desenhados nessas imagens.
+
+As pranchas apresentam cabeçalho, grade de imagens e blocos de direção. O MM-07 usa 10 quadros e um resumo textual de sincronização; MM-10, MM-13 e MM-16D usam 12 quadros, faixa de momentos/impactos e amostras de cor. Portanto, o padrão é a organização das informações, não um número fixo de quadros ou a obrigação de reproduzir uma forma de onda.
+
+| Bloco | Obrigatório em todos os storyboards | Complemento obrigatório quando ligado à música |
+| --- | --- | --- |
+| **Cabeçalho** | HESED, MM, título, cena, responsável, versão/situação, objetivo e estilo | Música, intérprete/versão do master quando conhecidos; duração verificada ou “a definir com o master”; no MM-16, identificar o módulo e seu intervalo no filme |
+| **Quadros** | IDs legíveis, título curto, imagem, descrição do que se vê, movimento/efeito/transição e gatilho pertinente | Relação entre estado visual e trecho/momento da música; entrada/saída e intervalo medido quando disponível |
+| **Paleta de cores** | Bloco visível com amostras e nomes das cores, seus papéis na imagem e evolução entre estados, quando houver | Relação entre mudança de cor/luminosidade e crescimento, impacto ou repouso musical |
+| **Luz e atmosfera** | Fontes, direção, temperatura, contraste e intensidade relativa | Progressão luminosa em relação à música; ponto de maior intensidade e recuperação visual |
+| **Elementos visuais** | Lista dos cenários, objetos, personagens permitidos, texturas e motivos recorrentes; restrições importantes | Elementos que se transformam ou entram em resposta aos momentos musicais |
+| **Movimento e efeitos** | Câmera, parallax, movimento ambiental, velocidade, partículas ou efeitos pertinentes; escrever “não previsto” quando não houver | Resposta planejada aos crescimentos, pausas, impactos, clímax e encerramento realmente presentes na faixa |
+| **Continuidade / operação** | O que recebe, estado final, para quem entrega, repetição/espera quando necessária; marcar itens não definidos | Costura com a música e a peça seguinte, relação com dança/elenco e, no MM-16, integração dos quatro módulos |
+| **Faixa de sincronização** | Dispensável nas peças sem música; usar gatilhos de fala, estados de luz e operação | Bloco próprio de momentos musicais e impactos visuais, em tabela ou linha de progressão legível, ligado aos IDs dos quadros |
+
+**Apresentação visual comum:** usar a linguagem editorial das referências: cabeçalho claro, miniaturas alinhadas, títulos destacados e descrições curtas abaixo das imagens; blocos técnicos separados no rodapé ou em página complementar. Fundo escuro, divisórias discretas e textos claros com detalhes dourados são a referência de apresentação. A cor da prancha não obriga a imagem-base a ser escura. Preservar legibilidade; se faltar espaço, dividir a prancha em páginas, sem comprimir instruções até ficarem ilegíveis. Os títulos e blocos técnicos pertencem ao planejamento, não à imagem-base limpa.
+
+**Paleta explícita em todas as peças:** incluir amostras visuais identificadas por nome e função (base, sombra, luz, acento). Códigos de cor podem complementar quando definidos; não atribuir HEX exatos às referências sem medição. Usar a linguagem comum do HESED com adaptação à cena e às referências oficiais aprovadas, sem recolorir automaticamente a casa V03, a prisão V05 ou a queda V03. Uma ambientação sem pessoas também precisa desse bloco e dos demais campos comuns.
+
+**Quais peças seguem o padrão musical:** MM-07, MM-08, MM-11, MM-13 na posição musical confirmada e MM-16 com seus módulos. MM-04 também está ligada à música/dança e deve apresentar sua relação com a faixa, preservando a solução de loop/ambientação: o padrão musical não obriga a criar narrativa nova ou cortes extras. Qualquer outra peça efetivamente vinculada a uma canção usa o mesmo padrão. MM-10 acompanha uma fala, apesar da faixa musical ilustrada na referência; não presumir trilha autônoma. MM-01, MM-03, MM-05, MM-09, MM-12, MM-14 e MM-15 usam apresentação proporcional à função documentada, salvo vínculo musical definido posteriormente.
+
+**Sem master, manter o bloco e explicitar a pendência:** registrar fonte de áudio “não recebida”, tempo “a definir” e resposta visual como proposta. Não inventar batidas, refrões ou segundos. Não usar uma forma de onda decorativa como se fosse análise do áudio; se a onda real for incluída, identificar o arquivo/versão de origem. Um mapa textual de intenção musical, marcado como estudo, permite planejar sem alegar sincronização validada.
+
+Modelo do bloco musical:
+
+| Quadro(s) | Trecho/momento da faixa | Tempo e fonte | Resposta visual / luz / movimento | Transição e relação com palco |
+| --- | --- | --- | --- | --- |
+| MM-XX-QNN | A identificar na faixa; intenção de introdução/crescimento/clímax somente como proposta | A definir com master não recebido, ou intervalo medido e identificação do master | Descrever a resposta correspondente | Descrever a costura e o cuidado com elenco/dança |
+
+Para peças sem música, substituir esse bloco por **“Gatilhos e sustentação”**: fala/ação que inicia, estado visual a sustentar, loop/variação e condição de saída. MM-03 pode apresentar uma composição e suas variações de luz; MM-14 permanece montagem curta simbólica. Não impor timeline musical, 10/12 quadros ou encenação completa a essas peças.
+
+**Conferência antes de entregar a prancha:** verificar todos os blocos comuns e, quando musical, a faixa de sincronização e a ligação quadro ↔ momento ↔ resposta. A qualidade pictórica não substitui informações de produção. Preservar referências já aprovadas; esta atualização orienta próximas criações/revisões e não autoriza refazer imagens existentes sem pedido.
+
 ## 2. Preparar a peça antes de desenhar
 
 1. Identifique código, cena, responsável, função narrativa, fala-gatilho e condição de saída. Leia a página do responsável em [equipe/](../equipe/).
    Classifique também a função visual conforme a seção abaixo: ambientação, loop atmosférico, transformação simbólica ou sequência/montagem narrativa. Separe o que acontece no palco do que precisa aparecer no telão antes de incluir personagens no prompt.
 2. Registre o que recebe e para quem entrega: frame, paleta, direção de luz, escala, movimento e materiais de referência. Quando não houver destinatário definido, escreva isso.
 3. Classifique o controle: **fala com duração variável**, **música com master definitivo** ou **módulo de um filme maior**. Não aplique uma timeline musical a todas as peças.
-4. Escreva o arco em uma frase e separe os estados necessários, mantendo a apresentação das pranchas do Dudu. Nas quatro referências já recebidas, preserve seus quadros e IDs; nas novas peças, a quantidade vem da narrativa, sem obrigação de usar 10 ou 12.
+4. Escreva o arco em uma frase e separe os estados necessários. Aplique o padrão musical das pranchas do Dudu quando houver vínculo com música; nas demais peças, mantenha os blocos comuns com estrutura proporcional. Nas referências existentes, preserve os IDs; a quantidade de quadros vem da função da peça, sem obrigação de usar 10 ou 12.
 5. Registre conflitos e dependências antes de gerar bases definitivas. Ideias podem ser exploradas enquanto o áudio ou o frame vizinho não chegam, mantendo o caráter de estudo.
 
 ### Ambientação, personagens e alcance da criação
@@ -81,7 +116,7 @@ Para imagens-base, a referência documental é **3840×2160**. Isso não define 
 
 ### Queda · MM-05 · diretrizes atuais
 
-**D-24:** [V03](MM-05/prancha-v03.jpg) é a única versão oficial, aprovada pelo usuário e preservada sem alteração. Outras versões e seus prompts excluídos da pasta. Aplicar [contrato vigente](briefings-dos-quadros.md#mm-05--queda--silhuetas-de-luz) e a imagem aceita: seis estados, luz emanante → forma física, Q02 entrega do fruto, Q03 mordida do homem, Q05 percepção por olhar mútuo e Q06 desespero/olhares/mãos na cabeça no mundo mais sombrio. Corpo oculto por desfoque, sem exposição de nudez. Não usar a versão vestida ou o final apenas em silhuetas. Mesma paisagem MM-04; MM-06 entra em “Enviando alguém pra nos salvar”. Aprovação artística não é aceite técnico ou loop validado.
+**D-24:** [V03](<MM-05/STB MM05-v03.jpg>) é a única versão oficial, aprovada pelo usuário e preservada sem alteração. Outras versões e seus prompts excluídos da pasta. Aplicar [contrato vigente](briefings-dos-quadros.md#mm-05--queda--silhuetas-de-luz) e a imagem aceita: seis estados, luz emanante → forma física, Q02 entrega do fruto, Q03 mordida do homem, Q05 percepção por olhar mútuo e Q06 desespero/olhares/mãos na cabeça no mundo mais sombrio. Corpo oculto por desfoque, sem exposição de nudez. Não usar a versão vestida ou o final apenas em silhuetas. Mesma paisagem MM-04; MM-06 entra em “Enviando alguém pra nos salvar”. Aprovação artística não é aceite técnico ou loop validado.
 
 ### Prisão · MM-01 · diretrizes atuais
 
@@ -129,6 +164,7 @@ como decisões. Não invente acesso a arquivos que não foram fornecidos.
 Função narrativa: [...]. Gatilho: [...]. Saída: [...].
 Recebe de: [...]. Entrega para: [...].
 Controle: [fala variável / música com master / módulo do filme final].
+Formato: [padrão musical Dudu / estrutura simples com direção visual comum].
 Áudio e frames de ligação disponíveis: [... ou não fornecidos].
 
 Proponha os estados visuais necessários, com IDs estáveis MM-XX-QNN.
@@ -137,6 +173,12 @@ personagens, cenário, luz, continuidade e elementos a evitar. Em campo
 separado, descreva movimento, efeitos e transição para o próximo estado.
 Siga o estilo realista e cinematográfico e a linguagem visual do HESED.
 Não fixe tempos sem fonte medida. Planeje espera/loop onde houver fala.
+Inclua blocos visíveis de paleta com amostras e nomes, luz/atmosfera,
+elementos visuais, movimento/efeitos e continuidade em toda prancha.
+Se a peça estiver ligada à música, use o padrão Dudu com cabeçalho,
+quadros e faixa de momentos musicais/impactos ligada aos IDs. Sem master,
+mantenha o bloco como estudo, com tempos a definir; não invente uma onda.
+Se não houver música, use gatilhos de fala/operação e sustentação do estado.
 
 Entregue primeiro o plano textual para revisão. Para a prancha visual,
 use miniaturas com IDs e anotações fora da área de cada imagem. Para as

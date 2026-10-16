@@ -1,6 +1,6 @@
 # Briefings dos quadros · HESED
 
-**Padrão:** estrutura das pranchas do Eduardo (Dudu), adotada pelo usuário como referência para os demais storyboards. **Situação dos detalhamentos:** estudos de execução para revisão, não imagens finais nem aprovações de timecode.
+**Padrão:** nas peças ligadas à música, seguir a estrutura completa das pranchas do Eduardo (Dudu), incluindo momentos musicais/impactos ligados aos IDs. Nas demais, usar estrutura proporcional com gatilhos de fala/operação. Em todas as pranchas, apresentar blocos de paleta com amostras e nomes, luz/atmosfera, elementos visuais, movimento/efeitos e continuidade, conforme o guia canônico. **Situação dos detalhamentos:** estudos de execução para revisão, não imagens finais nem aprovações de timecode.
 
 Este é um caderno vivo: a cada storyboard novo, acrescente a identificação da peça e o briefing de cada quadro; a cada imagem produzida, registre referência, versão e feedback no seu ID. O [guia de construção](guia-de-construcao.md) explica o método, a montagem das pranchas e a passagem para imagens individuais.
 
@@ -1160,7 +1160,7 @@ Referência única V03, aprovada pelo usuário ao reenviar a imagem com renda; v
 
 ## MM-05 · Queda — silhuetas de luz
 
-**V03 oficial · seis quadros · Lucas · Cena 3 · D-24 · 16/10/2026.** Usuário aprovou expressamente a V03 e pediu excluir as outras. [Imagem aceita](MM-05/prancha-v03.jpg) preservada sem alteração; versões anteriores e prompts correspondentes removidos da pasta. Não regenerar a imagem nem substituir por propostas anteriores. Histórico anterior disponível no Git.
+**V03 oficial · seis quadros · Lucas · Cena 3 · D-24 · 16/10/2026.** Usuário aprovou expressamente a V03 e pediu excluir as outras. [Imagem aceita](<MM-05/STB MM05-v03.jpg>) preservada sem alteração; versões anteriores e prompts correspondentes removidos da pasta. Não regenerar a imagem nem substituir por propostas anteriores. Histórico anterior disponível no Git.
 
 **Fontes:** pedido de aprovação D-24, diretrizes D-22/D-23, briefing v1.0 §11/MM-05, roteiro Cena 3, Bíblia §§3/5.2/7.1/9, mapa/dependências e página de Lucas. Transcrição original ainda ausente (P-14).
 
@@ -1182,5 +1182,5 @@ Referência única V03, aprovada pelo usuário ao reenviar a imagem com renda; v
 - **Geração:** 16/10/2026 · Codex · `image_gen.imagegen`, fundo opaco; [prompt efetivamente usado](MM-05/prompt-ajuste-desfoque-v03.txt). Única referência da edição à época: prancha v02 inspecionada, depois excluída por pedido D-24. Sem referência externa de ator/áudio. Uma tentativa anterior foi rejeitada sem imagem; seu prompt não rege a imagem aceita e foi retirado da pasta junto da limpeza.
 - **Método entregue:** desfoque opaco sobre áreas já cobertas da referência para ocultar roupa/anatomia, sem gerar nudez; rostos/mãos/gestos preservados. Usuário aprovou o resultado V03 como está.
 - **Original:** `/workspace/generated_images/exec-70525e9d-a674-451a-9581-0ad1af1096d7.png`, PNG 1672×941, 2624174 bytes, fora do repositório.
-- **Arquivo oficial:** [prancha-v03.jpg](MM-05/prancha-v03.jpg), JPEG 1672×941, 666212 bytes; conversão de formato sem mudar composição. SHA-256 `d0ce27b9a8e490389dc117a1f40576b840b4cd1a4059f82c08ac54952b382dbb`, conferido antes/depois da limpeza.
+- **Arquivo oficial:** [prancha-v03.jpg](<MM-05/STB MM05-v03.jpg>), JPEG 1672×941, 666212 bytes; conversão de formato sem mudar composição. SHA-256 `d0ce27b9a8e490389dc117a1f40576b840b4cd1a4059f82c08ac54952b382dbb`, conferido antes/depois da limpeza.
 - **Situação:** aprovação artística explícita, seis quadros; demais versões excluídas da pasta. Não há base limpa/camadas, animação, loop testado, upload Drive ou teste LED. Pequenas variações gerativas não validam continuidade métrica; produção definitiva pede uma base única e teste das costuras MM-04/MM-06. Matriz/fps/codec seguem P-01; prancha próxima de 16:9 não é base 4K. Sem nova geração nesta oficialização.

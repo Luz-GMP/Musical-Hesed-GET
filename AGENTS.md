@@ -19,3 +19,7 @@ Antes de decidir cenário, sequência, luz ou conteúdo de uma peça, leia a [B�
 ## Publicação no repositório
 
 Por orientação explícita do usuário nesta conversa, as alterações deste repositório devem ser integradas e publicadas na **main**. Não considerar a tarefa publicada por ter enviado apenas para outra branch. Antes de enviar, atualizar a main, preservar alterações remotas e resolver conflitos; fazer push normal, sem force-push, e verificar o commit remoto.
+
+## Formato dos storyboards
+
+Storyboards ligados à música devem seguir o padrão completo das pranchas do Dudu, com momentos musicais/impactos relacionados aos quadros. Nas demais peças, use estrutura proporcional à função. Todos devem conter paleta com amostras e nomes, luz/atmosfera, elementos visuais, movimento/efeitos e continuidade. Antes de produzir a prancha, consulte a seção “Padrão das pranchas · música e direção visual comum” do [guia canônico](storyboards/guia-de-construcao.md). Sem master, identificar estudo e tempos a definir; não inventar forma de onda ou sincronização.

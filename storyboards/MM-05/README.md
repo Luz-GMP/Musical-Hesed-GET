@@ -13,11 +13,11 @@
 
 ## V03 · única versão oficial
 
-![MM-05 v03 — entrega, mordida, percepção e desespero com desfoque corporal](prancha-v03.jpg)
+![MM-05 v03 — entrega, mordida, percepção e desespero com desfoque corporal](<STB MM05-v03.jpg>)
 
 **Direção do usuário (D-22):** ampliar para seis quadros, aumentar a luz emanando dos corpos no início e revelar gradualmente pessoas fisicamente reconhecíveis no último. Final muito mais escuro e sombrio, casal em desespero, mãos na cabeça, olhando um para o outro e levemente encurvado/prostrado. Essa direção substitui o final apenas em silhuetas da v01. **V03 aprovada pelo usuário em D-24**, preservada sem alteração; demais versões e seus prompts excluídos da pasta. **D-23:** Q02 ela entrega o fruto, Q03 ele morde, Q05 trocam olhares percebendo a condição; retirar a leitura de roupa e ocultar o corpo com desfoque. Para não gerar nudez, a edição bem-sucedida aplicou desfoque opaco sobre áreas já cobertas da referência, ocultando detalhes de roupa/anatomia. Q06 mantém desespero.
 
-[Prancha atual](prancha-v03.jpg) · [Prompt efetivo do ajuste](prompt-ajuste-desfoque-v03.txt) · [Contrato/registro](../briefings-dos-quadros.md#mm-05--queda--silhuetas-de-luz)
+[Prancha atual](<STB MM05-v03.jpg>) · [Prompt efetivo do ajuste](prompt-ajuste-desfoque-v03.txt) · [Contrato/registro](../briefings-dos-quadros.md#mm-05--queda--silhuetas-de-luz)
 
 ## Quadros
 
@@ -46,7 +46,7 @@ Detentas ouvem a história no palco com casa/mesa presentes fisicamente; não du
 
 [Briefing](../../docs/briefing.md) §11/MM-05 e §8/MM-04; [roteiro Cena 3](../../docs/roteiro.md); [Bíblia](../../docs/fontes/HESED_Biblia_de_Producao_v0_1.md) §§3/5.2/7.1/9; [D-22/D-23](../../docs/decisoes.md); [alinhamento](../../docs/alinhamento-das-fontes.md); [Lucas](../../equipe/lucas.md); [dependências](../../docs/dependencias.md); [guia](../guia-de-construcao.md) e [caderno](../briefings-dos-quadros.md#mm-05--queda--silhuetas-de-luz). Transcrição original ausente (P-14).
 
-- Imagem oficial: [prancha-v03.jpg](prancha-v03.jpg), JPEG **1672×941**, **666212 bytes**, preservada byte a byte. SHA-256: `d0ce27b9a8e490389dc117a1f40576b840b4cd1a4059f82c08ac54952b382dbb`.
+- Imagem oficial: [prancha-v03.jpg](<STB MM05-v03.jpg>), JPEG **1672×941**, **666212 bytes**, preservada byte a byte. SHA-256: `d0ce27b9a8e490389dc117a1f40576b840b4cd1a4059f82c08ac54952b382dbb`.
 - [Prompt integral efetivamente usado](prompt-ajuste-desfoque-v03.txt). Ferramenta: `image_gen.imagegen`, fundo opaco; referência à época: v02, inspecionada, agora excluída da pasta por D-24. Nenhuma foto externa de ator usada.
 - Original: `/workspace/generated_images/exec-70525e9d-a674-451a-9581-0ad1af1096d7.png`, PNG 1672×941, 2624174 bytes, fora do repositório. JPEG leve é conversão sem mudar composição.
 - Demais versões e prompts retirados da pasta; histórico de produção permanece no Git. Não usar versões descartadas em novas decisões.
