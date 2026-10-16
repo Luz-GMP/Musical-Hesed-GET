@@ -1,6 +1,6 @@
 # Inventário de storyboards e quadros
 
-Conferência de 16/10/2026 conforme D-28. Abrange todas as 36 imagens existentes no repositório: **14 pranchas completas e 22 quadros individuais**. Foram renomeados 27 arquivos; nove já seguiam o padrão. Os conteúdos foram preservados byte a byte (SHA-256 conferido antes e depois). Não foram criados quadros individuais a partir das pranchas.
+Conferência de 16/10/2026 conforme D-28. Abrange todas as 48 imagens existentes no repositório: **14 pranchas completas e 34 quadros individuais**. Foram renomeados 36 arquivos; 12 já seguiam o padrão. Os conteúdos foram preservados byte a byte (SHA-256 conferido antes e depois). Não foram criados quadros individuais a partir das pranchas.
 
 As duas pranchas da MM-04, em JPG e PNG, foram mantidas. As quatro pranchas da MM-03 são a composição oficial e suas três variações de luz. O nome novo não muda versão artística ou aprovação; consulte as fichas de cada peça. O inventário descreve o acervo local; a publicação remota depende do push.
 
@@ -42,5 +42,20 @@ As duas pranchas da MM-04, em JPG e PNG, foram mantidas. As quatro pranchas da M
 | Prancha | [MM-13/STB MM13.png](<MM-13/STB MM13.png>) | Já estava no padrão |
 | Prancha | [MM-14/STB MM14.jpg](<MM-14/STB MM14.jpg>) | `prancha-v01.jpg` |
 | Prancha | [MM-16D/STB MM16D.png](<MM-16D/STB MM16D.png>) | Já estava no padrão |
+
+| Quadro individual | [MM-13/MM13-Q01.JPG](<MM-13/MM13-Q01.JPG>) | `MM13-Q1.JPG` |
+| Quadro individual | [MM-13/MM13-Q10.JPG](<MM-13/MM13-Q10.JPG>) | Já estava no padrão |
+| Quadro individual | [MM-13/MM13-Q11.JPG](<MM-13/MM13-Q11.JPG>) | Já estava no padrão |
+| Quadro individual | [MM-13/MM13-Q12.JPG](<MM-13/MM13-Q12.JPG>) | Já estava no padrão |
+| Quadro individual | [MM-13/MM13-Q02.JPG](<MM-13/MM13-Q02.JPG>) | `MM13-Q2.JPG` |
+| Quadro individual | [MM-13/MM13-Q03.JPG](<MM-13/MM13-Q03.JPG>) | `MM13-Q3.JPG` |
+| Quadro individual | [MM-13/MM13-Q04.JPG](<MM-13/MM13-Q04.JPG>) | `MM13-Q4.JPG` |
+| Quadro individual | [MM-13/MM13-Q05.JPG](<MM-13/MM13-Q05.JPG>) | `MM13-Q5.JPG` |
+| Quadro individual | [MM-13/MM13-Q06.JPG](<MM-13/MM13-Q06.JPG>) | `MM13-Q6.JPG` |
+| Quadro individual | [MM-13/MM13-Q07.JPG](<MM-13/MM13-Q07.JPG>) | `MM13-Q7.JPG` |
+| Quadro individual | [MM-13/MM13-Q08.JPG](<MM-13/MM13-Q08.JPG>) | `MM13-Q8.JPG` |
+| Quadro individual | [MM-13/MM13-Q09.JPG](<MM-13/MM13-Q09.JPG>) | `MM13-Q9.JPG` |
+
+Os 12 quadros da MM-13 foram recebidos no commit remoto `a91406a` durante esta conferência e incorporados antes da conclusão. Nove deles precisavam do zero à esquerda.
 
 Padrão para novos arquivos: [guia de entrega](../guias/entrega-e-arquivos.md#padrão-de-nomes). Prompts, originais documentais e registros históricos não foram renomeados.
