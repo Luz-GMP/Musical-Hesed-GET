@@ -32,7 +32,7 @@
 
 ## MM-09 · Profetas (loop)
 
-**Storyboard v02:** [prancha e ficha](../storyboards/MM-09/README.md), revisão proposta em 16/10/2026 para tornar explícitos os profetas proclamando a ouvintes (D-26/roteiro Cena 5). Aprovação e alpha pendentes.
+**Novo estudo v03:** [prancha e ficha](../storyboards/MM-09/README.md), recriado do zero por pedido D-27; versões anteriores recusadas/excluídas. Quatro composições distintas de anúncio, espera e crença/dúvida; proposta para revisão, sem alpha.
 
 | | |
 | --- | --- |
