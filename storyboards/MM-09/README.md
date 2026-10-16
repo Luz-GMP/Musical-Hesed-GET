@@ -13,11 +13,11 @@
 
 ## Reinício do zero · D-27
 
-![MM-09 — novo estudo v03 com quatro situações distintas](prancha-v03.jpg)
+![MM-09 — novo estudo v03 com quatro situações distintas](<STB MM09.jpg>)
 
 O usuário recusou as versões anteriores por confusão/repetição e determinou excluí-las e refazer. **V01, V02, STB MM09.png e prompts antigos foram retirados da pasta.** A geração nova recebeu somente texto: nenhuma imagem anterior foi usada como referência. “v03” identifica o novo arquivo, não uma continuação estética. A proposta atual ainda depende de avaliação.
 
-[Prancha nova](prancha-v03.jpg) · [Prompt efetivo](prompt-prancha-v03.txt) · [Contrato e registro](../briefings-dos-quadros.md#mm-09--profetas)
+[Prancha nova](<STB MM09.jpg>) · [Prompt efetivo](prompt-prancha-v03.txt) · [Contrato e registro](../briefings-dos-quadros.md#mm-09--profetas)
 
 ## Relação com o roteiro
 
@@ -53,7 +53,7 @@ Quatro composições por função, não quatro variações do mesmo grupo pregan
 
 - Ferramenta `image_gen.imagegen`, fundo opaco, geração nova **sem referências de imagem**.
 - Original: `/workspace/generated_images/exec-db235b08-230e-4182-a9ba-5f2496e2bb8d.png`, PNG 1672×941, 2716118 bytes, fora do repositório.
-- [Arquivo leve](prancha-v03.jpg): JPEG **1672×941**, **622485 bytes**, mesma composição na conversão. Próximo de 16:9; não base 4K/matriz LED (P-01).
+- [Arquivo leve](<STB MM09.jpg>): JPEG **1672×941**, **622485 bytes**, mesma composição na conversão. Próximo de 16:9; não base 4K/matriz LED (P-01).
 - Versões excluídas são recuperáveis no histórico Git, mas não são referência atual. Artes oficiais MM-01/MM-03/MM-05 e materiais de Eduardo preservados.
 
 ## Revisão

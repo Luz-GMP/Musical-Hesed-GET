@@ -14,7 +14,7 @@
 
 ## V05 · única referência oficial
 
-![MM-01 — V05 oficial](prancha-v05.jpg)
+![MM-01 — V05 oficial](<STB MM01.jpg>)
 
 O usuário escolheu esta prancha por considerá-la a mais adequada e pediu excluir as demais versões. **A V05 foi preservada sem alteração.** As outras imagens e seus prompts foram retirados desta pasta. Não reaplicar as correções posteriores rejeitadas nem usar outra composição como referência sem novo pedido. A escolha V05 substitui D-17–D-20 como orientação de revisão.
 
@@ -41,7 +41,7 @@ Há outro congelamento durante a discussão para MM-02. Ao terminar o vídeo, vo
 
 [Bíblia canônica](../../docs/fontes/HESED_Biblia_de_Producao_v0_1.md) §§2.2/3/5.2/7.1/9/16; [roteiro Cena 1](../../docs/roteiro.md); [briefing Bloco I](../../docs/briefing.md); [decisões D-21](../../docs/decisoes.md); [guia](../guia-de-construcao.md); [caderno vigente](../briefings-dos-quadros.md#mm-01--exteriorentrada-da-prisão); [Victor](../../equipe/victor.md).
 
-- [Prancha oficial V05](prancha-v05.jpg): JPEG 1672×941, 630218 bytes; preservada byte a byte.
+- [Prancha oficial V05](<STB MM01.jpg>): JPEG 1672×941, 630218 bytes; preservada byte a byte.
 - SHA-256: `c19ac147d9edf5f2c2e760d6f837dd84ca675065d8d6fcad3c66d4f7e0fc722b`.
 - [Prompt efetivamente usado na V05](prompt-prancha-v05.txt), preservado como registro da geração; não substitui a imagem aceita nem garante sua reprodução idêntica.
 - Original da geração: `/workspace/generated_images/exec-97caac2e-6336-40da-93b2-1b647955b044.png`, fora do repositório. A edição usou a então v04; essa versão foi excluída da pasta por D-21. Histórico documental anterior recuperável no Git.

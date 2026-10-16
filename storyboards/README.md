@@ -13,14 +13,18 @@ Storyboard é a etapa 🎨 do [fluxo de trabalho](../guias/fluxo-de-trabalho.md)
 
 As referências visuais orientam a construção. Tempos, sincronização e pontos de continuidade dependem das fontes e confirmações indicadas nos documentos.
 
+## Nomes dos arquivos
+
+Prancha completa: **`STB MM09.jpg`**. Quadro individual: **`MM09-Q01.png`**, com dois dígitos e a extensão real. Para módulos, mantenha a letra: `STB MM16D.png`. O prefixo `STB` identifica o arquivo que reúne os quadros; não nomeie uma prancha como um quadro individual. Veja as [regras e variações de luz](../guias/entrega-e-arquivos.md#padrão-de-nomes) e o [inventário completo](inventario-de-arquivos.md). A versão artística e a aprovação continuam na ficha.
+
 ## Como preencher pelo site
 
 1. Abra a pasta da sua peça (ex.: `storyboards/MM-06`).
-2. **Subir os esboços:** clique em **Add file → Upload files**, arraste as imagens e clique em **Commit changes**. Nomeie assim: `q01.jpg`, `q02.jpg`, `q03.jpg`... (um arquivo por quadro).
-3. **Preencher a ficha:** clique no `README.md` da pasta, depois no lápis (✏️). Na coluna "Esboço", escreva `![](q01.jpg)` para mostrar a imagem do quadro 1, e assim por diante. Precisa de mais quadros? Copie uma linha da tabela.
+2. **Subir os esboços:** clique em **Add file → Upload files**, arraste as imagens e clique em **Commit changes**. Nomeie assim: `MM06-Q01.jpg`, `MM06-Q02.jpg`, `MM06-Q03.jpg`... (um arquivo por quadro).
+3. **Preencher a ficha:** clique no `README.md` da pasta, depois no lápis (✏️). Na coluna "Esboço", escreva `![](MM06-Q01.jpg)` para mostrar a imagem do quadro 1, e assim por diante. Precisa de mais quadros? Copie uma linha da tabela.
 4. Clique em **Commit changes** e mude sua etapa no [STATUS.md](../STATUS.md) para 🎨.
 
-Mudou um quadro? Suba a imagem nova com o mesmo nome; o histórico guarda a anterior.
+Mudou um quadro em revisão? O histórico Git guarda a anterior. Preserve a imagem aprovada; se precisar manter revisões simultâneas, use subpastas de versão com os mesmos nomes padronizados.
 
 ## O que pode subir aqui
 

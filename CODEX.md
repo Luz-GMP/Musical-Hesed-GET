@@ -45,7 +45,7 @@ A consulta ao guia e ao briefing da peça/quadro é **obrigatória antes de toda
 
 ## Casa da Religiosidade · referência atual
 
-D-13 substitui os ramos antigos: única referência [V03 oficial](storyboards/MM-03/V03.jpg), com relógio, bandejinha/renda e menorá; sem foto ou Bíblia; pia à esquerda sob o aéreo, cooktop à direita. V03-01 = noite/todas acesas; V03-02 = noite/só centro; V03-03 = noite/só luar. Usar [guia vigente](storyboards/guia-de-construcao.md#casa-da-religiosidade--diretrizes-atuais) e [contrato MM-03](storyboards/briefings-dos-quadros.md#mm-03--casa-da-religiosidade). Versões anteriores excluídas a pedido do usuário; não reutilizar V04, foto ou Bíblia. As três variações foram solicitadas nesta correção; aprovação artística das imagens e teste no LED permanecem pendentes.
+D-13 substitui os ramos antigos: única referência [V03 oficial](<storyboards/MM-03/STB MM03.jpg>), com relógio, bandejinha/renda e menorá; sem foto ou Bíblia; pia à esquerda sob o aéreo, cooktop à direita. V03-01 = noite/todas acesas; V03-02 = noite/só centro; V03-03 = noite/só luar. Usar [guia vigente](storyboards/guia-de-construcao.md#casa-da-religiosidade--diretrizes-atuais) e [contrato MM-03](storyboards/briefings-dos-quadros.md#mm-03--casa-da-religiosidade). Versões anteriores excluídas a pedido do usuário; não reutilizar V04, foto ou Bíblia. As três variações foram solicitadas nesta correção; aprovação artística das imagens e teste no LED permanecem pendentes.
 
 ## Bíblia de Produção e reunião · D-14
 
@@ -53,8 +53,12 @@ Consulta obrigatória: [Bíblia canônica v0.1](docs/fontes/HESED_Biblia_de_Prod
 
 **Destino de publicação:** por orientação explícita do usuário, integrar e enviar alterações deste repositório para a **main**, preservando commits remotos e sem force-push. Enviar somente para outra branch não conclui a publicação. Verificar o resultado remoto.
 
-**MM-01 · D-21:** única referência oficial [V05](storyboards/MM-01/prancha-v05.jpg), escolhida pelo usuário e preservada sem alteração. Outras versões e seus prompts excluídos da pasta. Não usar v06/v07/v08 nem reaplicar D-17–D-20 sem novo pedido. Consultar [contrato vigente](storyboards/briefings-dos-quadros.md#mm-01--exteriorentrada-da-prisão). Escolha artística confirmada; teste LED e confirmação de padronagem oficial não realizados.
+**MM-01 · D-21:** única referência oficial [V05](<storyboards/MM-01/STB MM01.jpg>), escolhida pelo usuário e preservada sem alteração. Outras versões e seus prompts excluídos da pasta. Não usar v06/v07/v08 nem reaplicar D-17–D-20 sem novo pedido. Consultar [contrato vigente](storyboards/briefings-dos-quadros.md#mm-01--exteriorentrada-da-prisão). Escolha artística confirmada; teste LED e confirmação de padronagem oficial não realizados.
 
-**MM-05 · D-24:** única referência oficial [V03](<storyboards/MM-05/STB MM05-v03.jpg>), aprovada pelo usuário e preservada sem alteração. Outras versões/prompts excluídos. Seguir [contrato vigente](storyboards/briefings-dos-quadros.md#mm-05--queda--silhuetas-de-luz): seis quadros, entrega/mordida, percepção e desespero final, corpo desfocado. Aprovação artística confirmada; animação/teste LED pendentes.
+**MM-05 · D-24:** única referência oficial [V03](<storyboards/MM-05/STB MM05.jpg>), aprovada pelo usuário e preservada sem alteração. Outras versões/prompts excluídos. Seguir [contrato vigente](storyboards/briefings-dos-quadros.md#mm-05--queda--silhuetas-de-luz): seis quadros, entrega/mordida, percepção e desespero final, corpo desfocado. Aprovação artística confirmada; animação/teste LED pendentes.
 
 **MM-09 · D-27:** versões anteriores excluídas/desconsideradas; reinício do zero, sem reutilizar imagens. Mostrar anúncio, espera e crença/dúvida em composições distintas, evitando repetição de sermões/grupos. Seguir [novo contrato](storyboards/briefings-dos-quadros.md#mm-09--profetas); arte ainda para revisão.
+
+## Nomes de imagens — D-28
+
+Ao salvar ou revisar arquivos, siga o [padrão canônico](guias/entrega-e-arquivos.md#padrão-de-nomes): prancha completa `STB MM09.jpg`; quadro individual `MM09-Q01.png`. Preserve a extensão real, os dois dígitos e as letras de módulos (`MM16D`). Versões artísticas e aprovações ficam nas fichas; as variações de luz da MM-03 seguem o sufixo documentado no guia. Confira o [inventário](storyboards/inventario-de-arquivos.md) antes de criar nomes ou duplicatas.

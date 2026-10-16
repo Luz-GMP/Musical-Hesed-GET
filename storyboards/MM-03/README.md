@@ -6,12 +6,12 @@ A única composição oficial é a imagem reenviada pelo usuário e registrada e
 
 | Nome | Iluminação | Arquivo |
 | --- | --- | --- |
-| **V03 oficial** | Referência aprovada da sala, iluminação diurna original | [V03.jpg](V03.jpg) |
-| **V03-01** | Noite, todas as luzes internas acesas | [V03-01.jpg](V03-01.jpg) |
-| **V03-02** | Noite, somente luz central acesa | [V03-02.jpg](V03-02.jpg) |
-| **V03-03** | Noite, luzes internas apagadas, somente luar | [V03-03.jpg](V03-03.jpg) |
+| **V03 oficial** | Referência aprovada da sala, iluminação diurna original | [STB MM03.jpg](<STB MM03.jpg>) |
+| **V03-01** | Noite, todas as luzes internas acesas | [STB MM03-01.jpg](<STB MM03-01.jpg>) |
+| **V03-02** | Noite, somente luz central acesa | [STB MM03-02.jpg](<STB MM03-02.jpg>) |
+| **V03-03** | Noite, luzes internas apagadas, somente luar | [STB MM03-03.jpg](<STB MM03-03.jpg>) |
 
-![V03 oficial](V03.jpg)
+![V03 oficial](<STB MM03.jpg>)
 
 A imagem enviada pelo usuário tinha inscrição antiga “Estudo v07”; seu nome oficial atual é **V03**. As três variações novas usam essa imagem diretamente, com bandejinha/renda, preservando a cozinha correta. Não derivam das variações rejeitadas com porta-retrato.
 

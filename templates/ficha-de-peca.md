@@ -17,6 +17,9 @@
 ## Referências
 
 ## Storyboard / estágios
+
+Salve a prancha como `STB MM09.jpg` e cada quadro individual como `MM09-Q01.png`, mantendo o número da peça e a extensão real. Consulte o [padrão de nomes](../guias/entrega-e-arquivos.md#padrão-de-nomes). Registre versões e aprovações abaixo.
+
 1.
 2.
 3.

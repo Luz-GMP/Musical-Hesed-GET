@@ -19,9 +19,9 @@ Uma paisagem natural luminosa, harmônica e viva, sustentada com movimentos disc
 
 ## Prancha v01
 
-![Storyboard MM-04 — quatro estados da criação perfeita](prancha-v01.jpg)
+![Storyboard MM-04 — quatro estados da criação perfeita](<STB MM04.jpg>)
 
-[Ver prancha](prancha-v01.jpg) · [Prompt efetivamente enviado](prompt-prancha-v01.txt) · [Briefings dos quadros](../briefings-dos-quadros.md#mm-04--criação-perfeita)
+[Ver prancha](<STB MM04.jpg>) · [Prompt efetivamente enviado](prompt-prancha-v01.txt) · [Briefings dos quadros](../briefings-dos-quadros.md#mm-04--criação-perfeita)
 
 Prancha de estudo gerada por IA: **1536×1024**, JPEG leve (673.733 bytes). Não é imagem-base 4K ou vídeo. O original PNG está disponível no ambiente em `/workspace/generated_images/exec-4a38d99a-6857-4db3-93a5-50fbeede0728.png`, fora do repositório; não representa armazenamento compartilhado permanente.
 

@@ -29,9 +29,9 @@ Apego, raiva, ocultação e isolamento sintetizam o aprisionamento anterior das 
 
 ## Prancha v01
 
-![Storyboard MM-14 — Resumo dos pecados](prancha-v01.jpg)
+![Storyboard MM-14 — Resumo dos pecados](<STB MM14.jpg>)
 
-[Ver prancha](prancha-v01.jpg) · [Prompt enviado](prompt-prancha-v01.txt) · [Briefings dos quadros](../briefings-dos-quadros.md#mm-14--resumo-dos-pecados)
+[Ver prancha](<STB MM14.jpg>) · [Prompt enviado](prompt-prancha-v01.txt) · [Briefings dos quadros](../briefings-dos-quadros.md#mm-14--resumo-dos-pecados)
 
 Prancha de estudo gerada por IA: **1536×1024**, JPEG leve (392,575 bytes). PNG original em `/workspace/generated_images/exec-6ca88fdd-fed6-4eff-9a40-b8370df4d387.png`, fora do repositório; não é armazenamento compartilhado permanente. Não foram produzidas bases individuais 4K ou vídeo.
 

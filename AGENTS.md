@@ -23,3 +23,7 @@ Por orientação explícita do usuário nesta conversa, as alterações deste re
 ## Formato dos storyboards
 
 Storyboards ligados à música devem seguir o padrão completo das pranchas do Dudu, com momentos musicais/impactos relacionados aos quadros. Nas demais peças, use estrutura proporcional à função. Todos devem conter paleta com amostras e nomes, luz/atmosfera, elementos visuais, movimento/efeitos e continuidade. Antes de produzir a prancha, consulte a seção “Padrão das pranchas · música e direção visual comum” do [guia canônico](storyboards/guia-de-construcao.md). Sem master, identificar estudo e tempos a definir; não inventar forma de onda ou sincronização.
+
+## Nomes de imagens — D-28
+
+Ao salvar ou revisar arquivos, siga o [padrão canônico](guias/entrega-e-arquivos.md#padrão-de-nomes): prancha completa `STB MM09.jpg`; quadro individual `MM09-Q01.png`. Preserve a extensão real, os dois dígitos e as letras de módulos (`MM16D`). Versões artísticas e aprovações ficam nas fichas; as variações de luz da MM-03 seguem o sufixo documentado no guia. Confira o [inventário](storyboards/inventario-de-arquivos.md) antes de criar nomes ou duplicatas.

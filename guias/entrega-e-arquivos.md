@@ -38,22 +38,34 @@ HESED_Telão/
 
 ## Padrão de nomes
 
-```
-Vídeo:       HESED_C[NN]_MM-[NN]_[descricao]_v[NN].mp4
-Imagem-base: HESED_C[NN]_[descricao]_3840x2160_v[NN].png
-```
+### Storyboards e quadros individuais — D-28
 
-Exemplos:
+Padrão determinado pelo usuário em 16/10/2026, válido para toda a equipe e todos os assistentes:
+
+| Conteúdo do arquivo | Nome (manter a extensão real) |
+| --- | --- |
+| Prancha completa de storyboard | `STB MM09.jpg` |
+| Imagem individual do quadro 1 | `MM09-Q01.png` |
+| Imagem individual do quadro 10 | `MM09-Q10.JPG` |
+| Prancha de módulo com letra | `STB MM16D.png` |
+
+Use dois dígitos no número da MM e do quadro. O identificador da pasta continua `MM-09`; no nome do arquivo, use `MM09`. O espaço em `STB MM09` faz parte do padrão. Preserve o formato real: renomear não converte JPG em PNG. Versão artística e situação de aprovação ficam na ficha e no histórico Git; renomear não aprova nem modifica a arte. Para guardar revisões simultâneas, use subpastas de versão, evitando sobrescrever a aprovada.
+
+As três variações de iluminação da casa são pranchas completas: `STB MM03-01.jpg` (noite, todas as luzes acesas), `STB MM03-02.jpg` (noite, só luz central) e `STB MM03-03.jpg` (noite, só luar). A composição oficial diurna é `STB MM03.jpg`, versão artística V03. Esses sufixos identificam variações de luz, não quadros individuais.
+
+O [inventário dos arquivos](../storyboards/inventario-de-arquivos.md) registra a conferência e os nomes anteriores. Prompts e documentos-fonte conservam seus nomes e conteúdo histórico.
+
+### Vídeos
+
+Mantém-se a convenção de entrega de vídeo:
 
 ```
 HESED_C03_MM-06_retorno-temporal_v01.mp4
-HESED_C03_MM-06_loop-bebe_v01.mp4
 HESED_C05_MM-11_luz-do-mundo_v03.mp4
 HESED_C09_MM-16C_nascimento-vida_v02.mp4
-HESED_C03_criacao-base_3840x2160_v01.png
 ```
 
-Regras: cena sempre com dois dígitos, descrição em minúsculas com hífen, sem acentos e sem espaços. Nunca sobrescreva uma versão; crie a próxima.
+Para vídeos: cena com dois dígitos, descrição em minúsculas com hífen, sem acentos e sem espaços. Nunca sobrescreva uma versão aprovada; crie a próxima. Para imagens de storyboard e quadros, prevalece a regra D-28 acima sobre recomendações anteriores de nomes no briefing.
 
 ## Especificação técnica
 
