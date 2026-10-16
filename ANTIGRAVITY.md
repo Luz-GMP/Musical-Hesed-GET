@@ -53,10 +53,10 @@ Consulta obrigatória: [Bíblia canônica v0.1](docs/fontes/HESED_Biblia_de_Prod
 
 **MM-01 · D-21:** única referência oficial [V05](<storyboards/MM-01/STB MM01.jpg>), escolhida pelo usuário e preservada sem alteração. Outras versões e seus prompts excluídos da pasta. Não usar v06/v07/v08 nem reaplicar D-17–D-20 sem novo pedido. Consultar [contrato vigente](storyboards/briefings-dos-quadros.md#mm-01--exteriorentrada-da-prisão). Escolha artística confirmada; teste LED e confirmação de padronagem oficial não realizados.
 
-**MM-05 · D-24:** única referência oficial [V03](<storyboards/MM-05/STB MM05.jpg>), aprovada pelo usuário e preservada sem alteração. Outras versões/prompts excluídos. Seguir [contrato vigente](storyboards/briefings-dos-quadros.md#mm-05--queda--silhuetas-de-luz): seis quadros, entrega/mordida, percepção e desespero final, corpo desfocado. Aprovação artística confirmada; animação/teste LED pendentes.
+**MM-05 · D-24:** única referência oficial [V03](<storyboards/MM-05/STB MM05-v03.jpg>), aprovada pelo usuário e preservada sem alteração. Outras versões/prompts excluídos. Seguir [contrato vigente](storyboards/briefings-dos-quadros.md#mm-05--queda--silhuetas-de-luz): seis quadros, entrega/mordida, percepção e desespero final, corpo desfocado. Aprovação artística confirmada; animação/teste LED pendentes.
 
-**MM-09 · D-27:** versões anteriores excluídas/desconsideradas; reinício do zero, sem reutilizar imagens. Mostrar anúncio, espera e crença/dúvida em composições distintas, evitando repetição de sermões/grupos. Seguir [novo contrato](storyboards/briefings-dos-quadros.md#mm-09--profetas); arte ainda para revisão.
+## Nomes das imagens · consulta obrigatória
 
-## Nomes de imagens — D-28
+Antes de salvar imagens, aplicar o [padrão canônico de nomes](guias/entrega-e-arquivos.md#imagens-de-storyboard--padrão-canônico): `STB MM09` para a prancha completa e `MM09-Q01` para cada quadro individual, com extensão real e numeração de dois dígitos; preservar letras de módulos (ex.: `MM16D-Q01.png`). Pastas e IDs textuais mantêm `MM-09` / `MM-09-Q01`. Registrar a versão no caderno, preservar referências aprovadas e atualizar links ao renomear. Não usar nomes automáticos da ferramenta ou convenções antigas por iniciativa do agente.
 
-Ao salvar ou revisar arquivos, siga o [padrão canônico](guias/entrega-e-arquivos.md#padrão-de-nomes): prancha completa `STB MM09.jpg`; quadro individual `MM09-Q01.png`. Preserve a extensão real, os dois dígitos e as letras de módulos (`MM16D`). Versões artísticas e aprovações ficam nas fichas; as variações de luz da MM-03 seguem o sufixo documentado no guia. Confira o [inventário](storyboards/inventario-de-arquivos.md) antes de criar nomes ou duplicatas.
+A D-28 e o [inventário](storyboards/inventario-de-arquivos.md) registram a adequação do acervo. As variações de luz da MM-03 usam os sufixos documentados no guia; mantenha a versão artística e a aprovação nas fichas.

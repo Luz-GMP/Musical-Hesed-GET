@@ -14,6 +14,10 @@ Base inicial: quatro pranchas anexadas pelo usuário nesta conversa — MM-07 (1
 
 Os **46 quadros** abaixo preservam os títulos e a ordem de referência. As descrições detalhadas de enquadramento, luz, continuidade e animação são propostas para tornar essas referências executáveis. Não substituem o [briefing](../docs/briefing.md), o [roteiro](../docs/roteiro.md) nem as [decisões aprovadas](../docs/decisoes.md). Não foram recebidos aqui os arquivos individuais dessas imagens, o master musical ou os projetos de edição; as pranchas podem orientar composição, mas não fornecem bases finais em resolução de produção.
 
+## Nome do arquivo e registro da imagem
+
+Aplicar o [padrão canônico de nomes](../guias/entrega-e-arquivos.md#imagens-de-storyboard--padrão-canônico): prancha `STB MM09.jpg`; quadro individual `MM09-Q01.png`; módulos preservam a letra, como `MM16D-Q01.png`. A extensão deve corresponder ao formato real. O ID no caderno continua `MM-09-Q01`, mesmo que o nome do arquivo seja `MM09-Q01.png`. Registrar nome/localização, versão artística, dimensões, referências e feedback; nomear não é aprovar nem autorizar substituir conteúdo. Nomes antigos em registros históricos identificam os arquivos usados à época e não devem ser copiados para novas entregas. Ao renomear arquivos existentes, atualizar seus links e registrar a correspondência sem alterar o histórico da geração.
+
 ## Como usar cada ficha para gerar uma imagem
 
 1. Leia o contrato visual e os pontos de conferência da peça; depois leia o quadro e seus vizinhos.

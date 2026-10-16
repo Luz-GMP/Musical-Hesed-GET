@@ -24,6 +24,8 @@ Por orientação explícita do usuário nesta conversa, as alterações deste re
 
 Storyboards ligados à música devem seguir o padrão completo das pranchas do Dudu, com momentos musicais/impactos relacionados aos quadros. Nas demais peças, use estrutura proporcional à função. Todos devem conter paleta com amostras e nomes, luz/atmosfera, elementos visuais, movimento/efeitos e continuidade. Antes de produzir a prancha, consulte a seção “Padrão das pranchas · música e direção visual comum” do [guia canônico](storyboards/guia-de-construcao.md). Sem master, identificar estudo e tempos a definir; não inventar forma de onda ou sincronização.
 
-## Nomes de imagens — D-28
+## Nomes das imagens · consulta obrigatória
 
-Ao salvar ou revisar arquivos, siga o [padrão canônico](guias/entrega-e-arquivos.md#padrão-de-nomes): prancha completa `STB MM09.jpg`; quadro individual `MM09-Q01.png`. Preserve a extensão real, os dois dígitos e as letras de módulos (`MM16D`). Versões artísticas e aprovações ficam nas fichas; as variações de luz da MM-03 seguem o sufixo documentado no guia. Confira o [inventário](storyboards/inventario-de-arquivos.md) antes de criar nomes ou duplicatas.
+Antes de salvar imagens, aplicar o [padrão canônico de nomes](guias/entrega-e-arquivos.md#imagens-de-storyboard--padrão-canônico): `STB MM09` para a prancha completa e `MM09-Q01` para cada quadro individual, com extensão real e numeração de dois dígitos; preservar letras de módulos (ex.: `MM16D-Q01.png`). Pastas e IDs textuais mantêm `MM-09` / `MM-09-Q01`. Registrar a versão no caderno, preservar referências aprovadas e atualizar links ao renomear. Não usar nomes automáticos da ferramenta ou convenções antigas por iniciativa do agente.
+
+A D-28 e o [inventário](storyboards/inventario-de-arquivos.md) registram a adequação do acervo. As variações de luz da MM-03 usam os sufixos documentados no guia; mantenha a versão artística e a aprovação nas fichas.

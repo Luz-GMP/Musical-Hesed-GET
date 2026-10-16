@@ -26,6 +26,7 @@ Aqui fica tudo que a equipe precisa para trabalhar alinhada: o contexto do espet
 | Criar ou editar imagens do HESED | Consulta obrigatória ao [guia canônico](storyboards/guia-de-construcao.md) e ao [briefing do quadro](storyboards/briefings-dos-quadros.md) antes da geração |
 | Saber como fazer um playback que "dance" com a música | [guias/playback-visual.md](guias/playback-visual.md) |
 | Saber como nomear, exportar e entregar arquivos | [guias/entrega-e-arquivos.md](guias/entrega-e-arquivos.md) |
+| Nomear imagens de storyboard | [Padrão canônico](guias/entrega-e-arquivos.md#imagens-de-storyboard--padrão-canônico): `STB MM09` para prancha; `MM09-Q01` para quadro, com extensão real |
 | Conferir se uma peça está pronta | [guias/checklist-de-aceite.md](guias/checklist-de-aceite.md) |
 | Nunca usou GitHub | [guias/como-usar-este-repo.md](guias/como-usar-este-repo.md) |
 | Usar IA (Claude, Codex, AntiGravity, ChatGPT etc.) para ajudar no seu trabalho | [AGENTS.md](AGENTS.md) · [CLAUDE.md](CLAUDE.md) · [CODEX.md](CODEX.md) · [ANTIGRAVITY.md](ANTIGRAVITY.md) |

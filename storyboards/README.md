@@ -20,8 +20,8 @@ Prancha completa: **`STB MM09.jpg`**. Quadro individual: **`MM09-Q01.png`**, com
 ## Como preencher pelo site
 
 1. Abra a pasta da sua peça (ex.: `storyboards/MM-06`).
-2. **Subir os esboços:** clique em **Add file → Upload files**, arraste as imagens e clique em **Commit changes**. Nomeie assim: `MM06-Q01.jpg`, `MM06-Q02.jpg`, `MM06-Q03.jpg`... (um arquivo por quadro).
-3. **Preencher a ficha:** clique no `README.md` da pasta, depois no lápis (✏️). Na coluna "Esboço", escreva `![](MM06-Q01.jpg)` para mostrar a imagem do quadro 1, e assim por diante. Precisa de mais quadros? Copie uma linha da tabela.
+2. **Subir os esboços:** clique em **Add file → Upload files**, arraste as imagens e clique em **Commit changes**. Na MM-06, use `MM06-Q01.jpg`, `MM06-Q02.jpg` etc. para quadros individuais; a prancha completa usa `STB MM06.jpg`. Preserve a extensão real. Consulte o [padrão canônico de nomes](../guias/entrega-e-arquivos.md#imagens-de-storyboard--padrão-canônico).
+3. **Preencher a ficha:** clique no `README.md` da pasta, depois no lápis (✏️). Na coluna "Esboço", escreva `![](MM06-Q01.jpg)` para mostrar o quadro 1, se esse arquivo existir. Para a prancha, use `![](<STB MM06.jpg>)`. Precisa de mais quadros? Copie uma linha da tabela.
 4. Clique em **Commit changes** e mude sua etapa no [STATUS.md](../STATUS.md) para 🎨.
 
 Mudou um quadro em revisão? O histórico Git guarda a anterior. Preserve a imagem aprovada; se precisar manter revisões simultâneas, use subpastas de versão com os mesmos nomes padronizados.
