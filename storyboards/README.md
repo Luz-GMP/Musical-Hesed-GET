@@ -16,8 +16,8 @@ As referências visuais orientam a construção. Tempos, sincronização e ponto
 ## Como preencher pelo site
 
 1. Abra a pasta da sua peça (ex.: `storyboards/MM-06`).
-2. **Subir os esboços:** clique em **Add file → Upload files**, arraste as imagens e clique em **Commit changes**. Nomeie assim: `q01.jpg`, `q02.jpg`, `q03.jpg`... (um arquivo por quadro).
-3. **Preencher a ficha:** clique no `README.md` da pasta, depois no lápis (✏️). Na coluna "Esboço", escreva `![](q01.jpg)` para mostrar a imagem do quadro 1, e assim por diante. Precisa de mais quadros? Copie uma linha da tabela.
+2. **Subir os esboços:** clique em **Add file → Upload files**, arraste as imagens e clique em **Commit changes**. Na MM-06, use `MM06-Q01.jpg`, `MM06-Q02.jpg` etc. para quadros individuais; a prancha completa usa `STB MM06.jpg`. Preserve a extensão real. Consulte o [padrão canônico de nomes](../guias/entrega-e-arquivos.md#imagens-de-storyboard--padrão-canônico).
+3. **Preencher a ficha:** clique no `README.md` da pasta, depois no lápis (✏️). Na coluna "Esboço", escreva `![](MM06-Q01.jpg)` para mostrar o quadro 1, se esse arquivo existir. Para a prancha, use `![](<STB MM06.jpg>)`. Precisa de mais quadros? Copie uma linha da tabela.
 4. Clique em **Commit changes** e mude sua etapa no [STATUS.md](../STATUS.md) para 🎨.
 
 Mudou um quadro? Suba a imagem nova com o mesmo nome; o histórico guarda a anterior.

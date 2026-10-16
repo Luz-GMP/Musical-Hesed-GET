@@ -38,6 +38,31 @@ HESED_Telão/
 
 ## Padrão de nomes
 
+### Imagens de storyboard · padrão canônico
+
+Por orientação do usuário na tarefa **Storyboards Hesed-GET**, usar os nomes abaixo para salvar pranchas e imagens individuais. Esta regra substitui as sugestões anteriores de `prancha-vNN`, `q01` ou prefixos longos `HESED_C...` para essas imagens.
+
+| Tipo | Nome sem extensão | Exemplo de arquivo |
+| --- | --- | --- |
+| Prancha completa do storyboard | `STB MMNN` | `STB MM09.jpg` |
+| Imagem individual do quadro | `MMNN-QNN` | `MM09-Q01.png` |
+| Prancha de módulo do filme final | Preservar a letra do MM | `STB MM16D.jpg` |
+| Quadro de módulo do filme final | Preservar a letra e numerar o quadro | `MM16D-Q01.png` |
+
+- Usar `STB` e `MM` em maiúsculas. Na prancha, há **um espaço** entre `STB` e `MM09`; no nome do arquivo, não há hífen entre `MM` e `09`.
+- Usar dois dígitos para o MM e para o quadro: `Q01`, `Q02` … `Q10`. Evitar `Q1`, `quadro-1`, nomes automáticos da ferramenta e descrições acrescentadas ao nome canônico.
+- Preservar a extensão correspondente ao formato real (`.jpg`, `.png` etc.). Trocar a extensão não converte uma imagem; não fazer conversões apenas para padronizar nomes.
+- Salvar na pasta da peça: `storyboards/MM-09/STB MM09.jpg` e `storyboards/MM-09/MM09-Q01.png`. A pasta e os IDs textuais continuam com hífen: `MM-09` e `MM-09-Q01`. A diferença entre ID e nome de arquivo é intencional.
+- A regra vale para arquivos de imagem de prancha e quadros, inclusive bases individuais e suas cópias leves quando existirem. Miniatura e original de um mesmo quadro ficam em locais distintos, identificados no registro; não criar dois arquivos concorrentes como oficiais.
+- Versão, aprovação, dimensões e feedback ficam na ficha da peça e no caderno. O nome canônico sozinho não indica versão nem aprovação. Não adicionar `-v03` ou outro sufixo por iniciativa do agente; usar nome diferente apenas quando solicitado explicitamente.
+- Renomear não autoriza regenerar, alterar conteúdo, excluir uma referência ou sobrescrever uma imagem aprovada. Preservar o histórico no Git e registrar a correspondência entre nome antigo, novo e versão artística. Para substituição de conteúdo, seguir a autorização e as decisões da peça; se for necessário guardar variantes simultâneas, registrar destinos separados sem disputar o mesmo caminho canônico.
+- Ao salvar ou renomear, atualizar os links em Markdown, fichas, registros e instruções dos agentes. Manter a identidade/versão artística: por exemplo, uma referência V03 continua sendo V03 após receber o nome canônico da peça.
+- Antes de publicar, conferir nomes, extensão real, links e ausência de colisões. O padrão organiza os arquivos; não altera a política de mídia pesada no Drive.
+
+### Vídeos e demais entregas
+
+Os formatos abaixo continuam como referência para vídeos e imagens de outras entregas que não sejam pranchas ou quadros de storyboard:
+
 ```
 Vídeo:       HESED_C[NN]_MM-[NN]_[descricao]_v[NN].mp4
 Imagem-base: HESED_C[NN]_[descricao]_3840x2160_v[NN].png
@@ -53,7 +78,7 @@ HESED_C09_MM-16C_nascimento-vida_v02.mp4
 HESED_C03_criacao-base_3840x2160_v01.png
 ```
 
-Regras: cena sempre com dois dígitos, descrição em minúsculas com hífen, sem acentos e sem espaços. Nunca sobrescreva uma versão; crie a próxima.
+Para esses formatos de entrega: cena sempre com dois dígitos, descrição em minúsculas com hífen, sem acentos e sem espaços. Nunca sobrescreva uma versão aprovada; registre a próxima. A regra sem espaços não se aplica ao nome canônico das pranchas `STB MMNN`.
 
 ## Especificação técnica
 

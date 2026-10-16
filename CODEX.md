@@ -56,3 +56,7 @@ Consulta obrigatória: [Bíblia canônica v0.1](docs/fontes/HESED_Biblia_de_Prod
 **MM-01 · D-21:** única referência oficial [V05](storyboards/MM-01/prancha-v05.jpg), escolhida pelo usuário e preservada sem alteração. Outras versões e seus prompts excluídos da pasta. Não usar v06/v07/v08 nem reaplicar D-17–D-20 sem novo pedido. Consultar [contrato vigente](storyboards/briefings-dos-quadros.md#mm-01--exteriorentrada-da-prisão). Escolha artística confirmada; teste LED e confirmação de padronagem oficial não realizados.
 
 **MM-05 · D-24:** única referência oficial [V03](<storyboards/MM-05/STB MM05-v03.jpg>), aprovada pelo usuário e preservada sem alteração. Outras versões/prompts excluídos. Seguir [contrato vigente](storyboards/briefings-dos-quadros.md#mm-05--queda--silhuetas-de-luz): seis quadros, entrega/mordida, percepção e desespero final, corpo desfocado. Aprovação artística confirmada; animação/teste LED pendentes.
+
+## Nomes das imagens · consulta obrigatória
+
+Antes de salvar imagens, aplicar o [padrão canônico de nomes](guias/entrega-e-arquivos.md#imagens-de-storyboard--padrão-canônico): `STB MM09` para a prancha completa e `MM09-Q01` para cada quadro individual, com extensão real e numeração de dois dígitos; preservar letras de módulos (ex.: `MM16D-Q01.png`). Pastas e IDs textuais mantêm `MM-09` / `MM-09-Q01`. Registrar a versão no caderno, preservar referências aprovadas e atualizar links ao renomear. Não usar nomes automáticos da ferramenta ou convenções antigas por iniciativa do agente.
