@@ -2,8 +2,8 @@
 
 **Projeto:** HESED · Musical de Natal 2026  
 **Responsável:** Victor · **Cena:** 1, Pós-libertação · **Bloco:** I  
-**Versão documental:** v03 · **Registro e refinamento B01:** 19/10/2026 · Codex, a pedido de Victor<br>
-**Situação:** base narrativa recebida e registrada como canônica por determinação de Victor (D-29); estrutura de produção para sua revisão. B01 com direção específica definida em D-30; fases de execução propostas para revisão. Storyboard e vídeo ainda não produzidos/aprovados.
+**Versão documental:** v04 · **Registro e refinamento B01–B06:** 19/10/2026 · Codex, a pedido de Victor<br>
+**Situação:** base narrativa recebida e registrada como canônica por determinação de Victor (D-29); estrutura de produção para sua revisão. B01 com direção específica definida em D-30; fases de execução propostas para revisão. B02–B06 com takes nomeados pelos pares e congelamento final em cada corte (D-32). Storyboard e vídeo ainda não produzidos/aprovados.
 
 ## 1. Objetivo e escopo desta etapa
 
@@ -17,6 +17,7 @@ Esta entrega registra o texto enviado como fonte, cruza-o com a documentação d
 | --- | --- |
 | Texto “Roteiro de vídeo”, enviado por Victor nesta conversa em 19/10/2026, com autoria original não identificada | Base específica canônica da MM-02: falas do narrador, cinco cortes, ordem, pausas e áudio solicitado. Preservada integralmente na seção 10. |
 | Refinamento de Victor em 19/10/2026 · D-30 | Direção do B01: referência Marvel (link vigente no YouTube, D-31), “Cia Luz”, capturas de Goel e produção do vídeo por código; Remotion como possibilidade. |
+| Refinamento de Victor em 19/10/2026 · D-32 | Takes dos cinco cortes nomeados pelos pares de pecados e congelamento ao final de cada corte, com referência própria no YouTube (§4.2). |
 | [Roteiro do HESED · Cena 1](../../docs/roteiro.md#cena-1-pós-libertação) | Identificação do recap, congelamento, ações essenciais e retomada imediata. |
 | [Briefing Definitivo v1.0 · §§2–7](../../docs/briefing.md) | Victor responsável por MM-01/02/03; linguagem comum; detalhamento do Bloco I reservado ao responsável. |
 | [Bíblia de Produção v0.1 · §§1.3–1.4, 2.2, 3, 5, 7.1, 8, 9 e 16](../../docs/fontes/HESED_Biblia_de_Producao_v0_1.md) | Continuação de Goel, personalidades, separação palco/telão, luz, congelamento e retorno. BIB-Q003/BIB-Q004 são cues preliminares, não quadros. |
@@ -45,11 +46,11 @@ Os códigos B01–B14 são referências deste briefing, não IDs de quadros. Tim
 | Bloco | Conteúdo / gatilho de voz | Imagem e ação de montagem | Som e observações |
 | --- | --- | --- | --- |
 | B01 · Abertura Cia Luz | “Pra você que não tá entendendo…” até “do nada.” | Abertura inspirada na referência Marvel enviada por Victor, com quadros de Goel e assinatura “Cia Luz”. Direção D-30; detalhamento na seção 4.1. | Locução completa sobre a abertura; duração a medir. Capturas a escolher por Victor; trilha ainda não definida. |
-| B02 · Corte 1 | Mentira e roubo | Mentira relativiza a verdade; Ladra diz a frase do malandro e do otário e pergunta se já sabem quem ela é. | Áudio dos personagens, sem narração. Selecionar as falas reais, sem inventar transcrição. |
-| B03 · Corte 2 | Adultério e idolatria | Declaração de que Deus quer todos felizes; Idolatria fala de Cauã Reymond. | Áudio dos personagens, sem narração. |
-| B04 · Corte 3 | Ódio e desobediência | Ódio apresenta seus motivos; Desobediência chama fazer o que quer de liberdade. | Áudio dos personagens, sem narração. |
-| B05 · Corte 4 | Cobiça e autossuficiência | Comparação com a vida alheia; afirmação de ter conquistado tudo sozinha. | Áudio dos personagens, sem narração. |
-| B06 · Corte 5 | Profanação e religiosidade | Uso do nome de Deus; superioridade por estar na igreja. | Áudio dos personagens, sem narração. |
+| B02 · Corte 1 | Mentira e roubo | Mentira relativiza a verdade; Ladra diz a frase do malandro e do otário e pergunta se já sabem quem ela é. Congelamento ao final do corte (§4.2, D-32). | Áudio dos personagens, sem narração. Selecionar as falas reais, sem inventar transcrição. |
+| B03 · Corte 2 | Adultério e idolatria | Declaração de que Deus quer todos felizes; Idolatria fala de Cauã Reymond. Congelamento ao final do corte (§4.2, D-32). | Áudio dos personagens, sem narração. |
+| B04 · Corte 3 | Ódio e desobediência | Ódio apresenta seus motivos; Desobediência chama fazer o que quer de liberdade. Congelamento ao final do corte (§4.2, D-32). | Áudio dos personagens, sem narração. |
+| B05 · Corte 4 | Cobiça e autossuficiência | Comparação com a vida alheia; afirmação de ter conquistado tudo sozinha. Congelamento ao final do corte (§4.2, D-32). | Áudio dos personagens, sem narração. |
+| B06 · Corte 5 | Profanação e religiosidade | Uso do nome de Deus; superioridade por estar na igreja. Congelamento ao final do corte (§4.2, D-32). | Áudio dos personagens, sem narração. |
 | B07 · Justificativas e prisão | “Como vocês podem ver…” até “Elas mesmas fizeram o serviço.” | Retomar reações/ações de arquivo e conduzir à condição de aprisionamento. A progressão precisa comunicar escolhas → enrosco → correntes. | Narração integral; ritmo cresce na repetição “se enrolando”. Solução exata de montagem ainda proposta. |
 | B08 · Julgamento e Juliette | “E aí chegou o grande dia…” até “provas materiais.” | Acusações e corte explícito para a Ladra lançando os óculos no juiz. | Preservar a compreensão da gag; selecionar áudio útil do take. |
 | B09 · Pausa e veredito | “Depois disso você imagina né…” | Pausar a cena da Juliette para a fala do narrador; ir direto ao juiz declarando todas culpadas. | Não prolongar a pausa além do necessário para a fala; duração não definida. |
@@ -132,10 +133,32 @@ Priorizar capturas nítidas na resolução do vídeo, sem controles do player, c
 
 Não foi criado projeto JavaScript, instalada biblioteca, acionado plugin, gerado storyboard ou renderizado vídeo neste refinamento. Próximos passos do B01: conferir a referência visual quando acessível; receber as capturas e a locução; definir assinatura/tipografia e aprovar o estudo das fases.
 
+## 4.2. B02–B06 · Cinco takes e congelamento final · D-32
+
+**Definição de Victor:** os cinco takes serão entregues já renomeados pelo par de pecados correspondente. Cada corte termina em um congelamento de imagem, com efeito similar ao da [referência de congelamento no YouTube](https://www.youtube.com/watch?v=Al4fhLu1nVA).
+
+Esta referência se aplica ao **final dos cortes 1–5**. Ela complementa a referência de abertura Cia Luz do B01 (D-31), sem substituí-la. Em 19/10/2026, a tentativa de abrir este novo vídeo pela ferramenta web falhou. O efeito de congelamento está definido pela descrição de Victor; duração, acabamento, transição, tratamento de cor, zoom, texto e efeitos sonoros do vídeo ainda não foram verificados nem adotados como requisitos.
+
+| Bloco | Take a receber, identificado pelo nome do par | Encerramento / entrega |
+| --- | --- | --- |
+| B02 · Corte 1 | Mentira e roubo | Congelamento ao final; segue para Adultério e idolatria. |
+| B03 · Corte 2 | Adultério e idolatria | Congelamento ao final; segue para Ódio e desobediência. |
+| B04 · Corte 3 | Ódio e desobediência | Congelamento ao final; segue para Cobiça e autossuficiência. |
+| B05 · Corte 4 | Cobiça e autossuficiência | Congelamento ao final; segue para Profanação e religiosidade. |
+| B06 · Corte 5 | Profanação e religiosidade | Congelamento ao final; segue para B07 e a retomada da narração “Como vocês podem ver…”. |
+
+**Regra editorial:** reproduzir o take e suas falas, concluir a ação/fala e então congelar uma imagem de encerramento. O frame exato será escolhido ao assistir aos arquivos; não assumir que o último frame físico do arquivo é o melhor, pois pode conter sobra, preto ou corte de câmera. Cada congelamento encerra o par, sem impor uma pausa adicional após cada personagem. Preservar a diretriz de nenhuma narração em B02–B06, inclusive durante os congelamentos. O momento exato da entrada da narração de B07 será definido na montagem, após o encerramento do quinto corte.
+
+**Planejamento por código:** cadastrar, por take, caminho real do arquivo, intervalo útil, frame de congelamento, duração da sustentação e transição de saída. Os valores serão preenchidos após receber os materiais e conferir a referência. Na parte congelada, manter o mesmo frame de origem; eventuais movimentos gráficos sobre ele dependem do efeito que for confirmado. Não repetir automaticamente sílabas, alongar/repetir o áudio do frame nem criar silêncio obrigatório: o tratamento do áudio na sustentação será definido na edição, mantendo as falas completas.
+
+**Nomes:** a identificação confirmada é pelo nome do par. A grafia técnica, os prefixos e a extensão serão registrados conforme os arquivos reais enviados por Victor, sem exigir os nomes sugeridos anteriormente. Estes nomes de takes não são nomes de quadros de storyboard.
+
+**Conferir antes do alpha:** cinco takes associados aos pares corretos; cinco congelamentos presentes; falas completas e inteligíveis; pausas com ritmo coerente; sem narração em B02–B06; passagem do quinto congelamento para B07; efeito visual comparado com a referência quando disponível. Não foram recebidos/renomeados arquivos, escolhidos frames, implementados efeitos ou renderizados previews nesta etapa.
+
 ## 5. Voz, humor, diálogos e som
 
 - **Narrador:** voz tranquila, coloquial e debochada, com pausas de observação e comentário. “Todo Mundo Odeia o Chris” é referência de ritmo e atitude citada na fonte; não define locutor contratado ou voz gravada.
-- **B02–B06:** nenhuma narração. O sentido vem das falas originais. Zooms, pausas constrangedoras e efeitos pontuais são diretrizes recebidas; escolher sua aplicação depois de ouvir os takes, preservando as palavras e a personalidade de cada personagem.
+- **B02–B06:** nenhuma narração, inclusive durante os congelamentos finais (D-32). O sentido vem das falas originais. Zooms, pausas constrangedoras e efeitos pontuais são diretrizes recebidas; escolher sua aplicação depois de ouvir os takes, preservando as palavras e a personalidade de cada personagem.
 - **B09:** congelamento interno do vídeo para o comentário do narrador. Não confundir com o congelamento do elenco ao vivo.
 - **B10:** usar o áudio original solicitado; registrar origem, trecho e arquivo quando recebido, observando a orientação de uso de mídia da Bíblia §5.2.
 - **B11:** a fonte pede “Está consumado” como imitação da voz de Deus. O conteúdo e a rubrica ficam preservados; timbre, solenidade e efeito precisam de revisão na leitura da locução, à luz da reverência da Bíblia §1.3.
@@ -155,21 +178,21 @@ Não foi criado projeto JavaScript, instalada biblioteca, acionado plugin, gerad
 
 **Elementos visuais necessários:** as dez personagens nos cinco pares, correntes no passado, prisão, juiz, Juliette, Jesus, libertação, morte, ressurreição/aparição e reações. Usar somente o que os materiais comprovarem; faltas devem ser registradas antes de decidir complementos.
 
-**Movimento e efeitos:** zooms/reframes e pausas conforme a fonte; câmera/ação do próprio arquivo como base. A pausa da Juliette é obrigatória no planejamento. B01 segue a abertura Cia Luz detalhada na seção 4.1; substitui a proposta inicial de imagem-base/retrocesso discreto. Não definir velocidade, flashes, partículas ou retrocesso como efeitos já aprovados.
+**Movimento e efeitos:** zooms/reframes e pausas conforme a fonte; câmera/ação do próprio arquivo como base. Os cinco cortes terminam com congelamento conforme §4.2/D-32; a pausa da Juliette em B09 permanece um evento distinto e obrigatório no planejamento. B01 segue a abertura Cia Luz detalhada na seção 4.1; substitui a proposta inicial de imagem-base/retrocesso discreto. Não definir velocidade, flashes, partículas ou retrocesso como efeitos já aprovados.
 
 **Continuidade:** manter reconhecíveis as personagens entre os cinco cortes, julgamento e libertação; conferir figurino, Juliette e estado das correntes. Entrar/sair respeitando o ambiente oficial MM-01 V05, sem exigir que o cenário histórico de Goel tenha a mesma arquitetura. O último frame e a troca devem ser ensaiados para evitar tela preta acidental ou duplicação do elenco atual.
 
 ## 7. Materiais e identificação dos cinco cortes
 
-**Situação neste registro:** nenhum vídeo dos cortes, take adicional, áudio original ou locução foi recebido/inspecionado nesta etapa. Victor informou que renomeará e enviará os vídeos posteriormente. Os nomes abaixo são sugestões para organização do recebimento, não arquivos existentes nem renomeações executadas. Preservar a extensão real.
+**Situação neste registro:** nenhum vídeo dos cortes, take adicional, áudio original ou locução foi recebido/inspecionado nesta etapa. Victor informou que renomeará e enviará os vídeos posteriormente. D-32 confirma que os takes virão nomeados pelos pares abaixo. Prefixos, grafia técnica e extensão serão registrados conforme os arquivos reais, sem impor as sugestões antigas. Não há arquivos recebidos nem renomeações executadas nesta etapa. Preservar a extensão real.
 
-| Código de recebimento | Sugestão de nome sem extensão | Conferir ao receber |
+| Código de recebimento | Identificação confirmada pelo par (nome real a registrar) | Conferir ao receber |
 | --- | --- | --- |
-| Corte 1 | `MM02-C01-mentira-roubo` | As duas falas completas, pergunta final da Ladra e áudio legível. |
-| Corte 2 | `MM02-C02-adulterio-idolatria` | Justificativa da felicidade e fala sobre Cauã Reymond. |
-| Corte 3 | `MM02-C03-odio-desobediencia` | Motivos do Ódio e justificativa de liberdade. |
-| Corte 4 | `MM02-C04-cobica-autossuficiencia` | Comparação e declaração de conquista própria. |
-| Corte 5 | `MM02-C05-profanacao-religiosidade` | Uso do nome de Deus e superioridade religiosa. |
+| Corte 1 | Mentira e roubo | As duas falas completas, pergunta final da Ladra e áudio legível. |
+| Corte 2 | Adultério e idolatria | Justificativa da felicidade e fala sobre Cauã Reymond. |
+| Corte 3 | Ódio e desobediência | Motivos do Ódio e justificativa de liberdade. |
+| Corte 4 | Cobiça e autossuficiência | Comparação e declaração de conquista própria. |
+| Corte 5 | Profanação e religiosidade | Uso do nome de Deus e superioridade religiosa. |
 
 Além dos cinco cortes, conferir disponibilidade de: detentas presas/correntes; acusações; lançamento da Juliette; juiz declarando culpa; desespero; Jesus assumindo a dívida; “Está consumado” e correntes caindo; morte; ressurreição/aparição; reações finais. Podem vir no mesmo arquivo ou separados. Não presumir que os cinco vídeos cobrem todo o recap.
 
@@ -182,6 +205,7 @@ Ao receber, registrar nome real, versão, duração, resolução, proporção, f
 | Revisão deste briefing | Victor verifica estrutura e aderência ao texto antes da próxima etapa. |
 | Abertura B01 | Direção definida em D-30: referência Marvel, quadros de Goel e “Cia Luz”. Conferência do vídeo do YouTube (D-31), seleção de capturas, desenho da assinatura e fases continuam pendentes; ver seção 4.1. |
 | Takes dos cinco cortes e cobertura restante | A enviar por Victor; acesso ao acervo geral continua em P-03. |
+| Congelamento dos cortes 1–5 | Definido em D-32; conferir referência do efeito, escolher frame e duração de cada sustentação após receber os takes (§4.2). |
 | Locução | Definir quem grava, receber gravação e revisar interpretação, incluindo B11. Sem duração presumida. |
 | Áudio “Hoje sim…” | Receber/localizar arquivo original e definir recorte/uso. |
 | Ordem liberdade → morte e correspondência com Goel | Conferir no arquivo sem reordenar silenciosamente a fonte. |
