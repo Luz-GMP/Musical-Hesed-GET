@@ -2,7 +2,7 @@
 
 **Projeto:** HESED · Musical de Natal 2026  
 **Responsável:** Victor · **Cena:** 1, Pós-libertação · **Bloco:** I  
-**Versão documental:** v02 · **Registro e refinamento B01:** 19/10/2026 · Codex, a pedido de Victor<br>
+**Versão documental:** v03 · **Registro e refinamento B01:** 19/10/2026 · Codex, a pedido de Victor<br>
 **Situação:** base narrativa recebida e registrada como canônica por determinação de Victor (D-29); estrutura de produção para sua revisão. B01 com direção específica definida em D-30; fases de execução propostas para revisão. Storyboard e vídeo ainda não produzidos/aprovados.
 
 ## 1. Objetivo e escopo desta etapa
@@ -16,7 +16,7 @@ Esta entrega registra o texto enviado como fonte, cruza-o com a documentação d
 | Fonte | Aplicação nesta multimídia |
 | --- | --- |
 | Texto “Roteiro de vídeo”, enviado por Victor nesta conversa em 19/10/2026, com autoria original não identificada | Base específica canônica da MM-02: falas do narrador, cinco cortes, ordem, pausas e áudio solicitado. Preservada integralmente na seção 10. |
-| Refinamento de Victor em 19/10/2026 · D-30 | Direção do B01: referência Marvel/Pinterest, “Cia Luz”, capturas de Goel e produção do vídeo por código; Remotion como possibilidade. |
+| Refinamento de Victor em 19/10/2026 · D-30 | Direção do B01: referência Marvel (link vigente no YouTube, D-31), “Cia Luz”, capturas de Goel e produção do vídeo por código; Remotion como possibilidade. |
 | [Roteiro do HESED · Cena 1](../../docs/roteiro.md#cena-1-pós-libertação) | Identificação do recap, congelamento, ações essenciais e retomada imediata. |
 | [Briefing Definitivo v1.0 · §§2–7](../../docs/briefing.md) | Victor responsável por MM-01/02/03; linguagem comum; detalhamento do Bloco I reservado ao responsável. |
 | [Bíblia de Produção v0.1 · §§1.3–1.4, 2.2, 3, 5, 7.1, 8, 9 e 16](../../docs/fontes/HESED_Biblia_de_Producao_v0_1.md) | Continuação de Goel, personalidades, separação palco/telão, luz, congelamento e retorno. BIB-Q003/BIB-Q004 são cues preliminares, não quadros. |
@@ -63,16 +63,16 @@ Os códigos B01–B14 são referências deste briefing, não IDs de quadros. Tim
 
 **Cronologia editorial:** a fonte narra liberdade/correntes caindo antes da frase “E aí Jesus morreu”. Preservar essa ordem como base canônica; conferir os acontecimentos nos takes de Goel para que a montagem não pareça uma segunda morte ou uma segunda libertação. Qualquer mudança no texto/ordem deve voltar à revisão de Victor.
 
-## 4.1. B01 · Abertura Cia Luz — detalhamento v02
+## 4.1. B01 · Abertura Cia Luz — detalhamento v03
 
 ### Direção confirmada por Victor · D-30
 
-- A fala inicial completa do narrador acompanha uma abertura inspirada na abertura de filmes da Marvel, conforme a [referência enviada no Pinterest](https://br.pinterest.com/pin/728738783452739043/).
+- A fala inicial completa do narrador acompanha uma abertura inspirada na abertura de filmes da Marvel, conforme a [referência vigente no YouTube](https://www.youtube.com/watch?v=4Xr7PkHjD8A&list=PLr_UAhQSlwSXsb4bqnttfjZoVQxxGI8Li&index=115), que substitui o link do Pinterest por determinação de Victor (D-31).
 - O nome apresentado será **Cia Luz**, companhia de teatro, no lugar de “Marvel Studios”. Esta é a grafia fornecida; caixa tipográfica, fonte, proporção entre palavras e eventual uso do logotipo oficial ainda serão definidos.
 - As imagens que passam na composição serão **quadros do vídeo do espetáculo Goel**. A seleção inicial pode ser exploratória; Victor verificará e escolherá os melhores quadros posteriormente, podendo fazer as capturas e reuni-las numa pasta.
 - O vídeo será construído por programação, com JavaScript e renderização posterior. **Remotion é uma possibilidade mencionada por Victor**, ainda sem escolha/instalação de plugin ou dependência.
 
-**Consulta da referência:** em 19/10/2026, a tentativa de abrir o pin pela ferramenta web retornou página inacessível. Não foi possível assistir ao vídeo. Portanto, não há análise visual quadro a quadro desse pin, nem duração, cores, música, tipografia, movimento de câmera ou geometria verificados. As fases a seguir são propostas baseadas na descrição de Victor, a conferir com a referência quando acessível. Não importar como requisito uma versão específica da abertura Marvel por memória.
+**Referência vigente · D-31:** Victor substituiu o link do Pinterest pelo vídeo do YouTube acima. O Pinterest deixa de orientar esta abertura. A troca registra a escolha da referência; não constitui análise visual do novo vídeo. As fases a seguir continuam propostas baseadas na descrição de Victor, a conferir com o vídeo do YouTube. Duração, cores, música, tipografia, câmera e geometria ainda não foram verificadas.
 
 ### Locução integral e limites do take
 
@@ -180,7 +180,7 @@ Ao receber, registrar nome real, versão, duração, resolução, proporção, f
 | Ponto | Situação / quem participa |
 | --- | --- |
 | Revisão deste briefing | Victor verifica estrutura e aderência ao texto antes da próxima etapa. |
-| Abertura B01 | Direção definida em D-30: referência Marvel, quadros de Goel e “Cia Luz”. Conferência do pin, seleção de capturas, desenho da assinatura e fases continuam pendentes; ver seção 4.1. |
+| Abertura B01 | Direção definida em D-30: referência Marvel, quadros de Goel e “Cia Luz”. Conferência do vídeo do YouTube (D-31), seleção de capturas, desenho da assinatura e fases continuam pendentes; ver seção 4.1. |
 | Takes dos cinco cortes e cobertura restante | A enviar por Victor; acesso ao acervo geral continua em P-03. |
 | Locução | Definir quem grava, receber gravação e revisar interpretação, incluindo B11. Sem duração presumida. |
 | Áudio “Hoje sim…” | Receber/localizar arquivo original e definir recorte/uso. |
