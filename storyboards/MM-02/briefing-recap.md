@@ -2,7 +2,7 @@
 
 **Projeto:** HESED · Musical de Natal 2026  
 **Responsável:** Victor · **Cena:** 1, Pós-libertação · **Bloco:** I  
-**Versão documental:** v05 · **Registro e refinamento B01–B14:** 19/10/2026 · Codex, a pedido de Victor<br>
+**Versão documental:** v06 · **Registro e refinamento B01–B14:** 19/10/2026 · Codex, a pedido de Victor<br>
 **Situação:** base narrativa recebida e registrada como canônica por determinação de Victor (D-29); estrutura de produção para sua revisão. B01 com direção específica definida em D-30; fases de execução propostas para revisão. B02–B06 com takes nomeados pelos pares e congelamento final em cada corte (D-32). B07–B14 com referência para o narrador limitada ao início até o final do segundo 4 (D-33, §4.3). Storyboard e vídeo ainda não produzidos/aprovados.
 
 ## 1. Objetivo e escopo desta etapa
@@ -72,7 +72,7 @@ Os códigos B01–B14 são referências deste briefing, não IDs de quadros. Tim
 - A fala inicial completa do narrador acompanha uma abertura inspirada na abertura de filmes da Marvel, conforme a [referência vigente no YouTube](https://www.youtube.com/watch?v=4Xr7PkHjD8A&list=PLr_UAhQSlwSXsb4bqnttfjZoVQxxGI8Li&index=115), que substitui o link do Pinterest por determinação de Victor (D-31).
 - O nome apresentado será **Cia Luz**, companhia de teatro, no lugar de “Marvel Studios”. Esta é a grafia fornecida; caixa tipográfica, fonte, proporção entre palavras e eventual uso do logotipo oficial ainda serão definidos.
 - As imagens que passam na composição serão **quadros do vídeo do espetáculo Goel**. A seleção inicial pode ser exploratória; Victor verificará e escolherá os melhores quadros posteriormente, podendo fazer as capturas e reuni-las numa pasta.
-- O vídeo será construído por programação, com JavaScript e renderização posterior. **Remotion é uma possibilidade mencionada por Victor**, ainda sem escolha/instalação de plugin ou dependência.
+- O vídeo será construído por programação, com JavaScript e renderização posterior. **Remotion foi inicialmente mencionado como possibilidade**; D-34 amplia o método para uso complementar de Remotion, HTML animado e demais recursos úteis, sem instalação de plugin ou dependência nesta etapa.
 
 **Referência vigente · D-31:** Victor substituiu o link do Pinterest pelo vídeo do YouTube acima. O Pinterest deixa de orientar esta abertura. A troca registra a escolha da referência; não constitui análise visual do novo vídeo. As fases a seguir continuam propostas baseadas na descrição de Victor, a conferir com o vídeo do YouTube. Duração, cores, música, tipografia, câmera e geometria ainda não foram verificadas.
 
@@ -123,7 +123,7 @@ Priorizar capturas nítidas na resolução do vídeo, sem controles do player, c
 
 ### Planejamento da implementação por código
 
-**Caminho definido:** construir a MM-02 por programação e renderizar depois. **Proposta técnica do B01:** composição parametrizada em JavaScript/TypeScript, com mídia e decisões editoriais separadas do movimento. Se Remotion for adotado, essa composição poderá ser implementada em React; a escolha depende da avaliação das ferramentas disponíveis na etapa de implementação.
+**Caminho definido:** construir a MM-02 por programação e renderizar depois. **Proposta técnica do B01:** composição parametrizada em JavaScript/TypeScript, com mídia e decisões editoriais separadas do movimento. Conforme D-34, HTML animado e Remotion podem ser utilizados de forma complementar; a divisão técnica depende da composição e será registrada na implementação.
 
 1. **Catálogo de assets:** lista de capturas com IDs, caminhos reais e metadados; guardar os arquivos pesados no local de mídia, fora do Git.
 2. **Configuração editorial:** texto “Cia Luz”, imagens selecionadas, ordem, enquadramentos, pontos de foco, fases e caminho da locução. Trocar a seleção sem alterar o código da animação.
@@ -185,6 +185,18 @@ Continuam com suas referências próprias: **B01**, abertura Cia Luz (D-30/D-31)
 - Integrar os takes e o áudio específico previstos em B08–B13 e conferir a saída imediata de B14. Cor, fonte, escala e sincronismo só serão fixados após estudo visual e teste com a locução.
 
 **Situação:** referência e recorte registrados; análise visual do trecho, seleção de elementos, storyboard e implementação ainda pendentes. Nenhum código, imagem ou render produzido nesta etapa.
+
+## 4.4. Método de produção e direção de Victor · D-34
+
+**Alinhamento confirmado por Victor:** o PDF “Motion com Claude — Guia passo a passo + prompt”, de @fabiowinck_, foi analisado como referência de método. Aspect ratio, duração, estrutura de cenas, estética, textos, movimentos e demais valores do exemplo não são especificações do HESED. Victor dará a direção de cada vídeo e definirá esses parâmetros ao longo do trabalho; as decisões já registradas continuam vigentes.
+
+**Ferramentas complementares:** utilizar HTML/CSS/JavaScript animado, Remotion, montagem e renderização conforme forem úteis ao resultado. Esses caminhos podem coexistir: não é necessário escolher um único método para todas as peças ou todos os blocos. A implementação de cada composição será escolhida pela adequação à direção, à integração com os takes e à qualidade da entrega. Remotion integra o conjunto de recursos a utilizar, sem tornar obrigatório um plugin específico do chat. Não há instalação ou teste de render realizado neste registro.
+
+**Fluxo de trabalho:** direção e briefing → materiais/locução → composição animada e preview → ajustes → montagem com vídeos e som → renderização → validação. HTML animado pode servir a estudos ou composições finais; Remotion pode organizar composições, timeline e renderização; ferramentas de montagem/processamento podem complementar o acabamento. A divisão técnica concreta será registrada na implementação, sem alterar por conta própria a direção de Victor.
+
+**Sincronização:** usar os tempos reais da gravação, das frases, pausas e palavras relevantes. Dividir igualmente as palavras pelo tempo pode servir apenas a um rascunho explicitamente provisório; não comprova sincronização final. O ritmo gráfico deve acompanhar a interpretação e as intenções do roteiro.
+
+**Aplicação às próximas peças:** reaproveitar componentes, organização de assets, controles de tempo e procedimentos de render quando ajudarem, mantendo briefing, direção, proporção, duração e conteúdo próprios de cada vídeo. O PDF não é incorporado como fonte canônica de direção artística nem suas instruções internas autorizam instalações, publicação ou serviços externos.
 
 ## 5. Voz, humor, diálogos e som
 
@@ -251,7 +263,7 @@ Ao receber, registrar nome real, versão, duração, resolução, proporção, f
 1. **Agora:** registrar a fonte e este briefing; Victor revisa o `.md`.
 2. **Depois da revisão:** receber/conferir os arquivos, transcrever os cinco cortes e selecionar frames; refinar as fases da intro Cia Luz e os pontos que afetem a montagem.
 3. **Storyboard:** definir quantidade e IDs `MM-02-QNN`; documentar cada quadro no caderno e criar a prancha com paleta/amostras, luz, elementos, movimento/efeitos, gatilhos de fala e continuidade. Nome da futura prancha: `STB MM02`, com extensão real; quadros individuais: `MM02-Q01`, etc.
-4. **Vídeo:** com materiais e direção revistos, implementar a montagem por programação em JavaScript e renderizar posteriormente, conforme D-30. Avaliar Remotion como possibilidade, montar locução + arquivo + efeitos, produzir alpha e revisar duração/inteligibilidade. A ferramenta específica ainda não está escolhida.
+4. **Vídeo:** com materiais e direção revistos, implementar a montagem por programação em JavaScript e renderizar posteriormente, conforme D-30. Combinar HTML animado, Remotion e recursos de montagem/renderização conforme D-34, montar locução + arquivo + efeitos, produzir alpha e revisar duração/inteligibilidade. A distribuição técnica por composição será definida na implementação.
 5. **Integração:** conferir entrada/saída com MM-01, lista de takes com Isaac, reprodução no sistema real, ensaio no telão, ajustes e entrega conforme guia.
 
 **Para revisar este documento:** identificação MM-02/Victor/Cena 1 correta; cinco pares na ordem enviada; ausência de narração nos cinco cortes; texto integral preservado; gag/pausa da Juliette e áudio original registrados; morte, ressurreição e retorno presentes; propostas e materiais ausentes identificados. Nenhuma aprovação de storyboard, alpha, render ou teste é inferida do registro canônico da fonte.

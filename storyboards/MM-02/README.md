@@ -13,7 +13,7 @@ Como preencher: [storyboards/README.md](../README.md).
 
 ## Briefing específico canônico
 
-[Briefing do recap · v05](briefing-recap.md), registrado em 19/10/2026 por determinação de Victor (D-29). Contém a fonte integral recebida, estrutura narrativa, direção, materiais e pendências para revisão antes do storyboard. B01 refinado em D-30: abertura Cia Luz inspirada na referência Marvel, com capturas de Goel e implementação futura por código. Referência vigente substituída pelo YouTube em D-31. D-32 define takes nomeados pelos pares e congelamento final em cada um dos cinco cortes (§4.2). D-33 registra o modelo das demais falas do narrador, do início ao final do segundo 4 (§4.3). Fases propostas na seção 4.1; nenhuma prancha ou vídeo produzido nesta etapa.
+[Briefing do recap · v06](briefing-recap.md), registrado em 19/10/2026 por determinação de Victor (D-29). Contém a fonte integral recebida, estrutura narrativa, direção, materiais e pendências para revisão antes do storyboard. B01 refinado em D-30: abertura Cia Luz inspirada na referência Marvel, com capturas de Goel e implementação futura por código. Referência vigente substituída pelo YouTube em D-31. D-32 define takes nomeados pelos pares e congelamento final em cada um dos cinco cortes (§4.2). D-33 registra o modelo das demais falas do narrador, do início ao final do segundo 4 (§4.3). D-34 registra a direção de Victor e o método complementar com HTML animado/Remotion (§4.4). Fases propostas na seção 4.1; nenhuma prancha ou vídeo produzido nesta etapa.
 
 ## Conceito em uma frase
 
