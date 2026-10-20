@@ -2,7 +2,7 @@
 
 **Projeto:** HESED · Musical de Natal 2026  
 **Responsável:** Victor · **Cena:** 1, Pós-libertação · **Bloco:** I  
-**Versão documental:** v08 · **Registro e refinamento B01–B14:** 19/10/2026 · Codex, a pedido de Victor<br>
+**Versão documental:** v09 · **Atualização do método B01–B14:** 20/10/2026 · Codex, a pedido de Victor<br>
 **Situação:** base narrativa recebida e registrada como canônica por determinação de Victor (D-29); estrutura de produção para sua revisão. B01 com direção específica definida em D-30; fases de execução propostas para revisão. B02–B06 com takes nomeados pelos pares e congelamento final em cada corte (D-32). B07–B14 com referência para o narrador limitada ao início até o final do segundo 4 (D-33, §4.3). Storyboard e vídeo ainda não produzidos/aprovados.
 
 ## 1. Objetivo e escopo desta etapa
@@ -207,6 +207,14 @@ Victor adotou o arquivo “Skill Edição de Videos com AI Agents.md” como dir
 O [anexo atualizado](../../docs/fontes/Skill_Edicao_de_Videos_com_AI_Agents_atualizacao_01.md) e o [guia operacional v02](../../guias/edicao-de-video-com-agentes.md) acrescentam a escolha por composição entre HTML/JS + Playwright + FFmpeg e Remotion, FPS configurável com cadências racionais e inspeção visual/correção dos frames antes do render integral. Registrar storyboard, motor, FPS e revisão no modelo de plano. O FPS final da MM-02 continua pendente de P-01 e da direção de Victor, sem adoção automática de taxa da referência.
 
 No QA, cobrir todas as cenas e estados críticos, incluindo assinatura Cia Luz, congelamentos B02–B06 e transições dos inserts. SFX procedurais podem complementar a montagem onde a direção pedir; não substituem o áudio original de B10. Ajustar tempos à locução real e reinspecionar se ela mudar. Este registro não aprova o storyboard nem inicia instalação, código, síntese de áudio ou render.
+
+### Produção progressiva e pacote de auxiliares · D-37
+
+Aplicar o [guia operacional v03](../../guias/edicao-de-video-com-agentes.md), baseado no [pacote atualizado](../../docs/fontes/AI_Filmmaker_Agent_2026-10-20/README.md), e acompanhar versões no [registro por cena](producao-por-cena.md). Após storyboard/configuração, produzir primeiro B01; prévia isolada com áudio e duplo QA (auditor DOM, dois frames por cena, inspeção visual/prancha). Aguardar aprovação explícita da versão sem pendências antes de avançar. Render integral somente com todas as unidades aprovadas; mudanças perceptíveis nas aprovadas exigem QA e revisão da nova versão.
+
+Motor HTML pode usar JS/GSAP com cenas declarativas e tempo local, mantendo Remotion como alternativa. Locução pode vir de VoiceStudio existente, ElevenLabs escolhido ou arquivo, sem presumir API local acessível neste ambiente. Usar picos de música apenas quando houver trilha definida e recebida; não alterar os congelamentos nem substituir o áudio original B10 por sons procedurais. Parâmetros finais continuam por definir.
+
+Victor informou ter gerado uma imagem com a logo para o lugar da Marvel; o arquivo ainda não foi recebido/inspecionado. Capturas de Goel serão fornecidas/selecionadas por ele. Não presumir logo vetorial ou camadas editáveis: conferir a imagem recebida e propor a composição. Esta atualização implementa o método na documentação, não inicia a produção visual.
 
 ## 5. Voz, humor, diálogos e som
 

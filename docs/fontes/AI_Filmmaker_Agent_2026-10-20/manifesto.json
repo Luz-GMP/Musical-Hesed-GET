@@ -1,0 +1,44 @@
+[
+  {
+    "arquivo": "mkdir -p .ref'frames.sh",
+    "bytes": 968,
+    "sha256": "2ca9badf3a24a3a5bdb823a07a5181bd4e7e86d22ac207db2707295291b88504",
+    "verificacao": "Sintaxe Bash validada com bash -n; comandos não executados."
+  },
+  {
+    "arquivo": "Gerador de Efeitos Sonoros Procedurais + Detector de Batidas Musicais (Beat Tracking) em Python.py",
+    "bytes": 3347,
+    "sha256": "23047e7883e09133730566b20520a06317fc018c47c69d235e7e9bc1909ce45c",
+    "verificacao": "Sintaxe Python validada via AST, sem importar/executar."
+  },
+  {
+    "arquivo": "Narração com Voz Clonada (ElevenLabs API) + Sincronização Automática.sh",
+    "bytes": 5478,
+    "sha256": "0550b680254756015783f7fd1eb7b85a146ba93c04fdd052a419d6fd2488e18b",
+    "verificacao": "Sintaxe Bash validada com bash -n; comandos não executados."
+  },
+  {
+    "arquivo": "Skill Edição de Videos com AI Agents.md",
+    "bytes": 31165,
+    "sha256": "a1790c389f4b6b85f57861ce81d375e66489d65d1b25ea82809189a57172bfc2",
+    "verificacao": "Inspeção textual; não executado."
+  },
+  {
+    "arquivo": "Suporte a Qualquer FPS + Auditor Matemático de DOM + Prancha de Storyboard.js",
+    "bytes": 8601,
+    "sha256": "333ded2f5b477ca08a012af43921f20e8c0b14c3c2a9779ad408342527691154",
+    "verificacao": "Sintaxe ESM validada com node --check em cópia .mjs; código não executado."
+  },
+  {
+    "arquivo": "Extração de Timestamps Palavra por Palavra (Python + Faster-Whisper).py",
+    "bytes": 438,
+    "sha256": "3d2c2a9595f3b04f08037b17441bc41a90e8dccf8c78f9025cbc635eb1aed982",
+    "verificacao": "Sintaxe Python validada via AST, sem importar/executar."
+  },
+  {
+    "arquivo": "ffmpeg -y -i video_visual.mp4 -i narracao.mp3 -i sfx_track.wav",
+    "bytes": 282,
+    "sha256": "e1aaac78328eca96159c5edab0c68c7553e4fa40e5b2635f2c6cbbb334e1206b",
+    "verificacao": "Sintaxe Bash validada com bash -n; comandos não executados."
+  }
+]

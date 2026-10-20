@@ -10,6 +10,7 @@
 - Recebe de / entrega para:
 - Briefing, roteiro e decisões consultados:
 - Escopo autorizado agora:
+- Cena atual e sequência de unidades: [produzir uma por vez; não confundir movimento interno com cena]
 - Destino e especificação: [resolução/proporção/fps/codec/áudio definidos ou pendentes; não copiar exemplos]
 
 ## Materiais e referências
@@ -34,17 +35,28 @@ Para referências: distinguir observação visual de descrição do usuário/met
 - FPS nativo por take/referência, indícios de VFR e taxa racional de saída:
 - Resolução, duração/frame count/arredondamento e configuração revistos por: [pessoa/data ou pendente]
 - Ferramentas/versões e localização do projeto e mídia:
-- Configurações editáveis, sincronismo, pausas e seleção de frames:
+- Configurações editáveis, cenas declarativas/tempo local, sincronismo, pausas e seleção de frames:
+- Música: [master real, candidatos de onsets/JSON, parâmetros e eventos revisados; sem música, marcar não previsto]
+- Narração: [VoiceStudio / ElevenLabs / arquivo; modelo, perfil, disponibilidade real, autorização e origem]
+- Prévia isolada da cena atual: [versão, duração, áudio e arquivo real]
 - Revisões aprovadas: [pessoa/data/escopo; reutilizar aprovações existentes]
 - Questões que dependem de direção/material:
 
 ## Inspeção visual antes do render completo
 
-| Cena/bloco | Tempo/frame e arquivo real | Clipping / sobreposição / contraste / área segura / mídia | Correção e versão reinspecionada | Resultado |
+| Cena/bloco | Entrada e repouso: tempos/frames e arquivos reais | Auditor DOM + inspeção: clipping / sobreposição / contraste / área segura / mídia | Correção e versão reinspecionada | Resultado |
 | --- | --- | --- | --- | --- |
 | A preencher | | | | |
 
 Cobrir todas as cenas e estados críticos; adicionar preview curto para movimento/sincronismo. Registrar efeitos sonoros por arquivo/geração procedural, evento/tempo e ganho. Mudança posterior de áudio/timing exige nova inspeção afetada. Aprovação artística e QA técnico são registros distintos.
+
+## Aprovação progressiva
+
+| Cena/bloco | Versão apresentada | Estado | Pendências | QA, prancha técnica e prévia com áudio | Aprovação de Victor: data/alcance |
+| --- | --- | --- | --- | --- | --- |
+| Atual, a identificar | Não produzida | Em preparação | A registrar | Sem arquivos | Não recebida |
+
+Estados após iniciar: em produção → em revisão → aprovada. Só avançar com aprovação explícita sem pendências. Silêncio e validação técnica não aprovam. Alteração perceptível de cena aprovada exige revisão da nova versão. Aprovações existentes mantêm seu alcance; não solicitar confirmação repetida do que já foi aprovado. Render integral somente com todas as cenas aprovadas e QA concluído.
 
 ## Verificação e entrega
 

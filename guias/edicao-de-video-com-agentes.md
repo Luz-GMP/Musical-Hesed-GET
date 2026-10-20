@@ -1,8 +1,8 @@
 # Edição de vídeo com agentes · direção e procedimento de uso
 
-**Versão:** v02 · **Data:** 19/10/2026 · **Direção:** Victor · **Registro:** Codex · **Decisões:** D-35/D-36.
+**Versão:** v03 · **Data:** 20/10/2026 · **Direção:** Victor · **Registro:** Codex · **Decisões:** D-35/D-36/D-37.
 
-Método de produção adotado por Victor para a MM-02 e os próximos vídeos realizados com ele. Base vigente: [atualização recebida](../docs/fontes/Skill_Edicao_de_Videos_com_AI_Agents_atualizacao_01.md), preservada integralmente; [versão anterior](../docs/fontes/Skill_Edicao_de_Videos_com_AI_Agents_original.md) mantida para histórico, e direção D-34. Este guia é a adaptação operacional para o HESED; o original permanece referência de receitas e alternativas. Não há plugin instalado ou skill registrada no catálogo do aplicativo por salvar estes documentos.
+Método de produção adotado por Victor para a MM-02 e os próximos vídeos realizados com ele. Base vigente: [pacote AI Filmmaker Agent recebido em 20/10/2026](../docs/fontes/AI_Filmmaker_Agent_2026-10-20/README.md), com MD e seis auxiliares preservados; [revisão técnica e novidades](revisao-ai-filmmaker-2026-10-20.md). Versões anteriores permanecem em docs/fontes. Este guia aplica as fontes junto da direção D-34; exemplos continuam exemplos. Não há plugin instalado ou skill registrada no catálogo do aplicativo por salvar estes documentos.
 
 ## 1. Autoridade e aplicação
 
@@ -29,9 +29,18 @@ Conforme a fase 2 da atualização recebida, apresentar storyboard, configuraç�
 
 Para imagens e pranchas, continuam obrigatórios o [guia de construção](../storyboards/guia-de-construcao.md) e o [caderno de quadros](../storyboards/briefings-dos-quadros.md). Comparar com referências efetivamente vistas e registrar os quadros antes de gerar.
 
-## 4. Fase 3 · Programação, inspeção visual e correção
+### Unidade de produção e aprovação progressiva · D-37
+
+Produzir **uma cena por vez**, na ordem do storyboard. O plano e a configuração aprovados autorizam começar a primeira; preparar a estrutura comum necessária sem antecipar a produção das seguintes. Para MM-02, registrar B01 como a primeira unidade; as fases A–E da abertura são movimentos internos, não cinco aprovações independentes. O desdobramento de B02–B14 em unidades será definido no storyboard, sem renumerar IDs.
+
+Cada cena passa por implementação → auditoria técnica/visual → prévia reproduzível com áudio → revisão de Victor. Identificar bloco, versão, duração, pendências e arquivo real. Só avançar para a próxima após aprovação explícita da versão apresentada, sem pendências. Silêncio, elogio genérico, aceite apenas de uma imagem ou aprovação provisória não aprovam a cena completa. Usar o [registro progressivo](../templates/plano-de-video-programatico.md) e, na MM-02, o [acompanhamento específico](../storyboards/MM-02/producao-por-cena.md).
+
+Aprovações já registradas seguem válidas no seu alcance; definições de briefing não significam que a prévia foi aprovada. Se estilos, áudio, duração, conteúdo ou componentes compartilhados alterarem perceptivelmente uma cena aprovada, repetir QA afetado e apresentar a versão alterada para nova aprovação. Render integral apenas com todas as cenas aprovadas, sem pendências, e verificações concluídas. Prévia isolada da cena atual é permitida; não renderizar o projeto inteiro como atalho.
+
+## 4. Fase 3 · Produção da cena atual, duplo QA e correção
 
 - Separar catálogo de assets, configuração editorial e componentes/efeitos. Nomes, ordem de takes, frames de congelamento, textos e durações devem ser ajustáveis sem reescrever toda a composição.
+- Declarar cada cena por ID, `data-start` e `data-duration` no HTML, ou intervalo equivalente no motor. Ativar pelo intervalo `[start, start + duration)` e calcular `localTime = t - start`; planejar explicitamente sobreposições/transições. Desativar cenas/filtros inativos sem depender só de opacity.
 - Calcular estado visual por frame/tempo único, de forma reproduzível em preview e render. Fixar semente/seleção se houver aleatoriedade. Carregar fontes e mídia antes de capturar/renderizar.
 - Combinar HTML/CSS/JS/SVG/Canvas e Remotion conforme a necessidade; manter ferramentas intercambiáveis quando possível. A escolha concreta deve constar no plano da peça.
 - Manter originais intactos. Processar cortes, recortes, áudio e extrações em saídas separadas. Cortes exatos podem exigir recodificação; cópia de streams não garante precisão fora de keyframes.
@@ -43,7 +52,7 @@ Para imagens e pranchas, continuam obrigatórios o [guia de construção](../sto
 
 | Motor | Implementação e aplicação | Condições a verificar |
 | --- | --- | --- |
-| A · HTML/JS + Playwright + FFmpeg | HTML/CSS/Canvas/SVG com `window.renderAtTime(t)`; Playwright/Chromium avança a composição por frame e envia imagens ao FFmpeg. Adequado a composições gráficas/ilustradas em código. | Navegador e fontes disponíveis, assets carregados, função reproduzível e custo real de captura. Não equivale a gravar a tela em tempo real. |
+| A · HTML/JS + Playwright + FFmpeg | HTML/CSS/Canvas/SVG com `window.renderAtTime(t)`, JS puro ou timeline GSAP pausada avançada por `seek(t)`; Playwright/Chromium avança a composição por frame e envia imagens ao FFmpeg. Adequado a composições gráficas/ilustradas em código. | Navegador e fontes disponíveis, assets carregados, função reproduzível e custo real de captura. Não equivale a gravar a tela em tempo real. |
 | B · Remotion | Componentes React com tempo obtido do frame e do FPS; composição com takes, áudio e elementos reutilizáveis. | Dependências e navegador compatíveis, comportamento dos vídeos e suporte real à taxa de saída escolhida. Tailwind e spring são opcionais. |
 
 Escolher por composição e registrar o motivo; os motores podem se complementar. Não presumir que Playwright é sempre mais leve nem que toda biblioteca aceita qualquer FPS fracionário. Para takes em HTML, ajustar o tempo do vídeo e aguardar seek/decodificação do frame antes da captura; `renderAtTime(t)` aplicada somente aos elementos gráficos não sincroniza o vídeo automaticamente. Aguardar fontes, imagens, recursos assíncronos e o estado visual final também nos testes.
@@ -56,22 +65,40 @@ Escolher por composição e registrar o motivo; os motores podem se complementar
 - Calcular `t = frame / fps` em segundos em ambos os motores; evitar `setTimeout` e animações independentes como relógio do render. No Remotion, durações e parâmetros de movimento em frames precisam acompanhar o FPS; só calcular `t` não adapta automaticamente springs e sequências existentes.
 - Registrar quantidade de frames e arredondamento. A duração exportada é quantizada a frames; conferir desvio em relação à locução, sincronismo e cadência após codificação. Não criar fluidez ou câmera lenta nova apenas aumentando o FPS de um take já gravado.
 
-### Inspeção visual obrigatória antes do render completo
+### Auditoria matemática e inspeção visual antes de apresentar a cena
 
-1. Renderizar ao menos um frame principal de **cada cena**, associado ao bloco/ID e tempo real. Amostrar também entradas/saídas, texto longo, transições, congelamentos e momentos de maior sobreposição conforme necessário. Não usar apenas os tempos fixos do snippet, que podem deixar cenas sem teste.
+Executar auditoria do DOM nos instantes amostrados: limites da tela, clipping/overflow, colisões de texto e área segura configurada pelo destino. Registrar cena, tempo, elemento, alerta e resolução. Usar checks para o que o DOM cobre; Canvas/SVG, máscaras, ancestrais e colisões intencionais precisam de verificação complementar. Corrigir alertas reais e justificar falsos positivos/exclusões; “zero alertas” não comprova ausência de erros nem substitui olhar os frames.
+
+Gerar uma grade/prancha técnica de QA com entradas e repousos, mantendo arquivos por versão e detectando falhas da geração. Não apagar o QA anterior automaticamente. Essa prancha não equivale a storyboard oficial nem aprova a cena.
+
+### Capturas e prévia em movimento
+
+1. Renderizar pelo menos **dois frames de cada cena implementada**, associados ao bloco/ID e tempos reais: entrada/transição e ápice/repouso. Cobrir a cena atual e cenas anteriores afetadas. Amostrar também entradas/saídas, texto longo, transições, congelamentos e momentos de maior sobreposição conforme necessário. Não usar apenas os tempos fixos do snippet, que podem deixar cenas sem teste.
 2. Abrir e examinar os frames produzidos: texto cortado, elementos sobrepostos, contraste, legibilidade, área segura do destino, integridade de fontes/assets e continuidade. Na MM-02, conferir assinatura Cia Luz e os cinco congelamentos. Área segura de redes sociais é exemplo para entregas verticais; margens do telão dependem do projeto real.
 3. Corrigir autonomamente os defeitos dentro da direção aprovada, regenerar e reinspecionar os frames afetados. Registrar arquivo/versão, achado, correção e resultado. Não declarar inspeção só porque a captura foi gerada.
-4. Conferir movimento/sincronismo em pequenos previews quando frames estáticos não forem suficientes. Só avançar ao render integral após resolver os problemas; inspeção técnica do agente não representa aprovação artística de Victor ou aceite no LED.
+4. Apresentar prévia reproduzível da cena atual com áudio, duração, versão e pendências explícitas; comparar movimento/sincronismo, corrigir e repetir os checks. Dois frames não substituem assistir à cena. Avançar para a próxima só com aprovação explícita; render integral apenas ao concluir todas. A inspeção técnica do agente não representa aprovação artística de Victor ou aceite no LED.
 
 Snapshots técnicos ficam no local de QA do projeto, fora da pasta de imagens oficiais. Se houver entrega como quadro/prancha de storyboard, aplicar os nomes canônicos e registros do guia visual; não confundir captura de controle com imagem-base aprovada.
 
-## 5. Fase 4 · Áudio procedural, locução, render e entrega
+### Música e sincronização por eventos
+
+Quando houver trilha escolhida e recebida, registrar arquivo/versão/master, analisar e criar mapa de candidatos a impactos (`beats.json` ou equivalente) com parâmetros e timestamps. O detector recebido usa variação de energia em janelas; não é comprovação de BPM, beat tracking completo ou downbeats. Ouvir o trecho e selecionar os eventos reais para a direção. Alinhamento de cortes deve preservar fala/humor/continuidade, sem impor corte em todo pico. Nenhuma trilha foi definida para o B01 por esta regra.
+
+### VoiceStudio, ElevenLabs ou narração existente
+
+Registrar provedor, modelo, perfil e origem da gravação no plano. Primeiro avaliar o VoiceStudio que Victor já utiliza; confirmar disponibilidade real em vez de reinstalar app/baixar modelos. A API local descrita no anexo deve ser descoberta e conferida na versão instalada; `localhost` do Codex remoto não é o computador de Victor. Sem API acessível, aceitar WAV/MP3 exportado do aplicativo.
+
+Criar um perfil de voz e sintetizar fala com ele são etapas diferentes; o script recebido usa perfis existentes, não cria clones. Ele aceita `voicestudio`, `elevenlabs` ou `arquivo`, não carrega `.env`, não seleciona provedor sozinho e não deve trocar perfil/serviço silenciosamente. ElevenLabs depende da escolha de Victor e escopo de custo autorizado; falha local não autoriza fallback externo. A existência de voz/chave não equivale à autorização de síntese. Medir, transcrever/revisar e ajustar a timeline independe do provedor.
+
+Receitas de áudio podem ser usadas por trecho na revisão da cena atual. Para créditos externos, seguir a aprovação de plano/provedor e QA visual da cena previstos na fonte; se o áudio posterior mudar tempos, reinspecionar e apresentar a nova versão. Preservar WAV/MP3 original; conversão da receita não é obrigatória para toda entrega.
+
+## 5. Fase 4 · Finalização após aprovações por cena
 
 **Áudio e locução:** se a direção pedir efeitos e não houver arquivos adequados, sintetizar pops, whooshes, chimes ou outros sons em Python/FFmpeg, em camada separada e com eventos temporizados. Efeito procedural é recurso de produção, não motivo para sonorizar todas as transições. Fixar semente para ruído, controlar ganho/picos sem depender de clipping e respeitar os limites da timeline. Isso não substitui o áudio original “Hoje sim…” solicitado para B10.
 
 TTS/voz por serviço externo depende de escolha e autorização no escopo; presença de chave ou ID de voz não é autorização de uso/custo/clonagem. Quando houver gravação nova, medir e ajustar a timeline **antes da inspeção final dos frames**; se o áudio mudar depois, atualizar tempos e repetir o QA afetado. Duração total do arquivo não fornece tempos de cada palavra nem comprova sincronismo labial.
 
-1. Produzir preview/alpha para verificar composição, transições e sincronização. Renderizar o final nos parâmetros definidos para a peça. H.264/yuv420p pode ser uma opção de compatibilidade, não substitui P-01 do telão.
+1. Com todas as cenas aprovadas, conferir as costuras da sequência e produzir o render final nos parâmetros definidos. Se a integração mudar uma cena aprovada, voltar ao ciclo de revisão dessa cena. H.264/yuv420p pode ser uma opção de compatibilidade, não substitui P-01 do telão.
 2. Conferir duração, fps, dimensões, áudio e reprodução real do arquivo; assistir aos trechos críticos e comparar sincronismo no início, meio, fim e nas transições. Verificar mídia ausente, fontes, frames pretos inesperados, cortes de fala e clipping.
 3. Mixar voz, takes, trilha e efeitos com inteligibilidade; medir loudness/picos. -14 LUFS é exemplo do anexo para redes sociais, não alvo aprovado do espetáculo. Evitar normalização repetida ou processamento que destrua pausas e dinâmica.
 4. Entregar caminho real do vídeo, versão, configuração/projeto e materiais necessários; registrar limitações e aprovação. Seguir [entrega e arquivos](entrega-e-arquivos.md) e [checklist de aceite](checklist-de-aceite.md). Validação local não substitui ensaio no LED.
@@ -109,6 +136,6 @@ Consultar o [briefing específico](../storyboards/MM-02/briefing-recap.md) antes
 - **B02–B06:** cinco takes identificados pelos pares, sem narração, com congelamento final em cada corte (D-32).
 - **B07–B14:** referência D-33 apenas do início ao final do segundo 4; preservar inserts de Goel e rubricas narrativas.
 - **Continuidade:** recebe da MM-01 e retorna à MM-01/discussão, na Cena 1. Lista de takes compartilhada com Isaac/MM-08 (P-04), sem passagem direta para essa peça.
-- **Próximo trabalho:** receber/inventariar materiais e locução, conferir referências acessíveis, detalhar storyboard/motor/FPS e registrar sua revisão; depois implementar, inspecionar/corrigir frames e renderizar no escopo autorizado.
+- **Próximo trabalho:** receber/inventariar materiais, imagem da logo e capturas de Goel e locução; conferir referências acessíveis; revisar storyboard/motor/FPS/provedor; implementar e apresentar somente B01, com duplo QA e prévia com áudio. Avançar após aprovação explícita e sem pendências.
 
 **Estado nesta preparação:** fonte preservada, procedimento e modelo prontos. Takes/locução não recebidos, referências sem análise visual completa, parâmetros P-01 e pasta P-13 em aberto. Nenhum ambiente de render instalado, nenhum vídeo ou imagem gerado nesta etapa.
