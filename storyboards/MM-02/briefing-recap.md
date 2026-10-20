@@ -2,8 +2,8 @@
 
 **Projeto:** HESED · Musical de Natal 2026  
 **Responsável:** Victor · **Cena:** 1, Pós-libertação · **Bloco:** I  
-**Versão documental:** v01 · **Registro:** 19/10/2026 · Codex, a pedido de Victor  
-**Situação:** base narrativa recebida e registrada como canônica por determinação de Victor (D-29); estrutura de produção para sua revisão. Storyboard, soluções visuais e vídeo ainda não produzidos/aprovados.
+**Versão documental:** v02 · **Registro e refinamento B01:** 19/10/2026 · Codex, a pedido de Victor<br>
+**Situação:** base narrativa recebida e registrada como canônica por determinação de Victor (D-29); estrutura de produção para sua revisão. B01 com direção específica definida em D-30; fases de execução propostas para revisão. Storyboard e vídeo ainda não produzidos/aprovados.
 
 ## 1. Objetivo e escopo desta etapa
 
@@ -16,6 +16,7 @@ Esta entrega registra o texto enviado como fonte, cruza-o com a documentação d
 | Fonte | Aplicação nesta multimídia |
 | --- | --- |
 | Texto “Roteiro de vídeo”, enviado por Victor nesta conversa em 19/10/2026, com autoria original não identificada | Base específica canônica da MM-02: falas do narrador, cinco cortes, ordem, pausas e áudio solicitado. Preservada integralmente na seção 10. |
+| Refinamento de Victor em 19/10/2026 · D-30 | Direção do B01: referência Marvel/Pinterest, “Cia Luz”, capturas de Goel e produção do vídeo por código; Remotion como possibilidade. |
 | [Roteiro do HESED · Cena 1](../../docs/roteiro.md#cena-1-pós-libertação) | Identificação do recap, congelamento, ações essenciais e retomada imediata. |
 | [Briefing Definitivo v1.0 · §§2–7](../../docs/briefing.md) | Victor responsável por MM-01/02/03; linguagem comum; detalhamento do Bloco I reservado ao responsável. |
 | [Bíblia de Produção v0.1 · §§1.3–1.4, 2.2, 3, 5, 7.1, 8, 9 e 16](../../docs/fontes/HESED_Biblia_de_Producao_v0_1.md) | Continuação de Goel, personalidades, separação palco/telão, luz, congelamento e retorno. BIB-Q003/BIB-Q004 são cues preliminares, não quadros. |
@@ -43,7 +44,7 @@ Os códigos B01–B14 são referências deste briefing, não IDs de quadros. Tim
 
 | Bloco | Conteúdo / gatilho de voz | Imagem e ação de montagem | Som e observações |
 | --- | --- | --- | --- |
-| B01 · Contextualização | “Pra você que não tá entendendo…” até “do nada.” | Imagem da intro a definir. Proposta: partir de um frame legível do arquivo de Goel e sinalizar o retorno ao passado por movimento/retrocesso discreto, entrando nos diálogos. | Narrador tranquilo e debochado; não presumir take já disponível. |
+| B01 · Abertura Cia Luz | “Pra você que não tá entendendo…” até “do nada.” | Abertura inspirada na referência Marvel enviada por Victor, com quadros de Goel e assinatura “Cia Luz”. Direção D-30; detalhamento na seção 4.1. | Locução completa sobre a abertura; duração a medir. Capturas a escolher por Victor; trilha ainda não definida. |
 | B02 · Corte 1 | Mentira e roubo | Mentira relativiza a verdade; Ladra diz a frase do malandro e do otário e pergunta se já sabem quem ela é. | Áudio dos personagens, sem narração. Selecionar as falas reais, sem inventar transcrição. |
 | B03 · Corte 2 | Adultério e idolatria | Declaração de que Deus quer todos felizes; Idolatria fala de Cauã Reymond. | Áudio dos personagens, sem narração. |
 | B04 · Corte 3 | Ódio e desobediência | Ódio apresenta seus motivos; Desobediência chama fazer o que quer de liberdade. | Áudio dos personagens, sem narração. |
@@ -61,6 +62,75 @@ Os códigos B01–B14 são referências deste briefing, não IDs de quadros. Tim
 **Cinco cortes:** manter os pares e a ordem da fonte. Cada corte reúne dois comportamentos; isso não obriga o futuro storyboard a ter somente cinco quadros nem dez arquivos separados.
 
 **Cronologia editorial:** a fonte narra liberdade/correntes caindo antes da frase “E aí Jesus morreu”. Preservar essa ordem como base canônica; conferir os acontecimentos nos takes de Goel para que a montagem não pareça uma segunda morte ou uma segunda libertação. Qualquer mudança no texto/ordem deve voltar à revisão de Victor.
+
+## 4.1. B01 · Abertura Cia Luz — detalhamento v02
+
+### Direção confirmada por Victor · D-30
+
+- A fala inicial completa do narrador acompanha uma abertura inspirada na abertura de filmes da Marvel, conforme a [referência enviada no Pinterest](https://br.pinterest.com/pin/728738783452739043/).
+- O nome apresentado será **Cia Luz**, companhia de teatro, no lugar de “Marvel Studios”. Esta é a grafia fornecida; caixa tipográfica, fonte, proporção entre palavras e eventual uso do logotipo oficial ainda serão definidos.
+- As imagens que passam na composição serão **quadros do vídeo do espetáculo Goel**. A seleção inicial pode ser exploratória; Victor verificará e escolherá os melhores quadros posteriormente, podendo fazer as capturas e reuni-las numa pasta.
+- O vídeo será construído por programação, com JavaScript e renderização posterior. **Remotion é uma possibilidade mencionada por Victor**, ainda sem escolha/instalação de plugin ou dependência.
+
+**Consulta da referência:** em 19/10/2026, a tentativa de abrir o pin pela ferramenta web retornou página inacessível. Não foi possível assistir ao vídeo. Portanto, não há análise visual quadro a quadro desse pin, nem duração, cores, música, tipografia, movimento de câmera ou geometria verificados. As fases a seguir são propostas baseadas na descrição de Victor, a conferir com a referência quando acessível. Não importar como requisito uma versão específica da abertura Marvel por memória.
+
+### Locução integral e limites do take
+
+> Pra você que não tá entendendo o que tá acontecendo, vamos voltar um pouquinho no tempo pra eu te contextualizar.
+> Afinal, essa galera não chegou nessa situação do nada.
+
+Manter voz tranquila e debochada, conforme fonte canônica. O áudio será a referência para dimensionar a abertura: não alongar a locução para caber numa duração presumida da referência. O B01 começa no disparo da MM-02, com o elenco congelado, e entrega para B02, o corte de Mentira e Ladra. O primeiro diálogo de B02 precisa entrar limpo, sem locução restante.
+
+### Fases visuais propostas para revisão
+
+As fases são estados de animação, não cortes obrigatórios nem IDs de quadros aprovados. Não há tempos ou número de capturas definidos.
+
+| Fase | Intenção / composição proposta | Movimento e sincronismo propostos |
+| --- | --- | --- |
+| A · Entrar no acervo | Quadros de Goel ocupam a composição; os registros do espetáculo devem ser reconhecíveis, sem exigir que cada imagem conte um acontecimento inteiro. | Iniciar a passagem de imagens com o começo da locução. Quantidade, direção e velocidade a experimentar. |
+| B · Percorrer memórias | Alternar ou deslocar quadros em planos/camadas, construindo uma montagem de lembranças. Usar capturas estáticas como matéria-prima animada. | Explorar translações, escala, máscaras e profundidade aparente; evitar movimento concorrente em todas as camadas. Não adotar automaticamente páginas de HQ ou efeito de rebobinar. |
+| C · Revelar o nome | Transformar a montagem em uma composição que revele **Cia Luz**. Proposta a testar: imagens visíveis dentro de máscaras das letras enquanto o enquadramento se abre. | Relacionar a revelação à conclusão da primeira frase, sem fixar essa marca antes da locução. Máscaras nas letras e recuo de câmera são soluções propostas, não observações do pin. |
+| D · Assentar a assinatura | Nome completo legível com espaço em volta; reduzir competição das imagens com a leitura. | Proposta: chegar à assinatura durante “Afinal, essa galera não chegou nessa situação do nada.” A duração de leitura será testada com a gravação. |
+| E · Entregar ao corte 1 | Sair da assinatura e entrar no vídeo de Mentira/Ladra, iniciando a recapitulação propriamente dita. | Corte direto é a proposta inicial; outra transição dependerá da referência e do teste. Não acrescentar silêncio, vinheta extra ou repetição da intro. |
+
+### Direção de imagem, luz, texto e som
+
+- **Paleta:** partir das cores reais dos quadros de Goel; harmonizar exposição e contraste sem apagar figurinos ou identidades. Fundo final, cor/material das letras e acentos continuam abertos. Vermelho, metal ou qualquer outra característica presumida da Marvel não estão aprovados. Na prancha, apresentar amostras com nomes a partir do estudo efetivo.
+- **Luz e atmosfera:** abertura com energia cinematográfica e sensação de memória; reduzir complexidade visual ao revelar o nome. Brilhos, sombras e profundidade precisam preservar a leitura no telão. Iluminação física do palco continua vinculada ao congelamento da Cena 1, sem novo cue aprovado.
+- **Elementos:** capturas reais de Goel, planos/camadas e texto “Cia Luz”. Não acrescentar personagens ou cenários gerados. Moldura, divisão entre “Cia” e “Luz”, assinatura complementar e logotipo gráfico não estão definidos.
+- **Tipografia:** selecionar uma solução legível para o nome da companhia; confirmar se há marca oficial antes de desenhar uma assinatura alternativa. O nome deve ser composto como texto/vetor no projeto, permitindo ajuste sem refazer as capturas.
+- **Som:** narrador em primeiro plano. Capturas estáticas não trazem os diálogos do espetáculo para a abertura. Música/efeitos próprios da vinheta ainda não foram escolhidos; o link não autoriza presumir uso da trilha da Marvel. A entrada de B02 traz o áudio real dos personagens.
+- **Continuidade:** o B01 é uma identidade de abertura dentro do recap, entre MM-01 e os cinco cortes. Não usar a nova assinatura para alterar a ambientação oficial da prisão ou inserir mais uma vinheta nos blocos seguintes.
+
+### Preparação das capturas de Goel
+
+**A pasta de capturas foi sugerida por Victor, mas ainda não foi criada/recebida nem tem localização confirmada.** Pode ser organizada no local de mídia que ele escolher; não criar link de Drive fictício. Os nomes abaixo são propostas de trabalho para capturas de origem, diferentes dos nomes canônicos dos futuros quadros de storyboard.
+
+| Campo do catálogo | Conteúdo a registrar quando houver material |
+| --- | --- |
+| ID / arquivo | Identificador estável, por exemplo `GOEL-F001`, e nome real com extensão. |
+| Origem | Nome/versão do vídeo-fonte e instante da captura, quando conhecido. Não inventar timestamp para captura manual sem registro. |
+| Conteúdo | Quem/o que aparece, enquadramento e legibilidade. |
+| Dados da imagem | Dimensões reais, proporção e eventuais bordas. |
+| Seleção | Candidata / escolhida por Victor / descartada; evitar tratar candidata como aprovada. |
+| Uso na composição | Ordem, plano/camada, região de interesse e recorte permitido. |
+
+Priorizar capturas nítidas na resolução do vídeo, sem controles do player, cursores ou legendas de interface. Procurar variedade visual de planos, personagens e luz; a amostra exploratória não precisa antecipar as cenas centrais da história. Quadros que revelem julgamento, libertação ou ressurreição devem ser avaliados por Victor antes de entrar na seleção, sem proibição nova sobre o acervo. Preservar o arquivo original da captura; ajustes e recortes ficam na composição.
+
+“Aleatórios” descreve a exploração inicial do acervo, não uma seleção diferente a cada render. Se houver amostragem por código, usar uma semente registrada e salvar a lista resultante; a montagem aprovada terá ordem e imagens fixas. Não existe seleção aleatória já executada.
+
+### Planejamento da implementação por código
+
+**Caminho definido:** construir a MM-02 por programação e renderizar depois. **Proposta técnica do B01:** composição parametrizada em JavaScript/TypeScript, com mídia e decisões editoriais separadas do movimento. Se Remotion for adotado, essa composição poderá ser implementada em React; a escolha depende da avaliação das ferramentas disponíveis na etapa de implementação.
+
+1. **Catálogo de assets:** lista de capturas com IDs, caminhos reais e metadados; guardar os arquivos pesados no local de mídia, fora do Git.
+2. **Configuração editorial:** texto “Cia Luz”, imagens selecionadas, ordem, enquadramentos, pontos de foco, fases e caminho da locução. Trocar a seleção sem alterar o código da animação.
+3. **Composição por frame:** calcular posição, escala, opacidade, máscaras e profundidade a partir do frame/tempo da timeline; evitar relógio de execução e aleatoriedade não controlada. A mesma configuração deve produzir a mesma sequência no preview e no render.
+4. **Integração de áudio:** medir a locução recebida, ajustar as fases e registrar os pontos reais de sincronismo. Prever narração separada dos efeitos e da trilha para revisão.
+5. **Preview e render:** testar composição com capturas candidatas, comparar com a referência acessível, substituir pelos quadros escolhidos e validar leitura/recortes. Resolução, fps, codec e duração final permanecem pendentes dos materiais e de P-01.
+6. **Entrega ao restante do recap:** compor B01 na timeline da MM-02, com saída para B02. O B01 pode ter preview isolado para revisão, mas não implica operação separada no espetáculo.
+
+Não foi criado projeto JavaScript, instalada biblioteca, acionado plugin, gerado storyboard ou renderizado vídeo neste refinamento. Próximos passos do B01: conferir a referência visual quando acessível; receber as capturas e a locução; definir assinatura/tipografia e aprovar o estudo das fases.
 
 ## 5. Voz, humor, diálogos e som
 
@@ -85,7 +155,7 @@ Os códigos B01–B14 são referências deste briefing, não IDs de quadros. Tim
 
 **Elementos visuais necessários:** as dez personagens nos cinco pares, correntes no passado, prisão, juiz, Juliette, Jesus, libertação, morte, ressurreição/aparição e reações. Usar somente o que os materiais comprovarem; faltas devem ser registradas antes de decidir complementos.
 
-**Movimento e efeitos:** zooms/reframes e pausas conforme a fonte; câmera/ação do próprio arquivo como base. A pausa da Juliette é obrigatória no planejamento. Animação de uma eventual imagem-base da intro será sutil, se essa solução for adotada. Não definir velocidade, flashes, partículas ou retrocesso como efeitos já aprovados.
+**Movimento e efeitos:** zooms/reframes e pausas conforme a fonte; câmera/ação do próprio arquivo como base. A pausa da Juliette é obrigatória no planejamento. B01 segue a abertura Cia Luz detalhada na seção 4.1; substitui a proposta inicial de imagem-base/retrocesso discreto. Não definir velocidade, flashes, partículas ou retrocesso como efeitos já aprovados.
 
 **Continuidade:** manter reconhecíveis as personagens entre os cinco cortes, julgamento e libertação; conferir figurino, Juliette e estado das correntes. Entrar/sair respeitando o ambiente oficial MM-01 V05, sem exigir que o cenário histórico de Goel tenha a mesma arquitetura. O último frame e a troca devem ser ensaiados para evitar tela preta acidental ou duplicação do elenco atual.
 
@@ -110,7 +180,7 @@ Ao receber, registrar nome real, versão, duração, resolução, proporção, f
 | Ponto | Situação / quem participa |
 | --- | --- |
 | Revisão deste briefing | Victor verifica estrutura e aderência ao texto antes da próxima etapa. |
-| Imagem da abertura B01 | Aberta na própria fonte. A sugestão de frame de arquivo/retorno ao passado é proposta para o storyboard. |
+| Abertura B01 | Direção definida em D-30: referência Marvel, quadros de Goel e “Cia Luz”. Conferência do pin, seleção de capturas, desenho da assinatura e fases continuam pendentes; ver seção 4.1. |
 | Takes dos cinco cortes e cobertura restante | A enviar por Victor; acesso ao acervo geral continua em P-03. |
 | Locução | Definir quem grava, receber gravação e revisar interpretação, incluindo B11. Sem duração presumida. |
 | Áudio “Hoje sim…” | Receber/localizar arquivo original e definir recorte/uso. |
@@ -123,9 +193,9 @@ Ao receber, registrar nome real, versão, duração, resolução, proporção, f
 ## 9. Sequência de execução e critérios de revisão
 
 1. **Agora:** registrar a fonte e este briefing; Victor revisa o `.md`.
-2. **Depois da revisão:** receber/conferir os arquivos, transcrever os cinco cortes e selecionar frames; resolver a proposta da intro e os pontos que afetem a montagem.
+2. **Depois da revisão:** receber/conferir os arquivos, transcrever os cinco cortes e selecionar frames; refinar as fases da intro Cia Luz e os pontos que afetem a montagem.
 3. **Storyboard:** definir quantidade e IDs `MM-02-QNN`; documentar cada quadro no caderno e criar a prancha com paleta/amostras, luz, elementos, movimento/efeitos, gatilhos de fala e continuidade. Nome da futura prancha: `STB MM02`, com extensão real; quadros individuais: `MM02-Q01`, etc.
-4. **Vídeo:** com materiais e direção revistos, selecionar ferramentas/skills disponíveis, montar locução + arquivo + efeitos, produzir alpha e revisar duração/inteligibilidade. A escolha de ferramenta não está fechada neste briefing.
+4. **Vídeo:** com materiais e direção revistos, implementar a montagem por programação em JavaScript e renderizar posteriormente, conforme D-30. Avaliar Remotion como possibilidade, montar locução + arquivo + efeitos, produzir alpha e revisar duração/inteligibilidade. A ferramenta específica ainda não está escolhida.
 5. **Integração:** conferir entrada/saída com MM-01, lista de takes com Isaac, reprodução no sistema real, ensaio no telão, ajustes e entrega conforme guia.
 
 **Para revisar este documento:** identificação MM-02/Victor/Cena 1 correta; cinco pares na ordem enviada; ausência de narração nos cinco cortes; texto integral preservado; gag/pausa da Juliette e áudio original registrados; morte, ressurreição e retorno presentes; propostas e materiais ausentes identificados. Nenhuma aprovação de storyboard, alpha, render ou teste é inferida do registro canônico da fonte.

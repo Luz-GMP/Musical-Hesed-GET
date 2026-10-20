@@ -13,7 +13,7 @@ Como preencher: [storyboards/README.md](../README.md).
 
 ## Briefing específico canônico
 
-[Briefing do recap · v01](briefing-recap.md), registrado em 19/10/2026 por determinação de Victor (D-29). Contém a fonte integral recebida, estrutura narrativa, direção, materiais e pendências para revisão antes do storyboard. Nenhuma prancha ou vídeo produzido nesta etapa.
+[Briefing do recap · v02](briefing-recap.md), registrado em 19/10/2026 por determinação de Victor (D-29). Contém a fonte integral recebida, estrutura narrativa, direção, materiais e pendências para revisão antes do storyboard. B01 refinado em D-30: abertura Cia Luz inspirada na referência Marvel, com capturas de Goel e implementação futura por código. Fases propostas na seção 4.1; nenhuma prancha ou vídeo produzido nesta etapa.
 
 ## Conceito em uma frase
 
