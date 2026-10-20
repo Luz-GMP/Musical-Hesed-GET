@@ -30,10 +30,21 @@ Para referências: distinguir observação visual de descrição do usuário/met
 
 - Paleta com nomes e amostras quando definidas; luz/atmosfera:
 - Elementos, identidade e continuidade:
-- Ferramentas por composição; localização do projeto e mídia:
+- Motor por composição: [A · HTML/JS + Playwright + FFmpeg / B · Remotion / combinação; motivo]
+- FPS nativo por take/referência, indícios de VFR e taxa racional de saída:
+- Resolução, duração/frame count/arredondamento e configuração revistos por: [pessoa/data ou pendente]
+- Ferramentas/versões e localização do projeto e mídia:
 - Configurações editáveis, sincronismo, pausas e seleção de frames:
 - Revisões aprovadas: [pessoa/data/escopo; reutilizar aprovações existentes]
 - Questões que dependem de direção/material:
+
+## Inspeção visual antes do render completo
+
+| Cena/bloco | Tempo/frame e arquivo real | Clipping / sobreposição / contraste / área segura / mídia | Correção e versão reinspecionada | Resultado |
+| --- | --- | --- | --- | --- |
+| A preencher | | | | |
+
+Cobrir todas as cenas e estados críticos; adicionar preview curto para movimento/sincronismo. Registrar efeitos sonoros por arquivo/geração procedural, evento/tempo e ganho. Mudança posterior de áudio/timing exige nova inspeção afetada. Aprovação artística e QA técnico são registros distintos.
 
 ## Verificação e entrega
 

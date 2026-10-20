@@ -2,7 +2,7 @@
 
 **Projeto:** HESED · Musical de Natal 2026  
 **Responsável:** Victor · **Cena:** 1, Pós-libertação · **Bloco:** I  
-**Versão documental:** v07 · **Registro e refinamento B01–B14:** 19/10/2026 · Codex, a pedido de Victor<br>
+**Versão documental:** v08 · **Registro e refinamento B01–B14:** 19/10/2026 · Codex, a pedido de Victor<br>
 **Situação:** base narrativa recebida e registrada como canônica por determinação de Victor (D-29); estrutura de produção para sua revisão. B01 com direção específica definida em D-30; fases de execução propostas para revisão. B02–B06 com takes nomeados pelos pares e congelamento final em cada corte (D-32). B07–B14 com referência para o narrador limitada ao início até o final do segundo 4 (D-33, §4.3). Storyboard e vídeo ainda não produzidos/aprovados.
 
 ## 1. Objetivo e escopo desta etapa
@@ -201,6 +201,12 @@ Continuam com suas referências próprias: **B01**, abertura Cia Luz (D-30/D-31)
 ### Procedimento pronto para uso · D-35
 
 Victor adotou o arquivo “Skill Edição de Videos com AI Agents.md” como direção do método. Consultar o [guia operacional de edição com agentes](../../guias/edicao-de-video-com-agentes.md), o [modelo de plano de cenas](../../templates/plano-de-video-programatico.md) e o [original preservado](../../docs/fontes/Skill_Edicao_de_Videos_com_AI_Agents_original.md). O procedimento organiza ingestão, plano/revisão, implementação e renderização, preservando D-29–D-34. Esta etapa prepara a documentação; não instala ferramentas nem executa receitas. Próximo passo: inventariar os materiais recebidos e preencher o plano da MM-02 com evidência real, sem presumir tempos ou aprovação visual.
+
+### Atualização do método · D-36
+
+O [anexo atualizado](../../docs/fontes/Skill_Edicao_de_Videos_com_AI_Agents_atualizacao_01.md) e o [guia operacional v02](../../guias/edicao-de-video-com-agentes.md) acrescentam a escolha por composição entre HTML/JS + Playwright + FFmpeg e Remotion, FPS configurável com cadências racionais e inspeção visual/correção dos frames antes do render integral. Registrar storyboard, motor, FPS e revisão no modelo de plano. O FPS final da MM-02 continua pendente de P-01 e da direção de Victor, sem adoção automática de taxa da referência.
+
+No QA, cobrir todas as cenas e estados críticos, incluindo assinatura Cia Luz, congelamentos B02–B06 e transições dos inserts. SFX procedurais podem complementar a montagem onde a direção pedir; não substituem o áudio original de B10. Ajustar tempos à locução real e reinspecionar se ela mudar. Este registro não aprova o storyboard nem inicia instalação, código, síntese de áudio ou render.
 
 ## 5. Voz, humor, diálogos e som
 

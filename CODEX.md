@@ -63,6 +63,8 @@ Antes de salvar imagens, aplicar o [padrão canônico de nomes](guias/entrega-e-
 
 A D-28 e o [inventário](storyboards/inventario-de-arquivos.md) registram a adequação do acervo. As variações de luz da MM-03 usam os sufixos documentados no guia; mantenha a versão artística e a aprovação nas fichas.
 
-## Produção de vídeo por código · Victor · D-35
+## Produção de vídeo por código · Victor · D-35/D-36
 
 Para a MM-02 e os próximos vídeos produzidos com Victor, consultar o [procedimento de edição com agentes](guias/edicao-de-video-com-agentes.md) e o [modelo de plano de cenas](templates/plano-de-video-programatico.md). O anexo original está preservado em docs/fontes; a versão operacional aplica a direção de Victor/D-34, decisões por peça e fases de ingestão → plano/revisão → implementação → render. HTML animado, Remotion, FFmpeg e Python podem ser combinados. Não impor padrões de Reels, cortes automáticos de pausas ou legendas a toda fala. Preservar aprovações existentes, limitações reais de acesso às referências e parâmetros ainda pendentes. Preparação documental não significa plugin instalado ou render executado.
+
+**Atualização D-36:** consultar o guia v02 e o anexo atualizado preservado em docs/fontes. Registrar motor (HTML/JS + Playwright + FFmpeg e/ou Remotion), FPS de origem/saída e configuração no storyboard. Após revisão no escopo, gerar, abrir, inspecionar e corrigir frames por cena antes do render completo; incluir estados críticos e pequenos previews quando necessário. Efeitos sonoros procedurais são recurso conforme direção. Preservar taxas racionais, sincronismo pela locução real e regras do telão/P-01; snippets e instalação de ferramentas não são validados pela mera presença no anexo.

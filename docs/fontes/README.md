@@ -30,3 +30,13 @@ Os originais prevalecem sobre erros de conversão nas respectivas transcrições
 - **Adoção:** Victor determina documentar e preparar esta direção de trabalho para uso na MM-02 e nos próximos vídeos realizados com ele (D-35).
 - **Versão operacional:** [guia de edição com agentes](../../guias/edicao-de-video-com-agentes.md), alinhado à direção de Victor/D-34 e às decisões por peça; [modelo de plano](../../templates/plano-de-video-programatico.md). Preservar o original para rastreabilidade; usar o guia adaptado ao executar.
 - **Limites:** texto recebido não instala plugin ou registra skill no aplicativo; receitas, parâmetros de exemplo e comandos não foram executados por sua incorporação. Não substitui o roteiro, briefing audiovisual, decisões artísticas ou permissões das ferramentas.
+
+## Atualização do método de edição com agentes · D-36
+
+[Anexo atualizado integral](Skill_Edicao_de_Videos_com_AI_Agents_atualizacao_01.md), recebido em 19/10/2026 após Victor informar a atualização de seu arquivo local. O caminho Windows informado não foi acessado; a comparação usa o novo anexo efetivamente recebido. `atualizacao_01` é identificação de arquivamento, não versão interna declarada. Autoria/data/versão internas continuam não informadas.
+
+- **Integridade:** 25130 bytes · SHA-256 `e5cfa8b260884ccaa91f38a3ffeb9a94d653d6bb51eb2dd3efe4aab1aceff0c3`.
+- **Histórico:** versão anterior preservada em [original](Skill_Edicao_de_Videos_com_AI_Agents_original.md), sem sobrescrita. Novo título acrescenta Playwright JS.
+- **Novidades incorporadas:** motores HTML/JS + Playwright + FFmpeg e Remotion; escolha de FPS e taxas fracionárias; relógio determinístico; storyboard/configuração antes dos testes; inspeção visual e correção de frames por cena antes do render completo; efeitos sonoros procedurais; ajuste pela duração real da locução; modos A storytelling, B produto, C takes e D referência visual.
+- **Aplicação vigente:** [guia operacional v02](../../guias/edicao-de-video-com-agentes.md) e [modelo atualizado](../../templates/plano-de-video-programatico.md). Modos são recursos conforme o briefing, sem impor estilo ou parâmetros dos exemplos.
+- **Limites técnicos registrados:** timestamps automáticos e duração de arquivo não comprovam sincronia perfeita; snippets exigem validação, tratamento de falhas e revisão de FPS, captura/decodificação, áudio e cobertura de QA. Instalações/downloads/chamadas de API não foram executados nesta tarefa documental. Regras de direção D-34 e acesso das ferramentas continuam vigentes.
