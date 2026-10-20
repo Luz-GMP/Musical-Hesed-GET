@@ -19,3 +19,14 @@
 - [Roteiro do Musical Natal 2026](HESED_Roteiro_Musical_Natal_2026.pdf); transcrição de consulta em [roteiro.md](../roteiro.md).
 
 Os originais prevalecem sobre erros de conversão nas respectivas transcrições. A data da Bíblia é anterior à do briefing; sua incorporação não revoga automaticamente a distribuição mais recente da equipe.
+
+## Método de edição de vídeo com agentes · D-35
+
+[Skill de edição · original integral](Skill_Edicao_de_Videos_com_AI_Agents_original.md) — anexo `Skill Edição de Videos com AI Agents.md`, recebido de Victor em 19/10/2026 e preservado sem alterações.
+
+- **Título interno:** SKILL: Engenheiro de Edição de Vídeo Autônomo & Motion Designer (Remotion + FFmpeg + Python).
+- **Autoria, data e versão internas:** não informadas. Data acima é de recebimento.
+- **Integridade:** 17313 bytes · SHA-256 `1b1a21a0cb907a23e52cb882b859bc5195e560fd4c57a5008b938c5a09262be9`.
+- **Adoção:** Victor determina documentar e preparar esta direção de trabalho para uso na MM-02 e nos próximos vídeos realizados com ele (D-35).
+- **Versão operacional:** [guia de edição com agentes](../../guias/edicao-de-video-com-agentes.md), alinhado à direção de Victor/D-34 e às decisões por peça; [modelo de plano](../../templates/plano-de-video-programatico.md). Preservar o original para rastreabilidade; usar o guia adaptado ao executar.
+- **Limites:** texto recebido não instala plugin ou registra skill no aplicativo; receitas, parâmetros de exemplo e comandos não foram executados por sua incorporação. Não substitui o roteiro, briefing audiovisual, decisões artísticas ou permissões das ferramentas.

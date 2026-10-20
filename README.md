@@ -25,6 +25,7 @@ Aqui fica tudo que a equipe precisa para trabalhar alinhada: o contexto do espet
 | Montar ou ver o storyboard de uma peça | [storyboards/](storyboards/) → código da peça |
 | Criar ou editar imagens do HESED | Consulta obrigatória ao [guia canônico](storyboards/guia-de-construcao.md) e ao [briefing do quadro](storyboards/briefings-dos-quadros.md) antes da geração |
 | Saber como fazer um playback que "dance" com a música | [guias/playback-visual.md](guias/playback-visual.md) |
+| Produzir vídeos por código com Victor | [Procedimento de edição com agentes](guias/edicao-de-video-com-agentes.md) · [modelo de plano](templates/plano-de-video-programatico.md) |
 | Saber como nomear, exportar e entregar arquivos | [guias/entrega-e-arquivos.md](guias/entrega-e-arquivos.md) |
 | Nomear imagens de storyboard | [Padrão canônico](guias/entrega-e-arquivos.md#imagens-de-storyboard--padrão-canônico): `STB MM09` para prancha; `MM09-Q01` para quadro, com extensão real |
 | Conferir se uma peça está pronta | [guias/checklist-de-aceite.md](guias/checklist-de-aceite.md) |

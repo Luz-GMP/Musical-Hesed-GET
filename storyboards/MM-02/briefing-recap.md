@@ -2,7 +2,7 @@
 
 **Projeto:** HESED · Musical de Natal 2026  
 **Responsável:** Victor · **Cena:** 1, Pós-libertação · **Bloco:** I  
-**Versão documental:** v06 · **Registro e refinamento B01–B14:** 19/10/2026 · Codex, a pedido de Victor<br>
+**Versão documental:** v07 · **Registro e refinamento B01–B14:** 19/10/2026 · Codex, a pedido de Victor<br>
 **Situação:** base narrativa recebida e registrada como canônica por determinação de Victor (D-29); estrutura de produção para sua revisão. B01 com direção específica definida em D-30; fases de execução propostas para revisão. B02–B06 com takes nomeados pelos pares e congelamento final em cada corte (D-32). B07–B14 com referência para o narrador limitada ao início até o final do segundo 4 (D-33, §4.3). Storyboard e vídeo ainda não produzidos/aprovados.
 
 ## 1. Objetivo e escopo desta etapa
@@ -197,6 +197,10 @@ Continuam com suas referências próprias: **B01**, abertura Cia Luz (D-30/D-31)
 **Sincronização:** usar os tempos reais da gravação, das frases, pausas e palavras relevantes. Dividir igualmente as palavras pelo tempo pode servir apenas a um rascunho explicitamente provisório; não comprova sincronização final. O ritmo gráfico deve acompanhar a interpretação e as intenções do roteiro.
 
 **Aplicação às próximas peças:** reaproveitar componentes, organização de assets, controles de tempo e procedimentos de render quando ajudarem, mantendo briefing, direção, proporção, duração e conteúdo próprios de cada vídeo. O PDF não é incorporado como fonte canônica de direção artística nem suas instruções internas autorizam instalações, publicação ou serviços externos.
+
+### Procedimento pronto para uso · D-35
+
+Victor adotou o arquivo “Skill Edição de Videos com AI Agents.md” como direção do método. Consultar o [guia operacional de edição com agentes](../../guias/edicao-de-video-com-agentes.md), o [modelo de plano de cenas](../../templates/plano-de-video-programatico.md) e o [original preservado](../../docs/fontes/Skill_Edicao_de_Videos_com_AI_Agents_original.md). O procedimento organiza ingestão, plano/revisão, implementação e renderização, preservando D-29–D-34. Esta etapa prepara a documentação; não instala ferramentas nem executa receitas. Próximo passo: inventariar os materiais recebidos e preencher o plano da MM-02 com evidência real, sem presumir tempos ou aprovação visual.
 
 ## 5. Voz, humor, diálogos e som
 
