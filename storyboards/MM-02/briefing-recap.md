@@ -2,8 +2,8 @@
 
 **Projeto:** HESED · Musical de Natal 2026  
 **Responsável:** Victor · **Cena:** 1, Pós-libertação · **Bloco:** I  
-**Versão documental:** v04 · **Registro e refinamento B01–B06:** 19/10/2026 · Codex, a pedido de Victor<br>
-**Situação:** base narrativa recebida e registrada como canônica por determinação de Victor (D-29); estrutura de produção para sua revisão. B01 com direção específica definida em D-30; fases de execução propostas para revisão. B02–B06 com takes nomeados pelos pares e congelamento final em cada corte (D-32). Storyboard e vídeo ainda não produzidos/aprovados.
+**Versão documental:** v05 · **Registro e refinamento B01–B14:** 19/10/2026 · Codex, a pedido de Victor<br>
+**Situação:** base narrativa recebida e registrada como canônica por determinação de Victor (D-29); estrutura de produção para sua revisão. B01 com direção específica definida em D-30; fases de execução propostas para revisão. B02–B06 com takes nomeados pelos pares e congelamento final em cada corte (D-32). B07–B14 com referência para o narrador limitada ao início até o final do segundo 4 (D-33, §4.3). Storyboard e vídeo ainda não produzidos/aprovados.
 
 ## 1. Objetivo e escopo desta etapa
 
@@ -18,6 +18,7 @@ Esta entrega registra o texto enviado como fonte, cruza-o com a documentação d
 | Texto “Roteiro de vídeo”, enviado por Victor nesta conversa em 19/10/2026, com autoria original não identificada | Base específica canônica da MM-02: falas do narrador, cinco cortes, ordem, pausas e áudio solicitado. Preservada integralmente na seção 10. |
 | Refinamento de Victor em 19/10/2026 · D-30 | Direção do B01: referência Marvel (link vigente no YouTube, D-31), “Cia Luz”, capturas de Goel e produção do vídeo por código; Remotion como possibilidade. |
 | Refinamento de Victor em 19/10/2026 · D-32 | Takes dos cinco cortes nomeados pelos pares de pecados e congelamento ao final de cada corte, com referência própria no YouTube (§4.2). |
+| Refinamento de Victor em 19/10/2026 · D-33 | Modelo para as demais falas do narrador: vídeo Shgr6TkJTDI, do início até o final do segundo 4; alcance B07–B14 (§4.3). |
 | [Roteiro do HESED · Cena 1](../../docs/roteiro.md#cena-1-pós-libertação) | Identificação do recap, congelamento, ações essenciais e retomada imediata. |
 | [Briefing Definitivo v1.0 · §§2–7](../../docs/briefing.md) | Victor responsável por MM-01/02/03; linguagem comum; detalhamento do Bloco I reservado ao responsável. |
 | [Bíblia de Produção v0.1 · §§1.3–1.4, 2.2, 3, 5, 7.1, 8, 9 e 16](../../docs/fontes/HESED_Biblia_de_Producao_v0_1.md) | Continuação de Goel, personalidades, separação palco/telão, luz, congelamento e retorno. BIB-Q003/BIB-Q004 são cues preliminares, não quadros. |
@@ -155,6 +156,36 @@ Esta referência se aplica ao **final dos cortes 1–5**. Ela complementa a refe
 
 **Conferir antes do alpha:** cinco takes associados aos pares corretos; cinco congelamentos presentes; falas completas e inteligíveis; pausas com ritmo coerente; sem narração em B02–B06; passagem do quinto congelamento para B07; efeito visual comparado com a referência quando disponível. Não foram recebidos/renomeados arquivos, escolhidos frames, implementados efeitos ou renderizados previews nesta etapa.
 
+## 4.3. B07–B14 · Referência para as demais falas do narrador · D-33
+
+**Definição de Victor:** usar como modelo para os demais blocos de fala do narrador o [vídeo de referência no YouTube](https://www.youtube.com/watch?v=Shgr6TkJTDI), **somente do início até o final do segundo 4**. Esse limite pertence ao vídeo de referência; não determina que cada fala ou bloco da MM-02 dure quatro segundos. Não adotar elementos apresentados depois desse trecho como orientação desta decisão.
+
+**Consulta:** a ferramenta web identificou a página com o título “Typography Motion Graphics Animation in CapCut - CapCut Tutorial”, mas retornou apenas texto institucional do YouTube, sem acesso à reprodução ou aos frames. Portanto, o título identifica a página, mas não comprova o efeito visual dos primeiros quatro segundos. Tipografia, cores, fundo, composição, animação, ritmo, transições e som desse trecho ainda precisam ser conferidos visualmente. Não há decupagem visual realizada nem estilo gráfico específico inferido do título.
+
+### Alcance e convivência com o roteiro
+
+| Blocos | Aplicação da nova referência |
+| --- | --- |
+| B07 | Falas sobre as justificativas, o aprisionamento e as correntes. |
+| B08–B09 | Narração do julgamento e comentário depois da Juliette; preservar o corte da Ladra lançando os óculos, a pausa para o narrador e a declaração de culpa do juiz. |
+| B10–B11 | Falas do desespero, chegada de Jesus, dívida e libertação; preservar o áudio original “Hoje sim…” e as ações previstas no roteiro. |
+| B12–B13 | Falas sobre morte, pergunta “Fim da história?”, Jesus vivo e reação das detentas; preservar a quebra seca de clima de B12. |
+| B14 | Encerramento “E foi assim que chegamos ao momento atual”, seguido da retomada imediata da Cena 1/MM-01. |
+
+A referência define o modelo para os **trechos de narração**, a ser detalhado após visualização. Não elimina os inserts de Goel nem substitui a narrativa por uma sequência de texto integral sem decisão específica de Victor. O modo de alternar ou combinar tratamento gráfico e takes será registrado no storyboard. Não acrescentar falas ou mudar o texto canônico para encaixar o modelo.
+
+Continuam com suas referências próprias: **B01**, abertura Cia Luz (D-30/D-31), e **B02–B06**, takes e congelamentos finais dos cinco cortes (D-32). A nova referência não insere narração nesses cinco cortes nem aplica automaticamente a eles um novo efeito.
+
+### Preparação para implementação por código
+
+- Cadastrar a URL e o limite do trecho de referência separadamente da timeline do recap.
+- Após conferir os primeiros quatro segundos, descrever os elementos visíveis, a ordem dos movimentos e as transições; diferenciar o que será adaptado do que é apenas conteúdo do exemplo.
+- Criar uma composição reutilizável para os trechos do narrador, ajustável por bloco e pela duração real da locução, sem repetir automaticamente uma vinheta de quatro segundos antes de cada frase.
+- Manter configuráveis textos gráficos que vierem a ser definidos, mídia de fundo, entradas/saídas e tempos. Não presumir exibição de todas as palavras da locução.
+- Integrar os takes e o áudio específico previstos em B08–B13 e conferir a saída imediata de B14. Cor, fonte, escala e sincronismo só serão fixados após estudo visual e teste com a locução.
+
+**Situação:** referência e recorte registrados; análise visual do trecho, seleção de elementos, storyboard e implementação ainda pendentes. Nenhum código, imagem ou render produzido nesta etapa.
+
 ## 5. Voz, humor, diálogos e som
 
 - **Narrador:** voz tranquila, coloquial e debochada, com pausas de observação e comentário. “Todo Mundo Odeia o Chris” é referência de ritmo e atitude citada na fonte; não define locutor contratado ou voz gravada.
@@ -170,7 +201,7 @@ Esta referência se aplica ao **final dos cortes 1–5**. Ela complementa a refe
 
 ## 6. Direção visual para o futuro storyboard
 
-**Estilo:** montagem de arquivo próprio de Goel, com leitura clara no telão e tratamento coeso. Reenquadramentos, pausas e efeitos servem ao texto. Não substituir os atores do arquivo por personagens gerados nem criar novas cenas nesta etapa.
+**Estilo:** montagem de arquivo próprio de Goel, com leitura clara no telão e tratamento coeso. Para o tratamento das falas do narrador em B07–B14, seguir a referência e o recorte de D-33/§4.3, cujo detalhamento visual ainda depende da conferência do vídeo. Reenquadramentos, pausas e efeitos servem ao texto. Não substituir os atores do arquivo por personagens gerados nem criar novas cenas nesta etapa.
 
 **Paleta — diretriz de estudo, sem valores de cor aprovados:** azul-noturno para sombra/ligação com a prisão, neutros do arquivo para base e pele, branco quente e dourado para luz/liberdade. Preservar figurinos, cenários e identidades registrados; não impor recoloração integral ao arquivo. A prancha futura terá amostras visuais e nomes, definidas a partir dos frames reais, sem HEX atribuídos por suposição.
 
@@ -206,6 +237,7 @@ Ao receber, registrar nome real, versão, duração, resolução, proporção, f
 | Abertura B01 | Direção definida em D-30: referência Marvel, quadros de Goel e “Cia Luz”. Conferência do vídeo do YouTube (D-31), seleção de capturas, desenho da assinatura e fases continuam pendentes; ver seção 4.1. |
 | Takes dos cinco cortes e cobertura restante | A enviar por Victor; acesso ao acervo geral continua em P-03. |
 | Congelamento dos cortes 1–5 | Definido em D-32; conferir referência do efeito, escolher frame e duração de cada sustentação após receber os takes (§4.2). |
+| Modelo das demais falas do narrador | D-33: conferir visualmente a referência Shgr6TkJTDI somente do início até o final do segundo 4 e detalhar sua aplicação em B07–B14 (§4.3). |
 | Locução | Definir quem grava, receber gravação e revisar interpretação, incluindo B11. Sem duração presumida. |
 | Áudio “Hoje sim…” | Receber/localizar arquivo original e definir recorte/uso. |
 | Ordem liberdade → morte e correspondência com Goel | Conferir no arquivo sem reordenar silenciosamente a fonte. |
