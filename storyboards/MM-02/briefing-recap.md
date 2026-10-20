@@ -1,0 +1,198 @@
+# MM-02 · Briefing específico — Flashback de Goel (recap)
+
+**Projeto:** HESED · Musical de Natal 2026  
+**Responsável:** Victor · **Cena:** 1, Pós-libertação · **Bloco:** I  
+**Versão documental:** v01 · **Registro:** 19/10/2026 · Codex, a pedido de Victor  
+**Situação:** base narrativa recebida e registrada como canônica por determinação de Victor (D-29); estrutura de produção para sua revisão. Storyboard, soluções visuais e vídeo ainda não produzidos/aprovados.
+
+## 1. Objetivo e escopo desta etapa
+
+Recapitular Goel para quem não assistiu ao musical de Páscoa, mostrando como as dez personagens se aprisionaram, foram julgadas e receberam liberdade por Jesus. O vídeo explica a situação que o público acaba de encontrar e devolve a narrativa ao presente da Cena 1.
+
+Esta entrega registra o texto enviado como fonte, cruza-o com a documentação do HESED e organiza um briefing executável para as próximas etapas. A sequência abaixo é uma decupagem textual de blocos narrativos, não uma prancha nem o storyboard definitivo. A quantidade de quadros será definida depois da revisão deste documento e da conferência dos materiais.
+
+## 2. Fontes consultadas e autoridade
+
+| Fonte | Aplicação nesta multimídia |
+| --- | --- |
+| Texto “Roteiro de vídeo”, enviado por Victor nesta conversa em 19/10/2026, com autoria original não identificada | Base específica canônica da MM-02: falas do narrador, cinco cortes, ordem, pausas e áudio solicitado. Preservada integralmente na seção 10. |
+| [Roteiro do HESED · Cena 1](../../docs/roteiro.md#cena-1-pós-libertação) | Identificação do recap, congelamento, ações essenciais e retomada imediata. |
+| [Briefing Definitivo v1.0 · §§2–7](../../docs/briefing.md) | Victor responsável por MM-01/02/03; linguagem comum; detalhamento do Bloco I reservado ao responsável. |
+| [Bíblia de Produção v0.1 · §§1.3–1.4, 2.2, 3, 5, 7.1, 8, 9 e 16](../../docs/fontes/HESED_Biblia_de_Producao_v0_1.md) | Continuação de Goel, personalidades, separação palco/telão, luz, congelamento e retorno. BIB-Q003/BIB-Q004 são cues preliminares, não quadros. |
+| [Alinhamento das fontes](../../docs/alinhamento-das-fontes.md) e [decisões](../../docs/decisoes.md) | Hierarquia, maturidade das propostas, D-14, D-21, D-25, D-28 e D-29. |
+| [Mapa da Cena 1](../../docs/mapa-de-cenas.md#cena-1--pós-libertação-exterior-da-prisão-no-telão-sem-cadeia-física), [dependências](../../docs/dependencias.md), [Victor](../../equipe/victor.md), [ficha MM-02](README.md) | Gatilhos, continuidade e compartilhamento do arquivo de Goel com Isaac/MM-08. |
+| [Guia de construção](../guia-de-construcao.md), [caderno de quadros](../briefings-dos-quadros.md), [entrega](../../guias/entrega-e-arquivos.md), [aceite](../../guias/checklist-de-aceite.md), [status](../../STATUS.md) e [pendências](../../docs/pendencias.md) | Preparação do storyboard, nomes, materiais, parâmetros ainda abertos e validação. |
+
+O texto novo detalha e atualiza a narração resumida do roteiro para a MM-02, incluindo a abertura “voltar um pouquinho no tempo pra eu te contextualizar” e a saída “E foi assim que chegamos ao momento atual”. Os originais e suas conversões permanecem preservados. A Bíblia disponível é uma consolidação; a transcrição original da reunião não foi recebida (P-14).
+
+## 3. Entrada, palco, telão e saída
+
+- **Recebe de:** MM-01/Victor, exterior da prisão, na referência oficial V05 (D-21). O estado exato do loop na entrada ainda será combinado com a operação.
+- **Gatilho:** depois da fala de Mentira sobre Jesus ter aparecido “vivão”, as detentas discutem e a cena congela: “ENTRA VÍDEO”. Este é o segundo congelamento da Cena 1, diferente da espera inicial pela saída de Jesus.
+- **Palco durante o recap:** elenco congelado, conforme roteiro; luz e condições de sustentação a ensaiar. Não acrescentar atuação ao vivo simultânea como requisito.
+- **Telão:** montagem narrativa de arquivo de Goel. Personagens são necessários nos trechos que mostram suas falas, o julgamento e Jesus; não se aplica a esta montagem a restrição de ambientação sem protagonistas da MM-01/MM-03.
+- **Controle:** vídeo linear com locução, diálogos e efeitos editados; não é loop nem playback musical. Duração a medir após seleção dos takes e gravação da voz.
+- **Entrega cênica:** retorno à MM-01 e à discussão imediatamente após “E foi assim que chegamos ao momento atual”. A Religiosidade tenta interromper: “Gente…. Gente..... GENTEEEEEEE, PAREM DE BRIGAR”. Sem créditos ou encerramento que atrasem a retomada.
+- **Relação com Isaac/MM-08:** compartilhamento de fonte e lista de takes (P-04), não saída direta do vídeo para a Cena 4. O campo antigo da ficha que indicava MM-08 como destino deve ser entendido/corrigido nesse sentido.
+
+As correntes e a prisão pertencem ao passado mostrado no recap. Na abertura e na retomada ao vivo, as personagens já estão livres, sem correntes ou cruz física, conforme D-14. Não acrescentar esses objetos ao presente.
+
+## 4. Estrutura de montagem por blocos narrativos
+
+Os códigos B01–B14 são referências deste briefing, não IDs de quadros. Timecodes, duração de pausas, arquivos e pontos de entrada/saída serão preenchidos com os materiais reais.
+
+| Bloco | Conteúdo / gatilho de voz | Imagem e ação de montagem | Som e observações |
+| --- | --- | --- | --- |
+| B01 · Contextualização | “Pra você que não tá entendendo…” até “do nada.” | Imagem da intro a definir. Proposta: partir de um frame legível do arquivo de Goel e sinalizar o retorno ao passado por movimento/retrocesso discreto, entrando nos diálogos. | Narrador tranquilo e debochado; não presumir take já disponível. |
+| B02 · Corte 1 | Mentira e roubo | Mentira relativiza a verdade; Ladra diz a frase do malandro e do otário e pergunta se já sabem quem ela é. | Áudio dos personagens, sem narração. Selecionar as falas reais, sem inventar transcrição. |
+| B03 · Corte 2 | Adultério e idolatria | Declaração de que Deus quer todos felizes; Idolatria fala de Cauã Reymond. | Áudio dos personagens, sem narração. |
+| B04 · Corte 3 | Ódio e desobediência | Ódio apresenta seus motivos; Desobediência chama fazer o que quer de liberdade. | Áudio dos personagens, sem narração. |
+| B05 · Corte 4 | Cobiça e autossuficiência | Comparação com a vida alheia; afirmação de ter conquistado tudo sozinha. | Áudio dos personagens, sem narração. |
+| B06 · Corte 5 | Profanação e religiosidade | Uso do nome de Deus; superioridade por estar na igreja. | Áudio dos personagens, sem narração. |
+| B07 · Justificativas e prisão | “Como vocês podem ver…” até “Elas mesmas fizeram o serviço.” | Retomar reações/ações de arquivo e conduzir à condição de aprisionamento. A progressão precisa comunicar escolhas → enrosco → correntes. | Narração integral; ritmo cresce na repetição “se enrolando”. Solução exata de montagem ainda proposta. |
+| B08 · Julgamento e Juliette | “E aí chegou o grande dia…” até “provas materiais.” | Acusações e corte explícito para a Ladra lançando os óculos no juiz. | Preservar a compreensão da gag; selecionar áudio útil do take. |
+| B09 · Pausa e veredito | “Depois disso você imagina né…” | Pausar a cena da Juliette para a fala do narrador; ir direto ao juiz declarando todas culpadas. | Não prolongar a pausa além do necessário para a fala; duração não definida. |
+| B10 · Desespero e virada | “A galera ficou desesperada. Mas aí...” | Reações e preparação da entrada de Jesus. | Inserir o áudio original solicitado: “Hoje sim, hoje sim, hoje não, hoje não”. Arquivo/recorte ainda não recebido. |
+| B11 · Dívida e liberdade | “Jesus chegou na área…” até “E elas estavam livres.” | Jesus assume a dívida, declaração “Está consumado”, queda das correntes e libertação. | A indicação de interpretação da voz está preservada na fonte; execução vocal a revisar, sem efeitos cômicos adicionais sobre o sacrifício. |
+| B12 · Morte / quebra de clima | “E aí Jesus morreu...” | Corte seco que pese o clima, como solicitado. Selecionar o take de morte coerente com Goel. | Quebra brusca de tom na locução; eventual retirada de trilha é proposta, sem efeito aprovado. |
+| B13 · Ressurreição e reação | “Fim da história?” até “alguém ressuscita ne?!” | Ressurreição/aparição de Jesus vivo e detentas sem entender. | Recuperar energia no “VIVÃO”; humor na reação das personagens. |
+| B14 · Volta ao presente | “E foi assim que chegamos ao momento atual.” | Concluir o recap e retornar à MM-01 e à discussão congelada. | Final sem cauda que atrase a retomada. Mecanismo de troca/último frame a definir com operação. |
+
+**Cinco cortes:** manter os pares e a ordem da fonte. Cada corte reúne dois comportamentos; isso não obriga o futuro storyboard a ter somente cinco quadros nem dez arquivos separados.
+
+**Cronologia editorial:** a fonte narra liberdade/correntes caindo antes da frase “E aí Jesus morreu”. Preservar essa ordem como base canônica; conferir os acontecimentos nos takes de Goel para que a montagem não pareça uma segunda morte ou uma segunda libertação. Qualquer mudança no texto/ordem deve voltar à revisão de Victor.
+
+## 5. Voz, humor, diálogos e som
+
+- **Narrador:** voz tranquila, coloquial e debochada, com pausas de observação e comentário. “Todo Mundo Odeia o Chris” é referência de ritmo e atitude citada na fonte; não define locutor contratado ou voz gravada.
+- **B02–B06:** nenhuma narração. O sentido vem das falas originais. Zooms, pausas constrangedoras e efeitos pontuais são diretrizes recebidas; escolher sua aplicação depois de ouvir os takes, preservando as palavras e a personalidade de cada personagem.
+- **B09:** congelamento interno do vídeo para o comentário do narrador. Não confundir com o congelamento do elenco ao vivo.
+- **B10:** usar o áudio original solicitado; registrar origem, trecho e arquivo quando recebido, observando a orientação de uso de mídia da Bíblia §5.2.
+- **B11:** a fonte pede “Está consumado” como imitação da voz de Deus. O conteúdo e a rubrica ficam preservados; timbre, solenidade e efeito precisam de revisão na leitura da locução, à luz da reverência da Bíblia §1.3.
+- **B12:** a frase sobre a morte pede corte seco e peso. Não cobrir essa mudança de clima com gag sonora automática.
+- **Mixagem futura:** separar voz do narrador, diálogos, áudio original, efeitos e eventual trilha em camadas editáveis. Priorizar inteligibilidade e evitar sobreposição entre locução e fala importante do arquivo.
+- **Trilha:** nenhuma canção de fundo foi definida para esta MM. Não importar automaticamente Quebrando as Correntes nem a Maravilhosa Graça da MM-08. Tempos, níveis e formato de áudio serão definidos com gravações e operação reais.
+
+**Compatibilização de tom:** a regra geral de humor no palco não elimina o humor do recap, explicitamente previsto pelo roteiro e detalhado nesta fonte específica. Conservar as piadas das personagens e do narrador; a graça, a morte e a ressurreição precisam continuar compreensíveis e reverentes. O limite de interpretação de B11 é um ponto de revisão, não autorização para reescrever a fonte.
+
+## 6. Direção visual para o futuro storyboard
+
+**Estilo:** montagem de arquivo próprio de Goel, com leitura clara no telão e tratamento coeso. Reenquadramentos, pausas e efeitos servem ao texto. Não substituir os atores do arquivo por personagens gerados nem criar novas cenas nesta etapa.
+
+**Paleta — diretriz de estudo, sem valores de cor aprovados:** azul-noturno para sombra/ligação com a prisão, neutros do arquivo para base e pele, branco quente e dourado para luz/liberdade. Preservar figurinos, cenários e identidades registrados; não impor recoloração integral ao arquivo. A prancha futura terá amostras visuais e nomes, definidas a partir dos frames reais, sem HEX atribuídos por suposição.
+
+**Luz e atmosfera:** cotidiano irônico nos cinco cortes; peso crescente na prisão e no julgamento; virada de luz na liberdade; ruptura seca na morte; recuperação na ressurreição e retorno ao presente. São intenções para tratar o arquivo, não novos cues de luz do palco aprovados.
+
+**Elementos visuais necessários:** as dez personagens nos cinco pares, correntes no passado, prisão, juiz, Juliette, Jesus, libertação, morte, ressurreição/aparição e reações. Usar somente o que os materiais comprovarem; faltas devem ser registradas antes de decidir complementos.
+
+**Movimento e efeitos:** zooms/reframes e pausas conforme a fonte; câmera/ação do próprio arquivo como base. A pausa da Juliette é obrigatória no planejamento. Animação de uma eventual imagem-base da intro será sutil, se essa solução for adotada. Não definir velocidade, flashes, partículas ou retrocesso como efeitos já aprovados.
+
+**Continuidade:** manter reconhecíveis as personagens entre os cinco cortes, julgamento e libertação; conferir figurino, Juliette e estado das correntes. Entrar/sair respeitando o ambiente oficial MM-01 V05, sem exigir que o cenário histórico de Goel tenha a mesma arquitetura. O último frame e a troca devem ser ensaiados para evitar tela preta acidental ou duplicação do elenco atual.
+
+## 7. Materiais e identificação dos cinco cortes
+
+**Situação neste registro:** nenhum vídeo dos cortes, take adicional, áudio original ou locução foi recebido/inspecionado nesta etapa. Victor informou que renomeará e enviará os vídeos posteriormente. Os nomes abaixo são sugestões para organização do recebimento, não arquivos existentes nem renomeações executadas. Preservar a extensão real.
+
+| Código de recebimento | Sugestão de nome sem extensão | Conferir ao receber |
+| --- | --- | --- |
+| Corte 1 | `MM02-C01-mentira-roubo` | As duas falas completas, pergunta final da Ladra e áudio legível. |
+| Corte 2 | `MM02-C02-adulterio-idolatria` | Justificativa da felicidade e fala sobre Cauã Reymond. |
+| Corte 3 | `MM02-C03-odio-desobediencia` | Motivos do Ódio e justificativa de liberdade. |
+| Corte 4 | `MM02-C04-cobica-autossuficiencia` | Comparação e declaração de conquista própria. |
+| Corte 5 | `MM02-C05-profanacao-religiosidade` | Uso do nome de Deus e superioridade religiosa. |
+
+Além dos cinco cortes, conferir disponibilidade de: detentas presas/correntes; acusações; lançamento da Juliette; juiz declarando culpa; desespero; Jesus assumindo a dívida; “Está consumado” e correntes caindo; morte; ressurreição/aparição; reações finais. Podem vir no mesmo arquivo ou separados. Não presumir que os cinco vídeos cobrem todo o recap.
+
+Ao receber, registrar nome real, versão, duração, resolução, proporção, fps, áudio, conteúdo, trechos úteis e origem. Transcrever falas e marcar in/out somente após assistir. Preservar originais. Compartilhar com Isaac a lista de takes selecionados para MM-02 antes de fechar a MM-08 (P-04); este registro não resolve P-03/P-04.
+
+## 8. Pendências e decisões ainda necessárias
+
+| Ponto | Situação / quem participa |
+| --- | --- |
+| Revisão deste briefing | Victor verifica estrutura e aderência ao texto antes da próxima etapa. |
+| Imagem da abertura B01 | Aberta na própria fonte. A sugestão de frame de arquivo/retorno ao passado é proposta para o storyboard. |
+| Takes dos cinco cortes e cobertura restante | A enviar por Victor; acesso ao acervo geral continua em P-03. |
+| Locução | Definir quem grava, receber gravação e revisar interpretação, incluindo B11. Sem duração presumida. |
+| Áudio “Hoje sim…” | Receber/localizar arquivo original e definir recorte/uso. |
+| Ordem liberdade → morte e correspondência com Goel | Conferir no arquivo sem reordenar silenciosamente a fonte. |
+| Divisão com Isaac | P-04 segue aberta; alinhar takes usados e evitar repetição desnecessária na MM-08. |
+| Operação de entrada/retorno | Validar fim do arquivo, retomada da MM-01 e sincronismo do elenco; sistema em P-12. |
+| Parâmetros de vídeo | P-01: matriz real, proporção de saída, fps e codec. Painel físico ≈6×3 m e referência de imagem 3840×2160 não definem exportação final. |
+| Pasta de mídia | P-13 segue aberta. Vídeos, áudios e projeto pesado ficam fora do Git; não há link de Drive confirmado. |
+
+## 9. Sequência de execução e critérios de revisão
+
+1. **Agora:** registrar a fonte e este briefing; Victor revisa o `.md`.
+2. **Depois da revisão:** receber/conferir os arquivos, transcrever os cinco cortes e selecionar frames; resolver a proposta da intro e os pontos que afetem a montagem.
+3. **Storyboard:** definir quantidade e IDs `MM-02-QNN`; documentar cada quadro no caderno e criar a prancha com paleta/amostras, luz, elementos, movimento/efeitos, gatilhos de fala e continuidade. Nome da futura prancha: `STB MM02`, com extensão real; quadros individuais: `MM02-Q01`, etc.
+4. **Vídeo:** com materiais e direção revistos, selecionar ferramentas/skills disponíveis, montar locução + arquivo + efeitos, produzir alpha e revisar duração/inteligibilidade. A escolha de ferramenta não está fechada neste briefing.
+5. **Integração:** conferir entrada/saída com MM-01, lista de takes com Isaac, reprodução no sistema real, ensaio no telão, ajustes e entrega conforme guia.
+
+**Para revisar este documento:** identificação MM-02/Victor/Cena 1 correta; cinco pares na ordem enviada; ausência de narração nos cinco cortes; texto integral preservado; gag/pausa da Juliette e áudio original registrados; morte, ressurreição e retorno presentes; propostas e materiais ausentes identificados. Nenhuma aprovação de storyboard, alpha, render ou teste é inferida do registro canônico da fonte.
+
+## 10. Fonte canônica recebida — transcrição integral
+
+O bloco abaixo preserva o texto fornecido entre aspas por Victor, incluindo observações de edição, grafia e rubricas. As descrições dos cinco cortes são resumos da fonte, não transcrições literais dos diálogos de Goel.
+
+```text
+Roteiro de vídeo
+
+1.Abertura: narrador
+Obs: tem que pensar na imagem que vai ficar enquanto ele fala essa Intro.
+
+NARRADOR (voz tranquila e debochada vibe todo mundo odeia o Chris):
+Pra você que não tá entendendo o que tá acontecendo, vamos voltar um pouquinho no tempo pra eu te contextualizar.
+Afinal, essa galera não chegou nessa situação do nada.
+
+2. Os cinco cortes dos pecados
+Aqui não tem narração. Só os cortes dos personagens falando, com zooms, pausas constrangedoras e efeitos sonoros quando combinar.
+
+Corte 1 — Mentira e roubo
+A Mentira explicando que cada um ajusta a verdade como precisa. A Ladra manda a frase do malandro e do otário e pergunta se você já sabe quem ela é.
+
+Corte 2 — Adultério e idolatria
+A declaração de que Deus quer que todo mundo seja feliz, seguida pela Idolatria falando do Cauã Reymond.
+
+Corte 3 — Ódio e desobediência
+O Ódio explicando os motivos pelos quais não suporta alguém, seguido pela Desobediência justificando que faz o que quer e chamando isso de liberdade.
+
+Corte 4 — Cobiça e autossuficiência
+A Cobiça comparando a própria vida com a dos outros e a Autossuficiência dizendo que tudo conquistou sozinha.
+
+Corte 5 — Profanação e religiosidade
+A Profanação falando que todo mundo usa o nome de Deus e a Religiosidade se declarando superior por estar na igreja.
+
+3. NARRADOR:
+Como vocês podem ver, uma mentia, outra roubava, uma queria o marido dos outros, outra queria ser a próxima senhora Reymond…
+Enfim, era cada uma cuidando da própria lambança.
+E o mais impressionante é que nenhuma delas achava que tinha alguma coisa errada. Pelo contrário! Cada uma tinha uma justificativa maravilhosa pra fazer exatamente o que queria.
+E foi assim, ó… uma escolha aqui, outra ali… que elas foram se enrolando, se enrolando…
+Até que, quando perceberam…
+
+Parabéns! Conseguiram o que ninguém pediu: uma coleção de correntes e uma estadia gratuita na cadeia.
+E o pior? Ninguém nem precisou prender essa galera. Elas mesmas fizeram o serviço.
+
+
+E aí chegou o grande dia: o julgamento.
+Aí o juiz começou a apresentar as acusações. E a Ladra, que aparentemente não tinha entendido muito bem a gravidade da situação, resolveu contribuir com o julgamento… Como ela não tinha argumentos, resolveu apresentar provas materiais.
+[CORTE: Ladra tacando a Juliette no juiz.]
+
+(Pausa a cena pra fala do narrador e vai direto pro próximo corte)
+Depois disso você imagina né, a situação ficou séria.
+[CORTE: Juiz declarando todas culpadas]
+
+A galera ficou desesperada. Mas aí...
+Hoje sim, hoje sim, hoje não, hoje não (colocar o áudio original)
+Jesus chegou na área e resolveu assumir a dívida da rapaziada toda.
+E, quando declarou ‘Está consumado’ (falar como se estivesse imitando a voz de Deus), as correntes caíram. E elas estavam livres.
+
+E aí Jesus morreu... (Falando tipo em corte seco pesando o clima)
+
+Fim da história?
+Não, né, gente! Você acha que eu fiz você assistir a tudo isso pra acabar assim?!
+Acontece que logo depois Jesus apareceu VIVÃO!
+
+E as detentas, ficaram sem entender nada, até porque convenhamos, não é todo dia que alguém ressuscita ne?!
+
+E foi assim que chegamos ao momento atual.
+```

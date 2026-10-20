@@ -29,6 +29,8 @@
 
 **Indicado pelo roteiro:** narração "Pra você que não tá entendendo o que tá acontecendo, vamos voltar um pouquinho na história"; cenas dos diálogos, detentas presas, Ladra tacando a Juliette no juiz, juiz declarando todas culpadas, Jesus morrendo e voltando; fecha com "Aí Jesus voltou vivão, e aconteceu isso aí que vocês tão vendo agora". Tom leve, de recap.
 
+**Base específica atual · D-29 (19/10/2026):** [briefing do recap](../storyboards/MM-02/briefing-recap.md), com o texto enviado por Victor preservado integralmente como canônico e organizado para revisão. Detalha a indicação resumida acima; storyboard e vídeo ficam para as próximas etapas. Recebe da MM-01 e retorna à mesma ambientação/discussão da Cena 1.
+
 **Atenção:** o MM-08 do Isaac (Cena 4) usa o mesmo arquivo em tom contemplativo. Combinar quais takes ficam com cada um (P-04). Também é preciso definir quem grava a narração.
 
 ## MM-03 · Sala da casa
