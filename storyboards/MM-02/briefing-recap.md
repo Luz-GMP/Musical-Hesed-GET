@@ -141,7 +141,7 @@ Preservar capturas na resolução original, nítidas e sem controles do player. 
 4. Executar duplo QA, apresentar prévia reproduzível versionada com áudio ou pendências identificadas e aguardar aprovação explícita sem pendências antes de outra unidade.
 5. Na integração, conferir a passagem da última frase de B01A para a vinheta e da vinheta para Mentira/roubo. A aprovação isolada de B01B não aprova a MM-02 completa.
 
-**Disponibilidade do método:** o procedimento e os auxiliares AI Filmmaker estão preservados no [pacote](../../docs/fontes/AI_Filmmaker_Agent_2026-10-20/README.md) e no [guia operacional](../../guias/edicao-de-video-com-agentes.md). Nesta consulta não foi localizada skill instalada chamada `ai-filmmaker` no catálogo cloud/executor nem um `SKILL.md` correspondente nas pastas de instruções acessíveis. Podemos aplicar o método documentado do repositório; não afirmar que um plugin foi acionado/instalado. Não foi iniciada implementação ou geração nesta etapa.
+**Disponibilidade do método · D-39:** a skill local [ai-filmmaker](../../.agents/skills/ai-filmmaker/SKILL.md) foi instalada neste repositório, com metadados e referências ao [pacote](../../docs/fontes/AI_Filmmaker_Agent_2026-10-20/README.md) e ao [guia operacional](../../guias/edicao-de-video-com-agentes.md). Pode ser solicitada como `$ai-filmmaker`; AGENTS.md resolve diretamente o arquivo caso a sessão ainda não a liste. Não se trata de instalação global no Windows, de plugin ou de dependências. Nenhuma implementação/geração da vinheta foi iniciada nesta instalação.
 
 ## 4.2. B02–B06 · Cinco takes e congelamento final · D-32
 

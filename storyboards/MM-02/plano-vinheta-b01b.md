@@ -35,4 +35,4 @@
 
 Aplicar o [guia de produção por código](../../guias/edicao-de-video-com-agentes.md) e o [acompanhamento por cena](producao-por-cena.md). Apresentar plano/configuração para revisão no escopo; implementar a unidade atual; realizar auditor DOM e inspeção dos frames de entrada/repouso e momentos críticos; apresentar prévia reproduzível, versionada e com áudio/pendências explícitos. A aprovação da direção deste documento não representa aprovação de uma prévia inexistente.
 
-O método `ai-filmmaker` está documentado no repositório com suas fontes/auxiliares; não foi localizado como skill instalada no catálogo acessível nesta consulta. Sua aplicação documental não depende de alegar plugin instalado. Nenhuma ferramenta de produção foi acionada por esta preparação.
+A skill local [ai-filmmaker](../../.agents/skills/ai-filmmaker/SKILL.md) está instalada neste projeto (D-39); usar `$ai-filmmaker` ou a entrada direta em AGENTS.md. Fontes/auxiliares continuam no repositório. O catálogo da sessão pode precisar de atualização; instalação da skill não inicia a produção nem instala ferramentas de render.

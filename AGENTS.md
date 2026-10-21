@@ -29,3 +29,7 @@ Storyboards ligados à música devem seguir o padrão completo das pranchas do D
 Antes de salvar imagens, aplicar o [padrão canônico de nomes](guias/entrega-e-arquivos.md#imagens-de-storyboard--padrão-canônico): `STB MM09` para a prancha completa e `MM09-Q01` para cada quadro individual, com extensão real e numeração de dois dígitos; preservar letras de módulos (ex.: `MM16D-Q01.png`). Pastas e IDs textuais mantêm `MM-09` / `MM-09-Q01`. Registrar a versão no caderno, preservar referências aprovadas e atualizar links ao renomear. Não usar nomes automáticos da ferramenta ou convenções antigas por iniciativa do agente.
 
 A D-28 e o [inventário](storyboards/inventario-de-arquivos.md) registram a adequação do acervo. As variações de luz da MM-03 usam os sufixos documentados no guia; mantenha a versão artística e a aprovação nas fichas.
+
+## Skill local · ai-filmmaker
+
+A skill do projeto está instalada em [`.agents/skills/ai-filmmaker/SKILL.md`](.agents/skills/ai-filmmaker/SKILL.md), com metadados de interface em `.agents/skills/ai-filmmaker/agents/openai.yaml`. Quando Victor pedir `ai-filmmaker` ou `$ai-filmmaker`, ler esse arquivo e aplicar o procedimento/referências indicados. Se a skill ainda não estiver no catálogo da sessão, resolver diretamente pelo arquivo local; não afirmar que falta apenas porque a lista em cache não a exibiu. A instalação é deste repositório, não instalação global no Windows nem de dependências de render. Seguir o briefing e D-38: B01A fala inicial antes de B01B vinheta; prioridade de produção B01B.

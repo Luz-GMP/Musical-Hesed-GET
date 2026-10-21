@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Filmmaker"
+  short_description: "Vídeos por código, com revisão de uma cena por vez."
+  default_prompt: "Use $ai-filmmaker para produzir a cena atual conforme o briefing e as decisões de Victor."
