@@ -1,7 +1,7 @@
 # MM-02 · Plano de preparação — B01B, vinheta Cia Luz
 
 **Data:** 21/10/2026 · **Direção:** Victor · **Base:** D-38 e [briefing v10, §4.1](briefing-recap.md).<br>
-**Estado:** preparação para revisão; sem imagem recebida, storyboard visual, código ou render.
+**Estado:** logo canônica recebida e inspecionada; prévia V04 em produção, ainda sem aprovação.
 
 ## Entrada e saída definidas
 
@@ -16,7 +16,7 @@
 | Material | Evidência atual | Próxima ação |
 | --- | --- | --- |
 | [Referência Marvel no YouTube](https://www.youtube.com/watch?v=4Xr7PkHjD8A&list=PLr_UAhQSlwSXsb4bqnttfjZoVQxxGI8Li&index=115) | Link já recebido; sem análise visual completa | Inspecionar por meio acessível, registrar os efeitos observados; não presumir movimentos pelo título. |
-| Imagem gerada da logo | Victor informou que enviará; arquivo ausente | Conferir identidade, dimensões, fundo e separação possível em camadas. |
+| [Logo canônica Cia LUZ](../../assets/identidade/CIA-LUZ-LOGO-CANONICA.png) | Recebida de Victor; PNG RGBA transparente, 2048 × 768 px, metal escuro com contornos vermelho/laranja | Usar a própria imagem como camada raster. Não recriar a grafia com fonte nem reutilizar propostas visuais anteriores. |
 | Capturas Goel | A enviar/selecionar | Catalogar candidatos e escolha de Victor, sem quantidade arbitrária. |
 | Som da vinheta | Não escolhido | Direção de trilha/SFX; não presumir música da Marvel. |
 

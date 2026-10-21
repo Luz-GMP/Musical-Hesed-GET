@@ -6,14 +6,14 @@ Este acompanhamento registra o estado real das prévias, não aprovações do co
 
 ## Unidade atual · B01B — vinheta Cia Luz, após a fala inicial
 
-**Estado:** preparação documental; prévia ainda não produzida. D-38 separa a ordem de montagem B01A (fala inicial) → B01B (vinheta) → B02 (highlight 1) e prioriza a produção isolada de B01B. Não é preciso concluir o take B01A para preparar a vinheta; sua fala não será sobreposta a ela. As fases internas A–E não são unidades independentes de aprovação.
+**Estado:** logo canônica recebida; prévia V04 em produção. D-38 separa a ordem de montagem B01A (fala inicial) → B01B (vinheta) → B02 (highlight 1) e prioriza a produção isolada de B01B. Não é preciso concluir o take B01A para preparar a vinheta; sua fala não será sobreposta a ela. As fases internas A–E não são unidades independentes de aprovação.
 
 [Plano de preparação da vinheta](plano-vinheta-b01b.md). Receber imagem/capturas, conferir referência já registrada e revisar storyboard/configuração; então implementar B01B, executar duplo QA e apresentar prévia reproduzível com som/pendências identificados. Só avançar após aprovação explícita da versão sem pendências, preservando a direção atual de Victor.
 
 | Bloco/unidade | Versão da prévia | Estado real | Pendências | QA / prévia existente | Aprovação explícita |
 | --- | --- | --- | --- | --- | --- |
 | B01A · Take inicial do narrador | Não produzida | Planejado para integração, produção não iniciada | Solução visual do take, locução/provedor/perfil e duração; termina antes da vinheta | Não executado / sem arquivo | Não recebida |
-| B01B · Vinheta Cia Luz | Não produzida | Em preparação; prioridade atual D-38 | Imagem da logo e capturas ainda não recebidas; referência por conferir; som, duração própria, parâmetros e storyboard | Não executado / sem arquivo | Não recebida |
+| B01B · Vinheta Cia Luz | V04 em produção | Logo canônica recebida e vinculada; animação sendo refeita com os panoramas canônicos da prisão | Som ainda não definido; prévia precisa de render e duplo QA | [Logo canônica](../../assets/identidade/CIA-LUZ-LOGO-CANONICA.png); prévia ainda não apresentada | Não recebida |
 | B02–B06 · cinco cortes | Não produzidas | Aguardando sequência | Takes e definição das unidades no storyboard; frames/durações de congelamento | Não executado / sem arquivos | Não recebida |
 | B07–B14 · demais falas/inserts | Não produzidas | Aguardando sequência | Locução, inserts, áudio original B10 e detalhamento da referência D-33 | Não executado / sem arquivos | Não recebida |
 

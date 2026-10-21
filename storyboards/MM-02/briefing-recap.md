@@ -93,7 +93,7 @@ A duração de B01A será medida na gravação. A saída é a conclusão da fras
 
 **A referência já foi enviada e continua registrada:** [abertura no YouTube](https://www.youtube.com/watch?v=4Xr7PkHjD8A&list=PLr_UAhQSlwSXsb4bqnttfjZoVQxxGI8Li&index=115) (D-31). O Pinterest foi substituído. Link disponível não comprova análise visual: câmera, geometria, efeitos, música e duração desse vídeo ainda não foram verificados visualmente aqui.
 
-Victor enviará a imagem gerada com a logo da companhia para orientar a vinheta no lugar de “Marvel Studios”. O arquivo ainda não foi recebido/inspecionado. Ao chegar, conferir grafia, cores, material, fundo, recorte, resolução e separação possível em camadas. Não redesenhar a identidade nem presumir logo vetorial/PNG transparente por conta própria. O nome registrado é **Cia Luz**; eventuais escolhas tipográficas devem respeitar a imagem/direção enviada.
+Victor forneceu e canonizou a imagem da companhia em 21/10/2026: [CIA-LUZ-LOGO-CANONICA.png](../../assets/identidade/CIA-LUZ-LOGO-CANONICA.png), PNG RGBA transparente de 2048 × 768 px. A grafia visual é **Cia LUZ**, com faces de metal escuro e contornos luminosos vermelho/laranja. Usar o próprio raster como camada; não redesenhar a identidade, substituir por texto digitado nem reutilizar propostas anteriores inspiradas visualmente na marca Marvel.
 
 As imagens que percorrem a composição serão capturas de Goel, a enviar/selecionar por Victor. Quantidade e enquadramentos dependem da análise da referência, da logo e do storyboard. Não gerar atores para substituir o acervo.
 
@@ -223,7 +223,7 @@ Aplicar o [guia operacional v03](../../guias/edicao-de-video-com-agentes.md), ba
 
 Motor HTML pode usar JS/GSAP com cenas declarativas e tempo local, mantendo Remotion como alternativa. Locução pode vir de VoiceStudio existente, ElevenLabs escolhido ou arquivo, sem presumir API local acessível neste ambiente. Usar picos de música apenas quando houver trilha definida e recebida; não alterar os congelamentos nem substituir o áudio original B10 por sons procedurais. Parâmetros finais continuam por definir.
 
-Victor informou ter gerado uma imagem com a logo para o lugar da Marvel; o arquivo ainda não foi recebido/inspecionado. Capturas de Goel serão fornecidas/selecionadas por ele. Não presumir logo vetorial ou camadas editáveis: conferir a imagem recebida e propor a composição. Esta atualização implementa o método na documentação, não inicia a produção visual.
+A logo oficial foi recebida, inspecionada e registrada em [assets/identidade](../../assets/identidade/README.md). Capturas de Goel ainda serão fornecidas/selecionadas por Victor. A logo é raster com transparência, sem camadas vetoriais presumidas; a composição deve preservar a arte canônica. A prévia V04 da vinheta está em produção e ainda depende de render, QA e aprovação explícita.
 
 ## 5. Voz, humor, diálogos e som
 
