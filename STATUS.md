@@ -10,7 +10,7 @@ Cada pessoa atualiza **a própria linha** quando muda de etapa. Na dúvida sobre
 
 | MM | Peça | Cena | Responsável | Etapa | Versão | Próximo passo | Travado por |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| MM-01 | Exterior/entrada da prisão | 1 | Victor | 🎨 | **V06 oficial (D-40)** | Usar [V06](<storyboards/MM-01/STB MM01.jpg>) e seus quatro quadros canônicos; retomar animação em camadas e validar no LED | Matriz técnica P-01 |
+| MM-01 | Exterior/entrada da prisão | 1 | Victor | 🎨 | **V06 oficial · estado apagado aprovado (D-40/D-41)** | Iniciar pela [atmosfera apagada](storyboards/MM-01/MM01-Q01-ATMOSFERA-APAGADA.png), animar até o panorama iluminado e validar no LED | Matriz técnica P-01 |
 | MM-02 | Flashback de Goel (recap) | 1 | Victor | 📖 | briefing v10 · D-29 a D-38 | Receber imagem da logo/capturas e revisar [plano B01B](storyboards/MM-02/plano-vinheta-b01b.md); B01A precede a vinheta na montagem | Materiais de Goel (P-03), divisão com Isaac (P-04) e locução para edição |
 | MM-03 | Sala da casa | 2–4 | Victor | 🎨 | V03 oficial + 01/02/03 | Revisar [três variações corretas](storyboards/MM-03/README.md), todas com bandejinha/renda; versões antigas excluídas da pasta (D-13) | - |
 | MM-04 | Criação perfeita (loop) | 3 | Melissa | 🎨 | storyboard v01 | Revisar [prancha](<storyboards/MM-04/STB MM04.jpg>), escolher base piloto e alinhar paleta com Lucas/MM-05 | - |

@@ -11,7 +11,7 @@ A atualização visual foi publicada com sucesso na branch principal do GitHub:
 - branch canônica: `main`;
 - avanço confirmado: `7677f37` → `e2fcaa8`;
 - commit publicado: `e2fcaa814a1cfa495e6e1f3637c3be3b91071ff0` — `Canoniza storyboard noturno MM-01 V06`;
-- decisão documental: D-40, pois D-29 a D-39 já pertenciam ao histórico da MM-02;
+- decisões documentais: D-40 para a V06 e D-41 para o estado inicial apagado, pois D-29 a D-39 já pertenciam ao histórico da MM-02;
 - SHA-256 da prancha `storyboards/MM-01/STB MM01.jpg`: `e6e9f09d6f29c00cf8a8a6276c13455f047b4122c46ca112718c7fef017f263a`;
 - resolução da prancha: 3840×2160, AR 16:9.
 
@@ -22,6 +22,7 @@ O push foi confirmado por `git ls-remote`: `refs/heads/main` apontava para `e2fc
 A pasta `storyboards/MM-01/` deve conter como imagens somente:
 
 - `STB MM01.jpg`;
+- `MM01-Q01-ATMOSFERA-APAGADA.png`;
 - `MM01-Q01-ATMOSFERA-MESTRE.png`;
 - `MM01-Q02-ATMOSFERA-NOTURNA.png`;
 - `MM01-Q03-ATMOSFERA-NOTURNA.png`;
@@ -52,7 +53,7 @@ git push origin main
 git ls-remote origin refs/heads/main
 ```
 
-Depois do push, comparar `git rev-parse HEAD` com o hash retornado por `git ls-remote`. Os dois devem ser iguais. Também conferir no GitHub, na branch `main`, se `storyboards/MM-01/STB MM01.jpg` mostra a prancha V06 e se os cinco PNGs canônicos aparecem na mesma pasta.
+Depois do push, comparar `git rev-parse HEAD` com o hash retornado por `git ls-remote`. Os dois devem ser iguais. Também conferir no GitHub, na branch `main`, se `storyboards/MM-01/STB MM01.jpg` mostra a prancha V06 e se os seis PNGs canônicos aparecem na mesma pasta, incluindo o Q01-A apagado.
 
 ## Resultado esperado
 

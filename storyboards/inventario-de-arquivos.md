@@ -1,12 +1,13 @@
 # Inventário de storyboards e quadros
 
-Conferência atualizada em 21/10/2026 conforme D-40. Abrange **53 imagens: 14 pranchas completas, 38 quadros individuais e 1 prancha de conferência**. A auditoria de nomenclatura D-28 renomeou 36 dos 48 arquivos então existentes sem alterar seus bytes; a V06 de MM-01 substituiu a prancha anterior e acrescentou quatro quadros e uma prancha de conferência.
+Conferência atualizada em 21/10/2026 conforme D-40/D-41. Abrange **54 imagens: 14 pranchas completas, 39 quadros individuais e 1 prancha de conferência**. A auditoria de nomenclatura D-28 renomeou 36 dos 48 arquivos então existentes sem alterar seus bytes; a V06 de MM-01 substituiu a prancha anterior e acrescentou quatro quadros, uma prancha de conferência e o estado inicial apagado.
 
 As duas pranchas da MM-04, em JPG e PNG, foram mantidas. As quatro pranchas da MM-03 são a composição oficial e suas três variações de luz. O nome novo não muda versão artística ou aprovação; consulte as fichas de cada peça. O inventário descreve o acervo local; a publicação remota depende do push.
 
 | Tipo | Arquivo atual | Nome anterior |
 | --- | --- | --- |
 | Prancha | [MM-01/STB MM01.jpg](<MM-01/STB MM01.jpg>) | V06 canônica, reconstruída com os quatro quadros aprovados em D-40 |
+| Quadro individual | [MM-01/MM01-Q01-ATMOSFERA-APAGADA.png](MM-01/MM01-Q01-ATMOSFERA-APAGADA.png) | Estado inicial do vídeo aprovado em D-41 |
 | Quadro individual | [MM-01/MM01-Q01-ATMOSFERA-MESTRE.png](MM-01/MM01-Q01-ATMOSFERA-MESTRE.png) | Novo quadro canônico D-40 |
 | Quadro individual | [MM-01/MM01-Q02-ATMOSFERA-NOTURNA.png](MM-01/MM01-Q02-ATMOSFERA-NOTURNA.png) | Novo quadro canônico D-40 |
 | Quadro individual | [MM-01/MM01-Q03-ATMOSFERA-NOTURNA.png](MM-01/MM01-Q03-ATMOSFERA-NOTURNA.png) | Novo quadro canônico D-40 |

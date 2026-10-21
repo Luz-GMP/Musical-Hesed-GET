@@ -1077,16 +1077,18 @@ Referência única V03, aprovada pelo usuário ao reenviar a imagem com renda; v
 
 | ID | Referência aceita | Uso/continuidade |
 | --- | --- | --- |
+| MM-01-Q01-A | [Panorama apagado](MM-01/MM01-Q01-ATMOSFERA-APAGADA.png) | Primeiro estado do vídeo; todas as fontes artificiais e seus reflexos apagados, com leitura azul de madrugada |
 | MM-01-Q01 | [Panorama mestre](MM-01/MM01-Q01-ATMOSFERA-MESTRE.png) | Composição geral, abre com cortina e retorna após MM-02 |
 | MM-01-Q02 | [Guarita e viaturas](MM-01/MM01-Q02-ATMOSFERA-NOTURNA.png) | Fixa integração da guarita, dois guardas e escala da frota |
 | MM-01-Q03 | [Pátio e segundo perímetro](MM-01/MM01-Q03-ATMOSFERA-NOTURNA.png) | Fixa eixo central, muro, portão e penitenciária |
 | MM-01-Q04 | [Acesso com cancela elevada](MM-01/MM01-Q04-ATMOSFERA-NOTURNA.png) | Fixa aproximação ao portão interno sem perder a geografia |
 
-**Movimento/tempo:** os quatro quadros são referências espaciais para retomar a animação, não cortes narrativos impostos. Controle por fala variável, sem tempo medido. Congelamento inicial até Jesus sair é distinto do congelamento para MM-02; ao fim deste, retornar ao mesmo ambiente. Saída técnica a combinar. Não há vídeo/alpha final aprovado.
+**Movimento/tempo:** iniciar no Q01-A apagado. Neblina se move em camadas independentes; fontes da prisão e seus reflexos acendem de forma alternada até o Q01 mestre iluminado. Os quatro quadros V06 são referências espaciais, não cortes narrativos impostos. Controle por fala variável, sem tempo medido. Congelamento inicial até Jesus sair é distinto do congelamento para MM-02; ao fim deste, retornar ao mesmo ambiente. Saída técnica a combinar. Não há vídeo/alpha final aprovado.
 
 ### Registro da V06 e aprovação D-40
 
 - **Quadros aprovados:** Q01–Q04 em PNG 1672×941, proporção próxima de 16:9. A [prancha de conferência](MM-01/MM01-ATMOSFERA-NOTURNA-CONTATO.png) reúne os quatro.
+- **Estado inicial aprovado D-41:** [Q01-A apagado](MM-01/MM01-Q01-ATMOSFERA-APAGADA.png), PNG 1672×941; SHA-256 `efb2ac5f6a05476b2e2bfeab732a8af3d13077880281ae03371c518463ecd6d5`.
 - **Oficial no repositório:** [STB MM01.jpg](<MM-01/STB MM01.jpg>), JPEG 3840×2160, 16:9. SHA-256 `e6e9f09d6f29c00cf8a8a6276c13455f047b4122c46ca112718c7fef017f263a`.
 - **Feedback final:** o usuário aprovou as últimas imagens, ordenou sua canonização, a substituição dos quadros no storyboard e a exclusão das demais imagens. A aprovação não implica validação métrica, confirmação de padronagem oficial dos carros ou ensaio técnico.
 - **Registro anterior:** [prompt da V05](MM-01/prompt-prancha-v05.txt) mantido somente como histórico; não orienta novas imagens nem a animação.
