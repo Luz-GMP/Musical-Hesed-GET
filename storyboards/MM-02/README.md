@@ -13,7 +13,7 @@ Como preencher: [storyboards/README.md](../README.md).
 
 ## Briefing específico canônico
 
-[Briefing do recap · v09](briefing-recap.md), registrado em 19/10/2026 por determinação de Victor (D-29). Contém a fonte integral recebida, estrutura narrativa, direção, materiais e pendências para revisão antes do storyboard. B01 refinado em D-30: abertura Cia Luz inspirada na referência Marvel, com capturas de Goel e implementação futura por código. Referência vigente substituída pelo YouTube em D-31. D-32 define takes nomeados pelos pares e congelamento final em cada um dos cinco cortes (§4.2). D-33 registra o modelo das demais falas do narrador, do início ao final do segundo 4 (§4.3). D-34 registra a direção de Victor e o método complementar com HTML animado/Remotion (§4.4). Fases propostas na seção 4.1; nenhuma prancha ou vídeo produzido nesta etapa.
+[Briefing do recap · v10](briefing-recap.md), com fonte integral recebida e sequência atualizada em 21/10/2026 (D-38): **B01A, take completo do narrador → B01B, vinheta Cia Luz → B02–B06, cinco highlights → B07, retorno do narrador**. A vinheta começa depois de “Afinal, essa galera não chegou nessa situação do nada.” Imagem da logo a enviar; referência YouTube já registrada em D-31. Prioridade de preparação/produção: [vinheta B01B](plano-vinheta-b01b.md), com duração e som próprios a definir. Sem prancha, código ou vídeo produzidos nesta revisão.
 
 ## Conceito em uma frase
 
@@ -41,4 +41,4 @@ Usar o [guia de edição com agentes](../../guias/edicao-de-video-com-agentes.md
 
 **Atualização D-36:** guia v02 incorpora Playwright/Remotion, escolha de FPS, inspeção visual de frames e SFX procedurais. Parâmetros finais, materiais e storyboard seguem pendentes; método pronto para orientar a implementação.
 
-**Método vigente D-37:** [guia v03](../../guias/edicao-de-video-com-agentes.md) e [produção por cena](producao-por-cena.md). Primeira unidade B01; prévia versionada com áudio e aprovação explícita antes de avançar, duplo QA, GSAP e narração multprovedor. Fontes e auxiliares preservados; sem prévia/render produzido.
+**Método vigente D-37:** [guia v03](../../guias/edicao-de-video-com-agentes.md) e [produção por cena](producao-por-cena.md). Unidade atual B01B por D-38, precedida por B01A na montagem; prévia versionada com áudio e aprovação explícita antes de avançar, duplo QA, GSAP e narração multprovedor. Fontes e auxiliares preservados; sem prévia/render produzido.

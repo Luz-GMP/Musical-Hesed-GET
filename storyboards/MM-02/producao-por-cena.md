@@ -1,20 +1,23 @@
 # MM-02 · Produção e aprovação progressiva
 
-**Atualização:** 20/10/2026 · Codex, a pedido de Victor · **Método:** D-37.
+**Atualização:** 21/10/2026 · Codex, a pedido de Victor · **Método:** D-37 · **Sequência:** D-38.
 
 Este acompanhamento registra o estado real das prévias, não aprovações do conceito/briefing. Consultar [briefing](briefing-recap.md), [guia operacional v03](../../guias/edicao-de-video-com-agentes.md) e [modelo de plano](../../templates/plano-de-video-programatico.md).
 
-## Unidade atual · B01 — abertura Cia Luz
+## Unidade atual · B01B — vinheta Cia Luz, após a fala inicial
 
-**Estado:** preparação documental, prévia ainda não produzida. B01 é a primeira unidade; movimentos internos A–E serão tratados juntos na prévia, salvo nova direção. Após storyboard/configuração revistos, produzir B01, executar auditoria de layout + dois frames de controle/inspeção visual e apresentar prévia reproduzível com áudio. Só avançar para a unidade seguinte com aprovação explícita da versão e sem pendências.
+**Estado:** preparação documental; prévia ainda não produzida. D-38 separa a ordem de montagem B01A (fala inicial) → B01B (vinheta) → B02 (highlight 1) e prioriza a produção isolada de B01B. Não é preciso concluir o take B01A para preparar a vinheta; sua fala não será sobreposta a ela. As fases internas A–E não são unidades independentes de aprovação.
+
+[Plano de preparação da vinheta](plano-vinheta-b01b.md). Receber imagem/capturas, conferir referência já registrada e revisar storyboard/configuração; então implementar B01B, executar duplo QA e apresentar prévia reproduzível com som/pendências identificados. Só avançar após aprovação explícita da versão sem pendências, preservando a direção atual de Victor.
 
 | Bloco/unidade | Versão da prévia | Estado real | Pendências | QA / prévia existente | Aprovação explícita |
 | --- | --- | --- | --- | --- | --- |
-| B01 · Cia Luz | Não produzida | Em preparação | Imagem da logo gerada por Victor ainda não recebida; capturas Goel a enviar/selecionar; locução/provedor/perfil; referência visual por conferir; parâmetros de estudo/final e storyboard | Não executado / sem arquivo | Não recebida |
+| B01A · Take inicial do narrador | Não produzida | Planejado para integração, produção não iniciada | Solução visual do take, locução/provedor/perfil e duração; termina antes da vinheta | Não executado / sem arquivo | Não recebida |
+| B01B · Vinheta Cia Luz | Não produzida | Em preparação; prioridade atual D-38 | Imagem da logo e capturas ainda não recebidas; referência por conferir; som, duração própria, parâmetros e storyboard | Não executado / sem arquivo | Não recebida |
 | B02–B06 · cinco cortes | Não produzidas | Aguardando sequência | Takes e definição das unidades no storyboard; frames/durações de congelamento | Não executado / sem arquivos | Não recebida |
 | B07–B14 · demais falas/inserts | Não produzidas | Aguardando sequência | Locução, inserts, áudio original B10 e detalhamento da referência D-33 | Não executado / sem arquivos | Não recebida |
 
-Os grupos acima são o mapa do briefing, não três cenas finais aprovadas. Definir o desdobramento das unidades no storyboard; não inventar versões, durações ou aprovações. P-01/P-03/P-04/P-13 continuam abertas conforme seus registros.
+Os grupos acima são o mapa do briefing, não cenas finais aprovadas. Definir o desdobramento das unidades no storyboard; não inventar versões, durações ou aprovações. P-01/P-03/P-04/P-13 continuam abertas conforme seus registros.
 
 ## Registro de uma versão apresentada
 

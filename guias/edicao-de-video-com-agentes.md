@@ -1,6 +1,6 @@
 # Edição de vídeo com agentes · direção e procedimento de uso
 
-**Versão:** v03 · **Data:** 20/10/2026 · **Direção:** Victor · **Registro:** Codex · **Decisões:** D-35/D-36/D-37.
+**Versão:** v03 · **Atualização:** 21/10/2026 · **Direção:** Victor · **Registro:** Codex · **Decisões:** D-35/D-36/D-37/D-38.
 
 Método de produção adotado por Victor para a MM-02 e os próximos vídeos realizados com ele. Base vigente: [pacote AI Filmmaker Agent recebido em 20/10/2026](../docs/fontes/AI_Filmmaker_Agent_2026-10-20/README.md), com MD e seis auxiliares preservados; [revisão técnica e novidades](revisao-ai-filmmaker-2026-10-20.md). Versões anteriores permanecem em docs/fontes. Este guia aplica as fontes junto da direção D-34; exemplos continuam exemplos. Não há plugin instalado ou skill registrada no catálogo do aplicativo por salvar estes documentos.
 
@@ -31,7 +31,7 @@ Para imagens e pranchas, continuam obrigatórios o [guia de construção](../sto
 
 ### Unidade de produção e aprovação progressiva · D-37
 
-Produzir **uma cena por vez**, na ordem do storyboard. O plano e a configuração aprovados autorizam começar a primeira; preparar a estrutura comum necessária sem antecipar a produção das seguintes. Para MM-02, registrar B01 como a primeira unidade; as fases A–E da abertura são movimentos internos, não cinco aprovações independentes. O desdobramento de B02–B14 em unidades será definido no storyboard, sem renumerar IDs.
+Produzir **uma cena por vez**, na ordem do storyboard. O plano e a configuração aprovados autorizam começar a primeira; preparar a estrutura comum necessária sem antecipar a produção das seguintes. Para MM-02, D-38 separa B01A (take inicial do narrador) e B01B (vinheta Cia Luz após a fala) e prioriza preparar/produzir B01B isoladamente. Respeitar essa ordem de fabricação dirigida por Victor; na montagem, B01A vem antes. As fases A–E da vinheta são movimentos internos, não cinco aprovações independentes. O desdobramento de B02–B14 em unidades será definido no storyboard, sem renumerar IDs.
 
 Cada cena passa por implementação → auditoria técnica/visual → prévia reproduzível com áudio → revisão de Victor. Identificar bloco, versão, duração, pendências e arquivo real. Só avançar para a próxima após aprovação explícita da versão apresentada, sem pendências. Silêncio, elogio genérico, aceite apenas de uma imagem ou aprovação provisória não aprovam a cena completa. Usar o [registro progressivo](../templates/plano-de-video-programatico.md) e, na MM-02, o [acompanhamento específico](../storyboards/MM-02/producao-por-cena.md).
 
@@ -132,10 +132,10 @@ O arquivo atualizado contém exemplos de render JS, síntese de áudio, TTS e mi
 
 Consultar o [briefing específico](../storyboards/MM-02/briefing-recap.md) antes de retomar:
 
-- **B01:** Cia Luz, capturas de Goel e referência de abertura D-31; capturas a escolher por Victor.
+- **B01A → B01B:** primeiro o take com a fala completa do narrador; depois a vinheta Cia Luz, com imagem da logo a enviar e capturas de Goel/referência D-31. D-38 prioriza a preparação de B01B isoladamente.
 - **B02–B06:** cinco takes identificados pelos pares, sem narração, com congelamento final em cada corte (D-32).
 - **B07–B14:** referência D-33 apenas do início ao final do segundo 4; preservar inserts de Goel e rubricas narrativas.
 - **Continuidade:** recebe da MM-01 e retorna à MM-01/discussão, na Cena 1. Lista de takes compartilhada com Isaac/MM-08 (P-04), sem passagem direta para essa peça.
-- **Próximo trabalho:** receber/inventariar materiais, imagem da logo e capturas de Goel e locução; conferir referências acessíveis; revisar storyboard/motor/FPS/provedor; implementar e apresentar somente B01, com duplo QA e prévia com áudio. Avançar após aprovação explícita e sem pendências.
+- **Próximo trabalho:** receber/inventariar materiais, imagem da logo e capturas de Goel e locução; conferir referências acessíveis; revisar storyboard/motor/FPS/som; implementar e apresentar somente B01B (sem a primeira locução sobreposta), com duplo QA e prévia com áudio. Avançar após aprovação explícita e sem pendências.
 
 **Estado nesta preparação:** fonte preservada, procedimento e modelo prontos. Takes/locução não recebidos, referências sem análise visual completa, parâmetros P-01 e pasta P-13 em aberto. Nenhum ambiente de render instalado, nenhum vídeo ou imagem gerado nesta etapa.
