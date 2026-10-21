@@ -11,7 +11,7 @@ Aqui fica tudo que a equipe precisa para trabalhar alinhada: o contexto do espet
 | Se você quer... | Abra |
 | --- | --- |
 | Ver o storyboard oficial da queda | [MM-05 · V03 oficial](storyboards/MM-05/README.md) |
-| Ver a versão oficial da prisão | [MM-01 · V05 oficial](storyboards/MM-01/README.md) |
+| Ver a versão oficial da prisão | [MM-01 · V06 oficial](storyboards/MM-01/README.md) |
 | Ver as imagens oficiais da sala e variações noturnas | [MM-03 · V03 oficial e V03-01/02/03](storyboards/MM-03/README.md) |
 | Saber como está o projeto agora | [STATUS.md](STATUS.md) |
 | Ver só as suas tarefas | [equipe/](equipe/) → seu nome |

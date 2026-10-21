@@ -1,12 +1,17 @@
 # Inventário de storyboards e quadros
 
-Conferência de 16/10/2026 conforme D-28. Abrange todas as 48 imagens existentes no repositório: **14 pranchas completas e 34 quadros individuais**. Foram renomeados 36 arquivos; 12 já seguiam o padrão. Os conteúdos foram preservados byte a byte (SHA-256 conferido antes e depois). Não foram criados quadros individuais a partir das pranchas.
+Conferência atualizada em 21/10/2026 conforme D-29. Abrange **53 imagens: 14 pranchas completas, 38 quadros individuais e 1 prancha de conferência**. A auditoria de nomenclatura D-28 renomeou 36 dos 48 arquivos então existentes sem alterar seus bytes; a V06 de MM-01 substituiu a prancha anterior e acrescentou quatro quadros e uma prancha de conferência.
 
 As duas pranchas da MM-04, em JPG e PNG, foram mantidas. As quatro pranchas da MM-03 são a composição oficial e suas três variações de luz. O nome novo não muda versão artística ou aprovação; consulte as fichas de cada peça. O inventário descreve o acervo local; a publicação remota depende do push.
 
 | Tipo | Arquivo atual | Nome anterior |
 | --- | --- | --- |
-| Prancha | [MM-01/STB MM01.jpg](<MM-01/STB MM01.jpg>) | `prancha-v05.jpg` |
+| Prancha | [MM-01/STB MM01.jpg](<MM-01/STB MM01.jpg>) | V06 canônica, reconstruída com os quatro quadros aprovados em D-29 |
+| Quadro individual | [MM-01/MM01-Q01-ATMOSFERA-MESTRE.png](MM-01/MM01-Q01-ATMOSFERA-MESTRE.png) | Novo quadro canônico D-29 |
+| Quadro individual | [MM-01/MM01-Q02-ATMOSFERA-NOTURNA.png](MM-01/MM01-Q02-ATMOSFERA-NOTURNA.png) | Novo quadro canônico D-29 |
+| Quadro individual | [MM-01/MM01-Q03-ATMOSFERA-NOTURNA.png](MM-01/MM01-Q03-ATMOSFERA-NOTURNA.png) | Novo quadro canônico D-29 |
+| Quadro individual | [MM-01/MM01-Q04-ATMOSFERA-NOTURNA.png](MM-01/MM01-Q04-ATMOSFERA-NOTURNA.png) | Novo quadro canônico D-29 |
+| Prancha de conferência | [MM-01/MM01-ATMOSFERA-NOTURNA-CONTATO.png](MM-01/MM01-ATMOSFERA-NOTURNA-CONTATO.png) | Novo índice visual D-29 |
 | Prancha | [MM-03/STB MM03-01.jpg](<MM-03/STB MM03-01.jpg>) | `V03-01.jpg` |
 | Prancha | [MM-03/STB MM03-02.jpg](<MM-03/STB MM03-02.jpg>) | `V03-02.jpg` |
 | Prancha | [MM-03/STB MM03-03.jpg](<MM-03/STB MM03-03.jpg>) | `V03-03.jpg` |
