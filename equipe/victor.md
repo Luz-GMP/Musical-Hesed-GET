@@ -31,7 +31,7 @@
 
 **Base específica atual · D-29 (19/10/2026):** [briefing do recap](../storyboards/MM-02/briefing-recap.md), com o texto enviado por Victor preservado integralmente como canônico e organizado para revisão. Detalha a indicação resumida acima; storyboard e vídeo ficam para as próximas etapas. Recebe da MM-01 e retorna à mesma ambientação/discussão da Cena 1.
 
-**Sequência atual · D-38 (21/10/2026):** take inicial completo do narrador (B01A), depois vinheta Cia Luz (B01B), cinco highlights e retorno do narrador. A fala termina antes da vinheta. Prioridade atual: preparar [B01B isoladamente](../storyboards/MM-02/plano-vinheta-b01b.md), aguardando imagem da logo e capturas; referência YouTube já registrada.
+**Sequência atual · D-38/D-43 (21/10/2026):** take inicial completo do narrador (B01A), depois vinheta Cia Luz (B01B), cinco highlights e retorno do narrador. A fala termina antes da vinheta. O visual silencioso V06 da B01B foi aprovado; Victor fará pessoalmente a trilha e os efeitos e colocará depois o vídeo final no repositório. O MP4 silencioso não deve ser publicado por agentes.
 
 **Atenção:** o MM-08 do Isaac (Cena 4) usa o mesmo arquivo em tom contemplativo. Combinar quais takes ficam com cada um (P-04). Também é preciso definir quem grava a narração.
 

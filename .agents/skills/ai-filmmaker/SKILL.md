@@ -11,6 +11,7 @@ Skill local deste repositório. Trabalhar com a direção atual do usuário, o b
 
 1. Ler `AGENTS.md`, `CLAUDE.md` e o arquivo do agente correspondente na raiz do projeto. Resolver caminhos relativos deste arquivo contra a pasta da skill; a raiz do repositório fica três níveis acima.
 2. Ler o [guia operacional](../../../guias/edicao-de-video-com-agentes.md), a ficha/briefing da peça, decisões, status e acompanhamento por cena. Usar o [roteamento de referências](references/roteamento.md) para os auxiliares e limites das receitas.
+   Para vinhetas, logos animadas, neblina em camadas ou travellings 2D/2.5D, consultar também os [aprendizados validados da vinheta Cia LUZ](references/aprendizados-vinheta-cia-luz.md).
 3. Identificar a unidade atual, objetivo, materiais reais, escopo aprovado, gatilho e continuidade. Não executar pipelines apenas porque há comandos nos anexos.
 
 ## Procedimento
@@ -43,10 +44,12 @@ Skill local deste repositório. Trabalhar com a direção atual do usuário, o b
 - Quando a tarefa autorizada for produzir o vídeo, completar até o arquivo e as verificações necessárias; quando for planejar/documentar, não iniciar síntese/render por iniciativa do anexo.
 - Preservar originais e versões aprovadas. Seguir a política do projeto para mídia/projetos pesados e nomes de storyboard. Não ler/expor credenciais em relatórios nem usar serviços externos fora do escopo.
 
-## MM-02 · direção atual D-38
+## MM-02 · direção atual D-38/D-43
 
 Antes de produzir, reler o [briefing vigente](../../../storyboards/MM-02/briefing-recap.md) e o [registro por cena](../../../storyboards/MM-02/producao-por-cena.md).
 
 Montagem: **B01A** take com primeira fala completa do narrador, terminando em “Afinal, essa galera não chegou nessa situação do nada.” → **B01B** vinheta Cia Luz inspirada na referência Marvel → **B02–B06** cinco highlights com congelamento final e sem narração → **B07** retorno do narrador. A fala inicial não fica sobre a vinheta. Prioridade atual: preparar/produzir B01B isoladamente após recebimento dos materiais e revisão do plano; não confundir isso com aprovação ou produção de B01A.
 
-A imagem gerada da logo e as capturas Goel ainda precisam ser recebidas/inspecionadas conforme o registro. O link YouTube já consta no briefing; não alegar ter assistido à referência sem acesso visual. Duração, som e parâmetros próprios da vinheta permanecem por definir. A aprovação deste método não aprova uma prévia inexistente.
+A logo canônica foi recebida e a prévia visual silenciosa **V06 da B01B foi aprovada por Victor em 21/10/2026**: 15 s, 1920 × 1080, 30 fps e 450 quadros. Aplicar os [aprendizados registrados](references/aprendizados-vinheta-cia-luz.md) em trabalhos semelhantes sem transformar parâmetros desta peça em defaults globais.
+
+Por direção explícita, não incluir o MP4 silencioso no repositório. Victor fará pessoalmente a trilha e os efeitos e colocará depois o vídeo final. Não mixar áudio, publicar o render ou declarar B01B finalizada com som antes de receber esse arquivo. B01A e os blocos seguintes continuam separados conforme o registro por cena.

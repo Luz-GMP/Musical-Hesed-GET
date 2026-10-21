@@ -1,6 +1,6 @@
 # Edição de vídeo com agentes · direção e procedimento de uso
 
-**Versão:** v03 · **Atualização:** 21/10/2026 · **Direção:** Victor · **Registro:** Codex · **Decisões:** D-35/D-36/D-37/D-38/D-39.
+**Versão:** v03 · **Atualização:** 21/10/2026 · **Direção:** Victor · **Registro:** Codex · **Decisões:** D-35/D-36/D-37/D-38/D-39/D-43.
 
 Método de produção adotado por Victor para a MM-02 e os próximos vídeos realizados com ele. Base vigente: [pacote AI Filmmaker Agent recebido em 20/10/2026](../docs/fontes/AI_Filmmaker_Agent_2026-10-20/README.md), com MD e seis auxiliares preservados; [revisão técnica e novidades](revisao-ai-filmmaker-2026-10-20.md). Versões anteriores permanecem em docs/fontes. Este guia aplica as fontes junto da direção D-34; exemplos continuam exemplos. D-39 instala a skill local [ai-filmmaker](../.agents/skills/ai-filmmaker/SKILL.md) neste projeto. Isso disponibiliza as instruções e referências; não instala plugin global ou dependências de render. O catálogo de uma sessão já aberta pode exigir recarregamento, e AGENTS.md oferece a resolução direta pelo arquivo local.
 
@@ -132,10 +132,10 @@ O arquivo atualizado contém exemplos de render JS, síntese de áudio, TTS e mi
 
 Consultar o [briefing específico](../storyboards/MM-02/briefing-recap.md) antes de retomar:
 
-- **B01A → B01B:** primeiro o take com a fala completa do narrador; depois a vinheta Cia Luz, com imagem da logo a enviar e capturas de Goel/referência D-31. D-38 prioriza a preparação de B01B isoladamente.
+- **B01A → B01B:** primeiro o take com a fala completa do narrador; depois a vinheta Cia Luz. O visual silencioso V06 da B01B foi aprovado em D-43; Victor fará pessoalmente trilha/SFX e publicará depois o vídeo final. O MP4 silencioso não entra no repositório.
 - **B02–B06:** cinco takes identificados pelos pares, sem narração, com congelamento final em cada corte (D-32).
 - **B07–B14:** referência D-33 apenas do início ao final do segundo 4; preservar inserts de Goel e rubricas narrativas.
 - **Continuidade:** recebe da MM-01 e retorna à MM-01/discussão, na Cena 1. Lista de takes compartilhada com Isaac/MM-08 (P-04), sem passagem direta para essa peça.
-- **Próximo trabalho:** receber/inventariar materiais, imagem da logo e capturas de Goel e locução; conferir referências acessíveis; revisar storyboard/motor/FPS/som; implementar e apresentar somente B01B (sem a primeira locução sobreposta), com duplo QA e prévia com áudio. Avançar após aprovação explícita e sem pendências.
+- **Próximo trabalho:** aguardar a versão sonorizada da B01B produzida por Victor; ao recebê-la, medir e verificar sincronismo/costuras. Continuar a ingestão das capturas de Goel e locução para B01A/B02–B14 sem alterar a vinheta aprovada.
 
-**Estado nesta preparação:** fonte preservada, procedimento e modelo prontos. Takes/locução não recebidos, referências sem análise visual completa, parâmetros P-01 e pasta P-13 em aberto. Nenhum ambiente de render instalado, nenhum vídeo ou imagem gerado nesta etapa.
+**Aprendizado validado:** consultar o registro da skill [vinheta Cia LUZ B01B](../.agents/skills/ai-filmmaker/references/aprendizados-vinheta-cia-luz.md) para uso de assets canônicos, curvas monotônicas, impacto causal, neblina em profundidade, travelling de câmera, QA e otimização. Parâmetros artísticos da V06 não viram defaults de outras peças. Takes/locução dos demais blocos, P-01 e P-13 continuam pendentes.

@@ -11,5 +11,6 @@ Os caminhos abaixo são relativos a este arquivo; as fontes ficam no mesmo repos
 | [Guia visual](../../../../storyboards/guia-de-construcao.md) e [caderno de quadros](../../../../storyboards/briefings-dos-quadros.md) | Consulta antes de criar imagens/pranchas, IDs, referências e registro da geração. |
 | [Entrega](../../../../guias/entrega-e-arquivos.md) | Nomes, versões, mídia pesada e parâmetros pendentes. |
 | [Plano B01B](../../../../storyboards/MM-02/plano-vinheta-b01b.md) | Preparação da vinheta Cia Luz após a fala inicial. |
+| [Aprendizados da vinheta Cia LUZ](aprendizados-vinheta-cia-luz.md) | Procedimento validado para asset canônico, curva contínua, impacto causal, neblina em profundidade, travelling de câmera, QA e desempenho. |
 
 As receitas originais foram verificadas sintaticamente na incorporação; isso não significa renderizador testado/instalado. O arquivo do comando FFmpeg cujo nome termina em `.wav` é texto de receita, não áudio. Não copiar placeholders, erros conhecidos ou defaults sociais para uma implementação sem adaptar e verificar.

@@ -1,6 +1,6 @@
 # Status da produção
 
-**Última atualização:** 21/10/2026 · por Codex, a pedido de Victor (MM-02: take inicial separado da vinheta; preparação B01B)
+**Última atualização:** 21/10/2026 · por Codex, a pedido de Victor (MM-02/B01B: V06 visual aprovada; áudio reservado a Victor)
 
 Cada pessoa atualiza **a própria linha** quando muda de etapa. Na dúvida sobre as etapas, veja [guias/fluxo-de-trabalho.md](guias/fluxo-de-trabalho.md).
 
@@ -11,7 +11,7 @@ Cada pessoa atualiza **a própria linha** quando muda de etapa. Na dúvida sobre
 | MM | Peça | Cena | Responsável | Etapa | Versão | Próximo passo | Travado por |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | MM-01 | Exterior/entrada da prisão | 1 | Victor | 🎨 | **V06 oficial · estado apagado aprovado (D-40/D-41)** | Iniciar pela [atmosfera apagada](storyboards/MM-01/MM01-Q01-ATMOSFERA-APAGADA.png), animar até o panorama iluminado e validar no LED | Matriz técnica P-01 |
-| MM-02 | Flashback de Goel (recap) | 1 | Victor | 📖 | briefing v10 · D-29 a D-38 | Receber imagem da logo/capturas e revisar [plano B01B](storyboards/MM-02/plano-vinheta-b01b.md); B01A precede a vinheta na montagem | Materiais de Goel (P-03), divisão com Isaac (P-04) e locução para edição |
+| MM-02 | Flashback de Goel (recap) | 1 | Victor | 🧪 | briefing v10 · B01B V06 visual aprovada (D-43) | Victor adiciona trilha/SFX à vinheta e depois inclui o vídeo final; continuar materiais dos demais blocos | Materiais de Goel (P-03), divisão com Isaac (P-04), locução e finalização sonora da B01B |
 | MM-03 | Sala da casa | 2–4 | Victor | 🎨 | V03 oficial + 01/02/03 | Revisar [três variações corretas](storyboards/MM-03/README.md), todas com bandejinha/renda; versões antigas excluídas da pasta (D-13) | - |
 | MM-04 | Criação perfeita (loop) | 3 | Melissa | 🎨 | storyboard v01 | Revisar [prancha](<storyboards/MM-04/STB MM04.jpg>), escolher base piloto e alinhar paleta com Lucas/MM-05 | - |
 | MM-05 | Queda (silhuetas de luz) | 3 | Lucas | 🎨 | **V03 oficial · 6 quadros (D-24)** | Usar [V03 aprovada](<storyboards/MM-05/STB MM05.jpg>); alinhar bases MM-04/MM-06, produzir alpha e testar no LED | Base/paleta final MM-04 |
