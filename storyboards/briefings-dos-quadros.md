@@ -1069,29 +1069,28 @@ Referência única V03, aprovada pelo usuário ao reenviar a imagem com renda; v
 
 ## MM-01 · Exterior/entrada da prisão
 
-**Versão oficial: V05 · D-21 · 16/10/2026 · Victor · Cena 1.** Escolha explícita do usuário: V05 é a mais adequada; excluir todas as demais. [Imagem oficial](<MM-01/STB MM01.jpg>) preservada sem edição. Revisões posteriores e instruções D-17–D-20 foram substituídas; não reaplicá-las sem novo pedido. Imagens/prompts das outras versões excluídos da pasta; seus registros históricos permanecem no Git, não são referência atual.
+**Versão oficial: V06 · D-40 · 21/10/2026 · Victor · Cena 1.** O usuário aprovou expressamente o conjunto noturno de quatro quadros e determinou sua canonização. A [prancha oficial](<MM-01/STB MM01.jpg>) foi reconstruída em 4K com essas imagens; os quatro arquivos individuais e a prancha de conferência foram incorporados ao repositório. As demais imagens de estudo foram excluídas. D-40 substitui D-21 como escolha artística vigente para MM-01.
 
-**Função/fontes:** ambientação da abertura, espera durante falas e retorno após MM-02. Bíblia §§2.2/3/5.2/7.1/9/16, roteiro Cena 1, briefing Bloco I, D-16 e escolha final D-21. Jesus e dez detentas no palco; agentes e viaturas projetados foram expressamente autorizados pelo usuário. Sem cadeia física/correntes/cruz física na abertura. Não duplicar protagonistas no LED.
+**Função/fontes:** ambientação da abertura, espera durante falas e retorno após MM-02. Bíblia §§2.2/3/5.2/7.1/9/16, roteiro Cena 1, briefing Bloco I, D-16 e escolha final D-40. Jesus e dez detentas no palco; agentes e viaturas projetados foram expressamente autorizados pelo usuário. Sem cadeia física/correntes/cruz física na abertura. Não duplicar protagonistas no LED.
 
-**Contrato visual:** seguir a V05 como está — prédio penitenciário, duas telas, guarita, pátio/viaturas, agentes, segundo portão de aço, muros laterais com concertina, refletores e luz fria de entardecer. Composição e quantidade dos elementos derivam da imagem aceita, não de correções posteriores. Referência verbal Prison Break, sem foto da série recebida. Não regenerar para “corrigir” a escolha oficial nesta tarefa.
+**Contrato visual:** ambiente noturno sombrio, neblina em todos os planos e luz azul fria equilibrada por fontes laranja e vermelho discreto. Perspectiva central única. Primeiro perímetro fechado por grade contínua à esquerda, pista com cancela, guarita à direita com dois guardas e grade contínua ligada ao seu lado direito. Quatro SUVs de porte integral no pátio, em dois pares e com escala coerente. Segundo perímetro em muro alto de concreto com concertina e portão duplo de aço; muro, portão, bloco e torre central da penitenciária compartilham o mesmo ponto de fuga. Não criar aberturas laterais, portões adicionais ou grades em quina.
 
 | ID | Referência aceita | Uso/continuidade |
 | --- | --- | --- |
-| MM-01-Q01 | Panorama superior da V05 | Composição geral, abre com cortina e retorna após MM-02 |
-| MM-01-Q02 | Detalhe da guarita/viaturas na V05 | Mesmo arquivo aceito, sem trocar pelo Q02 de versões descartadas |
-| MM-01-Q03 | Detalhe de telas/pátio da V05 | Manter desenho e disposição da imagem oficial |
-| MM-01-Q04 | Acesso/segundo portão da V05 | Manter imagem aceita; não reaplicar edição posterior |
+| MM-01-Q01 | [Panorama mestre](MM-01/MM01-Q01-ATMOSFERA-MESTRE.png) | Composição geral, abre com cortina e retorna após MM-02 |
+| MM-01-Q02 | [Guarita e viaturas](MM-01/MM01-Q02-ATMOSFERA-NOTURNA.png) | Fixa integração da guarita, dois guardas e escala da frota |
+| MM-01-Q03 | [Pátio e segundo perímetro](MM-01/MM01-Q03-ATMOSFERA-NOTURNA.png) | Fixa eixo central, muro, portão e penitenciária |
+| MM-01-Q04 | [Acesso com cancela elevada](MM-01/MM01-Q04-ATMOSFERA-NOTURNA.png) | Fixa aproximação ao portão interno sem perder a geografia |
 
-**Movimento/tempo:** detalhes espaciais, não cortes narrativos impostos; câmera fixa/loop discreto a desenvolver. Controle por fala variável, sem tempo medido. Congelamento inicial até Jesus sair é distinto do congelamento para MM-02; ao fim deste, retornar ao mesmo ambiente. Saída técnica a combinar. Não há vídeo/alpha pronto.
+**Movimento/tempo:** os quatro quadros são referências espaciais para retomar a animação, não cortes narrativos impostos. Controle por fala variável, sem tempo medido. Congelamento inicial até Jesus sair é distinto do congelamento para MM-02; ao fim deste, retornar ao mesmo ambiente. Saída técnica a combinar. Não há vídeo/alpha final aprovado.
 
-### Registro da geração V05 e aprovação D-21
+### Registro da V06 e aprovação D-40
 
-- **Geração:** 16/10/2026, Codex, `image_gen.imagegen`, fundo opaco. [Prompt integral efetivamente usado](MM-01/prompt-prancha-v05.txt) preservado. Referência da edição à época: prancha v04, inspecionada; excluída da pasta depois por pedido D-21. Nenhuma foto de viatura foi enviada à ferramenta.
-- **Original:** `/workspace/generated_images/exec-97caac2e-6336-40da-93b2-1b647955b044.png`, PNG 1672×941, 2608067 bytes, fora do repositório.
-- **Oficial no repositório:** [STB MM01.jpg](<MM-01/STB MM01.jpg>), JPEG 1672×941, 630218 bytes, conversão de formato sem mudar composição. SHA-256 `c19ac147d9edf5f2c2e760d6f837dd84ca675065d8d6fcad3c66d4f7e0fc722b`; preservado byte a byte na oficialização.
-- **Feedback final:** usuário recusou a v08, escolheu a V05 como a mais adequada e autorizou excluir o restante. Aprovação da referência visual registrada; não implica validação métrica dos detalhes, padronagem oficial dos carros ou ensaio técnico. A ressalva anterior do Codex sobre quantidade não prevalece sobre essa escolha explícita.
-- **Referência de viatura:** URL fornecida pelo usuário retornou 403 e não foi vista; aviso já presente na imagem. Identidade oficial não conferida. Não alterar a imagem aceita por inferência.
-- **Situação:** somente V05 e seu prompt na pasta MM-01, além da ficha. AR próximo de 16:9, não base 4K nem matriz final do LED (P-01). Base limpa, animação, Drive e teste LED pendentes. Sem nova geração nesta oficialização.
+- **Quadros aprovados:** Q01–Q04 em PNG 1672×941, proporção próxima de 16:9. A [prancha de conferência](MM-01/MM01-ATMOSFERA-NOTURNA-CONTATO.png) reúne os quatro.
+- **Oficial no repositório:** [STB MM01.jpg](<MM-01/STB MM01.jpg>), JPEG 3840×2160, 16:9. SHA-256 `e6e9f09d6f29c00cf8a8a6276c13455f047b4122c46ca112718c7fef017f263a`.
+- **Feedback final:** o usuário aprovou as últimas imagens, ordenou sua canonização, a substituição dos quadros no storyboard e a exclusão das demais imagens. A aprovação não implica validação métrica, confirmação de padronagem oficial dos carros ou ensaio técnico.
+- **Registro anterior:** [prompt da V05](MM-01/prompt-prancha-v05.txt) mantido somente como histórico; não orienta novas imagens nem a animação.
+- **Situação:** V06 é o único conjunto visual vigente. Animação em camadas, Drive, teste LED, matriz, fps e codec finais permanecem pendentes (P-01/P-13).
 
 
 ## MM-05 · Queda — silhuetas de luz
