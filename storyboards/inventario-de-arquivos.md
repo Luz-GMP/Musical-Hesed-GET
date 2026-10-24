@@ -1,10 +1,10 @@
 # Inventário de storyboards e quadros
 
-Conferência atualizada em 24/10/2026 com a recomposição v03 de MM-12 e preservação de v01/v02, preservando D-40/D-41. Abrange **57 imagens: 17 pranchas completas (incluindo v01 e v02 arquivadas de MM-12), 39 quadros individuais e 1 prancha de conferência**. A auditoria de nomenclatura D-28 renomeou 36 dos 48 arquivos então existentes sem alterar seus bytes; a V06 de MM-01 substituiu a prancha anterior e acrescentou quatro quadros, uma prancha de conferência e o estado inicial apagado.
+Conferência atualizada em 24/10/2026 com a consolidação D-46 de MM-12 e preservação de v01/v02/v03 anteriores, preservando D-40/D-41. Abrange **58 imagens: 18 pranchas completas (incluindo v01, v02 e v03 anteriores arquivadas de MM-12), 39 quadros individuais e 1 prancha de conferência**. A auditoria de nomenclatura D-28 renomeou 36 dos 48 arquivos então existentes sem alterar seus bytes; a V06 de MM-01 substituiu a prancha anterior e acrescentou quatro quadros, uma prancha de conferência e o estado inicial apagado.
 
 As duas pranchas da MM-04, em JPG e PNG, foram mantidas. As quatro pranchas da MM-03 são a composição oficial e suas três variações de luz. O nome novo não muda versão artística ou aprovação; consulte as fichas de cada peça. O inventário descreve o acervo local; a publicação remota depende do push.
 
-A prancha MM-12 vigente é o estudo v03 de 24/10/2026, com recomposição D-45 e aprovação artística pendente; v01 e v02 ficam arquivadas em `MM-12/versoes/`; v02 foi rejeitada. As três são PNG de 1672 × 941 px, sem bases individuais.
+A prancha MM-12 vigente é a v03 consolidada (D-46): Q03/Q04/Q05 da v03 aprovados pelo usuário e Q06 restaurado literalmente da v02. Versões anteriores em `MM-12/versoes/`; a rejeição da v02 não se aplica ao Q06 recuperado por solicitação posterior. PNGs 1672 × 941 px; sem bases finais individuais.
 
 | Tipo | Arquivo atual | Nome anterior |
 | --- | --- | --- |
@@ -48,7 +48,8 @@ A prancha MM-12 vigente é o estudo v03 de 24/10/2026, com recomposição D-45 e
 | Quadro individual | [MM-10/MM10-Q09.png](<MM-10/MM10-Q09.png>) | `MM10-Q9.png` |
 | Prancha | [MM-10/STB MM10.png](<MM-10/STB MM10.png>) | Já estava no padrão |
 | Prancha | [MM-13/STB MM13.png](<MM-13/STB MM13.png>) | Já estava no padrão |
-| Prancha | [MM-12/STB MM12.png](<MM-12/STB MM12.png>) | Estudo v03; Q03–Q06 recompostos conforme D-45 |
+| Prancha | [MM-12/STB MM12.png](<MM-12/STB MM12.png>) | V03 consolidada D-46: Q03–Q05 aprovados, Q06 literal da v02 |
+| Prancha arquivada | [MM-12/versoes/v03/STB MM12.png](<MM-12/versoes/v03/STB MM12.png>) | V03 anterior: Q03–Q05 aprovados, Q06 rejeitado |
 | Prancha arquivada | [MM-12/versoes/v02/STB MM12.png](<MM-12/versoes/v02/STB MM12.png>) | V02 rejeitada por espelhamento literal; preservada para histórico |
 | Prancha arquivada | [MM-12/versoes/v01/STB MM12.png](<MM-12/versoes/v01/STB MM12.png>) | Estudo v01 preservado para histórico; não usar como direção vigente |
 | Prancha | [MM-14/STB MM14.jpg](<MM-14/STB MM14.jpg>) | `prancha-v01.jpg` |

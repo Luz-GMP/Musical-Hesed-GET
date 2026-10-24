@@ -1,6 +1,6 @@
 # Status da produção
 
-**Última atualização:** 24/10/2026 · por Codex, a pedido do usuário (MM-12: storyboard v03 recomposto conforme D-45, sem aprovação da imagem)
+**Última atualização:** 24/10/2026 · por Codex, a pedido do usuário (MM-12: MM-12 consolidada: Q03–Q05 aprovados, Q06 restaurado da v02 por D-46)
 
 Cada pessoa atualiza **a própria linha** quando muda de etapa. Na dúvida sobre as etapas, veja [guias/fluxo-de-trabalho.md](guias/fluxo-de-trabalho.md).
 
@@ -21,7 +21,7 @@ Cada pessoa atualiza **a própria linha** quando muda de etapa. Na dúvida sobre
 | MM-09 | Profetas (loop) | 5 | Melissa | 🎨 | novo estudo v03 | Revisar [nova proposta](<storyboards/MM-09/STB MM09.jpg>): anúncio, espera e crença/dúvida; versões antigas excluídas (D-27) | - |
 | MM-10 | Cristo eterno / universo | 5 | Eduardo | ⬜ | - | - | - |
 | MM-11 | Luz do Mundo (playback) | 5 | Isaac | ⬜ | - | Mapear a faixa | P-02 (audio master) |
-| MM-12 | Viagem, cidade e estábulo | 6–7 | Lucas | 🎨 | estudo v03 · 6 estados · D-45 | Revisar [storyboard](storyboards/MM-12/README.md), validar gatilhos no ensaio e combinar noite/abrigo com Eduardo | Entrada anterior P-09/P-15; saída técnica P-01 |
+| MM-12 | Viagem, cidade e estábulo | 6–7 | Lucas | 🎨 | v03 consolidada · Q03–Q05 aprovados · D-46 | Usar [prancha consolidada](storyboards/MM-12/README.md), validar gatilhos e combinar Q06/noite da v02 com Eduardo | Entrada anterior P-09/P-15; saída técnica P-01 |
 | MM-13 | Noite, estrela, pastores, anjos | 7 | Eduardo | ⬜ | - | - | P-07 (posição musical) |
 | MM-14 | Resumo dos pecados | 8 | Melissa | 🎨 | v01 não aprovada | Reformular após estabelecer a casa MM-03, conforme feedback do usuário/D-03 | MM-03 (ambientação) |
 | MM-15 | Vida e atos de Jesus | 8 | Lucas | ⬜ | - | - | - |

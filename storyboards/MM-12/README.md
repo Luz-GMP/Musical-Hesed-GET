@@ -1,6 +1,6 @@
 # Storyboard · MM-12 · Viagem, cidade e estábulo
 
-**HESED 2026 · estudo v03 · 24/10/2026 · Codex, a pedido do usuário.** Proposta para revisão; sem aprovação artística ou técnica. Estilo realista e cinematográfico, reverente.
+**HESED 2026 · v03 consolidada · 24/10/2026 · Codex, a pedido do usuário.** Q03/Q04/Q05 aprovados pelo usuário em 24/10/2026 (D-46); Q06 restaurado da v02 por solicitação expressa. Sem aceite técnico LED. Estilo realista e cinematográfico, reverente.
 
 | Campo | Definição |
 | --- | --- |
@@ -13,13 +13,13 @@
 | Controle / música | Falas de duração variável, avanço pelo operador. Sem música própria atribuída ou tempos medidos. |
 | Drive / saída | P-13; matriz/fps/codec P-01; configuração de loops P-12. |
 
-**Direção vigente D-45:** v02 rejeitada por espelhamento literal. Q03–Q05 recompostos com casa à esquerda e caminho passando à direita dela, em curva para a esquerda em profundidade. Q06 reconstruído à esquerda, ampliado para a direita para acomodar parede visível na margem esquerda, frente do abrigo e coluna na quina. O objetivo é equilibrar o peso da construção, conforme esclarecimento do usuário; fundo e muro são referências a preservar. Q01/Q02 mantêm a orientação. Nova imagem ainda para revisão.
+**Direção vigente D-46:** preservar Q03/Q04/Q05 da v03, aprovados pelo usuário. Restaurar exatamente o Q06 da v02, com a parede do estábulo; a reconstrução do abrigo em v03 foi rejeitada. A prancha consolidada combina esses quadros sem regeneração.
 
-## Prancha v03
+## Prancha v03 consolidada · Q06 da v02
 
 ![Storyboard MM-12 · estudo v03](<STB MM12.png>)
 
-[Arquivo da prancha](<STB MM12.png>) · [Prompt efetivamente enviado](prompt-prancha.txt). PNG de 1672 × 941 px, aproximadamente 2,5 MB; prancha de planejamento, sem bases finais em 4K.
+[Arquivo da prancha](<STB MM12.png>) · [Prompts históricos da geração v03](prompt-prancha.txt). PNG de 1672 × 941 px, aproximadamente 2,5 MB; prancha de planejamento, sem bases finais em 4K.
 
 ## Conceito
 
@@ -40,7 +40,7 @@ Os fragmentos entre aspas vêm do roteiro; a divisão visual dentro da mesma fal
 | **MM-12-Q03 · A chegada** | Casa e porta à esquerda; caminho no lado direito da casa, entrando pelo primeiro plano direito e curvando para a esquerda em profundidade; crepúsculo. | Dissolução para a cidade; preparar mudança de luz mantendo arquitetura. | “E quando eles chegaram lá…” Confirmar no ensaio se cabe subdividir esta fala. |
 | **MM-12-Q04 · A noite** | Mesma casa à esquerda e caminho à direita de Q03, agora azul-noturno com pequenas lamparinas âmbar. | Mudança contínua de luz; nuvens discretas, sem acelerar estrelas. | Entre “chegaram lá…” e “não tinha lugar pra ficar”. Ligada à mesma deixa de Q03, sem criar pausa na fala; pode ser fundida a Q03. |
 | **MM-12-Q05 · Sem acolhimento** | Porta fechada de madeira à esquerda; passagem à direita da casa, em continuidade com Q03/Q04. | Reenquadramento/dissolução; lamparina com oscilação sutil. | “...não tinha lugar pra ficar. Nenhuma hospedagem disponível.” Não repetir abertura/fechamento de portas. |
-| **MM-12-Q06 · Um abrigo simples** | Estábulo à esquerda ampliado para a direita: parede na margem esquerda, abertura acolhedora e poste de madeira na quina; campo, céu e muro baixo à direita. | Dissolução; pequeno calor interior e exterior azul; loop ambiental com câmera estabilizada. | “...onde os animais ficavam.” Já no abrigo em “um estábulo mesmo?”. Sustentar “Maria deu à luz ali mesmo…”; cue exato do anúncio/MM-13 a combinar com Eduardo. |
+| **MM-12-Q06 · Um abrigo simples** | Q06 literal da v02: estábulo à esquerda com sua parede de pedra e vigas; campo, céu e muro baixo à direita. | Dissolução; pequeno calor interior e exterior azul; loop ambiental com câmera estabilizada. | “...onde os animais ficavam.” Já no abrigo em “um estábulo mesmo?”. Sustentar “Maria deu à luz ali mesmo…”; cue exato do anúncio/MM-13 a combinar com Eduardo. |
 
 ## Paleta · amostras propostas
 
@@ -69,7 +69,7 @@ Dissoluções, aproximação lenta só na entrada e variação ambiental cíclic
 ## Continuidade e operação
 
 - **Primeiro frame:** estrada em luz contida; entrada desde o fundo anterior pendente (P-09/P-15). Não inventar casa/viagem simultâneas.
-- **Geografia proposta:** Q01/Q02 preservados, cidade no terço direito. A partir de Q03, casa à esquerda e caminho passando à direita dela, em curva da direita para a esquerda em profundidade; Q03/Q04 mantêm câmera e arquitetura; Q05 aproxima a porta esquerda. Q06 mantém estábulo à esquerda, amplia sua estrutura para a direita e distribui parede, abertura e poste; campo à direita (D-45). Pilotar antes de produzir a série de bases.
+- **Geografia proposta:** Q01/Q02 preservados, cidade no terço direito. A partir de Q03, casa à esquerda e caminho passando à direita dela, em curva da direita para a esquerda em profundidade; Q03/Q04 mantêm câmera e arquitetura; Q05 aproxima a porta esquerda. Q06 recupera literalmente o estábulo da v02, com sua parede; campo à direita (D-46). Pilotar antes de produzir a série de bases.
 - **Último frame:** estábulo quente discreto à esquerda, campo/céu azul à direita; sem nascimento duplicado. Enviar frame, paleta, horizonte, direção de luz e posição do abrigo a Eduardo no alpha.
 - **Entrega:** MM-13 pode revelar o campo na mesma noite; forma da passagem e cue após a manjedoura a combinar, sem alterar seus quadros existentes.
 - **Espera:** avançar pela fala, não por cronômetro. Q01/Q02/Q05/Q06 sustentam interrupções; Q03/Q04 podem ser fundidos.
@@ -79,4 +79,6 @@ Dissoluções, aproximação lenta só na entrada e variação ambiental cíclic
 
 Consultados: [guia](../guia-de-construcao.md), [caderno](../briefings-dos-quadros.md#mm-12--viagem-cidade-e-estábulo), [briefing MM-12](../../docs/briefing.md), [roteiro Cenas 6–7](../../docs/roteiro.md#cena-6-a-gravidez), [mapa](../../docs/mapa-de-cenas.md), [dependências](../../docs/dependencias.md), [Lucas](../../equipe/lucas.md), [decisões](../../docs/decisoes.md), [alinhamento](../../docs/alinhamento-das-fontes.md), [Bíblia v0.1](../../docs/fontes/HESED_Biblia_de_Producao_v0_1.md) §§2.1, 3/Cenas 6–7, 4.1, 5.1–5.2, 9/BIB-Q015–Q018. Cues BIB não são IDs de quadros. Transcrição original não recebida (P-14).
 
-Histórico preservado: [v01](<versoes/v01/STB MM12.png>) e [v02 rejeitada](<versoes/v02/STB MM12.png>), com seus prompts nas mesmas pastas. V03 recomposta com image_gen em duas chamadas: primeiro ruas/abrigo, depois equilíbrio do Q06 conforme esclarecimento do usuário. [Prompts integrais](prompt-prancha.txt). Inspeção visual do agente: casas/portas à esquerda e passagem à direita em Q03–Q05; Q06 com parede na margem esquerda, telhado estendido para a direita e poste na quina, mantendo campo e muro no fundo. Editar por geração pode alterar detalhes fora do alvo; não se presume identidade pixel a pixel. Aprovação artística pendente. Bases individuais, animação e teste LED não realizados.
+Histórico preservado em [v01](<versoes/v01/STB MM12.png>), [v02](<versoes/v02/STB MM12.png>) e [v03 anterior à restauração](<versoes/v03/STB MM12.png>). A v02 continua rejeitada quanto às ruas, mas seu Q06 foi selecionado expressamente para restauração. Q03/Q04/Q05 da v03 aprovados em D-46 e preservados integralmente.
+
+Restauração em 24/10/2026 por composição do painel existente, sem geração nova: retângulo 534 × 276 px na posição x=1118, y=466, incluindo sua moldura. Comparação ImageMagick AE=0 entre Q06 restaurado e v02; AE=0 em toda a região exterior ao retângulo entre prancha consolidada e v03. Isso comprova a preservação dos demais painéis, títulos e rodapé. Cabeçalho impresso v03 mantido. PNG 1672 × 941 px; aprovação não equivale a animação ou teste LED.
