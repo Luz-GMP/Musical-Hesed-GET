@@ -1,6 +1,6 @@
 # Status da produção
 
-**Última atualização:** 24/10/2026 · por Codex, a pedido do usuário (MM-15: prancha v01 produzida para revisão; sem alpha ou teste LED)
+**Última atualização:** 24/10/2026 · por Codex, a pedido do usuário (MM-15: quatro bases individuais v01 geradas para revisão; sem alpha ou teste LED)
 
 Cada pessoa atualiza **a própria linha** quando muda de etapa. Na dúvida sobre as etapas, veja [guias/fluxo-de-trabalho.md](guias/fluxo-de-trabalho.md).
 
@@ -24,7 +24,7 @@ Cada pessoa atualiza **a própria linha** quando muda de etapa. Na dúvida sobre
 | MM-12 | Viagem, cidade e estábulo | 6–7 | Lucas | 🎨 | prancha aprovada D-47 · bases v01 | Revisar [seis imagens individuais](storyboards/MM-12/README.md#imagens-individuais--v01), guardar PNGs no Drive e alinhar noite/abrigo com Eduardo | Entrada anterior P-09/P-15; saída técnica P-01 |
 | MM-13 | Noite, estrela, pastores, anjos | 7 | Eduardo | ⬜ | - | - | P-07 (posição musical) |
 | MM-14 | Resumo dos pecados | 8 | Melissa | 🎨 | v04 aprovada · 6 bases v01 para revisão (D-51) | Revisar [nova prancha](<storyboards/MM-14/STB MM14.png>), [bases individuais](storyboards/MM-14/README.md#bases-individuais--desfoque-e-opacidade-reduzida), translucidez e relação palco/telão; alinhar MM-15 com Lucas | Cues/integração a validar (P-15) |
-| MM-15 | Vida e atos de Jesus | 8 | Lucas | 🎨 | storyboard v01 · para revisão | Revisar prancha e identidade; alinhar costura com nova MM-14 e saída sob diálogo | Saída P-08/P-15; matriz P-01 |
+| MM-15 | Vida e atos de Jesus | 8 | Lucas | 🎨 | prancha + quatro bases v01 · para revisão | Revisar bases Q01–Q04 e identidade; alinhar costura com MM-14 e saída sob diálogo | Saída P-08/P-15; matriz P-01 |
 | MM-16A | Filme final: cegueira → visão | 9 | Melissa | ⬜ | - | - | P-05 (gravar atrizes?) |
 | MM-16B | Filme final: prisão → liberdade | 9 | Lucas | ⬜ | - | - | P-05 |
 | MM-16C | Filme final: nascimento → vida | 9 | Isaac | ⬜ | - | - | P-06 (duração da faixa) |

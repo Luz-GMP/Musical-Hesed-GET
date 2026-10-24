@@ -18,7 +18,7 @@ Do isolamento à proximidade: Jesus cura, ensina, perdoa e acolhe quem era rejei
 | Controle | Fala variável; sem música própria, segundos ou forma de onda |
 | Palco | Religiosidade narra e personagens respondem; não duplicar a conversa na projeção |
 | Telão | Ações humanas em ambiente bíblico, conforme briefing MM-15 |
-| Situação | Prancha produzida para revisão; sem aprovação artística, bases individuais, alpha ou teste LED |
+| Situação | Prancha e quatro bases individuais produzidas para revisão; sem aprovação artística, alpha ou teste LED |
 | Drive | Não enviado; pasta pendente P-13 |
 
 ## Quadros e gatilhos
@@ -49,6 +49,19 @@ Prancha PNG nativa **1672 × 941**, sem recorte ou ampliação; não é base 4K.
 
 Inspeção visual: quatro IDs, gatilhos, paleta com amostras e todos os blocos comuns presentes; nenhuma forma de onda ou tempo inventado. Enquadramentos distintos, identidade/vestes de Jesus visualmente coerentes. Q01 comunica cuidado sem comprovar cura específica; Q03 comunica acolhimento/perdão pela fala. Q04 concretiza pertencimento. A gradação de calor é sutil e Q01 já é quente; o contraste maior ocorre na passagem da MM-14. Alguns rótulos pequenos da paleta têm imperfeições tipográficas gerativas; códigos e nomes corretos estão nesta ficha. Não tratar miniaturas como bases finais nem afirmar continuidade métrica. Revisão no computador não substitui teste no telão.
 
+## Imagens individuais · v01
+
+Geradas uma por vez a pedido do usuário, antes da publicação. Todas são PNGs limpos de **1672 × 941 px nativos**, proporção aproximadamente 16:9 (diferença de cerca de 0,05%), fundo opaco, sem títulos, números ou legendas. Não são bases 4K. Prancha preservada.
+
+| Quadro | Imagem-base | Prompt efetivo |
+| --- | --- | --- |
+| Q01 · Cura | [MM15-Q01.png](MM15-Q01.png) | [Q01](prompt-individual-Q01.txt) |
+| Q02 · Ensino | [MM15-Q02.png](MM15-Q02.png) | [Q02](prompt-individual-Q02.txt) |
+| Q03 · Perdão | [MM15-Q03.png](MM15-Q03.png) | [Q03](prompt-individual-Q03.txt) |
+| Q04 · Amor aos rejeitados | [MM15-Q04.png](MM15-Q04.png) | [Q04](prompt-individual-Q04.txt) |
+
+**Continuidade e inspeção:** Q01 gerado a partir da prancha e inspecionado como piloto; Q02–Q04 usaram prancha + Q01 como referências. Jesus mantém visualmente rosto, cabelos, barba e linho claro; ações e enquadramentos correspondem à prancha. Q01 mostra cuidado, Q02 escuta coletiva, Q03 acolhimento e Q04 pertencimento. A expansão do enquadramento acrescentou água/colinas em Q01–Q03; não é localização bíblica definida ou geografia canônica. Gestos essenciais legíveis; não há continuidade métrica comprovada entre ambientes. Aprovação artística das quatro bases e teste LED permanecem pendentes. Originais, dimensões, bytes, referências e inspeção por quadro registrados no caderno. Sem animação, camadas de parallax separadas ou envio ao Drive. Publicação remota não realizada nesta etapa.
+
 ## Próximos passos
 
-Revisar direção e identidade visual; alinhar com Melissa o corte MM-14-Q10 → MM-15-Q01 e com operação a saída após Q04. Depois produzir bases individuais limpas e alpha ajustado à fala. Avisar Melissa/Lucas quando a costura for definida; nenhuma mensagem enviada pelo assistente. P-01/P-08/P-13/P-15 permanecem abertas.
+Revisar as quatro bases e a identidade visual; alinhar com Melissa o corte MM-14-Q10 → MM-15-Q01 e com operação a saída após Q04. Após revisão, produzir alpha ajustado à fala. Avisar Melissa/Lucas quando a costura for definida; nenhuma mensagem enviada pelo assistente. P-01/P-08/P-13/P-15 permanecem abertas.
