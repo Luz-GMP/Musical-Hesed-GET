@@ -1126,9 +1126,9 @@ Referência única V03, aprovada pelo usuário ao reenviar a imagem com renda; v
 
 ## MM-12 · Viagem, cidade e estábulo
 
-**Estudo v02 · 24/10/2026 · Codex, a pedido do usuário; aprovação pendente.** Responsável: Lucas. Cenas 6–7. [Ficha-resumo](MM-12/README.md).
+**Estudo v03 · 24/10/2026 · Codex, a pedido do usuário; aprovação pendente.** Responsável: Lucas. Cenas 6–7. [Ficha-resumo](MM-12/README.md).
 
-**Direção espacial D-44 (24/10/2026):** usuário determina Q03/Q04/Q05 espelhados, caminho diagonal da direita para a esquerda e Q06 com estábulo à esquerda da imagem, por logística do palco. Q01/Q02 permanecem. Inverter também fontes de luz e objetos junto dos ambientes, sem espelhar títulos/legendas. Direção confirmada, nova imagem ainda não aprovada.
+**Direção espacial vigente D-45 (24/10/2026):** v02 rejeitada pelo usuário. Reconstruir perspectiva, não espelhar. Q03–Q05: casa/fachada e porta à esquerda; caminho pelo lado direito da casa, ocupando primeiro plano direito e curvando para a esquerda em profundidade. Q03/Q04 compartilham o mesmo cenário em duas luzes. Q06: estábulo pensado para a esquerda, parede de pedra encostada à margem esquerda, frente aberta e coluna de madeira na quina externa do telhado. Esclarecimento do usuário: problema de equilíbrio do peso visual, não de parede bloqueando a vista; ampliar um pouco o estábulo para a direita, mantendo parede visível na margem esquerda e distribuindo parede, abertura e coluna de forma natural. Preservar o fundo e o muro de v02. Manter Q01/Q02. Esta diretriz substitui o espelhamento de D-44; resultado novo ainda para revisão.
 
 **Contrato visual proposto:** sequência narrativa espacial controlada por falas variáveis. Palco contém Maria/José, presépio e nascimento; telão situa ambientes. Pessoas são opcionais pelo briefing; neste estudo não são previstas. Não duplicar bebê/manjedoura no fundo. Seis estados: estrada → Belém → cidade → noite → sem hospedagem → abrigo. Sem música própria, segundos ou forma de onda. Q03/Q04 podem ser a mesma base em dois estados de luz.
 
@@ -1140,7 +1140,7 @@ Referência única V03, aprovada pelo usuário ao reenviar a imagem com renda; v
 
 ### MM-12-Q01 · O caminho
 
-- **Situação / função visual:** proposta v02; sequência de ambientes. Instalar distância e deslocamento no recenseamento.
+- **Situação / função visual:** proposta v03; sequência de ambientes. Instalar distância e deslocamento no recenseamento.
 - **Palco / pessoas no telão:** montagem e atuação do núcleo bíblico no palco; pessoas não previstas nesta proposta, opcionais pelo briefing.
 - **Imagem-base:** Estrada sinuosa de terra entre colinas secas da Judeia, sem pessoas, cidade ainda não visível.
 - **Composição:** Plano geral, câmera baixa moderada, trilha do canto inferior esquerdo ao horizonte direito; camadas simples e margem para reenquadrar.
@@ -1150,7 +1150,7 @@ Referência única V03, aprovada pelo usuário ao reenviar a imagem com renda; v
 - **Gatilho / tempo:** “Naquela época, foi decretado...” e espera no comentário sobre organização política. Duração a definir no ensaio, sem segundos medidos.
 - **Evitar:** Caravanas, protagonistas, decreto escrito, castelos, humor ou viagem acelerada.
 - **Referências reais:** MM-07-Q01.JPG e MM-13-Q01.JPG inspecionados; sem bases individuais de MM-12 aceitas.
-- **Arquivo / versão / feedback:** briefing v02; base individual não gerada. Incluído na [prancha v02](<MM-12/STB MM12.png>), PNG 1672 × 941; aprovação pendente.
+- **Arquivo / versão / feedback:** briefing v03; base individual não gerada. Incluído na [prancha v03](<MM-12/STB MM12.png>), PNG 1672 × 941; aprovação pendente.
 
 **Prompt proposto da imagem-base (ainda não enviado individualmente):**
 
@@ -1158,45 +1158,45 @@ Referência única V03, aprovada pelo usuário ao reenviar a imagem com renda; v
 
 ### MM-12-Q02 · Belém ao longe
 
-- **Situação / função visual:** proposta v02; sequência de ambientes. Identificar destino da viagem sem encenar Maria e José.
+- **Situação / função visual:** proposta v03; sequência de ambientes. Identificar destino da viagem sem encenar Maria e José.
 - **Palco / pessoas no telão:** montagem e atuação do núcleo bíblico no palco; pessoas não previstas nesta proposta, opcionais pelo briefing.
 - **Imagem-base:** Povoado compacto de pedra clara no terço direito de uma encosta; estrada de Q01 conduz até ele, poucas luzes âmbar.
 - **Composição:** Plano geral elevado, caminho em primeiro plano, cidade ao fundo, céu amplo sem destaque sobrenatural.
 - **Luz e cor:** Fim de tarde mais frio que Q01; luz suave pela direita, brilho quente discreto em poucas aberturas.
-- **Continuidade:** Mesmo relevo, materiais e sentido de Q01; Q03 passa ao interior da cidade com percurso invertido da direita para a esquerda por D-44.
+- **Continuidade:** Mesmo relevo, materiais e sentido de Q01; Q03 passa ao interior da cidade com casa à esquerda e caminho à direita da casa, seguindo da direita para a esquerda em profundidade por D-45.
 - **Animação e transição:** Dissolução e aproximação lenta na entrada; estabilizar para esperar; sem atravessar o destino durante o loop.
 - **Gatilho / tempo:** “José, que era noivo de Maria, precisou ir até Belém…”; sustentar a interrupção sobre gravidez. Duração a definir no ensaio, sem segundos medidos.
 - **Evitar:** Rio ou torres copiados da referência, arquitetura medieval, personagens obrigatórios, estrela protagonista.
 - **Referências reais:** MM-07-Q01.JPG e MM-13-Q01.JPG inspecionados; sem bases individuais de MM-12 aceitas.
-- **Arquivo / versão / feedback:** briefing v02; base individual não gerada. Incluído na [prancha v02](<MM-12/STB MM12.png>), PNG 1672 × 941; aprovação pendente.
+- **Arquivo / versão / feedback:** briefing v03; base individual não gerada. Incluído na [prancha v03](<MM-12/STB MM12.png>), PNG 1672 × 941; aprovação pendente.
 
 **Prompt proposto da imagem-base (ainda não enviado individualmente):**
 
-> Uma única imagem-base limpa MM-12-Q02, HESED 2026, realista e cinematográfica, reverente e legível à distância. Povoado compacto de pedra clara no terço direito de uma encosta; estrada de Q01 conduz até ele, poucas luzes âmbar. Plano geral elevado, caminho em primeiro plano, cidade ao fundo, céu amplo sem destaque sobrenatural. Luz: Fim de tarde mais frio que Q01; luz suave pela direita, brilho quente discreto em poucas aberturas. Mesmo relevo, materiais e sentido de Q01; Q03 passa ao interior da cidade com percurso invertido da direita para a esquerda por D-44. Sem pessoas, texto, números, grade, moldura, colagem ou marcas-d'água. Sem elementos modernos ou fantasia medieval. Evitar: Rio ou torres copiados da referência, arquitetura medieval, personagens obrigatórios, estrela protagonista. Descrever um único instante; movimento será feito na edição.
+> Uma única imagem-base limpa MM-12-Q02, HESED 2026, realista e cinematográfica, reverente e legível à distância. Povoado compacto de pedra clara no terço direito de uma encosta; estrada de Q01 conduz até ele, poucas luzes âmbar. Plano geral elevado, caminho em primeiro plano, cidade ao fundo, céu amplo sem destaque sobrenatural. Luz: Fim de tarde mais frio que Q01; luz suave pela direita, brilho quente discreto em poucas aberturas. Mesmo relevo, materiais e sentido de Q01; Q03 passa ao interior da cidade com casa à esquerda e caminho à direita da casa, seguindo da direita para a esquerda em profundidade por D-45. Sem pessoas, texto, números, grade, moldura, colagem ou marcas-d'água. Sem elementos modernos ou fantasia medieval. Evitar: Rio ou torres copiados da referência, arquitetura medieval, personagens obrigatórios, estrela protagonista. Descrever um único instante; movimento será feito na edição.
 
 ### MM-12-Q03 · A chegada
 
-- **Situação / função visual:** proposta v02; sequência de ambientes. Passar da paisagem ao interior da mesma cidade.
+- **Situação / função visual:** proposta v03; sequência de ambientes. Passar da paisagem ao interior da mesma cidade.
 - **Palco / pessoas no telão:** montagem e atuação do núcleo bíblico no palco; pessoas não previstas nesta proposta, opcionais pelo briefing.
-- **Imagem-base:** Rua estreita de terra entre casas baixas de pedra e reboco; porta de madeira à direita, percurso diagonal da direita para a esquerda, crepúsculo.
+- **Imagem-base:** Rua estreita de terra entre casas baixas de pedra e reboco; casa e porta de madeira à esquerda; caminho passando à direita da casa, vindo do primeiro plano direito e curvando para a esquerda ao fundo, crepúsculo.
 - **Composição:** Plano aberto à altura do olhar, rua em profundidade, portas e vãos legíveis; sem pessoas.
-- **Luz e cor:** Crepúsculo azul-terroso, luz residual pela esquerda após espelhamento e poucas lamparinas discretas.
-- **Continuidade:** Mesma Belém de Q02. Fixar câmera, porta à direita, volumes e posição das lamparinas para Q04.
+- **Luz e cor:** Crepúsculo azul-terroso, luz residual de crepúsculo coerente com a nova perspectiva e poucas lamparinas discretas.
+- **Continuidade:** Mesma Belém de Q02. Fixar câmera, porta à esquerda, volumes e posição das lamparinas para Q04.
 - **Animação e transição:** Dissolução de Q02; Q04 será mudança de luz desta base se possível. Não fazer troca de cidade.
 - **Gatilho / tempo:** “E quando eles chegaram lá…”; subdivisão da fala é proposta a validar. Duração a definir no ensaio, sem segundos medidos.
 - **Evitar:** Rua cheia, atores digitais, portas modernas, outra geografia ou grandes multidões.
 - **Referências reais:** MM-07-Q01.JPG e MM-13-Q01.JPG inspecionados; sem bases individuais de MM-12 aceitas.
-- **Arquivo / versão / feedback:** briefing v02; base individual não gerada. Incluído na [prancha v02](<MM-12/STB MM12.png>), PNG 1672 × 941; aprovação pendente.
+- **Arquivo / versão / feedback:** briefing v03; base individual não gerada. Incluído na [prancha v03](<MM-12/STB MM12.png>), PNG 1672 × 941; aprovação pendente.
 
 **Prompt proposto da imagem-base (ainda não enviado individualmente):**
 
-> Uma única imagem-base limpa MM-12-Q03, HESED 2026, realista e cinematográfica, reverente e legível à distância. Rua estreita de terra entre casas baixas de pedra e reboco; porta de madeira à direita, percurso diagonal da direita para a esquerda, crepúsculo. Plano aberto à altura do olhar, rua em profundidade, portas e vãos legíveis; sem pessoas. Luz: Crepúsculo azul-terroso, luz residual pela esquerda após espelhamento e poucas lamparinas discretas. Mesma Belém de Q02. Fixar câmera, porta à direita, volumes e posição das lamparinas para Q04. Sem pessoas, texto, números, grade, moldura, colagem ou marcas-d'água. Sem elementos modernos ou fantasia medieval. Evitar: Rua cheia, atores digitais, portas modernas, outra geografia ou grandes multidões. Descrever um único instante; movimento será feito na edição.
+> Uma única imagem-base limpa MM-12-Q03, HESED 2026, realista e cinematográfica, reverente e legível à distância. Rua estreita de terra entre casas baixas de pedra e reboco; casa e porta de madeira à esquerda; caminho passando à direita da casa, vindo do primeiro plano direito e curvando para a esquerda ao fundo, crepúsculo. Plano aberto à altura do olhar, rua em profundidade, portas e vãos legíveis; sem pessoas. Luz: Crepúsculo azul-terroso, luz residual de crepúsculo coerente com a nova perspectiva e poucas lamparinas discretas. Mesma Belém de Q02. Fixar câmera, porta à esquerda, volumes e posição das lamparinas para Q04. Sem pessoas, texto, números, grade, moldura, colagem ou marcas-d'água. Sem elementos modernos ou fantasia medieval. Evitar: Rua cheia, atores digitais, portas modernas, outra geografia ou grandes multidões. Descrever um único instante; movimento será feito na edição.
 
 ### MM-12-Q04 · A noite
 
-- **Situação / função visual:** proposta v02; sequência de ambientes. Estabelecer noite sem prolongar a fala com um novo passeio.
+- **Situação / função visual:** proposta v03; sequência de ambientes. Estabelecer noite sem prolongar a fala com um novo passeio.
 - **Palco / pessoas no telão:** montagem e atuação do núcleo bíblico no palco; pessoas não previstas nesta proposta, opcionais pelo briefing.
-- **Imagem-base:** Exatamente a rua de Q03, mesma porta à direita e percurso da direita para a esquerda; céu azul-noturno e lamparinas acesas.
+- **Imagem-base:** Exatamente a rua de Q03, mesma casa e porta à esquerda; caminho à direita da casa, vindo do primeiro plano direito e curvando para a esquerda ao fundo; céu azul-noturno e lamparinas acesas.
 - **Composição:** Mesma câmera, perspectiva e volumes de Q03; referência de composição a reutilizar quando existir uma base aceita.
 - **Luz e cor:** Ambiente azul-noturno, sombra azul legível, pequenos focos âmbar; evitar escurecimento que esconda as casas.
 - **Continuidade:** Não regenerar outra arquitetura; preferência por tratar a luz da base Q03.
@@ -1204,17 +1204,17 @@ Referência única V03, aprovada pelo usuário ao reenviar a imagem com renda; v
 - **Gatilho / tempo:** Entre “chegaram lá…” e “não tinha lugar pra ficar”; mesma deixa de Q03, sem pausa nova. Duração a definir no ensaio, sem segundos medidos.
 - **Evitar:** Time-lapse rápido, estrelas girando, luar incompatível, casa mudando de posição.
 - **Referências reais:** MM-07-Q01.JPG e MM-13-Q01.JPG inspecionados; sem bases individuais de MM-12 aceitas.
-- **Arquivo / versão / feedback:** briefing v02; base individual não gerada. Incluído na [prancha v02](<MM-12/STB MM12.png>), PNG 1672 × 941; aprovação pendente.
+- **Arquivo / versão / feedback:** briefing v03; base individual não gerada. Incluído na [prancha v03](<MM-12/STB MM12.png>), PNG 1672 × 941; aprovação pendente.
 
 **Prompt proposto da imagem-base (ainda não enviado individualmente):**
 
-> Uma única imagem-base limpa MM-12-Q04, HESED 2026, realista e cinematográfica, reverente e legível à distância. Exatamente a rua de Q03, mesma porta à direita e percurso da direita para a esquerda; céu azul-noturno e lamparinas acesas. Mesma câmera, perspectiva e volumes de Q03; referência de composição a reutilizar quando existir uma base aceita. Luz: Ambiente azul-noturno, sombra azul legível, pequenos focos âmbar; evitar escurecimento que esconda as casas. Não regenerar outra arquitetura; preferência por tratar a luz da base Q03. Sem pessoas, texto, números, grade, moldura, colagem ou marcas-d'água. Sem elementos modernos ou fantasia medieval. Evitar: Time-lapse rápido, estrelas girando, luar incompatível, casa mudando de posição. Descrever um único instante; movimento será feito na edição.
+> Uma única imagem-base limpa MM-12-Q04, HESED 2026, realista e cinematográfica, reverente e legível à distância. Exatamente a rua de Q03, mesma casa e porta à esquerda; caminho à direita da casa, vindo do primeiro plano direito e curvando para a esquerda ao fundo; céu azul-noturno e lamparinas acesas. Mesma câmera, perspectiva e volumes de Q03; referência de composição a reutilizar quando existir uma base aceita. Luz: Ambiente azul-noturno, sombra azul legível, pequenos focos âmbar; evitar escurecimento que esconda as casas. Não regenerar outra arquitetura; preferência por tratar a luz da base Q03. Sem pessoas, texto, números, grade, moldura, colagem ou marcas-d'água. Sem elementos modernos ou fantasia medieval. Evitar: Time-lapse rápido, estrelas girando, luar incompatível, casa mudando de posição. Descrever um único instante; movimento será feito na edição.
 
 ### MM-12-Q05 · Sem acolhimento
 
-- **Situação / função visual:** proposta v02; sequência de ambientes. Sugerir ausência de hospedagem sem dramatizar rejeição.
+- **Situação / função visual:** proposta v03; sequência de ambientes. Sugerir ausência de hospedagem sem dramatizar rejeição.
 - **Palco / pessoas no telão:** montagem e atuação do núcleo bíblico no palco; pessoas não previstas nesta proposta, opcionais pelo briefing.
-- **Imagem-base:** Na mesma rua noturna, porta simples de madeira fechada à direita, pequena lamparina e caminho lateral da direita para a esquerda.
+- **Imagem-base:** Na mesma rua noturna, casa e porta simples de madeira fechada à esquerda, pequena lamparina; caminho no lado direito da casa vindo da direita e seguindo para a esquerda em profundidade.
 - **Composição:** Plano médio-aberto da fachada; porta dominante mas com leitura do percurso lateral; sem pessoas ou letreiros.
 - **Luz e cor:** Mesma noite e fontes de Q04; manter textura na madeira e nas pedras.
 - **Continuidade:** Reutilizar porta, materiais e sentido de Q03/Q04; percurso aponta para o abrigo periférico de Q06.
@@ -1222,29 +1222,29 @@ Referência única V03, aprovada pelo usuário ao reenviar a imagem com renda; v
 - **Gatilho / tempo:** “...não tinha lugar pra ficar. Nenhuma hospedagem disponível.” Sair em “...onde os animais ficavam”. Duração a definir no ensaio, sem segundos medidos.
 - **Evitar:** Placa de lotação, hospedeiro expulsando pessoas, humor, reencenação de cada tentativa de hospedagem.
 - **Referências reais:** MM-07-Q01.JPG e MM-13-Q01.JPG inspecionados; sem bases individuais de MM-12 aceitas.
-- **Arquivo / versão / feedback:** briefing v02; base individual não gerada. Incluído na [prancha v02](<MM-12/STB MM12.png>), PNG 1672 × 941; aprovação pendente.
+- **Arquivo / versão / feedback:** briefing v03; base individual não gerada. Incluído na [prancha v03](<MM-12/STB MM12.png>), PNG 1672 × 941; aprovação pendente.
 
 **Prompt proposto da imagem-base (ainda não enviado individualmente):**
 
-> Uma única imagem-base limpa MM-12-Q05, HESED 2026, realista e cinematográfica, reverente e legível à distância. Na mesma rua noturna, porta simples de madeira fechada à direita, pequena lamparina e caminho lateral da direita para a esquerda. Plano médio-aberto da fachada; porta dominante mas com leitura do percurso lateral; sem pessoas ou letreiros. Luz: Mesma noite e fontes de Q04; manter textura na madeira e nas pedras. Reutilizar porta, materiais e sentido de Q03/Q04; percurso aponta para o abrigo periférico de Q06. Sem pessoas, texto, números, grade, moldura, colagem ou marcas-d'água. Sem elementos modernos ou fantasia medieval. Evitar: Placa de lotação, hospedeiro expulsando pessoas, humor, reencenação de cada tentativa de hospedagem. Descrever um único instante; movimento será feito na edição.
+> Uma única imagem-base limpa MM-12-Q05, HESED 2026, realista e cinematográfica, reverente e legível à distância. Na mesma rua noturna, casa e porta simples de madeira fechada à esquerda, pequena lamparina; caminho no lado direito da casa vindo da direita e seguindo para a esquerda em profundidade. Plano médio-aberto da fachada; porta dominante mas com leitura do percurso lateral; sem pessoas ou letreiros. Luz: Mesma noite e fontes de Q04; manter textura na madeira e nas pedras. Reutilizar porta, materiais e sentido de Q03/Q04; percurso aponta para o abrigo periférico de Q06. Sem pessoas, texto, números, grade, moldura, colagem ou marcas-d'água. Sem elementos modernos ou fantasia medieval. Evitar: Placa de lotação, hospedeiro expulsando pessoas, humor, reencenação de cada tentativa de hospedagem. Descrever um único instante; movimento será feito na edição.
 
 ### MM-12-Q06 · Um abrigo simples
 
-- **Situação / função visual:** proposta v02; sequência de ambientes. Preparar intimidade do nascimento e entregar noite/estábulo ao MM-13.
+- **Situação / função visual:** proposta v03; sequência de ambientes. Preparar intimidade do nascimento e entregar noite/estábulo ao MM-13.
 - **Palco / pessoas no telão:** montagem e atuação do núcleo bíblico no palco; pessoas não previstas nesta proposta, opcionais pelo briefing.
-- **Imagem-base:** Estábulo humilde de pedra e vigas à esquerda, entrada com pouca palha e recipiente simples; campo e céu à direita, sem pessoas, animais, bebê ou manjedoura projetada.
-- **Composição:** Plano geral, interior legível à esquerda e abertura paisagística à direita; faixa inferior calma para não disputar com presépio físico.
+- **Imagem-base:** Estábulo reconstruído para a esquerda: parede de pedra na margem esquerda, frente aberta sob vigas, coluna fina de madeira alinhada à quina externa do telhado; entrada com pouca palha e recipiente simples; campo e céu à direita, sem pessoas, animais, bebê ou manjedoura projetada.
+- **Composição:** Plano geral, parede na borda esquerda, interior aberto e legível à esquerda sem pilastra central de pedra; preservar muro baixo e paisagem à direita da v02; faixa inferior calma para não disputar com presépio físico.
 - **Luz e cor:** Calor âmbar baixo dentro do abrigo, ambiente azul no campo; maior brilho reservado à progressão posterior do MM-13.
 - **Continuidade:** Mesmo relevo/cidade próxima e noite anteriores. Compartilhar estábulo à esquerda, campo à direita, horizonte, cor e direção de luz com Eduardo; sua referência de campo é estudo, não emenda já aceita.
 - **Animação e transição:** Dissolução de Q05; câmera estabilizada e variação ambiental cíclica. MM-13 poderá revelar o campo na mesma noite, após cue combinado.
 - **Gatilho / tempo:** “...onde os animais ficavam”; sustentar “um estábulo mesmo?”, o diálogo seguinte e “Maria deu à luz ali mesmo…”. Anúncio aos pastores é MM-13. Duração a definir no ensaio, sem segundos medidos.
 - **Evitar:** Presépio completo duplicado, bebê, anjos, pastores, estrela brilhante, palácio ou glória antecipada.
 - **Referências reais:** MM-07-Q01.JPG e MM-13-Q01.JPG inspecionados; sem bases individuais de MM-12 aceitas.
-- **Arquivo / versão / feedback:** briefing v02; base individual não gerada. Incluído na [prancha v02](<MM-12/STB MM12.png>), PNG 1672 × 941; aprovação pendente.
+- **Arquivo / versão / feedback:** briefing v03; base individual não gerada. Incluído na [prancha v03](<MM-12/STB MM12.png>), PNG 1672 × 941; aprovação pendente.
 
 **Prompt proposto da imagem-base (ainda não enviado individualmente):**
 
-> Uma única imagem-base limpa MM-12-Q06, HESED 2026, realista e cinematográfica, reverente e legível à distância. Estábulo humilde de pedra e vigas à esquerda, entrada com pouca palha e recipiente simples; campo e céu à direita, sem pessoas, animais, bebê ou manjedoura projetada. Plano geral, interior legível à esquerda e abertura paisagística à direita; faixa inferior calma para não disputar com presépio físico. Luz: Calor âmbar baixo dentro do abrigo, ambiente azul no campo; maior brilho reservado à progressão posterior do MM-13. Mesmo relevo/cidade próxima e noite anteriores. Compartilhar estábulo à esquerda, campo à direita, horizonte, cor e direção de luz com Eduardo; sua referência de campo é estudo, não emenda já aceita. Sem pessoas, texto, números, grade, moldura, colagem ou marcas-d'água. Sem elementos modernos ou fantasia medieval. Evitar: Presépio completo duplicado, bebê, anjos, pastores, estrela brilhante, palácio ou glória antecipada. Descrever um único instante; movimento será feito na edição.
+> Uma única imagem-base limpa MM-12-Q06, HESED 2026, realista e cinematográfica, reverente e legível à distância. Estábulo reconstruído para a esquerda: parede de pedra na margem esquerda, frente aberta sob vigas, coluna fina de madeira alinhada à quina externa do telhado; entrada com pouca palha e recipiente simples; campo e céu à direita, sem pessoas, animais, bebê ou manjedoura projetada. Plano geral, parede na borda esquerda, interior aberto e legível à esquerda sem pilastra central de pedra; preservar muro baixo e paisagem à direita da v02; faixa inferior calma para não disputar com presépio físico. Luz: Calor âmbar baixo dentro do abrigo, ambiente azul no campo; maior brilho reservado à progressão posterior do MM-13. Mesmo relevo/cidade próxima e noite anteriores. Compartilhar estábulo à esquerda, campo à direita, horizonte, cor e direção de luz com Eduardo; sua referência de campo é estudo, não emenda já aceita. Sem pessoas, texto, números, grade, moldura, colagem ou marcas-d'água. Sem elementos modernos ou fantasia medieval. Evitar: Presépio completo duplicado, bebê, anjos, pastores, estrela brilhante, palácio ou glória antecipada. Descrever um único instante; movimento será feito na edição.
 
 ### MM-12 · Registro da geração da prancha v01
 
@@ -1261,7 +1261,19 @@ Referência única V03, aprovada pelo usuário ao reenviar a imagem com renda; v
 - **Direção / data:** D-44, usuário, 24/10/2026: estábulo à esquerda por logística do palco, Q03–Q05 com percurso da direita para a esquerda. Direção espacial confirmada; versão resultante ainda para revisão.
 - **Diretrizes e IDs:** guia canônico, contrato atual MM-12-Q01–Q06, briefing/roteiro/Bíblia/alinhamento e D-44. Q01/Q02 mantêm conteúdo e orientação; Q03–Q06 são os painéis editados.
 - **Referência efetivamente anexada:** prancha v01, inspecionada antes da edição e preservada em [versoes/v01](<MM-12/versoes/v01/STB MM12.png>).
-- **Prompt efetivamente enviado:** [prompt atual integral](MM-12/prompt-prancha.txt); ferramenta image_gen, edição com referência local.
-- **Resultado real:** [STB MM12.png](<MM-12/STB MM12.png>), v02, PNG 1672 × 941 px. Original preservado em `/workspace/generated_images/exec-20674e79-0f8b-484b-a243-259b2d42426a.png`.
+- **Prompt efetivamente enviado:** [prompt atual integral](MM-12/versoes/v02/prompt-prancha.txt); ferramenta image_gen, edição com referência local.
+- **Resultado real:** [STB MM12.png](<MM-12/versoes/v02/STB MM12.png>), v02, PNG 1672 × 941 px. Original preservado em `/workspace/generated_images/exec-20674e79-0f8b-484b-a243-259b2d42426a.png`.
 - **Inspeção visual do agente:** fachadas/portas de Q03–Q05 à direita, caminho para a esquerda; Q06 com estábulo à esquerda e campo à direita. Q03/Q04 mantêm correspondência arquitetônica e progressão crepúsculo/noite. Texto orientado normalmente, seis IDs e blocos de direção presentes. Edição generativa não certifica preservação pixel a pixel dos demais elementos.
 - **Aprovação / limites:** revisão artística pendente; bases individuais, animação e teste LED não realizados. Compartilhar esta orientação com Eduardo ao preparar MM-13; cue exato continua a combinar.
+
+**Feedback posterior sobre v02 (D-45):** rejeitada pelo usuário por ser mero espelhamento, com casa à direita e caminho à esquerda; estábulo precisa de reconstrução arquitetônica. Fundo e muro foram apreciados. Nova tentativa v03 em preparação.
+
+### MM-12 · Registro da recomposição v03
+
+- **Data / direção:** 24/10/2026; D-45 e esclarecimento seguinte do usuário. V02 rejeitada. Recompor, sem espelhamento literal: casa à esquerda/caminho à direita em Q03–Q05; estábulo esquerdo ampliado para a direita com distribuição mais equilibrada entre parede, abertura e coluna.
+- **Fontes / IDs:** guia canônico e contrato MM-12-Q01–Q06, briefing, roteiro Cenas 6–7, Bíblia/alinhamento e direção do usuário. Q01/Q02 mantêm orientação e conteúdo; não presumir igualdade pixel a pixel.
+- **Referências efetivas:** primeira chamada usa [v02](<MM-12/versoes/v02/STB MM12.png>), inspecionada previamente; segunda chamada usa o resultado intermediário `/workspace/generated_images/exec-92b0dd4f-1b2e-41d5-ba0c-a41f4e7ef8c6.png`, inspecionado, para incorporar o esclarecimento sobre equilíbrio do Q06.
+- **Prompts enviados:** [registro integral das duas chamadas](MM-12/prompt-prancha.txt), ferramenta image_gen. A primeira chamada tratava abertura do abrigo; o esclarecimento do usuário corrigiu o foco para equilíbrio visual, aplicado na segunda chamada.
+- **Arquivo vigente:** [STB MM12.png](<MM-12/STB MM12.png>), estudo v03. Original final preservado em `/workspace/generated_images/exec-20c7cc2f-6c2b-4f5c-a132-1dcdbdb2d216.png`.
+- **Inspeção do agente:** fachada/porta à esquerda e caminho à direita em Q03–Q05; Q03/Q04 correspondem em cenário/luz. Q06 tem parede lateral visível à esquerda, viga/telhado estendidos para a direita e poste externo na quina; muro, céu e campo seguem ao fundo/direita. Textos e seis IDs legíveis. Revisar os detalhes e a leitura de percurso com o usuário; inspeção não equivale a aprovação.
+- **Aprovação / limites:** v03 pendente de revisão artística; sem alpha, bases finais ou teste LED.

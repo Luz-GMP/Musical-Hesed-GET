@@ -1,0 +1,12 @@
+Edite a prancha de storyboard anexada com uma correção localizada e precisa. Use a própria imagem como base e preserve o design editorial, grade 3x2, molduras, paleta, arquitetura, paisagens, proporções, luz e todos os textos. Não recrie as cenas nem redesenhe a prancha. Resultado com a mesma composição e tamanho da referência.
+
+ALTERAÇÃO EXATA: espelhe horizontalmente APENAS o conteúdo fotográfico dentro das molduras de Q03, Q04, Q05 e Q06. Não espelhe títulos, legendas, letras, números, amostras de cor ou rodapé. NÃO espelhe a prancha inteira. Q01 e Q02 ficam integralmente iguais.
+
+- Q03, imagem do painel superior direito: inverter horizontalmente a fotografia. A fachada próxima e a porta que estavam à esquerda passam para a DIREITA. A estrada parte do primeiro plano direito e segue na diagonal para o fundo ESQUERDO, com ponto de fuga à esquerda. Manter entardecer e exatamente a mesma cidade.
+- Q04, imagem do painel inferior esquerdo: a mesma inversão horizontal da rua de Q03, com porta/fachada próxima à DIREITA e estrada seguindo da DIREITA para a ESQUERDA. Manter a noite e a correspondência exata de arquitetura com Q03.
+- Q05, imagem do painel inferior central: inverter horizontalmente a fotografia. Porta fechada, lamparina e grande parede próximas à DIREITA. Caminho livre e distante à ESQUERDA, para continuar o sentido direita → esquerda.
+- Q06, imagem do painel inferior direito: inverter horizontalmente a fotografia. O ESTÁBULO deve ficar claramente no LADO ESQUERDO do quadro; campo, céu e cidade distante ficam no LADO DIREITO. Conservar o mesmo abrigo de pedra e madeira, palha, recipiente e calor âmbar, sem pessoas ou animais.
+
+Apenas outra mudança textual: no cabeçalho troque "Estudo v01" por "Estudo v02". Manter todos os outros textos perfeitamente legíveis e orientados normalmente, sem letras invertidas, sem novas setas, sem novos rótulos e sem acrescentar objetos.
+
+A finalidade desta correção é a continuidade espacial do palco: Q03 → Q04 → Q05 orientam o percurso da direita para a esquerda, culminando no Q06 com estábulo à esquerda. Preserve Q01 e Q02 sem qualquer mudança.
