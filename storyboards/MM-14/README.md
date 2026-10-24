@@ -1,10 +1,10 @@
 # Storyboard · MM-14 · Resumo dos pecados
 
-**v03 · seis quadros · 24/10/2026 · proposta para revisão (D-44/D-45).** Substitui a figuração genérica da v02 por Ladra, Religiosidade e Autossuficiência com as referências enviadas pelo usuário. A imagem coletiva na prisão serve somente à roupa, corpo e altura: a montagem ocorre na casa V03, com mãos e pés livres, sem algemas ou correntes.
+**v04 · seis quadros · 24/10/2026 · proposta para revisão (D-44/D-45/D-46).** Todas as personagens agora aparecem desfocadas de corpo inteiro nos seis quadros, aproximadamente como a Religiosidade ao fundo do quadro 4/v03. A ação acontece no palco; o telão reforça o distanciamento. Casa, objetos e textos conservam nitidez. A imagem coletiva na prisão serve somente à roupa, corpo e altura: a montagem ocorre na casa V03, com mãos e pés livres, sem algemas ou correntes.
 
-![MM-14 v03 — personagens de referência](<STB MM14.png>)
+![MM-14 v04 — personagens desfocadas](<STB MM14.png>)
 
-[Prancha nativa](<STB MM14.png>) · [Prompt efetivo](prompt-prancha-v03.txt) · [Contrato por quadro e inspeção](../briefings-dos-quadros.md#mm-14--reformulação-v02--seis-quadros--24102026)
+[Prancha nativa](<STB MM14.png>) · [Prompt efetivo](prompt-prancha-v04.txt) · [Contrato por quadro e inspeção](../briefings-dos-quadros.md#mm-14--reformulação-v02--seis-quadros--24102026)
 
 | Campo | Definição |
 | --- | --- |
@@ -37,19 +37,21 @@ Não prolongar a fala para acomodar seis quadros. A duração e os cortes serão
 - **Paleta:** azul-noturno nas sombras, cinza-cimento na casa, âmbar contido na luz e dourado discreto nos objetos; amostras visíveis na prancha.
 - **Luz/atmosfera:** calor doméstico inicial → fechamento frio, com leitura nas sombras e calor residual. A restauração pertence à MM-15.
 - **Elementos:** casa V03, duas portas à esquerda, aparador central e copa à direita; relógio/bandejinha sobre renda/menorá preservados. Sem mesa ou sofá novos no LED. Salmo 91 e menorá são continuidade doméstica, sem associação à culpa.
-- **Personagens:** retrato 1 = Ladra ruiva; retrato 2 = Religiosidade de cabelos longos escuros; retrato 3 = Autossuficiência loira. Rostos conforme retratos; roupas escuras, biotipo e altura conforme imagem coletiva. Sem cenário prisional ou contenção. A conversa atual permanece no palco; os quadros representam a condição anterior recapitulada, sem filmagem de elenco realizada.
+- **Personagens desfocadas:** retrato 1 = Ladra ruiva; retrato 2 = Religiosidade de cabelos longos escuros; retrato 3 = Autossuficiência loira. Referências de identidade preservadas sob desfoque de rosto/cabelo/corpo/mãos/roupas/pés; roupas escuras, biotipo e altura conforme imagem coletiva. O reconhecimento facial detalhado deixa de ser prioridade nesta revisão. Sem cenário prisional ou contenção. A conversa atual permanece no palco; os quadros representam a condição anterior recapitulada, sem filmagem de elenco realizada.
 - **Movimento/efeitos:** aproximações leves, cortes simples e máscaras de sombra; animação e loop final ainda não executados ou testados.
 - **Costura:** alinhar com Lucas o último estado, cor e velocidade antes da produção de MM-15; primeiro frame de MM-15 não fornecido.
 
 ## Registro e revisão
 
-Gerada por `image_gen.imagegen`, com as cinco imagens recentes do chat (prancha v02 e quatro referências do usuário), `num_last_images_to_include=5`, fundo opaco e [prompt efetivo](prompt-prancha-v03.txt). As referências enviadas estão no chat, sem caminhos locais disponíveis. PNG nativo **1672 × 941**, **2,063,684 bytes**. Não é base individual 4K ou vídeo. Original preservado em `/workspace/generated_images/exec-d38ba494-cb04-44a3-a5c3-2edd81524d9e.png`.
+Editada por `image_gen.imagegen` usando a prancha v03 local como referência única, fundo opaco e [prompt efetivo](prompt-prancha-v04.txt). PNG nativo **1672 × 941**, **1875905 bytes**. Original preservado em `/workspace/generated_images/exec-17593d04-f5d0-4fd1-86c5-94610e377837.png`.
 
-Inspeção pelo Codex: seis painéis com as três personagens, cabelos/rostos reconhecíveis em relação às referências, roupa escura consistente e ausência de algemas/correntes. Q10 mostra as três em pé, botas sem contenção e sombras na casa; Q06 recusa de ajuda, Q07 postura rígida, Q08 gesto da Ladra. As alturas relativas e a fidelidade dos rostos precisam da avaliação do usuário; uma prancha gerada não comprova medidas corporais. Alguns enquadramentos ocultam mãos nos bolsos, sem contenção visível. A leitura simbólica de retirar chaves continua ambígua sem contexto. Conferir continuidade arquitetônica nas bases definitivas e cor/cues com Lucas.
+Inspeção pelo Codex: pessoas inteiras desfocadas nos seis quadros, inclusive figuras parciais, mãos e botas; casa, objetos e textos com foco preservado. Poses, distanciamento, roupas escuras, seis IDs e gradação de luz mantidos, sem algemas/correntes. Pequenas variações gerativas de fundo/texto não equivalem a preservação pixel a pixel. Intensidade artística do desfoque segue para revisão; leitura em escala real depende de ensaio. Não houve animação ou teste de telão.
 
 Sem bases individuais, alpha, envio ao Drive ou teste LED. P-01/P-13/P-15 continuam abertas. Avisar Melissa e Lucas sobre a nova proposta para alinhar a passagem; nenhuma mensagem enviada pelo assistente.
 
 ## Histórico
+
+[Prancha v03](<historico/v03/STB MM14.png>) · [Ficha v03](historico-v03.md), preservadas antes do desfoque solicitado em D-46.
 
 [Prancha v02](<historico/v02/STB MM14.png>) · [Ficha v02](historico-v02.md), preservadas após comentário positivo parcial e pedido de troca de personagens, sem aprovação integral.
 
