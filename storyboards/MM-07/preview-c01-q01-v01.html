@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>HESED · MM-07-Q01 · C01 v01</title>
+  <style>
+    :root {
+      color-scheme: dark;
+      --gold: #d9b36c;
+      --ink: #070b12;
+      --line: rgba(217,179,108,.35);
+    }
+    * { box-sizing: border-box; }
+    html, body { margin: 0; min-height: 100%; background: var(--ink); color: #f5f1e8; font-family: Georgia, serif; }
+    body { display: grid; place-items: center; padding: 24px; }
+    .page { width: min(1240px, 100%); }
+    header { display: flex; justify-content: space-between; gap: 16px; align-items: end; padding: 0 0 14px; border-bottom: 1px solid var(--line); }
+    h1 { margin: 0; font-size: clamp(20px, 3vw, 34px); font-weight: 400; letter-spacing: .04em; }
+    .meta { color: var(--gold); font-size: 13px; letter-spacing: .08em; text-transform: uppercase; text-align: right; }
+    .stage { position: relative; margin-top: 18px; aspect-ratio: 16 / 9; overflow: hidden; background: #0b1726; box-shadow: 0 18px 60px rgba(0,0,0,.45); }
+    .viewport { position: absolute; inset: -4%; overflow: hidden; transform-origin: 50% 55%; }
+    .layer { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; object-position: center; transform-origin: 50% 55%; will-change: transform; user-select: none; pointer-events: none; }
+    .base { filter: saturate(.96) contrast(1.02); }
+    .sky { opacity: .5; mix-blend-mode: screen; filter: saturate(.88) brightness(1.04) blur(.2px); clip-path: polygon(0 0,100% 0,100% 45%,84% 43%,68% 46%,53% 42%,38% 45%,21% 41%,0 44%); }
+    .mountains { opacity: .48; filter: saturate(.9) contrast(1.04) blur(.35px); clip-path: polygon(0 39%,16% 35%,29% 39%,43% 33%,58% 38%,72% 31%,84% 37%,100% 29%,100% 73%,0 73%); }
+    .foreground { opacity: .54; filter: saturate(.94) contrast(1.05) blur(.45px); clip-path: polygon(0 57%,15% 54%,31% 60%,44% 55%,61% 62%,75% 55%,89% 61%,100% 53%,100% 100%,0 100%); }
+    .vignette { position: absolute; inset: 0; pointer-events: none; background: radial-gradient(ellipse at center, transparent 48%, rgba(0,0,0,.23) 100%); }
+    .safe { position: absolute; inset: 5%; border: 1px dashed rgba(255,255,255,.16); pointer-events: none; opacity: 0; transition: opacity .2s; }
+    .show-guides .safe { opacity: 1; }
+    .show-guides .layer:not(.base) { outline: 1px solid rgba(255,208,120,.55); }
+    .legend { position: absolute; left: 16px; top: 14px; display: flex; gap: 8px; opacity: 0; transition: opacity .2s; font: 12px/1.2 Arial, sans-serif; }
+    .show-guides .legend { opacity: 1; }
+    .legend span { padding: 5px 7px; border: 1px solid rgba(255,255,255,.25); background: rgba(0,0,0,.4); }
+    .controls { display: grid; grid-template-columns: auto auto 1fr auto; gap: 10px; align-items: center; margin-top: 14px; font: 13px/1.2 Arial, sans-serif; }
+    button { border: 1px solid var(--line); color: #f5f1e8; background: #111a26; padding: 8px 11px; cursor: pointer; }
+    button:hover { background: #1b2b3e; }
+    input[type=range] { width: 100%; accent-color: var(--gold); }
+    .readout { color: var(--gold); min-width: 62px; text-align: right; }
+    .note { margin-top: 12px; color: #c9c4b9; font: 13px/1.5 Arial, sans-serif; }
+    .note strong { color: var(--gold); font-weight: 400; }
+    @media (max-width: 720px) { body { padding: 12px; } header { display: block; } .meta { text-align: left; margin-top: 8px; } .controls { grid-template-columns: auto auto 1fr; } .readout { grid-column: 3; } }
+  </style>
+</head>
+<body>
+  <main class="page">
+    <header>
+      <h1>MM-07 · Q01 · Abertura</h1>
+      <div class="meta">C01 / v01 · estudo de 15 s · sem master</div>
+    </header>
+
+    <section class="stage" id="stage" aria-label="Prévia parallax MM-07-Q01">
+      <div class="viewport" id="viewport">
+        <img class="layer base" src="MM07-Q01.JPG" alt="Base canônica MM07-Q01">
+        <img class="layer sky" src="MM07-Q01.JPG" alt="Camada de fundo: céu">
+        <img class="layer mountains" src="MM07-Q01.JPG" alt="Camada intermediária: montanhas">
+        <img class="layer foreground" src="MM07-Q01.JPG" alt="Camada de primeiro plano: terreno e vegetação">
+      </div>
+      <div class="vignette"></div>
+      <div class="safe"></div>
+      <div class="legend"><span>Fundo · céu</span><span>Meio · montanhas</span><span>Frente · terreno</span></div>
+    </section>
+
+    <div class="controls">
+      <button id="play" type="button">▶ Reproduzir</button>
+      <button id="guides" type="button">Guias</button>
+      <input id="scrub" type="range" min="0" max="15" step="0.001" value="0" aria-label="Posição na prévia">
+      <div class="readout" id="readout">00:00.000</div>
+    </div>
+
+    <p class="note"><strong>Direção do teste:</strong> imagem canônica preservada; separação aproximada em três planos por máscaras suaves e deslocamento independente. O movimento é visual, não sincronizado ao áudio. O tempo de 15 s vem do rótulo de estudo da prancha e precisa ser recalibrado com o master.</p>
+  </main>
+
+  <script>
+    const DURATION = 15;
+    const viewport = document.querySelector('#viewport');
+    const stage = document.querySelector('#stage');
+    const playButton = document.querySelector('#play');
+    const guidesButton = document.querySelector('#guides');
+    const scrub = document.querySelector('#scrub');
+    const readout = document.querySelector('#readout');
+    const sky = document.querySelector('.sky');
+    const mountains = document.querySelector('.mountains');
+    const foreground = document.querySelector('.foreground');
+    let playing = false;
+    let time = 0;
+    let last = 0;
+
+    const clamp = (v, min, max) => Math.max(min, Math.min(max, v));
+    const smooth = v => v * v * (3 - 2 * v);
+    const breathe = v => Math.sin(v * Math.PI * 2) * 0.5 + 0.5;
+
+    function renderAtTime(t) {
+      time = clamp(Number(t) || 0, 0, DURATION);
+      const u = time / DURATION;
+      const push = smooth(u);
+      const drift = Math.sin(u * Math.PI * 2 - Math.PI / 2) * 0.5 + 0.5;
+      const glow = breathe(u);
+
+      viewport.style.transform = `scale(${(1.015 + push * 0.012).toFixed(5)}) translate(${(-0.25 + push * 0.5).toFixed(3)}%, ${(0.15 - push * 0.3).toFixed(3)}%)`;
+      sky.style.transform = `translate(${(-2.0 + drift * 1.2).toFixed(3)}px, ${(1.0 - drift * 0.8).toFixed(3)}px) scale(${(1.018 + push * 0.008).toFixed(5)})`;
+      mountains.style.transform = `translate(${(-6.0 + drift * 3.2).toFixed(3)}px, ${(2.0 - drift * 1.4).toFixed(3)}px) scale(${(1.032 + push * 0.012).toFixed(5)})`;
+      foreground.style.transform = `translate(${(-12.0 + drift * 5.5).toFixed(3)}px, ${(4.0 - drift * 2.2).toFixed(3)}px) scale(${(1.050 + push * 0.018).toFixed(5)})`;
+      foreground.style.opacity = (0.48 + glow * 0.07).toFixed(3);
+      scrub.value = time.toFixed(3);
+      const minutes = Math.floor(time / 60).toString().padStart(2, '0');
+      const seconds = (time % 60).toFixed(3).padStart(6, '0');
+      readout.textContent = `${minutes}:${seconds}`;
+    }
+
+    function tick(now) {
+      if (!playing) return;
+      if (!last) last = now;
+      renderAtTime(time + (now - last) / 1000);
+      last = now;
+      if (time >= DURATION) { playing = false; playButton.textContent = '▶ Reproduzir'; last = 0; return; }
+      requestAnimationFrame(tick);
+    }
+
+    playButton.addEventListener('click', () => {
+      if (time >= DURATION) renderAtTime(0);
+      playing = !playing;
+      playButton.textContent = playing ? '❚❚ Pausar' : '▶ Reproduzir';
+      last = 0;
+      if (playing) requestAnimationFrame(tick);
+    });
+    guidesButton.addEventListener('click', () => stage.classList.toggle('show-guides'));
+    scrub.addEventListener('input', e => { playing = false; playButton.textContent = '▶ Reproduzir'; last = 0; renderAtTime(e.target.value); });
+    window.renderAtTime = renderAtTime;
+    renderAtTime(0);
+  </script>
+</body>
+</html>

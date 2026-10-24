@@ -14,6 +14,7 @@ As bases abaixo são estudos visuais disponíveis para montagem; não há aprova
 | **Música** | *Nasceu em Belém* — Marcus Salles; master definitivo não recebido (P-02) |
 | **Pasta no Drive** | A definir (P-13) |
 | **Plano operacional** | [plano-de-video.md](plano-de-video.md) |
+| **Prévia atual** | [C01/Q01 parallax v01](preview-c01-q01-v01.html) · estudo visual silencioso de 15 s |
 
 ## Conceito em uma frase
 
@@ -52,6 +53,15 @@ Da expectativa noturna de Belém ao nascimento íntimo e à esperança que se ab
 - **Paleta proposta:** azul-noturno/azul profundo para exteriores; sombra azul e terra/pedra para profundidade; âmbar de lamparina nos pontos quentes; dourado e branco suave reservados ao nascimento; evitar branco estourado e cores modernas dominantes.
 - **Atmosfera:** início contemplativo e frio; aproximação com calor humano; interior âmbar; crescimento de luz no nascimento; recuperação para esperança exterior.
 - **Continuidade necessária:** mesmo horizonte/cidade/estrela entre Q01, Q02, Q09 e Q10; casal, roupas, jumento, manjedoura e bebê consistentes entre Q03, Q05, Q06 e Q07/Q08. Os estudos atuais não comprovam essa continuidade.
+
+## Prévia C01/Q01 · parallax v01
+
+- **Base preservada:** `MM07-Q01.JPG`; nenhuma nova imagem canônica foi gerada ou sobrescrita.
+- **Camadas de estudo:** céu/fundo, montanhas intermediárias e terreno/vegetação do primeiro plano, usando máscaras aproximadas sobre a mesma base.
+- **Movimento:** fundo com deriva mínima; montanhas com deslocamento intermediário; primeiro plano com deslocamento mais perceptível; câmera com push-in e deriva diagonal muito lentos.
+- **Referência de movimento consultada:** vídeo fornecido pelo usuário, usado somente para observar a gramática de camadas e profundidade; estética, desenho e acabamento não foram reproduzidos.
+- **Arquivo:** [preview-c01-q01-v01.html](preview-c01-q01-v01.html). É uma prévia interativa silenciosa, com controles de reprodução, scrub e guias de máscara. O tempo de 15 s é o rótulo de estudo da prancha, não uma medição do master.
+- **Estado:** produzida para revisão do usuário; ainda sem aprovação, QA de reprodução em navegador, áudio ou teste no LED.
 
 ## Notas e pendências
 

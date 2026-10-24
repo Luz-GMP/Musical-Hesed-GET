@@ -23,14 +23,15 @@
 | A04 | [MM-06/README.md](../MM-06/README.md) | Sem frame, loop ou vídeo anexado | Costura de entrada e identidade do bebê | Ausente; solicitar a Isaac |
 | A05 | Arquivo master de *Nasceu em Belém* | Nenhum áudio encontrado no repo | Medir duração, forma, onsets e frases | Ausente · P-02 |
 | A06 | Resolução/FPS/codec do telão | Nenhum parâmetro confirmado | Configuração de saída e QA | Ausente · P-01 |
+| A07 | [preview-c01-q01-v01.html](preview-c01-q01-v01.html) | Estudo interativo, 15 s, sem áudio; JS determinístico com `renderAtTime(t)` | Piloto C01/Q01: base preservada com três máscaras de profundidade | Produzido para revisão; não aprovado |
 
-O repositório não contém áudio, vídeo, projeto de edição, FFmpeg, Playwright ou plugin de composição instalado nesta sessão. As referências `PhotoCraft`, `VectorCraft`, `FilmCraft` e `EffectCraft` foram verificadas como não instaladas; não foram chamadas nem substituídas silenciosamente.
+O repositório não contém áudio, vídeo, projeto de edição, FFmpeg, Playwright ou plugin de composição instalado nesta sessão. As referências `PhotoCraft`, `VectorCraft`, `FilmCraft` e `EffectCraft` foram verificadas como não instaladas; não foram chamadas nem substituídas silenciosamente. A prévia HTML usa apenas a base local e não constitui render final.
 
 ## Plano de cenas
 
 | Bloco / quadro | Tempo e fonte | Visual / movimento | Transição | Situação |
 | --- | --- | --- | --- | --- |
-| **C01 · costura de entrada** | A definir com master e frame MM-06 | Manter o bebê recebido no último estado; dissolver/abrir para a primeira base somente após validar D-01. | Costura sem apagar o bebê de forma brusca; Q01 ou Q07/Q08 são alternativas de abertura, não decisão | Em preparação |
+| **C01 · costura de entrada** | Estudo visual de 15 s conforme rótulo da prancha; master e frame MM-06 pendentes | Piloto Q01: céu/fundo, montanhas intermediárias e terreno em parallax independente; câmera com push-in/deriva diagonal sutil. | Costura sem apagar o bebê de forma brusca; Q01 ou Q07/Q08 são alternativas de abertura, não decisão | Prévia v01 produzida; revisão pendente |
 | **C02 · expectativa / estrela** (Q01–Q02) | A definir com master | Belém distante, céu e estrela; zoom/parallax/halo discretos | Dissolução e elevação de câmera | Estrutura de montagem |
 | **C03 · aproximação humana** (Q03–Q05) | A definir com master; não usar os tempos impressos como medição | Viagem, rua e busca por acolhimento; pessoas projetadas apenas onde o quadro exigir e sem competir com o palco | Avanços lentos/dissoluções; sem animar marcha ou porta sem validação | Estrutura de montagem; conferir com MM-12 |
 | **C04 · abrigo / nascimento** (Q06–Q08) | A definir com master | Espaço humilde → família/bebê → expansão de luz; reservar o maior brilho para Q08 sem estourar textura | Parallax curto, aproximação e partículas em camadas | Estrutura de montagem; conferir com MM-06/MM-12 |
@@ -45,13 +46,13 @@ O repositório não contém áudio, vídeo, projeto de edição, FFmpeg, Playwri
 - **Música:** master não recebido; não gerar `beats.json`, forma de onda ou sincronização inventada. Depois do recebimento: medir master, gerar candidatos, revisar por escuta e ligar apenas os eventos selecionados a Q01–Q10.
 - **Áudio/SFX:** nenhum previsto até a direção ouvir o master. Qualquer efeito procedural será camada separada, versionada e revisada com a prévia.
 - **Texto:** não previsto como lyric video; eventuais frases serão pontos específicos autorizados pela direção.
-- **Prévia isolada:** C01 será apresentada por versão, duração real, arquivo e pendências depois de receber os materiais mínimos. Não produzida nesta etapa.
+- **Prévia isolada:** C01/Q01 v01 está em [preview-c01-q01-v01.html](preview-c01-q01-v01.html), 15 s de estudo, silenciosa e sem sincronização. A duração final depende do master.
 
 ## Inspeção visual antes do render completo
 
 | Unidade | Entrada/repouso | QA DOM + visual | Correção | Resultado |
 | --- | --- | --- | --- | --- |
-| C01 | A definir após frame MM-06 e configuração | Não executado; sem motor/preview disponível | A definir | Pendente |
+| C01 | v01 HTML, t=0 e t=15 s declarados; arquivo real disponível | Sintaxe JS verificada; inspeção visual/movimento no navegador e auditoria DOM ainda não executadas nesta sessão | A definir após revisão do usuário e disponibilidade do navegador/motor | Prévia para revisão |
 | C02–C05 | A definir com master | Não executado | A definir | Não iniciar antes da aprovação progressiva |
 
 O QA deverá cobrir pelo menos entrada e repouso de cada unidade, continuidade de cidade/estrela/bebê/manjedoura, contraste, clipping, legibilidade a distância, movimento real e reprodução com áudio. Dois frames não substituem assistir à prévia em movimento.
@@ -60,7 +61,7 @@ O QA deverá cobrir pelo menos entrada e repouso de cada unidade, continuidade d
 
 | Unidade | Versão apresentada | Estado | Pendências | Aprovação de Victor |
 | --- | --- | --- | --- | --- |
-| C01 | Não produzida | Em preparação | D-01, frame MM-06, master P-02, P-01/P-12 e plugins/motor disponíveis | Não recebida |
+| C01 | `preview-c01-q01-v01.html` · 15 s · sem áudio | Em revisão | D-01, frame MM-06, master P-02, P-01/P-12; QA visual/movimento e aprovação pendentes | Não recebida |
 
 A aprovação do storyboard e desta ficha não equivale à aprovação do vídeo. Render integral somente após todas as unidades aprovadas, QA concluído e especificação do telão fechada.
 
