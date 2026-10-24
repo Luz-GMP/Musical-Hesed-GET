@@ -1,6 +1,6 @@
 # Status da produção
 
-**Última atualização:** 24/10/2026 · por Codex, a pedido do usuário (MM-14: reformulação v02 em seis quadros para revisão)
+**Última atualização:** 24/10/2026 · por Codex, a pedido do usuário (MM-14: v03 com referências de Ladra, Religiosidade e Autossuficiência)
 
 Cada pessoa atualiza **a própria linha** quando muda de etapa. Na dúvida sobre as etapas, veja [guias/fluxo-de-trabalho.md](guias/fluxo-de-trabalho.md).
 
@@ -23,7 +23,7 @@ Cada pessoa atualiza **a própria linha** quando muda de etapa. Na dúvida sobre
 | MM-11 | Luz do Mundo (playback) | 5 | Isaac | ⬜ | - | Mapear a faixa | P-02 (audio master) |
 | MM-12 | Viagem, cidade e estábulo | 6–7 | Lucas | ⬜ | - | - | - |
 | MM-13 | Noite, estrela, pastores, anjos | 7 | Eduardo | ⬜ | - | - | P-07 (posição musical) |
-| MM-14 | Resumo dos pecados | 8 | Melissa | 🎨 | v02 · 6 quadros · proposta (D-44) | Revisar [nova prancha](<storyboards/MM-14/STB MM14.png>), leitura simbólica e continuidade da casa V03; alinhar MM-15 com Lucas | Cues/integração a validar (P-15) |
+| MM-14 | Resumo dos pecados | 8 | Melissa | 🎨 | v03 · 6 quadros · personagens de referência (D-45) | Revisar [nova prancha](<storyboards/MM-14/STB MM14.png>), rostos/altura/figurino, leitura simbólica e casa V03; alinhar MM-15 com Lucas | Cues/integração a validar (P-15) |
 | MM-15 | Vida e atos de Jesus | 8 | Lucas | ⬜ | - | - | - |
 | MM-16A | Filme final: cegueira → visão | 9 | Melissa | ⬜ | - | - | P-05 (gravar atrizes?) |
 | MM-16B | Filme final: prisão → liberdade | 9 | Lucas | ⬜ | - | - | P-05 |

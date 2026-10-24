@@ -878,6 +878,20 @@ Os prompts abaixo já repetem a instrução de imagem limpa; ao levá-los à fer
 
 ## MM-14 · Reformulação v02 · seis quadros · 24/10/2026
 
+### Atualização vigente · v03 · personagens de referência · D-45
+
+**Consulta prévia:** guia de construção e os seis briefings Q05–Q10 abaixo, casa V03, briefing MM-14, roteiro Cena 8, Bíblia §§1.4/3/5.2 e alinhamento das fontes. Mantidos função, gatilhos, paleta, cenário, controle por fala e entrega MM-15. A v02 recebeu comentário positivo parcial e pedido de troca das figuras; não há aprovação integral presumida.
+
+**Referências recebidas:** quatro imagens no chat, sem caminhos locais ou nomes de arquivo acessíveis nesta etapa. O usuário identifica o retrato 1 como Ladra (ruiva), 2 como Religiosidade (cabelo longo escuro), 3 como Autossuficiência (loira). Retratos regem rosto/cabelo; imagem coletiva rege roupa, corpo/biotipo e altura relativa. Não inventar medidas. A quarta imagem NÃO fornece cenário ou objetos de contenção. Mãos e pés sempre livres, sem algemas ou correntes, na casa V03. Figurino escuro conforme pedido atual substitui a proposta genérica de roupas da v02.
+
+**Função/palco/telão:** recapitulação simbólica da condição anterior; a conversa atual segue no palco. Personagens no telão agora expressamente solicitadas pelo usuário. Não transferir a postura moralista da lembrança para a narradora atual quebrantada.
+
+**Revisão dos seis briefings antes de gerar:** Q05 preserva plano geral e afastamento, agora com Ladra à esquerda, Religiosidade ao centro e Autossuficiência à direita. Q06 passa de comparação/relógio a **Autossuficiência**, em plano médio da loira recusando ajuda com palma aberta e queixo elevado. Q07 passa de raiva a **Rigidez e julgamento**, Religiosidade de braços cruzados e postura moralista contida como memória anterior, sem confundir com Ódio. Q08 mantém ocultação/apropriação, agora protagonizada pela Ladra ruiva retirando chaves da bandejinha; incluir rosto no plano para reconhecimento. Q09 mantém corte de contato na porta, agora pela Ladra. Q10 conserva o fechamento frio e as três separadas na casa, porém **em pé, mãos e pés livres**, sem recolhimento no chão ou prisão literal; título **Aprisionamento interior**. Mesmos IDs, ordem e técnicas de animação da v02; gestos são propostas e não falas adicionais ao roteiro.
+
+**Composição/luz/continuidade/restrições comuns:** conservar a geografia V03 e objetos do aparador, luz quente → fria com sombras legíveis, rostos/roupa/altura/biotipo consistentes entre planos; sem cenário de prisão, contenção, violência, novas personagens ou restauração antecipada. No Q10, sombras arquitetônicas simbólicas, não barras. Não retratar sofrimento isoladamente como pecado. Bases individuais limpas, animação e tempos continuam pendentes.
+
+**Prompt efetivo preparado:** [prompt-prancha-v03.txt](MM-14/prompt-prancha-v03.txt). Ferramenta image_gen.imagegen, fundo opaco, cinco imagens recentes para abranger a v02 e as quatro referências enviadas; sem combinar referência por caminho local. **Resultado v03:** [prancha corrente](<MM-14/STB MM14.png>), PNG 1672 × 941, 2063684 bytes, original `/workspace/generated_images/exec-d38ba494-cb04-44a3-a5c3-2edd81524d9e.png`. Chamada efetiva com `num_last_images_to_include=5`, fundo opaco, sem referência por caminho local. Referências realmente usadas: v02 + três retratos e coletiva do chat. **Inspeção:** seis quadros; roupas escuras e rostos/cabelos correspondentes às referências; sem algemas/correntes; Q10 em pé na casa. Fidelidade fina de rosto e altura depende de revisão do usuário, sem medidas reais fornecidas; algumas mãos ficam nos bolsos; leitura de chaves permanece simbólica/ambígua. Sem aprovação presumida, animação, bases individuais ou teste LED. Registro aplicável a Q05–Q10; v02 arquivada em historico/v02 sem alterar bytes. As descrições v02 abaixo permanecem histórico do desenvolvimento; esta atualização prevalece no elenco, figurino e ações especificadas.
+
 **Pedido confirmado (D-44):** refazer do zero, relendo briefing e roteiro, ampliar de quatro para seis quadros. A v01 continua recusada. Sua arte, elenco e cenário não são referências da v02. O pedido autoriza a reformulação; não aprova antecipadamente as escolhas abaixo.
 
 **Função visual:** montagem curta simbólica sob fala variável. **Palco:** Religiosidade e demais atrizes conduzem a conversa na casa física. **Telão:** gestos cotidianos sintetizam comportamento destrutivo e fechamento; figuras humanas opcionais pelo briefing, adotadas como proposta de estudo, sem duplicar a conversa nem exigir filmagem das dez atrizes.
@@ -906,7 +920,7 @@ Os prompts abaixo já repetem a instrução de imagem limpa; ao levá-los à fer
 - **Prompt da imagem:** trecho correspondente de [prompt-prancha-v02.txt](MM-14/prompt-prancha-v02.txt), com contrato comum; bases individuais exigem prompt limpo e piloto verificado.
 - **Referências usadas:** casa V03 acima, além das fontes textuais; nenhum retrato de elenco.
 - **Tempo:** a ajustar à fala e ao ensaio; sem duração medida.
-- **Arquivo/versão/feedback:** incluído na [prancha v02](<MM-14/STB MM14.png>), PNG 1672 × 941, 2.043.020 bytes; inspeção e limitações no registro abaixo. Base individual não produzida.
+- **Arquivo/versão/feedback:** incluído na [prancha v02](<MM-14/historico/v02/STB MM14.png>), PNG 1672 × 941, 2.043.020 bytes; inspeção e limitações no registro abaixo. Base individual não produzida.
 
 ### MM-14-Q06 · Comparação e apego
 
@@ -920,7 +934,7 @@ Os prompts abaixo já repetem a instrução de imagem limpa; ao levá-los à fer
 - **Prompt da imagem:** trecho correspondente de [prompt-prancha-v02.txt](MM-14/prompt-prancha-v02.txt), com contrato comum; bases individuais exigem prompt limpo e piloto verificado.
 - **Referências usadas:** casa V03 acima, além das fontes textuais; nenhum retrato de elenco.
 - **Tempo:** a ajustar à fala e ao ensaio; sem duração medida.
-- **Arquivo/versão/feedback:** incluído na [prancha v02](<MM-14/STB MM14.png>), PNG 1672 × 941, 2.043.020 bytes; inspeção e limitações no registro abaixo. Base individual não produzida.
+- **Arquivo/versão/feedback:** incluído na [prancha v02](<MM-14/historico/v02/STB MM14.png>), PNG 1672 × 941, 2.043.020 bytes; inspeção e limitações no registro abaixo. Base individual não produzida.
 
 ### MM-14-Q07 · Raiva e ruptura
 
@@ -934,7 +948,7 @@ Os prompts abaixo já repetem a instrução de imagem limpa; ao levá-los à fer
 - **Prompt da imagem:** trecho correspondente de [prompt-prancha-v02.txt](MM-14/prompt-prancha-v02.txt), com contrato comum; bases individuais exigem prompt limpo e piloto verificado.
 - **Referências usadas:** casa V03 acima, além das fontes textuais; nenhum retrato de elenco.
 - **Tempo:** a ajustar à fala e ao ensaio; sem duração medida.
-- **Arquivo/versão/feedback:** incluído na [prancha v02](<MM-14/STB MM14.png>), PNG 1672 × 941, 2.043.020 bytes; inspeção e limitações no registro abaixo. Base individual não produzida.
+- **Arquivo/versão/feedback:** incluído na [prancha v02](<MM-14/historico/v02/STB MM14.png>), PNG 1672 × 941, 2.043.020 bytes; inspeção e limitações no registro abaixo. Base individual não produzida.
 
 ### MM-14-Q08 · Ocultação e apropriação
 
@@ -948,7 +962,7 @@ Os prompts abaixo já repetem a instrução de imagem limpa; ao levá-los à fer
 - **Prompt da imagem:** trecho correspondente de [prompt-prancha-v02.txt](MM-14/prompt-prancha-v02.txt), com contrato comum; bases individuais exigem prompt limpo e piloto verificado.
 - **Referências usadas:** casa V03 acima, além das fontes textuais; nenhum retrato de elenco.
 - **Tempo:** a ajustar à fala e ao ensaio; sem duração medida.
-- **Arquivo/versão/feedback:** incluído na [prancha v02](<MM-14/STB MM14.png>), PNG 1672 × 941, 2.043.020 bytes; inspeção e limitações no registro abaixo. Base individual não produzida.
+- **Arquivo/versão/feedback:** incluído na [prancha v02](<MM-14/historico/v02/STB MM14.png>), PNG 1672 × 941, 2.043.020 bytes; inspeção e limitações no registro abaixo. Base individual não produzida.
 
 ### MM-14-Q09 · Isolamento
 
@@ -962,7 +976,7 @@ Os prompts abaixo já repetem a instrução de imagem limpa; ao levá-los à fer
 - **Prompt da imagem:** trecho correspondente de [prompt-prancha-v02.txt](MM-14/prompt-prancha-v02.txt), com contrato comum; bases individuais exigem prompt limpo e piloto verificado.
 - **Referências usadas:** casa V03 acima, além das fontes textuais; nenhum retrato de elenco.
 - **Tempo:** a ajustar à fala e ao ensaio; sem duração medida.
-- **Arquivo/versão/feedback:** incluído na [prancha v02](<MM-14/STB MM14.png>), PNG 1672 × 941, 2.043.020 bytes; inspeção e limitações no registro abaixo. Base individual não produzida.
+- **Arquivo/versão/feedback:** incluído na [prancha v02](<MM-14/historico/v02/STB MM14.png>), PNG 1672 × 941, 2.043.020 bytes; inspeção e limitações no registro abaixo. Base individual não produzida.
 
 ### MM-14-Q10 · Aprisionamento
 
@@ -976,14 +990,14 @@ Os prompts abaixo já repetem a instrução de imagem limpa; ao levá-los à fer
 - **Prompt da imagem:** trecho correspondente de [prompt-prancha-v02.txt](MM-14/prompt-prancha-v02.txt), com contrato comum; bases individuais exigem prompt limpo e piloto verificado.
 - **Referências usadas:** casa V03 acima, além das fontes textuais; nenhum retrato de elenco.
 - **Tempo:** a ajustar à fala e ao ensaio; sem duração medida.
-- **Arquivo/versão/feedback:** incluído na [prancha v02](<MM-14/STB MM14.png>), PNG 1672 × 941, 2.043.020 bytes; inspeção e limitações no registro abaixo. Base individual não produzida.
+- **Arquivo/versão/feedback:** incluído na [prancha v02](<MM-14/historico/v02/STB MM14.png>), PNG 1672 × 941, 2.043.020 bytes; inspeção e limitações no registro abaixo. Base individual não produzida.
 
 ### Registro de geração · MM-14 v02
 
 - **Data/executor:** 24/10/2026 · Codex, a pedido do usuário.
 - **Entrega:** prancha de planejamento dos seis estados Q05–Q10, não vídeo nem bases individuais.
 - **Ferramenta planejada:** image_gen.imagegen, fundo opaco, referência local da casa V03; prompt integral salvo antes da chamada.
-- **Resultado real:** [STB MM14.png](<MM-14/STB MM14.png>), PNG 1672 × 941, 2.043.020 bytes. Original preservado em `/workspace/generated_images/exec-c3d42474-93b9-4264-9b6f-da54b5fa9c29.png`; cópia nativa no repositório, sem conversão. Não é 4K nem base individual.
+- **Resultado real:** [STB MM14.png](<MM-14/historico/v02/STB MM14.png>), PNG 1672 × 941, 2.043.020 bytes. Original preservado em `/workspace/generated_images/exec-c3d42474-93b9-4264-9b6f-da54b5fa9c29.png`; cópia nativa no repositório, sem conversão. Não é 4K nem base individual.
 - **Chamada efetiva:** `image_gen.imagegen`, `transparent_background=false`, `referenced_image_paths=["/workspace/Musical-Hesed-GET/storyboards/MM-03/STB MM03.jpg"]`; prompt integral em [prompt-prancha-v02.txt](MM-14/prompt-prancha-v02.txt), sem a prancha recusada como referência.
 - **Inspeção visual pelo Codex:** seis painéis, IDs Q05–Q10 e rótulos editoriais 01–06 corretos; paleta com amostras, luz, elementos, movimento, gatilhos e continuidade legíveis. Casa e três figurinos reconhecíveis; progressão quente → fria, sem correntes/grades reais. Q06 enfatiza olhar para relógio de outra pessoa, sem reproduzir exatamente o gesto de segurar o próprio pulso. Q09 mostra olhar de volta antes do fechamento. Q10 usa três mulheres sentadas recolhidas, solução gerada que precisa ser lida junto da progressão de ações; não interpretar sofrimento isoladamente como pecado. Luzes quentes residuais e pequenas diferenças de escala/arquitetura exigem fixar base única antes de animação definitiva; esta prancha não comprova continuidade métrica.
 - **Leitura simbólica a revisar:** tirar chaves de bandeja doméstica é ambíguo sem contexto; o quadro propõe tomar/ocultar, não comprova furto. A leitura à distância e o contraste com MM-15 precisam de direção e ensaio.

@@ -50,7 +50,7 @@
 
 ## MM-14 · Resumo dos pecados (montagem curta)
 
-**24/10/2026 · D-44:** [nova prancha v02](<../storyboards/MM-14/STB MM14.png>), refeita do zero em seis quadros com casa V03. Proposta visual para revisão; v01 recusada preservada como histórico. Conferir leitura das metáforas e alinhar último estado com Lucas/MM-15.
+**24/10/2026 · D-44/D-45:** [nova prancha v03](<../storyboards/MM-14/STB MM14.png>), seis quadros na casa V03, agora com Ladra, Religiosidade e Autossuficiência das referências enviadas, roupa escura, sem algemas/correntes. Proposta para revisão; v01/v02 preservadas como histórico. Conferir leitura das metáforas e alinhar último estado com Lucas/MM-15.
 
 | | |
 | --- | --- |
