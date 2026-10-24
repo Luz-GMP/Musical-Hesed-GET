@@ -1,8 +1,10 @@
 # Inventário de storyboards e quadros
 
-Conferência atualizada em 21/10/2026 conforme D-40/D-41. Abrange **54 imagens: 14 pranchas completas, 39 quadros individuais e 1 prancha de conferência**. A auditoria de nomenclatura D-28 renomeou 36 dos 48 arquivos então existentes sem alterar seus bytes; a V06 de MM-01 substituiu a prancha anterior e acrescentou quatro quadros, uma prancha de conferência e o estado inicial apagado.
+Conferência atualizada em 24/10/2026 com a inclusão do estudo v01 de MM-12, preservando D-40/D-41. Abrange **55 imagens: 15 pranchas completas, 39 quadros individuais e 1 prancha de conferência**. A auditoria de nomenclatura D-28 renomeou 36 dos 48 arquivos então existentes sem alterar seus bytes; a V06 de MM-01 substituiu a prancha anterior e acrescentou quatro quadros, uma prancha de conferência e o estado inicial apagado.
 
 As duas pranchas da MM-04, em JPG e PNG, foram mantidas. As quatro pranchas da MM-03 são a composição oficial e suas três variações de luz. O nome novo não muda versão artística ou aprovação; consulte as fichas de cada peça. O inventário descreve o acervo local; a publicação remota depende do push.
+
+A prancha MM-12 v01 foi criada em 24/10/2026 como estudo, sem aprovação artística e sem bases individuais; PNG de 1672 × 941 px, aproximadamente 2,5 MB.
 
 | Tipo | Arquivo atual | Nome anterior |
 | --- | --- | --- |
@@ -46,6 +48,7 @@ As duas pranchas da MM-04, em JPG e PNG, foram mantidas. As quatro pranchas da M
 | Quadro individual | [MM-10/MM10-Q09.png](<MM-10/MM10-Q09.png>) | `MM10-Q9.png` |
 | Prancha | [MM-10/STB MM10.png](<MM-10/STB MM10.png>) | Já estava no padrão |
 | Prancha | [MM-13/STB MM13.png](<MM-13/STB MM13.png>) | Já estava no padrão |
+| Prancha | [MM-12/STB MM12.png](<MM-12/STB MM12.png>) | Novo estudo v01; origem e prompt na ficha/caderno |
 | Prancha | [MM-14/STB MM14.jpg](<MM-14/STB MM14.jpg>) | `prancha-v01.jpg` |
 | Prancha | [MM-16D/STB MM16D.png](<MM-16D/STB MM16D.png>) | Já estava no padrão |
 
