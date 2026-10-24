@@ -876,7 +876,123 @@ Os prompts abaixo já repetem a instrução de imagem limpa; ao levá-los à fer
 - **Revisão visual:** quatro composições distintas em câmera, escala, ambiente e função: público/arquitetura, estrada lateral, interior com três gerações, reações próximas com profeta ao fundo. Anúncio presente em Q01/Q02/Q04, espera em Q03. Paleta com amostras/funções e blocos comuns de luz/movimento/elementos/continuidade visíveis. Q01 tem mais figurantes que os sete/oito propostos e arquitetura monumental/cidade elevada: escolhas da geração, não precisão histórica; revisar escala se necessário. Q03 é interpretação doméstica da espera, não cena literal do roteiro. Não afirmar datas/identidades históricas para figuras genéricas. Bases individuais, movimentos e integração não produzidos.
 - **Situação:** nova proposta entregue para revisão; não aprovada. Pranchas v01/v02/`STB MM09.png` e prompts correspondentes excluídos da pasta por pedido explícito. V03 é somente identificação da geração nova, não continuidade visual das anteriores. Sem alpha/loop testado/Drive/ensaio LED. Saída MM-10 ainda a alinhar.
 
+## MM-14 · Reformulação v02 · seis quadros · 24/10/2026
+
+**Pedido confirmado (D-44):** refazer do zero, relendo briefing e roteiro, ampliar de quatro para seis quadros. A v01 continua recusada. Sua arte, elenco e cenário não são referências da v02. O pedido autoriza a reformulação; não aprova antecipadamente as escolhas abaixo.
+
+**Função visual:** montagem curta simbólica sob fala variável. **Palco:** Religiosidade e demais atrizes conduzem a conversa na casa física. **Telão:** gestos cotidianos sintetizam comportamento destrutivo e fechamento; figuras humanas opcionais pelo briefing, adotadas como proposta de estudo, sem duplicar a conversa nem exigir filmagem das dez atrizes.
+
+**Fontes consultadas antes da geração:** guia canônico; este caderno e quadros históricos MM-14-Q01–Q04; briefing MM-14/MM-15; roteiro Cena 8; Bíblia v0.1 §§3/5.1/5.2/7.1; alinhamento das fontes; decisões D-03/D-13/D-25/D-28; mapa Cena 8; dependências; Melissa; fichas MM-03/MM-14/MM-15 e padrão de entrega. A transcrição original não está disponível.
+
+**Referência visual real:** [casa V03](<MM-03/STB MM03.jpg>), inspecionada e fornecida à ferramenta. Não reutilizar a v01 de MM-14. Casa modesta de cimento queimado, portas à esquerda, aparador central com relógio à esquerda, bandejinha sobre renda ao centro e menorá à direita; copa de tijolinho à direita, pia sob aéreo à esquerda da bancada e cooktop à direita. Sem mesa/sofá adicionais no LED, Bíblia, espelho ou porta-retrato. O Salmo 91 e a menorá pertencem à continuidade doméstica, sem associá-los à culpa.
+
+**Figuração proposta:** A: mulher adulta morena, cabelo escuro cacheado até ombros, blusa bege/jaqueta azul-escura; B: mulher adulta negra, cabelo preso, camisa terracota dessaturada; C: mulher adulta clara, cabelo castanho curto, blusa cinza. Identidades genéricas, sem fotos de atrizes recebidas e sem casting aprovado. A referência comum permite estudar a sequência, não comprova continuidade métrica para bases finais.
+
+**Arco e IDs:** Q01–Q04 da v01 ficam retirados de uso nesta revisão, preservados como histórico. Seis novos estados na ordem **Q05 → Q06 → Q07 → Q08 → Q09 → Q10**; rótulos editoriais 01–06 indicam a ordem da nova prancha e não renumeram IDs antigos.
+
+**Gatilhos e sustentação:** entrada proposta na recapitulação “Cada uma de nós estava vivendo...”, peso visual em “nos atolamos em nossos pecados e nos aprisionamos”. Nenhum fornecedor/frame de entrada definitivo recebido; casa MM-03 é referência ambiental, não cue de retorno automaticamente aprovado (P-15). Sustentar Q10 durante a menção intermediária ao bebê, saindo em “Ele curou, ensinou e perdoou as pessoas” para MM-15/Lucas. Ritmo e cues a validar no ensaio, sem segundos inventados ou música própria. Não aumentar a fala para acomodar seis quadros.
+
+**Direção comum:** realismo cinematográfico contemporâneo; azul-noturno/sombra, cinza-cimento/casa, âmbar contido/luz e dourado discreto/continuidade. Calor doméstico inicial perde espaço para sombra fria, mantendo leitura. Corte simples, aproximações leves e máscaras de sombra; sem agressão, literalidade prolongada, prisão física, correntes, horror, nudez ou restauração antecipada. Comparação, recusa e ocultação comunicam ação; tristeza, pobreza e solidão por si sós não simbolizam culpa.
+
+### MM-14-Q05 · Cada uma por si
+
+- **Situação e origem:** proposta v02 derivada das fontes acima, ainda sem aprovação artística.
+- **Função narrativa e gatilho:** Entrada proposta em “Cada uma de nós estava vivendo a sua vida da forma que queria”.
+- **Imagem-base e composição:** Plano geral; três mulheres genéricas em setores distintos da casa, recusando contato.
+- **Luz e cor:** Calor doméstico contido; casa V03 inteira reconhecível.
+- **Continuidade:** casa V03 e figuração do contrato comum; preservar posições arquitetônicas e figurinos ao reenquadrar.
+- **Animação e transição:** Aproximação muito discreta; corte para Q06.
+- **Evitar:** desvios do contrato; não ampliar este instante numa encenação prolongada ou projetar as atrizes da conversa.
+- **Prompt da imagem:** trecho correspondente de [prompt-prancha-v02.txt](MM-14/prompt-prancha-v02.txt), com contrato comum; bases individuais exigem prompt limpo e piloto verificado.
+- **Referências usadas:** casa V03 acima, além das fontes textuais; nenhum retrato de elenco.
+- **Tempo:** a ajustar à fala e ao ensaio; sem duração medida.
+- **Arquivo/versão/feedback:** incluído na [prancha v02](<MM-14/STB MM14.png>), PNG 1672 × 941, 2.043.020 bytes; inspeção e limitações no registro abaixo. Base individual não produzida.
+
+### MM-14-Q06 · Comparação e apego
+
+- **Situação e origem:** proposta v02 derivada das fontes acima, ainda sem aprovação artística.
+- **Função narrativa e gatilho:** Mesmo trecho de recapitulação; sem cue individual atribuído ao roteiro.
+- **Imagem-base e composição:** Plano médio de A olhando o relógio de pulso de B, segurando o próprio pulso; aparador ao fundo.
+- **Luz e cor:** Calor reduzido, cinza e azul discretos; foco no olhar e gesto.
+- **Continuidade:** casa V03 e figuração do contrato comum; preservar posições arquitetônicas e figurinos ao reenquadrar.
+- **Animação e transição:** Aproximação lenta, corte para Q07.
+- **Evitar:** desvios do contrato; não ampliar este instante numa encenação prolongada ou projetar as atrizes da conversa.
+- **Prompt da imagem:** trecho correspondente de [prompt-prancha-v02.txt](MM-14/prompt-prancha-v02.txt), com contrato comum; bases individuais exigem prompt limpo e piloto verificado.
+- **Referências usadas:** casa V03 acima, além das fontes textuais; nenhum retrato de elenco.
+- **Tempo:** a ajustar à fala e ao ensaio; sem duração medida.
+- **Arquivo/versão/feedback:** incluído na [prancha v02](<MM-14/STB MM14.png>), PNG 1672 × 941, 2.043.020 bytes; inspeção e limitações no registro abaixo. Base individual não produzida.
+
+### MM-14-Q07 · Raiva e ruptura
+
+- **Situação e origem:** proposta v02 derivada das fontes acima, ainda sem aprovação artística.
+- **Função narrativa e gatilho:** Comportamento destrutivo durante a recapitulação; não há fala específica por pecado.
+- **Imagem-base e composição:** Plano médio lateral de B: maxilar tenso e punho junto ao corpo, recusando gesto aberto de A; portas à esquerda.
+- **Luz e cor:** Sombra mais presente, pele legível; sem vermelho agressivo.
+- **Continuidade:** casa V03 e figuração do contrato comum; preservar posições arquitetônicas e figurinos ao reenquadrar.
+- **Animação e transição:** Corte simples por direção corporal para Q08.
+- **Evitar:** desvios do contrato; não ampliar este instante numa encenação prolongada ou projetar as atrizes da conversa.
+- **Prompt da imagem:** trecho correspondente de [prompt-prancha-v02.txt](MM-14/prompt-prancha-v02.txt), com contrato comum; bases individuais exigem prompt limpo e piloto verificado.
+- **Referências usadas:** casa V03 acima, além das fontes textuais; nenhum retrato de elenco.
+- **Tempo:** a ajustar à fala e ao ensaio; sem duração medida.
+- **Arquivo/versão/feedback:** incluído na [prancha v02](<MM-14/STB MM14.png>), PNG 1672 × 941, 2.043.020 bytes; inspeção e limitações no registro abaixo. Base individual não produzida.
+
+### MM-14-Q08 · Ocultação e apropriação
+
+- **Situação e origem:** proposta v02 derivada das fontes acima, ainda sem aprovação artística.
+- **Função narrativa e gatilho:** Síntese simbólica de tomar para si e esconder, sem cena de furto prolongada.
+- **Imagem-base e composição:** Detalhe da mão de C retirando chaves da bandejinha, corpo ocultando o gesto; B desfocada voltada para outro lado.
+- **Luz e cor:** Aparador: relógio à esquerda, renda/bandejinha ao centro e menorá à direita; luz lateral contida.
+- **Continuidade:** casa V03 e figuração do contrato comum; preservar posições arquitetônicas e figurinos ao reenquadrar.
+- **Animação e transição:** Pequeno deslocamento de câmera; corte para Q09.
+- **Evitar:** desvios do contrato; não ampliar este instante numa encenação prolongada ou projetar as atrizes da conversa.
+- **Prompt da imagem:** trecho correspondente de [prompt-prancha-v02.txt](MM-14/prompt-prancha-v02.txt), com contrato comum; bases individuais exigem prompt limpo e piloto verificado.
+- **Referências usadas:** casa V03 acima, além das fontes textuais; nenhum retrato de elenco.
+- **Tempo:** a ajustar à fala e ao ensaio; sem duração medida.
+- **Arquivo/versão/feedback:** incluído na [prancha v02](<MM-14/STB MM14.png>), PNG 1672 × 941, 2.043.020 bytes; inspeção e limitações no registro abaixo. Base individual não produzida.
+
+### MM-14-Q09 · Isolamento
+
+- **Situação e origem:** proposta v02 derivada das fontes acima, ainda sem aprovação artística.
+- **Função narrativa e gatilho:** Progressão em direção a “nos atolamos em nossos pecados”.
+- **Imagem-base e composição:** Plano médio aberto de C na porta entreaberta à esquerda, mão na maçaneta, virando o corpo para dentro e cortando contato com A.
+- **Luz e cor:** Fresta quente residual e sala mais fria; manter geografia das portas.
+- **Continuidade:** casa V03 e figuração do contrato comum; preservar posições arquitetônicas e figurinos ao reenquadrar.
+- **Animação e transição:** Aproximação discreta; corte para plano geral Q10; fechar porta exige futura animação própria.
+- **Evitar:** desvios do contrato; não ampliar este instante numa encenação prolongada ou projetar as atrizes da conversa.
+- **Prompt da imagem:** trecho correspondente de [prompt-prancha-v02.txt](MM-14/prompt-prancha-v02.txt), com contrato comum; bases individuais exigem prompt limpo e piloto verificado.
+- **Referências usadas:** casa V03 acima, além das fontes textuais; nenhum retrato de elenco.
+- **Tempo:** a ajustar à fala e ao ensaio; sem duração medida.
+- **Arquivo/versão/feedback:** incluído na [prancha v02](<MM-14/STB MM14.png>), PNG 1672 × 941, 2.043.020 bytes; inspeção e limitações no registro abaixo. Base individual não produzida.
+
+### MM-14-Q10 · Aprisionamento
+
+- **Situação e origem:** proposta v02 derivada das fontes acima, ainda sem aprovação artística.
+- **Função narrativa e gatilho:** Ênfase em “nos aprisionamos sem nem mesmo perceber”; sustentar sob a fala intermediária até “Ele curou, ensinou e perdoou”.
+- **Imagem-base e composição:** Plano geral da mesma casa, as três mulheres separadas e voltadas para direções distintas; sombras arquitetônicas alongadas sugerem estreitamento.
+- **Luz e cor:** Azul-noturno e cinza, calor residual; detalhes da casa legíveis, sem grades/correntes.
+- **Continuidade:** casa V03 e figuração do contrato comum; entrega contraste de aprisionamento para Lucas/MM-15, cujo primeiro frame não foi fornecido.
+- **Animação e transição:** Sustentação com movimento ambiental cíclico discreto a testar; saída para MM-15 pelo gatilho.
+- **Evitar:** desvios do contrato; não ampliar este instante numa encenação prolongada ou projetar as atrizes da conversa.
+- **Prompt da imagem:** trecho correspondente de [prompt-prancha-v02.txt](MM-14/prompt-prancha-v02.txt), com contrato comum; bases individuais exigem prompt limpo e piloto verificado.
+- **Referências usadas:** casa V03 acima, além das fontes textuais; nenhum retrato de elenco.
+- **Tempo:** a ajustar à fala e ao ensaio; sem duração medida.
+- **Arquivo/versão/feedback:** incluído na [prancha v02](<MM-14/STB MM14.png>), PNG 1672 × 941, 2.043.020 bytes; inspeção e limitações no registro abaixo. Base individual não produzida.
+
+### Registro de geração · MM-14 v02
+
+- **Data/executor:** 24/10/2026 · Codex, a pedido do usuário.
+- **Entrega:** prancha de planejamento dos seis estados Q05–Q10, não vídeo nem bases individuais.
+- **Ferramenta planejada:** image_gen.imagegen, fundo opaco, referência local da casa V03; prompt integral salvo antes da chamada.
+- **Resultado real:** [STB MM14.png](<MM-14/STB MM14.png>), PNG 1672 × 941, 2.043.020 bytes. Original preservado em `/workspace/generated_images/exec-c3d42474-93b9-4264-9b6f-da54b5fa9c29.png`; cópia nativa no repositório, sem conversão. Não é 4K nem base individual.
+- **Chamada efetiva:** `image_gen.imagegen`, `transparent_background=false`, `referenced_image_paths=["/workspace/Musical-Hesed-GET/storyboards/MM-03/STB MM03.jpg"]`; prompt integral em [prompt-prancha-v02.txt](MM-14/prompt-prancha-v02.txt), sem a prancha recusada como referência.
+- **Inspeção visual pelo Codex:** seis painéis, IDs Q05–Q10 e rótulos editoriais 01–06 corretos; paleta com amostras, luz, elementos, movimento, gatilhos e continuidade legíveis. Casa e três figurinos reconhecíveis; progressão quente → fria, sem correntes/grades reais. Q06 enfatiza olhar para relógio de outra pessoa, sem reproduzir exatamente o gesto de segurar o próprio pulso. Q09 mostra olhar de volta antes do fechamento. Q10 usa três mulheres sentadas recolhidas, solução gerada que precisa ser lida junto da progressão de ações; não interpretar sofrimento isoladamente como pecado. Luzes quentes residuais e pequenas diferenças de escala/arquitetura exigem fixar base única antes de animação definitiva; esta prancha não comprova continuidade métrica.
+- **Leitura simbólica a revisar:** tirar chaves de bandeja doméstica é ambíguo sem contexto; o quadro propõe tomar/ocultar, não comprova furto. A leitura à distância e o contraste com MM-15 precisam de direção e ensaio.
+- **Situação:** proposta visual entregue, aprovação artística pendente. Sem bases individuais, alpha, áudio sincronizado, envio ao Drive ou teste LED; P-01/P-13/P-15 permanecem abertas.
+- **Histórico:** v01 recusada preservada em [historico/v01/STB MM14.jpg](<MM-14/historico/v01/STB MM14.jpg>), prompt original mantido; Q01–Q04 fora de uso.
+
 ## MM-14 · Resumo dos pecados
+
+**Atualização 24/10/2026:** reformulação v02 em seis quadros autorizada; consultar [contrato vigente](#mm-14--reformulação-v02--seis-quadros--24102026). A seção v01 abaixo é histórico recusado.
 
 > **Feedback posterior do usuário · 16/10/2026:** MM-14 v01 não aprovada por não corresponder ao roteiro/ambientação da casa. Reformular somente após estabelecer MM-03, conforme D-03. Q01–Q04 e geração abaixo são histórico, sem referência aceita de casa, elenco ou próxima versão.
 
@@ -903,7 +1019,7 @@ Os prompts abaixo já repetem a instrução de imagem limpa; ao levá-los à fer
 - **Prompt da imagem individual (etapa posterior):** Mulher adulta sentada à mesa simples, olhar baixo e mãos segurando junto ao peito um colar discreto como objeto de apego; expressão fechada e contida. Plano médio em três quartos, figura à esquerda, parede e espaço negativo à direita. Mesma mulher adulta de pele morena, cabelo escuro cacheado até os ombros, jaqueta azul-escura lisa e blusa bege; mesma sala simples cinza, mesa de madeira e luz fria natural da direita. Realismo cinematográfico, tom sóbrio, sombras legíveis, anatomia natural e margem de movimento; sem colagem, grade, título, número, timecode, marca-d'água ou texto. Usar piloto de personagem/ambiente verificado quando disponível.
 - **Referências usadas:** fontes documentais do contrato; nenhuma referência fotográfica fornecida.
 - **Tempo:** a ajustar à fala e ao ensaio; sem segundos ou música atribuídos.
-- **Arquivo/versão/feedback:** incluído na [prancha v01](<MM-14/STB MM14.jpg>), 1536×1024, JPEG de 392,575 bytes; ver registro compartilhado abaixo. Base individual não produzida; aprovação pendente.
+- **Arquivo/versão/feedback:** incluído na [prancha v01](<MM-14/historico/v01/STB MM14.jpg>), 1536×1024, JPEG de 392,575 bytes; ver registro compartilhado abaixo. Base individual não produzida; aprovação pendente.
 
 ### MM-14-Q02 · Raiva contida
 
@@ -918,7 +1034,7 @@ Os prompts abaixo já repetem a instrução de imagem limpa; ao levá-los à fer
 - **Prompt da imagem individual (etapa posterior):** A mesma mulher junto à mesa, mãos fechadas separadas sobre a superfície, rosto tenso sem grito; nenhum alvo de agressão. Plano médio próximo, mãos inteiras e separadas no terço inferior; rosto legível sem exagero. Mesma mulher adulta de pele morena, cabelo escuro cacheado até os ombros, jaqueta azul-escura lisa e blusa bege; mesma sala simples cinza, mesa de madeira e luz fria natural da direita. Realismo cinematográfico, tom sóbrio, sombras legíveis, anatomia natural e margem de movimento; sem colagem, grade, título, número, timecode, marca-d'água ou texto. Usar piloto de personagem/ambiente verificado quando disponível.
 - **Referências usadas:** fontes documentais do contrato; nenhuma referência fotográfica fornecida.
 - **Tempo:** a ajustar à fala e ao ensaio; sem segundos ou música atribuídos.
-- **Arquivo/versão/feedback:** incluído na [prancha v01](<MM-14/STB MM14.jpg>), 1536×1024, JPEG de 392,575 bytes; ver registro compartilhado abaixo. Base individual não produzida; aprovação pendente.
+- **Arquivo/versão/feedback:** incluído na [prancha v01](<MM-14/historico/v01/STB MM14.jpg>), 1536×1024, JPEG de 392,575 bytes; ver registro compartilhado abaixo. Base individual não produzida; aprovação pendente.
 
 ### MM-14-Q03 · Ocultação
 
@@ -933,7 +1049,7 @@ Os prompts abaixo já repetem a instrução de imagem limpa; ao levá-los à fer
 - **Prompt da imagem individual (etapa posterior):** A mesma mulher em perfil parcial diante de espelho pequeno na parede, rosto parcialmente encoberto por sombra natural; reflexo fisicamente coerente, sem duplicação fantástica. Plano médio lateral simples, espelho no lado direito e rosto à esquerda; foco único na expressão evitativa. Mesma mulher adulta de pele morena, cabelo escuro cacheado até os ombros, jaqueta azul-escura lisa e blusa bege; mesma sala simples cinza, mesa de madeira e luz fria natural da direita. Realismo cinematográfico, tom sóbrio, sombras legíveis, anatomia natural e margem de movimento; sem colagem, grade, título, número, timecode, marca-d'água ou texto. Usar piloto de personagem/ambiente verificado quando disponível.
 - **Referências usadas:** fontes documentais do contrato; nenhuma referência fotográfica fornecida.
 - **Tempo:** a ajustar à fala e ao ensaio; sem segundos ou música atribuídos.
-- **Arquivo/versão/feedback:** incluído na [prancha v01](<MM-14/STB MM14.jpg>), 1536×1024, JPEG de 392,575 bytes; ver registro compartilhado abaixo. Base individual não produzida; aprovação pendente.
+- **Arquivo/versão/feedback:** incluído na [prancha v01](<MM-14/historico/v01/STB MM14.jpg>), 1536×1024, JPEG de 392,575 bytes; ver registro compartilhado abaixo. Base individual não produzida; aprovação pendente.
 
 ### MM-14-Q04 · Aprisionamento
 
@@ -948,7 +1064,7 @@ Os prompts abaixo já repetem a instrução de imagem limpa; ao levá-los à fer
 - **Prompt da imagem individual (etapa posterior):** A mesma mulher sentada sozinha, ombros recolhidos; sombras alongadas dos montantes da janela sobre parede e chão sugerem confinamento. Sem grades reais ou correntes. Plano geral da mesma sala, figura pequena à esquerda e espaço vazio à direita; mãos relaxadas no colo. Mesma mulher adulta de pele morena, cabelo escuro cacheado até os ombros, jaqueta azul-escura lisa e blusa bege; mesma sala simples cinza, mesa de madeira e luz fria natural da direita. Realismo cinematográfico, tom sóbrio, sombras legíveis, anatomia natural e margem de movimento; sem colagem, grade, título, número, timecode, marca-d'água ou texto. Usar piloto de personagem/ambiente verificado quando disponível.
 - **Referências usadas:** fontes documentais do contrato; nenhuma referência fotográfica fornecida.
 - **Tempo:** a ajustar à fala e ao ensaio; sem segundos ou música atribuídos.
-- **Arquivo/versão/feedback:** incluído na [prancha v01](<MM-14/STB MM14.jpg>), 1536×1024, JPEG de 392,575 bytes; ver registro compartilhado abaixo. Base individual não produzida; aprovação pendente.
+- **Arquivo/versão/feedback:** incluído na [prancha v01](<MM-14/historico/v01/STB MM14.jpg>), 1536×1024, JPEG de 392,575 bytes; ver registro compartilhado abaixo. Base individual não produzida; aprovação pendente.
 
 ### Registro de geração · MM-14-Q01 a MM-14-Q04 · prancha v01
 
@@ -957,7 +1073,7 @@ Os prompts abaixo já repetem a instrução de imagem limpa; ao levá-los à fer
 - **Referências realmente usadas:** somente texto derivado dos documentos; nenhuma foto de atriz, personagem ou ambiente aceita. Identidade genérica e figurino são propostas de estudo.
 - **Prompt efetivamente enviado:** íntegra em [MM-14/prompt-prancha-v01.txt](MM-14/prompt-prancha-v01.txt), para os quatro IDs. Ferramenta `image_gen.imagegen`, `transparent_background=false`, sem imagens de referência.
 - **Original:** `/workspace/generated_images/exec-6ca88fdd-fed6-4eff-9a40-b8370df4d387.png`, PNG 1536×1024, 1,997,473 bytes; preservado fora do repositório, sem envio ao Drive.
-- **Arquivo leve:** [MM-14/STB MM14.jpg](<MM-14/STB MM14.jpg>), 1536×1024, 392,575 bytes, v01. Prancha de planejamento, não base 4K nem vídeo.
+- **Arquivo leve:** [MM-14/STB MM14.jpg](<MM-14/historico/v01/STB MM14.jpg>), 1536×1024, 392,575 bytes, v01. Prancha de planejamento, não base 4K nem vídeo.
 - **Feedback:** Revisão visual pelo Codex: personagem/figurino reconhecíveis entre planos, mãos separadas em Q02, reflexo plausível em Q03, luz fria da direita e isolamento em Q04. O gesto com o colar em Q01 pode ser lido como aflição ou lembrança em vez de apego ao status; Q03 sugere fechamento, mas não comunica mentira de forma inequívoca. Essas metáforas precisam de revisão com a direção, sem associar sofrimento emocional por si só a pecado. Há pequenas variações de cenário; fixar piloto antes das bases individuais. Conferir leitura das sombras e brilho no telão.
 - **Aprovação:** pendente da equipe/direção. Sem alpha, sincronização medida ou ensaio no telão; restauração e passagem para MM-15 a alinhar com Lucas. Outros storyboards preservados.
 

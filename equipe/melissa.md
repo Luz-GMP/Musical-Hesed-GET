@@ -50,6 +50,8 @@
 
 ## MM-14 · Resumo dos pecados (montagem curta)
 
+**24/10/2026 · D-44:** [nova prancha v02](<../storyboards/MM-14/STB MM14.png>), refeita do zero em seis quadros com casa V03. Proposta visual para revisão; v01 recusada preservada como histórico. Conferir leitura das metáforas e alinhar último estado com Lucas/MM-15.
+
 | | |
 | --- | --- |
 | **Cena** | 8 · Bloco IV |

@@ -1,6 +1,6 @@
 # Inventário de storyboards e quadros
 
-Conferência atualizada em 21/10/2026 conforme D-40/D-41. Abrange **54 imagens: 14 pranchas completas, 39 quadros individuais e 1 prancha de conferência**. A auditoria de nomenclatura D-28 renomeou 36 dos 48 arquivos então existentes sem alterar seus bytes; a V06 de MM-01 substituiu a prancha anterior e acrescentou quatro quadros, uma prancha de conferência e o estado inicial apagado.
+Conferência atualizada em 24/10/2026 conforme D-40/D-41/D-44. A MM-14 v02 foi acrescentada; v01 recusada preservada em subpasta histórica. Abrange **55 imagens: 15 pranchas completas (incluindo MM-14 v01 histórica), 39 quadros individuais e 1 prancha de conferência**. A auditoria de nomenclatura D-28 renomeou 36 dos 48 arquivos então existentes sem alterar seus bytes; a V06 de MM-01 substituiu a prancha anterior e acrescentou quatro quadros, uma prancha de conferência e o estado inicial apagado.
 
 As duas pranchas da MM-04, em JPG e PNG, foram mantidas. As quatro pranchas da MM-03 são a composição oficial e suas três variações de luz. O nome novo não muda versão artística ou aprovação; consulte as fichas de cada peça. O inventário descreve o acervo local; a publicação remota depende do push.
 
@@ -46,7 +46,8 @@ As duas pranchas da MM-04, em JPG e PNG, foram mantidas. As quatro pranchas da M
 | Quadro individual | [MM-10/MM10-Q09.png](<MM-10/MM10-Q09.png>) | `MM10-Q9.png` |
 | Prancha | [MM-10/STB MM10.png](<MM-10/STB MM10.png>) | Já estava no padrão |
 | Prancha | [MM-13/STB MM13.png](<MM-13/STB MM13.png>) | Já estava no padrão |
-| Prancha | [MM-14/STB MM14.jpg](<MM-14/STB MM14.jpg>) | `prancha-v01.jpg` |
+| Prancha | [MM-14/STB MM14.png](<MM-14/STB MM14.png>) | Nova proposta v02, seis quadros (D-44) |
+| Prancha histórica recusada | [MM-14/historico/v01/STB MM14.jpg](<MM-14/historico/v01/STB MM14.jpg>) | `STB MM14.jpg`, v01 preservada sem alterar bytes |
 | Prancha | [MM-16D/STB MM16D.png](<MM-16D/STB MM16D.png>) | Já estava no padrão |
 
 | Quadro individual | [MM-13/MM13-Q01.JPG](<MM-13/MM13-Q01.JPG>) | `MM13-Q1.JPG` |
