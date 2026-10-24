@@ -52,6 +52,7 @@ Os prompts abaixo já repetem a instrução de imagem limpa; ao levá-los à fer
 - [MM-12 · Viagem, cidade e estábulo](#mm-12--viagem-cidade-e-estábulo)
 - [MM-13 · Noite, estrela, pastores e anjos](#mm-13--noite-estrela-pastores-e-anjos)
 - [MM-14 · Resumo dos pecados](#mm-14--resumo-dos-pecados)
+- [MM-15 · Vida e atos de Jesus](#mm-15--vida-e-atos-de-jesus)
 - [MM-16D · Morte → ressurreição](#mm-16d--morte--ressurreição)
 
 ## MM-07 · Nasceu em Belém
@@ -1484,3 +1485,89 @@ D-47 autoriza esta derivação em imagem individual, mantendo a parede e a abert
 - **Arquivos:** seis PNGs nativos 1672 × 941 px fora do Git, seis cópias JPG leves na pasta MM-12; tamanho real por quadro acima. Zip local com seis PNGs em `/workspace/shared/HESED/MM-12/MM12-imagens-individuais-v01.zip`. Drive não publicado (P-13).
 - **Inspeção:** sem texto, molduras ou pessoas; progressão tarde/crepúsculo/noite; Q03/Q04 com arquitetura correspondente, Q05 mais próximo, Q06 mantém parede de pedra e abrigo esquerdo da referência. Detalhes gerados podem diferir; revisar especialmente objetos de Q05. Não declarar novas bases aprovadas só pela aprovação da prancha.
 - **Limites:** resolução inferior à referência documental de 3840×2160; ampliação não feita; vídeos/loops, cues de operação, teste LED e especificação final P-01 não resolvidos.
+
+
+## MM-15 · Vida e atos de Jesus
+
+**Data/versão:** 24/10/2026 · v01 · proposta de storyboard para revisão, autorizada pelo usuário após o plano textual. **Responsável:** Lucas. **Cena:** 8 / Bloco IV.
+
+**Consulta prévia:** guia canônico de construção; briefing v1.0/MM-15; roteiro Cena 8; Bíblia v0.1 §§3/5/7/9; alinhamento das fontes; decisões D-25/D-48–D-51; ficha e base MM-14-Q10 atualizadas da main 2015612; mapa, dependências e página de Lucas. MM-14-Q10 foi inspecionada visualmente. Sua direção aprovada não aprova automaticamente as bases nem a MM-15.
+
+**Função visual:** montagem narrativa curta de ações humanas. **Palco:** Religiosidade narra e as personagens respondem na casa. **Telão:** ilustra o ministério narrado em ambiente bíblico, sem duplicar a conversa atual. **Personagens no telão:** necessárias para cura, ensino, perdão e acolhimento conforme briefing. Desfoque/translucidez D-50/D-51 são específicos da MM-14; não estendê-los automaticamente ao Jesus e aos sujeitos desta montagem.
+
+**Costura/controle:** recebe MM-14/Melissa no estado frio Q10, três pessoas afastadas e calor residual. Entra em “Enquanto Ele estava na terra, Ele curou, ensinou e perdoou as pessoas”; mudança visual no início de “Ele curou”, a ensaiar. Contrastar isolamento com proximidade humana e calor. Não transportar as detentas nem a casa para a história bíblica. Destinatário/arquivo seguinte não atribuído: diálogo conduz a Brilha Tua Luz, com P-08/P-15 abertas. Sustentação de Q04 sob diálogo é proposta, não cue aprovado. Sem música própria, master, timecodes ou forma de onda; duração medida no ensaio.
+
+**Contrato visual proposto:** ilustração cinematográfica realista e reverente, ambientes bíblicos simples de pedra clara, terra e vegetação discreta. Jesus adulto de aparência levantina, pele oliva, cabelos escuros ondulados até os ombros, barba curta, túnica de linho cru e manto bege; mesma identidade nos quatro quadros. Esta aparência é estudo artístico sem equivalência aprovada com ator ou outras MMs. Poucos figurantes adultos com roupas terrosas. Referência de identidade entre peças ainda não recebida. Não especificar milagres, personagens bíblicos ou passagens que o texto não nomeia.
+
+**Paleta proposta (valores de trabalho, não medição de referência):** azul-noturno #25364A (sombra de entrada), pedra #A89478 (ambiente), linho #E9DFC9 (vestes), âmbar #C58B43 (luz), branco quente #F5EBD7 (realce). Luz natural lateral superior direita nos quatro quadros, calor moderado crescente, sombras abertas, sem estouro branco. Maior calor em Q04; clímax final do espetáculo preservado.
+
+**Elementos/efeitos:** gestos humanos, pedra/linho/terra e oliveira discreta; zoom/parallax leve e cortes simples. Sem raios de cura, auras, partículas dominantes, grades/correntes, objetos modernos, cenas explícitas ou textos dentro das imagens-base. A prancha leva títulos, gatilhos e notas fora das miniaturas. Referência documental de bases: 3840×2160; prancha é estudo, registrar resolução real recebida, P-01 continua aberta.
+
+### MM-15-Q01 · Cura
+
+- **Situação/origem:** proposta v01 a partir do briefing MM-15 e roteiro Cena 8; não aprovado.
+- **Função/gatilho:** cura — “Ele curou”.
+- **Imagem-base:** Jesus se inclina junto a um homem adulto sentado num banco baixo de pedra e apoia delicadamente a mão em seu ombro; o homem olha para ele.
+- **Composição:** Plano médio, duas figuras, rosto e gesto legíveis, fundo simples de pedra.
+- **Luz/cor:** natural lateral superior direita, âmbar contido, pedra/linho e sombra azulada; progressão até Q04 sem explosão luminosa.
+- **Continuidade:** identidade de Jesus e figurino do contrato comum; entrada Q01 recebe contraste frio MM-14-Q10, Q04 prepara sustentação sem destinatário definido.
+- **Animação/transição:** Aproximação lenta; entrada por dissolução curta a ajustar à fala.
+- **Evitar:** anatomia ou gestos complexos, espetacularização de milagres, episódio específico presumido, objetos modernos, texto na base e duplicação das atrizes no telão.
+- **Prompt de imagem-base proposto (não executado):** Uma única imagem horizontal limpa, realista e cinematográfica, reverente, Jesus se inclina junto a um homem adulto sentado num banco baixo de pedra e apoia delicadamente a mão em seu ombro; o homem olha para ele. Plano médio, duas figuras, rosto e gesto legíveis, fundo simples de pedra. Jesus com aparência e figurino do contrato MM-15, luz natural quente da direita, sombras legíveis, margem para movimento suave. Sem texto, grade, colagem, números, marca-d'água, aura ou objetos modernos.
+- **Referências disponíveis:** documentos e MM-14-Q10 para contraste de entrada, não identidade/ambiente bíblico; nenhum retrato de Jesus aprovado.
+- **Tempo:** fala variável; a definir no ensaio. Não exigir que atores esperem pelos quatro cortes.
+- **Arquivo/feedback:** base individual não gerada; prancha conjunta será registrada abaixo após execução.
+
+### MM-15-Q02 · Ensino
+
+- **Situação/origem:** proposta v01 a partir do briefing MM-15 e roteiro Cena 8; não aprovado.
+- **Função/gatilho:** ensino — “ensinou”.
+- **Imagem-base:** O mesmo Jesus sentado numa pedra ensina um pequeno grupo de adultos à sua altura, numa encosta com oliveira.
+- **Composição:** Plano geral próximo; grupo em semicírculo, Jesus no terço esquerdo, horizonte baixo.
+- **Luz/cor:** natural lateral superior direita, âmbar contido, pedra/linho e sombra azulada; progressão até Q04 sem explosão luminosa.
+- **Continuidade:** identidade de Jesus e figurino do contrato comum; entrada Q01 recebe contraste frio MM-14-Q10, Q04 prepara sustentação sem destinatário definido.
+- **Animação/transição:** Deslocamento lateral mínimo; corte simples, sem exigir atuação gestual animada.
+- **Evitar:** anatomia ou gestos complexos, espetacularização de milagres, episódio específico presumido, objetos modernos, texto na base e duplicação das atrizes no telão.
+- **Prompt de imagem-base proposto (não executado):** Uma única imagem horizontal limpa, realista e cinematográfica, reverente, O mesmo Jesus sentado numa pedra ensina um pequeno grupo de adultos à sua altura, numa encosta com oliveira. Plano geral próximo; grupo em semicírculo, Jesus no terço esquerdo, horizonte baixo. Jesus com aparência e figurino do contrato MM-15, luz natural quente da direita, sombras legíveis, margem para movimento suave. Sem texto, grade, colagem, números, marca-d'água, aura ou objetos modernos.
+- **Referências disponíveis:** documentos e MM-14-Q10 para contraste de entrada, não identidade/ambiente bíblico; nenhum retrato de Jesus aprovado.
+- **Tempo:** fala variável; a definir no ensaio. Não exigir que atores esperem pelos quatro cortes.
+- **Arquivo/feedback:** base individual não gerada; prancha conjunta será registrada abaixo após execução.
+
+### MM-15-Q03 · Perdão
+
+- **Situação/origem:** proposta v01 a partir do briefing MM-15 e roteiro Cena 8; não aprovado.
+- **Função/gatilho:** perdão — “e perdoou as pessoas”.
+- **Imagem-base:** O mesmo Jesus à altura de uma mulher adulta sentada, com cabeça levemente baixa, oferece a mão aberta em acolhimento, sem acusadores.
+- **Composição:** Plano médio próximo de perfil; mãos separadas e naturais; espaço entre os rostos.
+- **Luz/cor:** natural lateral superior direita, âmbar contido, pedra/linho e sombra azulada; progressão até Q04 sem explosão luminosa.
+- **Continuidade:** identidade de Jesus e figurino do contrato comum; entrada Q01 recebe contraste frio MM-14-Q10, Q04 prepara sustentação sem destinatário definido.
+- **Animação/transição:** Aproximação delicada; dissolução breve para Q04, conforme ritmo ensaiado.
+- **Evitar:** anatomia ou gestos complexos, espetacularização de milagres, episódio específico presumido, objetos modernos, texto na base e duplicação das atrizes no telão.
+- **Prompt de imagem-base proposto (não executado):** Uma única imagem horizontal limpa, realista e cinematográfica, reverente, O mesmo Jesus à altura de uma mulher adulta sentada, com cabeça levemente baixa, oferece a mão aberta em acolhimento, sem acusadores. Plano médio próximo de perfil; mãos separadas e naturais; espaço entre os rostos. Jesus com aparência e figurino do contrato MM-15, luz natural quente da direita, sombras legíveis, margem para movimento suave. Sem texto, grade, colagem, números, marca-d'água, aura ou objetos modernos.
+- **Referências disponíveis:** documentos e MM-14-Q10 para contraste de entrada, não identidade/ambiente bíblico; nenhum retrato de Jesus aprovado.
+- **Tempo:** fala variável; a definir no ensaio. Não exigir que atores esperem pelos quatro cortes.
+- **Arquivo/feedback:** base individual não gerada; prancha conjunta será registrada abaixo após execução.
+
+### MM-15-Q04 · Amor aos rejeitados
+
+- **Situação/origem:** proposta v01 a partir do briefing MM-15 e roteiro Cena 8; não aprovado.
+- **Função/gatilho:** amor aos rejeitados — “E principalmente, ele amou pessoas que ninguém amava”.
+- **Imagem-base:** O mesmo Jesus acolhe junto a um pequeno grupo um homem adulto antes à margem, com roupas simples e gastas; mão no ombro e espaço aberto entre as pessoas comunicam pertencimento.
+- **Composição:** Plano de conjunto aberto à altura humana; ninguém isolado por uma barreira; poucas figuras legíveis.
+- **Luz/cor:** natural lateral superior direita, âmbar contido, pedra/linho e sombra azulada; progressão até Q04 sem explosão luminosa.
+- **Continuidade:** identidade de Jesus e figurino do contrato comum; entrada Q01 recebe contraste frio MM-14-Q10, Q04 prepara sustentação sem destinatário definido.
+- **Animação/transição:** Abertura lenta e repouso; movimento ambiental repetível para sustentar o diálogo seguinte, sem repetir a montagem.
+- **Evitar:** anatomia ou gestos complexos, espetacularização de milagres, episódio específico presumido, objetos modernos, texto na base e duplicação das atrizes no telão.
+- **Prompt de imagem-base proposto (não executado):** Uma única imagem horizontal limpa, realista e cinematográfica, reverente, O mesmo Jesus acolhe junto a um pequeno grupo um homem adulto antes à margem, com roupas simples e gastas; mão no ombro e espaço aberto entre as pessoas comunicam pertencimento. Plano de conjunto aberto à altura humana; ninguém isolado por uma barreira; poucas figuras legíveis. Jesus com aparência e figurino do contrato MM-15, luz natural quente da direita, sombras legíveis, margem para movimento suave. Sem texto, grade, colagem, números, marca-d'água, aura ou objetos modernos.
+- **Referências disponíveis:** documentos e MM-14-Q10 para contraste de entrada, não identidade/ambiente bíblico; nenhum retrato de Jesus aprovado.
+- **Tempo:** fala variável; a definir no ensaio. Não exigir que atores esperem pelos quatro cortes.
+- **Arquivo/feedback:** base individual não gerada; prancha conjunta será registrada abaixo após execução.
+
+### Registro da prancha MM-15 · v01 · 24/10/2026
+
+- **Quadros:** MM-15-Q01/Q02/Q03/Q04, briefings escritos antes da geração; fontes e contrato acima.
+- **Ferramenta:** image_gen.imagegen; transparent_background=false; sem referências anexadas. MM-14-Q10 inspecionada para o planejamento, não enviada como imagem à ferramenta.
+- **Prompt efetivo:** [texto integral](MM-15/prompt-prancha-v01.txt).
+- **Arquivo:** [STB MM15.png](<MM-15/STB MM15.png>), PNG 1672×941, 2527119 bytes; original `/workspace/generated_images/exec-c4e477c1-7dba-4f05-9151-3427614ad792.png`, preservado.
+- **Inspeção:** quatro composições distintas, identidade e figurino visualmente coerentes, gatilhos e blocos comuns presentes, sem tempos inventados. Gestos sugerem cuidado/perdão, sem afirmar episódio específico. Calor sutilmente crescente, Q01 já quente; contraste com estado frio da MM-14 ocorre no corte. Pequenas imperfeições tipográficas nos rótulos gerados da paleta; ficha-resumo registra grafia/códigos corretos. Não há bases individuais ou sincronização realizada.
+- **Aprovação:** pendente do usuário; nenhuma aprovação artística/técnica presumida. P-01/P-08/P-13/P-15 abertas; sem render, upload ao Drive ou teste LED.

@@ -94,3 +94,7 @@ Prancha aprovada em D-47; seis bases geradas para revisão, cada uma em 1672 × 
 - Base individual MM-14: [MM14-Q08.png](MM-14/MM14-Q08.png), v01 com desfoque e translucidez, para revisão (D-51).
 - Base individual MM-14: [MM14-Q09.png](MM-14/MM14-Q09.png), v01 com desfoque e translucidez, para revisão (D-51).
 - Base individual MM-14: [MM14-Q10.png](MM-14/MM14-Q10.png), v01 com desfoque e translucidez, para revisão (D-51).
+
+## MM-15 · prancha v01 · 24/10/2026
+
+[STB MM15.png](<MM-15/STB MM15.png>), PNG nativo 1672 × 941, 2527119 bytes. Quatro quadros Q01–Q04, proposta para revisão. Prompt, fontes e inspeção no caderno e ficha MM-15; não são bases individuais 4K.
