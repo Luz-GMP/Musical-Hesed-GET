@@ -1,6 +1,6 @@
 # Storyboard · MM-12 · Viagem, cidade e estábulo
 
-**HESED 2026 · estudo v01 · 24/10/2026 · Codex, a pedido do usuário.** Proposta para revisão; sem aprovação artística ou técnica. Estilo realista e cinematográfico, reverente.
+**HESED 2026 · estudo v02 · 24/10/2026 · Codex, a pedido do usuário.** Proposta para revisão; sem aprovação artística ou técnica. Estilo realista e cinematográfico, reverente.
 
 | Campo | Definição |
 | --- | --- |
@@ -13,9 +13,11 @@
 | Controle / música | Falas de duração variável, avanço pelo operador. Sem música própria atribuída ou tempos medidos. |
 | Drive / saída | P-13; matriz/fps/codec P-01; configuração de loops P-12. |
 
-## Prancha v01
+**Correção espacial D-44:** Q03–Q05 espelhados, percurso da direita para a esquerda; Q06 com estábulo à esquerda da imagem por logística do palco. Q01/Q02 preservados. Direção solicitada pelo usuário; resultado visual ainda em revisão.
 
-![Storyboard MM-12 · estudo v01](<STB MM12.png>)
+## Prancha v02
+
+![Storyboard MM-12 · estudo v02](<STB MM12.png>)
 
 [Arquivo da prancha](<STB MM12.png>) · [Prompt efetivamente enviado](prompt-prancha.txt). PNG de 1672 × 941 px, aproximadamente 2,5 MB; prancha de planejamento, sem bases finais em 4K.
 
@@ -35,10 +37,10 @@ Os fragmentos entre aspas vêm do roteiro; a divisão visual dentro da mesma fal
 | --- | --- | --- | --- |
 | **MM-12-Q01 · O caminho** | Estrada de terra entre colinas secas, horizonte aberto; sem pessoas. | Aproximação discreta na entrada; repouso com variação ambiental cíclica. | “Naquela época, foi decretado...” Sustentar “Organização política… interessante.” |
 | **MM-12-Q02 · Belém ao longe** | Caminho conduz ao povoado de pedra clara no terço direito; fim de tarde. | Dissolução, aproximação lenta apenas na entrada. | “José, que era noivo de Maria, precisou ir até Belém…” Sustentar até o comentário sobre a gravidez. |
-| **MM-12-Q03 · A chegada** | Rua de terra da mesma cidade, casas baixas, portas simples, crepúsculo. | Dissolução para a cidade; preparar mudança de luz mantendo arquitetura. | “E quando eles chegaram lá…” Confirmar no ensaio se cabe subdividir esta fala. |
-| **MM-12-Q04 · A noite** | Mesma rua e câmera, agora azul-noturno com pequenas lamparinas âmbar. | Mudança contínua de luz; nuvens discretas, sem acelerar estrelas. | Entre “chegaram lá…” e “não tinha lugar pra ficar”. Ligada à mesma deixa de Q03, sem criar pausa na fala; pode ser fundida a Q03. |
-| **MM-12-Q05 · Sem acolhimento** | Porta fechada de madeira à esquerda; percurso lateral à direita. | Reenquadramento/dissolução; lamparina com oscilação sutil. | “...não tinha lugar pra ficar. Nenhuma hospedagem disponível.” Não repetir abertura/fechamento de portas. |
-| **MM-12-Q06 · Um abrigo simples** | Abrigo de pedra/vigas à direita; campo e céu noturno à esquerda; região inferior calma. | Dissolução; pequeno calor interior e exterior azul; loop ambiental com câmera estabilizada. | “...onde os animais ficavam.” Já no abrigo em “um estábulo mesmo?”. Sustentar “Maria deu à luz ali mesmo…”; cue exato do anúncio/MM-13 a combinar com Eduardo. |
+| **MM-12-Q03 · A chegada** | Rua da mesma cidade espelhada: porta à direita e percurso diagonal da direita para a esquerda, crepúsculo. | Dissolução para a cidade; preparar mudança de luz mantendo arquitetura. | “E quando eles chegaram lá…” Confirmar no ensaio se cabe subdividir esta fala. |
+| **MM-12-Q04 · A noite** | Mesma rua espelhada e câmera de Q03, percurso da direita para a esquerda, agora azul-noturno com pequenas lamparinas âmbar. | Mudança contínua de luz; nuvens discretas, sem acelerar estrelas. | Entre “chegaram lá…” e “não tinha lugar pra ficar”. Ligada à mesma deixa de Q03, sem criar pausa na fala; pode ser fundida a Q03. |
+| **MM-12-Q05 · Sem acolhimento** | Porta fechada de madeira à direita; percurso lateral da direita para a esquerda. | Reenquadramento/dissolução; lamparina com oscilação sutil. | “...não tinha lugar pra ficar. Nenhuma hospedagem disponível.” Não repetir abertura/fechamento de portas. |
+| **MM-12-Q06 · Um abrigo simples** | Estábulo de pedra/vigas à esquerda; campo e céu noturno à direita; região inferior calma. | Dissolução; pequeno calor interior e exterior azul; loop ambiental com câmera estabilizada. | “...onde os animais ficavam.” Já no abrigo em “um estábulo mesmo?”. Sustentar “Maria deu à luz ali mesmo…”; cue exato do anúncio/MM-13 a combinar com Eduardo. |
 
 ## Paleta · amostras propostas
 
@@ -67,8 +69,8 @@ Dissoluções, aproximação lenta só na entrada e variação ambiental cíclic
 ## Continuidade e operação
 
 - **Primeiro frame:** estrada em luz contida; entrada desde o fundo anterior pendente (P-09/P-15). Não inventar casa/viagem simultâneas.
-- **Geografia proposta:** caminho para a direita, cidade no terço direito. Q03/Q04 mantêm câmera, portas e volumes; Q06 abre para campo à esquerda. Pilotar antes de produzir a série de bases.
-- **Último frame:** abrigo quente discreto à direita, campo/céu azul à esquerda; sem nascimento duplicado. Enviar frame, paleta, horizonte, direção de luz e posição do abrigo a Eduardo no alpha.
+- **Geografia proposta:** Q01/Q02 preservados, cidade no terço direito. A partir de Q03, percurso da direita para a esquerda; Q03/Q04 mantêm câmera, portas à direita e volumes espelhados; Q05 mantém o percurso e Q06 apresenta estábulo à esquerda e campo à direita (D-44). Pilotar antes de produzir a série de bases.
+- **Último frame:** estábulo quente discreto à esquerda, campo/céu azul à direita; sem nascimento duplicado. Enviar frame, paleta, horizonte, direção de luz e posição do abrigo a Eduardo no alpha.
 - **Entrega:** MM-13 pode revelar o campo na mesma noite; forma da passagem e cue após a manjedoura a combinar, sem alterar seus quadros existentes.
 - **Espera:** avançar pela fala, não por cronômetro. Q01/Q02/Q05/Q06 sustentam interrupções; Q03/Q04 podem ser fundidos.
 - **Pendências:** P-07 segue aberta para músicas/MM-13; P-01/P-12 para técnica/operação; P-13 para mídia; P-15 para retornos da casa. Este estudo não resolve esses pontos.
@@ -77,4 +79,4 @@ Dissoluções, aproximação lenta só na entrada e variação ambiental cíclic
 
 Consultados: [guia](../guia-de-construcao.md), [caderno](../briefings-dos-quadros.md#mm-12--viagem-cidade-e-estábulo), [briefing MM-12](../../docs/briefing.md), [roteiro Cenas 6–7](../../docs/roteiro.md#cena-6-a-gravidez), [mapa](../../docs/mapa-de-cenas.md), [dependências](../../docs/dependencias.md), [Lucas](../../equipe/lucas.md), [decisões](../../docs/decisoes.md), [alinhamento](../../docs/alinhamento-das-fontes.md), [Bíblia v0.1](../../docs/fontes/HESED_Biblia_de_Producao_v0_1.md) §§2.1, 3/Cenas 6–7, 4.1, 5.1–5.2, 9/BIB-Q015–Q018. Cues BIB não são IDs de quadros. Transcrição original não recebida (P-14).
 
-Plano textual registrado antes da geração. Prancha v01 gerada com image_gen em 24/10/2026 e salva como `STB MM12.png`; prompt integral em `prompt-prancha.txt`. Referências MM-07/MM-13 consultadas visualmente, sem anexos na chamada. Inspeção visual: seis quadros, progressão tarde/noite, Q03/Q04 com composição correspondente, ausência de pessoas e blocos de direção legíveis. Ainda conferir desenho das lamparinas/arquitetura nas bases piloto e legibilidade no LED. Bases individuais, animação e teste LED não produzidos; aprovação artística pendente.
+Prancha v01 preservada no [histórico local](<versoes/v01/STB MM12.png>), com [prompt original](versoes/v01/prompt-prancha.txt). A v02 foi editada em 24/10/2026 com image_gen usando a própria v01 como referência, conforme D-44: Q03–Q05 conduzem da direita para a esquerda e Q06 tem estábulo à esquerda e campo à direita. Inspeção visual conferiu orientação dos quatro painéis e textos legíveis, sem inversão das legendas; Q01/Q02 mantêm o conteúdo e a orientação. Prompt atual integral no arquivo vinculado acima. PNG 1672 × 941 px; nenhuma identidade pixel a pixel é presumida para edição generativa. Bases individuais, animação e teste LED não produzidos; aprovação artística pendente.

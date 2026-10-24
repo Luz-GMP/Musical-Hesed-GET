@@ -12,7 +12,7 @@ Regra: **quem entrega primeiro manda o último frame (PNG em resolução final) 
 | MM-06 (Isaac) | MM-07 (Eduardo) | Frame/loop do bebê | Nasceu em Belém começa de onde a regressão parou (ver D-01) |
 | MM-09 (Melissa) | MM-10 (Eduardo) | Último estado visual dos profetas | Passagem do histórico para o cósmico |
 | MM-10 (Eduardo) | MM-11 (Isaac) | Último estado do universo/luz | Luz do Mundo nasce da luz que o MM-10 deixou |
-| MM-12 (Lucas) | MM-13 (Eduardo) | Paisagem noturna/estábulo | O nascimento cresce no mesmo espaço até a glória |
+| MM-12 (Lucas) | MM-13 (Eduardo) | Paisagem noturna/estábulo à esquerda da imagem (D-44); campo à direita | O nascimento cresce no mesmo espaço até a glória; preservar percurso Q03–Q06 da direita para a esquerda |
 | MM-14 (Melissa) | MM-15 (Lucas) | Ritmo de corte e tratamento de cor | Contraste deliberado: aprisionamento → restauração |
 | MM-02 (Victor) | MM-08 (Isaac) | Lista de takes de Goel usados | Evitar repetir as mesmas imagens (P-04) |
 | MM-16A/B/C/D | MM-16 (Lucas) | Módulos com margem nas pontas | Conform precisa de "sobra" para transicionar |

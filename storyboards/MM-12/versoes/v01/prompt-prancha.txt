@@ -1,0 +1,35 @@
+Crie uma prancha profissional de storyboard cinematográfico em português brasileiro, horizontal ampla, alta resolução, para o musical HESED 2026. NÃO é página de site, NÃO é desenho de palco. É uma prancha editorial com seis belas imagens cinematográficas realistas em grade 3 colunas x 2 linhas, legendas e blocos de direção fora das imagens. Fundo azul muito escuro, tipografia marfim clara e detalhes dourados discretos, ampla legibilidade, hierarquia refinada, sem excesso decorativo.
+
+Título: "HESED · MM-12"
+Subtítulo: "VIAGEM, CIDADE E ESTÁBULO"
+Linha: "Cenas 6–7 · Lucas · Estudo v01 · Gatilhos de fala"
+Objetivo curto: "Situar a viagem e apoiar o presépio no palco."
+
+Seis imagens distintas, cada uma ampla 16:9, mesma geografia e materiais, sem pessoas ou animais em TODAS as imagens. Arquitetura humilde da Judeia antiga, pedra clara, reboco terroso, madeira simples, caminhos de terra e colinas. Sem construções modernas, torres medievais, eletricidade, letreiros, rios, presépio completo, manjedoura, bebê, anjos ou estrela espetacular. Realismo cinematográfico reverente, poucos elementos, composição legível à distância, visual atmosférico com sombras detalhadas. Não copiar lunares ou cidades incoerentes. A tarde torna-se noite gradualmente.
+
+Quadro superior esquerdo Q01 — O CAMINHO: estrada sinuosa entre colinas secas, sem cidade ainda, trilha vem do canto inferior esquerdo para o horizonte direito, luz suave de fim de tarde pela direita, paisagem aberta, deslocamento sem viajantes.
+Legenda externa: "Q01 · O caminho" / "Deixa: recenseamento" / "Aproximação lenta; espera."
+
+Quadro superior central Q02 — BELÉM AO LONGE: mesma trilha conduz até povoado compacto de casas baixas de pedra clara numa encosta no terço direito, céu vasto, luz de fim de tarde mais fria, poucos pontos âmbar. Diferente do caminho vazio Q01.
+Legenda: "Q02 · Belém ao longe" / "Deixa: José precisou ir até Belém" / "Dissolução; aproximação discreta."
+
+Quadro superior direito Q03 — A CHEGADA: agora dentro da mesma cidade, rua estreita de terra em crepúsculo, porta simples de madeira à esquerda, via livre à direita, casas baixas e volumes bem definidos, câmera à altura dos olhos.
+Legenda: "Q03 · A chegada" / "Deixa: quando eles chegaram lá" / "Entrada na cidade; preparar a noite."
+
+Quadro inferior esquerdo Q04 — A NOITE: EXATAMENTE a arquitetura, rua, câmera, porta e perspectiva do Q03 mas em noite azul, lamparinas pequenas e âmbar, textura legível. Repetir deliberadamente essa composição porque é um estado de luz da mesma base.
+Legenda: "Q04 · A noite" / "Mesma fala de chegada" / "Muda a luz; mantém o cenário."
+
+Quadro inferior central Q05 — SEM ACOLHIMENTO: reenquadramento da mesma rua agora noturna, porta esquerda fechada em foco, pedra irregular e lamparina pequena, caminho lateral à direita que seguirá para fora da cidade. Sem cartazes ou pessoas expulsas.
+Legenda: "Q05 · Sem acolhimento" / "Deixa: nenhuma hospedagem" / "Luz sutil; sustentar a fala."
+
+Quadro inferior direito Q06 — UM ABRIGO SIMPLES: plano aberto de abrigo humilde de pedra e vigas junto à periferia da cidade, entrada com calor âmbar discreto no lado direito, campo ondulado e céu azul-noturno visíveis à esquerda, chão inferior calmo, pouca palha e um recipiente rústico. Sem figuras humanas, animais, bebê, manjedoura ou grande clarão. O palco conterá o presépio real. A imagem prepara passagem ao campo do MM13.
+Legenda: "Q06 · Um abrigo simples" / "Deixa: onde os animais ficavam" / "Loop discreto; entrega ao MM-13."
+
+Rodapé dividido em blocos claros e legíveis, sem comprimir:
+"PALETA" com cinco amostras reais de cor e nomes: Azul-noturno #142B49; Sombra azul #101B29; Pedra e terra #A68A68; Âmbar #D3A15B; Marfim #E8DFCF.
+"LUZ / ATMOSFERA" texto: "Fim de tarde → crepúsculo → noite azul. Calor contido no abrigo."
+"ELEMENTOS VISUAIS" texto: "Colinas, terra, pedra, madeira e lamparinas. Sem pessoas no telão."
+"MOVIMENTO / EFEITOS" texto: "Dissoluções e movimento lento. Estados sustentados por fala."
+"CONTINUIDADE" texto: "Mesma Belém. Presépio no palco. Noite e abrigo para Eduardo / MM-13."
+Linha pequena mas legível: "Duração a definir no ensaio · Q03/Q04 podem usar a mesma base · Entrada anterior e cue MM-13 a alinhar."
+Não incluir forma de onda ou segundos inventados. Todos os textos e IDs ficam FORA das imagens e a grade tem apenas seis quadros. O conjunto deve ser uma prancha cinematográfica de direção pronta para revisão, não seis cenas dramáticas com atores.
