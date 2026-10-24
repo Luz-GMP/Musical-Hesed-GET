@@ -1,6 +1,6 @@
 # Storyboard · MM-12 · Viagem, cidade e estábulo
 
-**HESED 2026 · v03 consolidada · 24/10/2026 · Codex, a pedido do usuário.** Q03/Q04/Q05 aprovados pelo usuário em 24/10/2026 (D-46); Q06 restaurado da v02 por solicitação expressa. Sem aceite técnico LED. Estilo realista e cinematográfico, reverente.
+**HESED 2026 · v03 consolidada · 24/10/2026 · Codex, a pedido do usuário.** Prancha consolidada aprovada pelo usuário em 24/10/2026 (D-47); seis imagens individuais v01 geradas, ainda para revisão. Sem aceite técnico LED. Estilo realista e cinematográfico, reverente.
 
 | Campo | Definição |
 | --- | --- |
@@ -20,6 +20,21 @@
 ![Storyboard MM-12 · estudo v03](<STB MM12.png>)
 
 [Arquivo da prancha](<STB MM12.png>) · [Prompts históricos da geração v03](prompt-prancha.txt). PNG de 1672 × 941 px, aproximadamente 2,5 MB; prancha de planejamento, sem bases finais em 4K.
+
+## Imagens individuais · v01
+
+Seis bases limpas geradas uma por vez a partir dos quadros aprovados, sem legendas/molduras. **Resolução nativa real: 1672 × 941 px em todas**, próxima de 16:9; não são 3840 × 2160 e não foram ampliadas. PNGs originais ficam fora do Git em `/workspace/shared/HESED/MM-12/bases-v01/` e no pacote local `/workspace/shared/HESED/MM-12/MM12-imagens-individuais-v01.zip`. Drive ainda pendente (P-13); persistência desses originais depende do ambiente. As cópias JPG abaixo são leves, na mesma resolução, para consulta no repositório.
+
+| Quadro | Cópia leve no repositório | Origem e revisão |
+| --- | --- | --- |
+| MM12-Q01 · O caminho | [Ver imagem](MM12-Q01.jpg) | Base v01; recorte correspondente da prancha aprovada; revisão artística pendente |
+| MM12-Q02 · Belém ao longe | [Ver imagem](MM12-Q02.jpg) | Base v01; recorte correspondente da prancha aprovada; revisão artística pendente |
+| MM12-Q03 · A chegada | [Ver imagem](MM12-Q03.jpg) | Base v01; recorte correspondente da prancha aprovada; revisão artística pendente |
+| MM12-Q04 · A noite | [Ver imagem](MM12-Q04.jpg) | Base v01; recorte correspondente da prancha aprovada; revisão artística pendente |
+| MM12-Q05 · Sem acolhimento | [Ver imagem](MM12-Q05.jpg) | Base v01; recorte correspondente da prancha aprovada; revisão artística pendente |
+| MM12-Q06 · Um abrigo simples | [Ver imagem](MM12-Q06.jpg) | Base v01; recorte correspondente da prancha aprovada; revisão artística pendente |
+
+[Prompts efetivamente enviados](prompts-imagens-individuais.txt). Q04 usa também a base Q03 para conservar a rua em outra luz; Q05 usa também Q04 para continuidade. Q06 deriva do estábulo v02 restaurado na prancha. A prancha aprovada permanece intacta. Inspeção do agente: seis imagens sem texto ou pessoas, casa à esquerda e passagem à direita em Q03–Q05, Q06 com parede do estábulo preservada; confirmar detalhes gerados com o usuário antes de tratar as bases como aprovadas. Sem animação ou teste LED.
 
 ## Conceito
 

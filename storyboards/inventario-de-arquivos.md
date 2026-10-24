@@ -1,6 +1,6 @@
 # Inventário de storyboards e quadros
 
-Conferência atualizada em 24/10/2026 com a consolidação D-46 de MM-12 e preservação de v01/v02/v03 anteriores, preservando D-40/D-41. Abrange **58 imagens: 18 pranchas completas (incluindo v01, v02 e v03 anteriores arquivadas de MM-12), 39 quadros individuais e 1 prancha de conferência**. A auditoria de nomenclatura D-28 renomeou 36 dos 48 arquivos então existentes sem alterar seus bytes; a V06 de MM-01 substituiu a prancha anterior e acrescentou quatro quadros, uma prancha de conferência e o estado inicial apagado.
+Conferência atualizada em 24/10/2026 com a consolidação D-46 de MM-12 e preservação de v01/v02/v03 anteriores, preservando D-40/D-41. Abrange **64 imagens: 18 pranchas completas (incluindo v01, v02 e v03 anteriores arquivadas de MM-12), 45 quadros individuais e 1 prancha de conferência**. A auditoria de nomenclatura D-28 renomeou 36 dos 48 arquivos então existentes sem alterar seus bytes; a V06 de MM-01 substituiu a prancha anterior e acrescentou quatro quadros, uma prancha de conferência e o estado inicial apagado.
 
 As duas pranchas da MM-04, em JPG e PNG, foram mantidas. As quatro pranchas da MM-03 são a composição oficial e suas três variações de luz. O nome novo não muda versão artística ou aprovação; consulte as fichas de cada peça. O inventário descreve o acervo local; a publicação remota depende do push.
 
@@ -71,3 +71,16 @@ A prancha MM-12 vigente é a v03 consolidada (D-46): Q03/Q04/Q05 da v03 aprovado
 Os 12 quadros da MM-13 foram recebidos no commit remoto `a91406a` durante esta conferência e incorporados antes da conclusão. Nove deles precisavam do zero à esquerda.
 
 Padrão para novos arquivos: [guia de entrega](../guias/entrega-e-arquivos.md#padrão-de-nomes). Prompts, originais documentais e registros históricos não foram renomeados.
+
+## MM-12 · imagens individuais v01 · 24/10/2026
+
+Prancha aprovada em D-47; seis bases geradas para revisão, cada uma em 1672 × 941 px nativos. O acervo Git recebe somente as seis cópias JPG leves abaixo; PNGs originais fora do repositório em `/workspace/shared/HESED/MM-12/bases-v01/`, sem upload ao Drive (P-13). Os PNGs externos não entram na contagem de imagens do acervo Git.
+
+| Tipo | Arquivo | Situação |
+| --- | --- | --- |
+| Quadro individual · cópia leve | [MM-12/MM12-Q01.jpg](MM-12/MM12-Q01.jpg) | Base v01, revisão pendente; resolução real 1672 × 941 |
+| Quadro individual · cópia leve | [MM-12/MM12-Q02.jpg](MM-12/MM12-Q02.jpg) | Base v01, revisão pendente; resolução real 1672 × 941 |
+| Quadro individual · cópia leve | [MM-12/MM12-Q03.jpg](MM-12/MM12-Q03.jpg) | Base v01, revisão pendente; resolução real 1672 × 941 |
+| Quadro individual · cópia leve | [MM-12/MM12-Q04.jpg](MM-12/MM12-Q04.jpg) | Base v01, revisão pendente; resolução real 1672 × 941 |
+| Quadro individual · cópia leve | [MM-12/MM12-Q05.jpg](MM-12/MM12-Q05.jpg) | Base v01, revisão pendente; resolução real 1672 × 941 |
+| Quadro individual · cópia leve | [MM-12/MM12-Q06.jpg](MM-12/MM12-Q06.jpg) | Base v01, revisão pendente; resolução real 1672 × 941 |
