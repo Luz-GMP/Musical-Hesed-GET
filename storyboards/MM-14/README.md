@@ -1,6 +1,6 @@
 # Storyboard · MM-14 · Resumo dos pecados
 
-**v04 · seis quadros · 24/10/2026 · proposta para revisão (D-44/D-45/D-46).** Todas as personagens agora aparecem desfocadas de corpo inteiro nos seis quadros, aproximadamente como a Religiosidade ao fundo do quadro 4/v03. A ação acontece no palco; o telão reforça o distanciamento. Casa, objetos e textos conservam nitidez. A imagem coletiva na prisão serve somente à roupa, corpo e altura: a montagem ocorre na casa V03, com mãos e pés livres, sem algemas ou correntes.
+**v04 · seis quadros · 24/10/2026 · proposta para revisão (D-48/D-49/D-50).** Todas as personagens agora aparecem desfocadas de corpo inteiro nos seis quadros, aproximadamente como a Religiosidade ao fundo do quadro 4/v03. A ação acontece no palco; o telão reforça o distanciamento. Casa, objetos e textos conservam nitidez. A imagem coletiva na prisão serve somente à roupa, corpo e altura: a montagem ocorre na casa V03, com mãos e pés livres, sem algemas ou correntes.
 
 ![MM-14 v04 — personagens desfocadas](<STB MM14.png>)
 
@@ -15,11 +15,11 @@
 | Recebe de | Frame/fornecedor de entrada não recebido; casa MM-03/V03 é referência ambiental. Retornos/cues seguem P-15 |
 | Entrega para | MM-15/Lucas: contraste aprisionamento → restauração, ritmo e tratamento de cor |
 | Saída | “Ele curou, ensinou e perdoou as pessoas” |
-| Situação | Direção da prancha v04 aprovada (D-47); seis bases individuais para revisão; alpha e teste LED pendentes |
+| Situação | Direção da prancha v04 aprovada (D-51); seis bases individuais para revisão; alpha e teste LED pendentes |
 
 ## Bases individuais · desfoque e opacidade reduzida
 
-**D-47:** direção da v04 aprovada pelo usuário; seis bases produzidas individualmente, com personagens desfocadas e aparência de aproximadamente 70% de opacidade. A porcentagem é alvo visual; as imagens estão achatadas, sem camadas alpha independentes. Todas com fundo opaco e cenário nítido. Aprovação das novas bases ainda pendente.
+**D-51:** direção da v04 aprovada pelo usuário; seis bases produzidas individualmente, com personagens desfocadas e aparência de aproximadamente 70% de opacidade. A porcentagem é alvo visual; as imagens estão achatadas, sem camadas alpha independentes. Todas com fundo opaco e cenário nítido. Aprovação das novas bases ainda pendente.
 
 | Ordem | Base limpa | Estado |
 | --- | --- | --- |
@@ -62,11 +62,11 @@ Editada por `image_gen.imagegen` usando a prancha v03 local como referência ún
 
 Inspeção pelo Codex: pessoas inteiras desfocadas nos seis quadros, inclusive figuras parciais, mãos e botas; casa, objetos e textos com foco preservado. Poses, distanciamento, roupas escuras, seis IDs e gradação de luz mantidos, sem algemas/correntes. Pequenas variações gerativas de fundo/texto não equivalem a preservação pixel a pixel. Intensidade artística do desfoque segue para revisão; leitura em escala real depende de ensaio. Não houve animação ou teste de telão.
 
-Bases individuais produzidas conforme D-47 acima; sem alpha, envio ao Drive ou teste LED. P-01/P-13/P-15 continuam abertas. Avisar Melissa e Lucas sobre a nova proposta para alinhar a passagem; nenhuma mensagem enviada pelo assistente.
+Bases individuais produzidas conforme D-51 acima; sem alpha, envio ao Drive ou teste LED. P-01/P-13/P-15 continuam abertas. Avisar Melissa e Lucas sobre a nova proposta para alinhar a passagem; nenhuma mensagem enviada pelo assistente.
 
 ## Histórico
 
-[Prancha v03](<historico/v03/STB MM14.png>) · [Ficha v03](historico-v03.md), preservadas antes do desfoque solicitado em D-46.
+[Prancha v03](<historico/v03/STB MM14.png>) · [Ficha v03](historico-v03.md), preservadas antes do desfoque solicitado em D-50.
 
 [Prancha v02](<historico/v02/STB MM14.png>) · [Ficha v02](historico-v02.md), preservadas após comentário positivo parcial e pedido de troca de personagens, sem aprovação integral.
 

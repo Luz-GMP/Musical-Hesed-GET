@@ -1,8 +1,10 @@
 # Inventário de storyboards e quadros
 
-Conferência atualizada em 24/10/2026 conforme D-40/D-41/D-44/D-45/D-46/D-47. MM-14 tem seis novas bases individuais; v04 é a direção aprovada; v01, v02 e v03 preservadas em subpastas históricas. Abrange **63 imagens: 17 pranchas completas (incluindo MM-14 v01/v02/v03 históricas), 45 quadros individuais e 1 prancha de conferência**. A auditoria de nomenclatura D-28 renomeou 36 dos 48 arquivos então existentes sem alterar seus bytes; a V06 de MM-01 substituiu a prancha anterior e acrescentou quatro quadros, uma prancha de conferência e o estado inicial apagado.
+Conferência atualizada em 24/10/2026 após integrar MM-12 (D-44–D-47) e MM-14 (D-48–D-51), preservando D-40/D-41. Abrange **73 imagens: 21 pranchas completas (incluindo históricos de MM-12/MM-14), 51 quadros individuais e 1 prancha de conferência**. MM-12 mantém suas bases e versões publicadas; MM-14 mantém a prancha v04 aprovada, históricos e seis bases com desfoque/translucidez para revisão.
 
 As duas pranchas da MM-04, em JPG e PNG, foram mantidas. As quatro pranchas da MM-03 são a composição oficial e suas três variações de luz. O nome novo não muda versão artística ou aprovação; consulte as fichas de cada peça. O inventário descreve o acervo local; a publicação remota depende do push.
+
+A prancha MM-12 vigente é a v03 consolidada (D-46): Q03/Q04/Q05 da v03 aprovados pelo usuário e Q06 restaurado literalmente da v02. Versões anteriores em `MM-12/versoes/`; a rejeição da v02 não se aplica ao Q06 recuperado por solicitação posterior. PNGs 1672 × 941 px; sem bases finais individuais.
 
 | Tipo | Arquivo atual | Nome anterior |
 | --- | --- | --- |
@@ -46,7 +48,11 @@ As duas pranchas da MM-04, em JPG e PNG, foram mantidas. As quatro pranchas da M
 | Quadro individual | [MM-10/MM10-Q09.png](<MM-10/MM10-Q09.png>) | `MM10-Q9.png` |
 | Prancha | [MM-10/STB MM10.png](<MM-10/STB MM10.png>) | Já estava no padrão |
 | Prancha | [MM-13/STB MM13.png](<MM-13/STB MM13.png>) | Já estava no padrão |
-| Prancha | [MM-14/STB MM14.png](<MM-14/STB MM14.png>) | V04 com personagens desfocadas, direção aprovada (D-47) |
+| Prancha | [MM-12/STB MM12.png](<MM-12/STB MM12.png>) | V03 consolidada D-46: Q03–Q05 aprovados, Q06 literal da v02 |
+| Prancha arquivada | [MM-12/versoes/v03/STB MM12.png](<MM-12/versoes/v03/STB MM12.png>) | V03 anterior: Q03–Q05 aprovados, Q06 rejeitado |
+| Prancha arquivada | [MM-12/versoes/v02/STB MM12.png](<MM-12/versoes/v02/STB MM12.png>) | V02 rejeitada por espelhamento literal; preservada para histórico |
+| Prancha arquivada | [MM-12/versoes/v01/STB MM12.png](<MM-12/versoes/v01/STB MM12.png>) | Estudo v01 preservado para histórico; não usar como direção vigente |
+| Prancha | [MM-14/STB MM14.png](<MM-14/STB MM14.png>) | V04 com personagens desfocadas, direção aprovada (D-51) |
 | Prancha histórica | [MM-14/historico/v03/STB MM14.png](<MM-14/historico/v03/STB MM14.png>) | v03 antes do desfoque |
 | Prancha histórica | [MM-14/historico/v02/STB MM14.png](<MM-14/historico/v02/STB MM14.png>) | v02, figuração genérica anterior, sem aprovação integral |
 | Prancha histórica recusada | [MM-14/historico/v01/STB MM14.jpg](<MM-14/historico/v01/STB MM14.jpg>) | `STB MM14.jpg`, v01 preservada sem alterar bytes |
@@ -69,9 +75,22 @@ Os 12 quadros da MM-13 foram recebidos no commit remoto `a91406a` durante esta c
 
 Padrão para novos arquivos: [guia de entrega](../guias/entrega-e-arquivos.md#padrão-de-nomes). Prompts, originais documentais e registros históricos não foram renomeados.
 
-- Base individual MM-14: [MM14-Q05.png](MM-14/MM14-Q05.png), v01 com desfoque e translucidez, para revisão (D-47).
-- Base individual MM-14: [MM14-Q06.png](MM-14/MM14-Q06.png), v01 com desfoque e translucidez, para revisão (D-47).
-- Base individual MM-14: [MM14-Q07.png](MM-14/MM14-Q07.png), v01 com desfoque e translucidez, para revisão (D-47).
-- Base individual MM-14: [MM14-Q08.png](MM-14/MM14-Q08.png), v01 com desfoque e translucidez, para revisão (D-47).
-- Base individual MM-14: [MM14-Q09.png](MM-14/MM14-Q09.png), v01 com desfoque e translucidez, para revisão (D-47).
-- Base individual MM-14: [MM14-Q10.png](MM-14/MM14-Q10.png), v01 com desfoque e translucidez, para revisão (D-47).
+## MM-12 · imagens individuais v01 · 24/10/2026
+
+Prancha aprovada em D-47; seis bases geradas para revisão, cada uma em 1672 × 941 px nativos. O acervo Git recebe somente as seis cópias JPG leves abaixo; PNGs originais fora do repositório em `/workspace/shared/HESED/MM-12/bases-v01/`, sem upload ao Drive (P-13). Os PNGs externos não entram na contagem de imagens do acervo Git.
+
+| Tipo | Arquivo | Situação |
+| --- | --- | --- |
+| Quadro individual · cópia leve | [MM-12/MM12-Q01.jpg](MM-12/MM12-Q01.jpg) | Base v01, revisão pendente; resolução real 1672 × 941 |
+| Quadro individual · cópia leve | [MM-12/MM12-Q02.jpg](MM-12/MM12-Q02.jpg) | Base v01, revisão pendente; resolução real 1672 × 941 |
+| Quadro individual · cópia leve | [MM-12/MM12-Q03.jpg](MM-12/MM12-Q03.jpg) | Base v01, revisão pendente; resolução real 1672 × 941 |
+| Quadro individual · cópia leve | [MM-12/MM12-Q04.jpg](MM-12/MM12-Q04.jpg) | Base v01, revisão pendente; resolução real 1672 × 941 |
+| Quadro individual · cópia leve | [MM-12/MM12-Q05.jpg](MM-12/MM12-Q05.jpg) | Base v01, revisão pendente; resolução real 1672 × 941 |
+| Quadro individual · cópia leve | [MM-12/MM12-Q06.jpg](MM-12/MM12-Q06.jpg) | Base v01, revisão pendente; resolução real 1672 × 941 |
+
+- Base individual MM-14: [MM14-Q05.png](MM-14/MM14-Q05.png), v01 com desfoque e translucidez, para revisão (D-51).
+- Base individual MM-14: [MM14-Q06.png](MM-14/MM14-Q06.png), v01 com desfoque e translucidez, para revisão (D-51).
+- Base individual MM-14: [MM14-Q07.png](MM-14/MM14-Q07.png), v01 com desfoque e translucidez, para revisão (D-51).
+- Base individual MM-14: [MM14-Q08.png](MM-14/MM14-Q08.png), v01 com desfoque e translucidez, para revisão (D-51).
+- Base individual MM-14: [MM14-Q09.png](MM-14/MM14-Q09.png), v01 com desfoque e translucidez, para revisão (D-51).
+- Base individual MM-14: [MM14-Q10.png](MM-14/MM14-Q10.png), v01 com desfoque e translucidez, para revisão (D-51).

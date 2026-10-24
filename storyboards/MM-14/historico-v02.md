@@ -1,6 +1,6 @@
 # Storyboard · MM-14 · Resumo dos pecados
 
-**v02 · seis quadros · 24/10/2026 · proposta para revisão (D-44).** Refeito do zero após releitura do briefing, roteiro e Bíblia de Produção, com a casa V03 como referência visual. A v01 permanece recusada e não foi usada como referência artística.
+**v02 · seis quadros · 24/10/2026 · proposta para revisão (D-48).** Refeito do zero após releitura do briefing, roteiro e Bíblia de Produção, com a casa V03 como referência visual. A v01 permanece recusada e não foi usada como referência artística.
 
 ![MM-14 v02 — seis quadros](<historico/v02/STB MM14.png>)
 

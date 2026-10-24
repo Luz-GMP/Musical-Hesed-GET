@@ -1,6 +1,6 @@
 # Storyboard · MM-14 · Resumo dos pecados
 
-**v03 · seis quadros · 24/10/2026 · proposta para revisão (D-44/D-45).** Substitui a figuração genérica da v02 por Ladra, Religiosidade e Autossuficiência com as referências enviadas pelo usuário. A imagem coletiva na prisão serve somente à roupa, corpo e altura: a montagem ocorre na casa V03, com mãos e pés livres, sem algemas ou correntes.
+**v03 · seis quadros · 24/10/2026 · proposta para revisão (D-48/D-49).** Substitui a figuração genérica da v02 por Ladra, Religiosidade e Autossuficiência com as referências enviadas pelo usuário. A imagem coletiva na prisão serve somente à roupa, corpo e altura: a montagem ocorre na casa V03, com mãos e pés livres, sem algemas ou correntes.
 
 ![MM-14 v03 — personagens de referência](<historico/v03/STB MM14.png>)
 
