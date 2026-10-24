@@ -878,6 +878,36 @@ Os prompts abaixo já repetem a instrução de imagem limpa; ao levá-los à fer
 
 ## MM-14 · Reformulação v02 · seis quadros · 24/10/2026
 
+### Bases individuais · v01 · Q05–Q10 · D-47
+
+**Autorização:** usuário aprovou a direção visual da prancha v04 e pediu os seis quadros, imagem por imagem. Todas as personagens continuam desfocadas de corpo inteiro, agora com opacidade reduzida em aproximadamente 30% (alvo visual de 70% de opacidade, não 30%). Fundo opaco e arquitetura/objetos nítidos; a translucidez só se refere às figuras em relação à casa. Não atribuir valor alpha medido a uma aparência gerada em imagem achatada.
+
+**Consulta antes de gerar:** guia canônico, briefings Q05–Q10 e atualizações D-45/D-46 abaixo, ficha MM-14, prancha v04 inspecionada, padrão de entrega. Fontes narrativas e costuras preservadas: Cena 8 sob recapitulação, sustenta Q10 e entrega MM-15 em “Ele curou, ensinou e perdoou”. O palco concentra a ação; figuras no telão são reforço visual. Não há mudança de duração ou cue.
+
+**Contrato por quadro:** Q05: plano geral quente, três figuras afastadas, ruiva esquerda/morena centro/loira direita. Q06: plano médio da loira recusando ajuda com palma aberta, morena parcial à esquerda; aparador ao fundo. Q07: morena rígida de braços cruzados à direita, ruiva parcial à esquerda; portas ao fundo. Q08: ruiva próxima ao aparador retirando chaves, morena desfocada ao fundo; relógio/bandejinha/renda/menorá preservados. Q09: ruiva na porta entreaberta com mão na maçaneta, morena parcial à direita, fresta quente e sala esfriando. Q10: geral frio, três figuras em pé nas mesmas regiões, sombras arquitetônicas, calor residual. Em TODOS: rostos/cabelo/corpos/mãos/roupa/botas desfocados e aproximadamente 70% de opacidade; sem contenção, duplicação, aura ou fantasma luminoso. Mesmas poses, geografia, luz e técnicas de animação descritas nas revisões vigentes. Nenhuma restauração antecipada.
+
+**Formato e registro:** uma base limpa por chamada, sem títulos/IDs/legendas/grade/moldura; o Salmo 91 permanece objeto da casa, não legenda nova. Referência de base 3840×2160, mas registrar tamanho real nativo e não rotular menor como 4K. Nomes canônicos MM14-Q05.png a MM14-Q10.png, correspondentes às ordens editoriais 01–06. Prompts integrais salvos em MM-14/prompt-individual-Q05.txt a prompt-individual-Q10.txt. Primeira base piloto será inspecionada antes das seguintes; geração sequencial autorizada pelo pedido, sem impor revisão entre cada imagem estática. Prancha v04 preservada. Resultados serão registrados individualmente após cada chamada; sem aprovação presumida das bases, camadas alpha separadas ou teste LED.
+
+
+### Registro de execução · bases individuais Q05–Q10 · v01
+
+**Data/executor:** 24/10/2026 · Codex, a pedido do usuário (D-47). Seis bases produzidas uma por vez e inspecionadas visualmente após cada chamada. Fundo opaco; desfoque e translucidez aplicados só às pessoas. Prancha v04 preservada sem alteração. Geração em image_gen.imagegen, transparent_background=false, PNG nativo sem conversão ou recorte.
+
+| Ordem / ID | Arquivo individual | Dimensões reais | Bytes | Original preservado |
+| --- | --- | --- | --- | --- |
+| 01 · MM-14-Q05 | [Cada uma por si](MM-14/MM14-Q05.png) | 1672 × 941 | 1844160 | `/workspace/generated_images/exec-8b79bed5-32f8-4deb-9906-08d866fc2334.png` |
+| 02 · MM-14-Q06 | [Autossuficiência](MM-14/MM14-Q06.png) | 1672 × 941 | 1799174 | `/workspace/generated_images/exec-7a657170-277d-44a5-9411-29fb4b035e1e.png` |
+| 03 · MM-14-Q07 | [Rigidez e julgamento](MM-14/MM14-Q07.png) | 1672 × 941 | 1688970 | `/workspace/generated_images/exec-f3072590-ea01-46d2-b8dd-78d75510ac16.png` |
+| 04 · MM-14-Q08 | [Ocultação e apropriação](MM-14/MM14-Q08.png) | 1672 × 941 | 1809896 | `/workspace/generated_images/exec-dfc0d179-292b-452f-9c53-d78bdfcd1dff.png` |
+| 05 · MM-14-Q09 | [Isolamento](MM-14/MM14-Q09.png) | 1672 × 941 | 1656960 | `/workspace/generated_images/exec-92d980d7-46ee-4206-ba92-113242ceeb26.png` |
+| 06 · MM-14-Q10 | [Aprisionamento interior](MM-14/MM14-Q10.png) | 1672 × 941 | 1864775 | `/workspace/generated_images/exec-f3094b2b-f45d-46fb-b789-5436452b7abd.png` |
+
+**Referências e prompts efetivos:** Q05 inicial usou apenas `storyboards/MM-14/STB MM14.png`; prompt integral em [prompt-individual-Q05.txt](MM-14/prompt-individual-Q05.txt). A primeira tentativa (`/workspace/generated_images/exec-25d8e987-0ccc-45b8-88d0-43a4373e8762.png`) manteve figuras opacas demais e foi corrigida antes da série; [prompt de correção](MM-14/prompt-individual-Q05-correcao.txt) usou essa tentativa como referência. O resultado corrigido é o arquivo Q05 entregue. Q06–Q10 usaram prancha v04 + Q05 corrigido como piloto de desfoque/translucidez; prompts efetivos integrais em prompt-individual-Q06.txt a prompt-individual-Q10.txt, com instrução adicional de composição 70% figura + 30% fundo. Q10 também reforçou a paleta fria da prancha, evitando copiar a luz quente do piloto.
+
+**Inspeção:** seis imagens limpas, sem cabeçalhos/IDs/bordas/legendas; Salmo 91 preservado como objeto da casa. Pessoas desfocadas, sem algemas/correntes, cenário perceptível através de partes das figuras e presença visual moderada. O alvo aproximado de 70% de opacidade é direção visual, não alpha medido: arquivos achatados, sem camadas para provar porcentagem uniforme em cada pixel. Q05/Q10 mantêm três figuras em pé afastadas e mesma composição geral; Q10 recebe azul/sombras alongadas. Q06 recusa de ajuda, Q07 braços cruzados, Q08 gesto de chaves, Q09 recusa/afastamento na porta. Q09 deslocou a mão para a porta fechada à esquerda, em vez da maçaneta da entreaberta; na produção animada, conferir esse gesto se a direção exigir fechamento literal. Há pequenas diferenças de perspectiva, escala, objetos e temperatura entre reenquadramentos gerados. Não alegar continuidade métrica nem animação executada.
+
+**Proporção e resolução:** usuário reforçou AR 16:9 para todas. A ferramenta retornou 1672×941 (AR ≈1,7768), aproximação de 16:9, diferença de cerca de 0,05%; não são 4K nem arquivos 1920×1080 exatos. Tamanho nativo preservado e informado ao usuário; adequação exata da matriz de exibição segue P-01. Não esticar silenciosamente ou rotular resolução maior. Sem sincronismo, alpha, teste LED ou aprovação artística presumida das bases novas.
+
 ### Atualização vigente · v04 · todas as personagens desfocadas · D-46
 
 **Pedido e função:** ação acontece no palco; figuras no telão apenas reforçam o distanciamento. Desfocar todas as pessoas de corpo inteiro nos seis quadros Q05–Q10, aproximadamente como a Religiosidade ao fundo do quadro editorial 4/v03. Esta orientação substitui a prioridade de rosto nítido da v03. Preservar as mesmas pessoas, poses, cores de cabelo, roupas escuras, alturas, composição, luz, cenário, IDs e seis estados; mãos/pés livres, sem algemas/correntes. Aplicar também às pessoas parciais e às mãos próximas da câmera. Não usar pixelização ou tarja; não apagar figuras. Ambiente, objetos e textos conservam nitidez original.

@@ -15,7 +15,22 @@
 | Recebe de | Frame/fornecedor de entrada não recebido; casa MM-03/V03 é referência ambiental. Retornos/cues seguem P-15 |
 | Entrega para | MM-15/Lucas: contraste aprisionamento → restauração, ritmo e tratamento de cor |
 | Saída | “Ele curou, ensinou e perdoou as pessoas” |
-| Situação | Estudo visual entregue; aprovação artística, alpha e teste LED pendentes |
+| Situação | Direção da prancha v04 aprovada (D-47); seis bases individuais para revisão; alpha e teste LED pendentes |
+
+## Bases individuais · desfoque e opacidade reduzida
+
+**D-47:** direção da v04 aprovada pelo usuário; seis bases produzidas individualmente, com personagens desfocadas e aparência de aproximadamente 70% de opacidade. A porcentagem é alvo visual; as imagens estão achatadas, sem camadas alpha independentes. Todas com fundo opaco e cenário nítido. Aprovação das novas bases ainda pendente.
+
+| Ordem | Base limpa | Estado |
+| --- | --- | --- |
+| 01 | [MM14-Q05.png](MM14-Q05.png) | Cada uma por si |
+| 02 | [MM14-Q06.png](MM14-Q06.png) | Autossuficiência |
+| 03 | [MM14-Q07.png](MM14-Q07.png) | Rigidez e julgamento |
+| 04 | [MM14-Q08.png](MM14-Q08.png) | Ocultação e apropriação |
+| 05 | [MM14-Q09.png](MM14-Q09.png) | Isolamento |
+| 06 | [MM14-Q10.png](MM14-Q10.png) | Aprisionamento interior |
+
+PNG nativo **1672 × 941** em todas: proporção aproximadamente 16:9 (diferença de cerca de 0,05%), sem recorte ou ampliação; não são bases 4K. Registro por quadro, prompts, originais e limites de continuidade no [caderno](../briefings-dos-quadros.md#registro-de-execução--bases-individuais-q05q10--v01). A primeira tentativa Q05 foi corrigida para tornar a translucidez perceptível antes das demais. Q09 desloca o gesto para a porta fechada; conferir se for animar fechamento literal.
 
 ## Seis estados da montagem
 
@@ -47,7 +62,7 @@ Editada por `image_gen.imagegen` usando a prancha v03 local como referência ún
 
 Inspeção pelo Codex: pessoas inteiras desfocadas nos seis quadros, inclusive figuras parciais, mãos e botas; casa, objetos e textos com foco preservado. Poses, distanciamento, roupas escuras, seis IDs e gradação de luz mantidos, sem algemas/correntes. Pequenas variações gerativas de fundo/texto não equivalem a preservação pixel a pixel. Intensidade artística do desfoque segue para revisão; leitura em escala real depende de ensaio. Não houve animação ou teste de telão.
 
-Sem bases individuais, alpha, envio ao Drive ou teste LED. P-01/P-13/P-15 continuam abertas. Avisar Melissa e Lucas sobre a nova proposta para alinhar a passagem; nenhuma mensagem enviada pelo assistente.
+Bases individuais produzidas conforme D-47 acima; sem alpha, envio ao Drive ou teste LED. P-01/P-13/P-15 continuam abertas. Avisar Melissa e Lucas sobre a nova proposta para alinhar a passagem; nenhuma mensagem enviada pelo assistente.
 
 ## Histórico
 
