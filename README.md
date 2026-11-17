@@ -1,5 +1,13 @@
 # HESED · Produção Audiovisual
 
+## Conciliação do trabalho local · 16/11/2026
+
+- [MM-01/MM-02: versões, aprovações, narração e próximos passos](docs/producao-victor/README.md).
+- [Plano de ajustes das nove cenas](docs/plano-ajustes-2026-11-16.md) e [feedback recebido](docs/fontes/feedback-producao-2026-11-16.md).
+- [MM16: conversa recuperada e proposta de filme único](docs/contexto-MM16-2026-10-24.md).
+- [Manifesto de arquivos locais verificados](docs/producao-victor/acervo-verificado.json) — inventário e hashes, não download/backup dos arquivos pesados.
+
+
 Repositório de coordenação da equipe de telão do **HESED, Musical de Natal 2026** (GET Planalto e GET Santa Amélia).
 
 Aqui fica tudo que a equipe precisa para trabalhar alinhada: o contexto do espetáculo, o que cada pessoa entrega, em que pé está cada peça, as decisões que já foram tomadas e as perguntas que ainda estão abertas. **Os vídeos e projetos pesados não ficam aqui**, ficam no Drive (ver [guias/entrega-e-arquivos.md](guias/entrega-e-arquivos.md)). O repositório é o mapa; o Drive é o depósito.
@@ -77,3 +85,4 @@ hesed-producao/
 ├── guias/                 ← como fazer (playback, entrega, aceite, git)
 └── templates/             ← modelos de ficha de peça e de atualização
 ```
+

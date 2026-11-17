@@ -1,5 +1,12 @@
 # Briefings dos quadros · HESED
 
+## Atualização conciliada ·16/11/2026 — ler antes dos contratos de origem
+
+As [duas imagens canônicas da abertura internaMM01](../assets/producao-victor/MM01/README.md), aprovadas em23/10, e o [estado de produção de Victor](../docs/producao-victor/README.md) complementam os contratos de origem abaixo. A abertura começa no corredor com detentas projetadas e passa por luz/desvanecimento ao exteriorV06 **sem detentas projetadas**, entregando o restante ao palco. Preservar os dois conjuntos, sem retirar a restrição de cenário físico daBíblia ou regerar aprovados. VídeoV04 é prévia em revisão, distinta das imagens aprovadas.
+
+O [feedback de16/11 e plano das nove cenas](../docs/plano-ajustes-2026-11-16.md) define cozinha àdireita/preto àesquerda, novos cues e reordenação deMM13/MM12; a propostaMM16 recuperada continua proposta. Mídias novas/derivadas precisam de consulta, versão e revisão próprias; este registro não aprova geração/alteração de imagens de outros produtores. Conteúdos/IDs anteriores permanecem preservados como origem, lidos com as atualizações posteriores expressas.
+
+
 **Padrão:** nas peças ligadas à música, seguir a estrutura completa das pranchas do Eduardo (Dudu), incluindo momentos musicais/impactos ligados aos IDs. Nas demais, usar estrutura proporcional com gatilhos de fala/operação. Em todas as pranchas, apresentar blocos de paleta com amostras e nomes, luz/atmosfera, elementos visuais, movimento/efeitos e continuidade, conforme o guia canônico. **Situação dos detalhamentos:** estudos de execução para revisão, não imagens finais nem aprovações de timecode.
 
 Este é um caderno vivo: a cada storyboard novo, acrescente a identificação da peça e o briefing de cada quadro; a cada imagem produzida, registre referência, versão e feedback no seu ID. O [guia de construção](guia-de-construcao.md) explica o método, a montagem das pranchas e a passagem para imagens individuais.
@@ -1583,3 +1590,4 @@ Usuário solicita cada imagem correspondente aos quatro quadros antes da publica
 **MM-15-Q03 · base v01:** [MM15-Q03.png](MM-15/MM15-Q03.png), PNG 1672×941, 2588389 bytes. Original `/workspace/generated_images/exec-96acd5a0-cee8-476d-b9dd-35e5a7bc95bd.png`. Referências enviadas: prancha MM-15 v01 + Q01 piloto. Prompt efetivo: [Q03](MM-15/prompt-individual-Q03.txt). Inspeção: imagem limpa, mulher com tecido vinho terroso à esquerda e cabeça baixa, Jesus à direita à sua altura com mão aberta natural; identidade/figurino coerentes e gesto legível, sem acusadores. Expansão ambiental inclui água ao fundo, sem geografia canônica presumida. Tamanho nativo preservado, não 4K; aprovação, animação e teste LED pendentes.
 
 **MM-15-Q04 · base v01:** [MM15-Q04.png](MM-15/MM15-Q04.png), PNG 1672×941, 2519545 bytes. Original `/workspace/generated_images/exec-decd1513-7db8-433b-ae49-e67a50926cf0.png`. Referências enviadas: prancha MM-15 v01 + Q01 piloto. Prompt efetivo: [Q04](MM-15/prompt-individual-Q04.txt). Inspeção: imagem limpa, Jesus centro-direita com mão no ombro do homem de costas, grupo integrado e expressões acolhedoras; rosto e vestes coerentes com piloto. Mais calor e proximidade, sem aura ou efeitos mágicos. Tamanho nativo preservado, não 4K; aprovação, animação e teste LED pendentes.
+

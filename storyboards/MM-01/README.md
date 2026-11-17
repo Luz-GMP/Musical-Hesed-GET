@@ -1,5 +1,12 @@
 # Storyboard · MM-01 · Exterior/entrada da prisão
 
+## Atualização de produção conciliada · 16/11/2026
+
+Consultar [estado local verificado de Victor](../../docs/producao-victor/README.md) e [plano atual das nove cenas](../../docs/plano-ajustes-2026-11-16.md) antes dos registros de origem abaixo. A abertura agora inclui corredor interno V13/costas aprovados e desvanecimento; exterior V06 permanece como destino/continuidade. A prévia V04 tem13s/24fps e ainda aguarda revisão própria.
+
+Os registros anteriores abaixo preservam a origem, sem prevalecer sobre as orientações posteriores expressas.
+
+
 | | |
 | --- | --- |
 | **Responsável** | Victor |
@@ -12,7 +19,7 @@
 | **Controle** | Fala variável; sem duração medida |
 | **Drive** | A definir (P-13); nenhum upload realizado |
 
-## V06 · única referência visual oficial
+## V06 · referência oficial do exterior, preservada
 
 ![MM-01 — storyboard V06 oficial](<STB MM01.jpg>)
 
@@ -36,7 +43,7 @@ Ambiente noturno sombrio, com neblina distribuída por todos os planos e ilumina
 
 Quatro SUVs de porte integral ficam no pátio, em dois pares com escala coerente. A guarita contém dois guardas. Depois do pátio, o segundo perímetro é um muro alto de concreto com concertina e portão duplo de aço, alinhado à entrada central da penitenciária. O muro e o edifício obedecem ao mesmo ponto de fuga. Reenquadramentos futuros devem preservar essa geografia e não criar aberturas laterais, grades em quina ou portões adicionais.
 
-## Palco, gatilhos e continuidade
+## Palco, gatilhos e continuidade — registro anterior à abertura interna
 
 Jesus e dez detentas estão **no palco**; a projeção não os duplica. Na abertura da cortina retomam a posição final de Goel. Jesus sai pelo corredor central, detentas congeladas até sua saída, depois se levantam e discutem; Religiosidade permanece sentada. Figuração de segurança projetada foi autorizada pelo usuário. Sem estrutura física de cadeia, correntes ou cruz física na abertura, conforme Bíblia §§2.2/3.
 
@@ -55,3 +62,4 @@ Há outro congelamento durante a discussão para MM-02. Ao terminar o vídeo, vo
 ## Limites técnicos
 
 A aprovação é da referência visual. A base de animação em camadas, o vídeo final, o teste no LED e o aceite técnico ainda precisam ser produzidos. A prancha documental é 4K e 16:9; isso não define a matriz física do painel, fps ou codec final (P-01). Viaturas e insígnias permanecem referências artísticas e não comprovam padronagem oficial da Polícia Penal.
+

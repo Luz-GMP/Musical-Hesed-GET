@@ -1,5 +1,10 @@
 # AntiGravity · HESED Produção Audiovisual
 
+## Atualização conciliada ·16/11/2026
+
+Consultar [produção local de Victor](docs/producao-victor/README.md), [plano das nove cenas](docs/plano-ajustes-2026-11-16.md), STATUS e decisõesD-52–D-57 antes de produzir. A abertura internaMM01 e cinco highlightsMM02 já têm aprovações próprias; não regerar aprovados nem declarar prévias posteriores como aceitas. Publicação documental autorizada na main; projetos pesados permanecem fora do Git.
+
+
 Este arquivo orienta o AntiGravity a trabalhar com o mesmo contexto e as mesmas diretrizes de Claude e Codex. Leia primeiro o [AGENTS.md](AGENTS.md) e o [CLAUDE.md](CLAUDE.md), que mantém o contexto comum, a hierarquia das fontes e os princípios audiovisuais. Este documento complementa essa base; não cria uma versão paralela das regras de produção.
 
 Ao iniciar uma sessão no AntiGravity, solicite a leitura desses arquivos e deste documento. Não presuma carregamento automático apenas pelo nome `ANTIGRAVITY.md`.
@@ -68,3 +73,4 @@ Para a MM-02 e os próximos vídeos produzidos com Victor, consultar o [procedim
 **Atualização D-36:** consultar o guia v02 e o anexo atualizado preservado em docs/fontes. Registrar motor (HTML/JS + Playwright + FFmpeg e/ou Remotion), FPS de origem/saída e configuração no storyboard. Após revisão no escopo, gerar, abrir, inspecionar e corrigir frames por cena antes do render completo; incluir estados críticos e pequenos previews quando necessário. Efeitos sonoros procedurais são recurso conforme direção. Preservar taxas racionais, sincronismo pela locução real e regras do telão/P-01; snippets e instalação de ferramentas não são validados pela mera presença no anexo.
 
 **Método vigente D-37:** [guia v03](guias/edicao-de-video-com-agentes.md) e [revisão do pacote](guias/revisao-ai-filmmaker-2026-10-20.md). Produzir/apresentar uma cena por vez, com prévia em movimento e áudio, número/versão e pendências; só avançar após aprovação explícita da versão sem pendências. Duplo QA: auditor DOM e dois frames (entrada/repouso) com prancha e inspeção visual; corrigir e reinspecionar. Aprovação técnica não substitui a de Victor; mudanças perceptíveis em cenas aprovadas exigem nova revisão. Render integral só com todas aprovadas. Motor HTML admite GSAP/cenas declarativas; música usa onsets revisados e narração pode vir de VoiceStudio existente, ElevenLabs escolhido ou arquivo. Não presumir localhost acessível, beats exatos ou zero erros pelo DOM. Fontes e scripts originais preservados, sem execução na incorporação. MM-02: acompanhar [cena atual B01](storyboards/MM-02/producao-por-cena.md).
+

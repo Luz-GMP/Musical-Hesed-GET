@@ -1,6 +1,6 @@
 # Status da produção
 
-**Última atualização:** 24/10/2026 · por Codex, a pedido do usuário (MM-15: quatro bases individuais v01 geradas para revisão; sem alpha ou teste LED)
+**Última atualização:** 16/11/2026 · por Codex, a pedido de Victor (conciliação local/remota de MM-01/MM-02 e feedback de produção; sem novo aceite técnico)
 
 Cada pessoa atualiza **a própria linha** quando muda de etapa. Na dúvida sobre as etapas, veja [guias/fluxo-de-trabalho.md](guias/fluxo-de-trabalho.md).
 
@@ -10,9 +10,9 @@ Cada pessoa atualiza **a própria linha** quando muda de etapa. Na dúvida sobre
 
 | MM | Peça | Cena | Responsável | Etapa | Versão | Próximo passo | Travado por |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| MM-01 | Exterior/entrada da prisão | 1 | Victor | 🎨 | **V06 oficial · estado apagado aprovado (D-40/D-41)** | Iniciar pela [atmosfera apagada](storyboards/MM-01/MM01-Q01-ATMOSFERA-APAGADA.png), animar até o panorama iluminado e validar no LED | Matriz técnica P-01 |
-| MM-02 | Flashback de Goel (recap) | 1 | Victor | 🧪 | briefing v10 · B01B V06 visual aprovada (D-43) | Victor adiciona trilha/SFX à vinheta e depois inclui o vídeo final; continuar materiais dos demais blocos | Materiais de Goel (P-03), divisão com Isaac (P-04), locução e finalização sonora da B01B |
-| MM-03 | Sala da casa | 2–4 | Victor | 🎨 | V03 oficial + 01/02/03 | Revisar [três variações corretas](storyboards/MM-03/README.md), todas com bandejinha/renda; versões antigas excluídas da pasta (D-13) | - |
+| MM-01 | Abertura interna → exterior da prisão | 1 | Victor | 🧪 | Corredor frontal V13 + costas V01 aprovados; exterior V06 preservado; abertura V04 em revisão | [Revisar abertura 13 s/24 fps](docs/producao-victor/README.md), canto dos anjos/luz branca e passagem ao palco | Cue musical/ensaio; P-01 |
+| MM-02 | Flashback de Goel (recap) | 1 | Victor | 🧪 | B02 V07, B03 V03, B04 V02, B05 V03, B06 V03 aprovados; B01B V07 em revisão | [Integrar B01A/B01B, cinco highlights e B07–B14](docs/producao-victor/README.md); narração recebida; áudio da vinheta com Victor | Montagem integral, P-04, P-01/P-13 |
+| MM-03 | Sala da casa | 2–8, nos retornos indicados | Victor | 🎨 | V03 e variações preservadas; estado cozinha direita/preto esquerda definido | [Preparar/revisar enquadramento e cues recebidos](docs/plano-ajustes-2026-11-16.md) sem regerar a casa aprovada | Enquadramento/ensaio; P-09/P-15 |
 | MM-04 | Criação perfeita (loop) | 3 | Melissa | 🎨 | storyboard v01 | Revisar [prancha](<storyboards/MM-04/STB MM04.jpg>), escolher base piloto e alinhar paleta com Lucas/MM-05 | - |
 | MM-05 | Queda (silhuetas de luz) | 3 | Lucas | 🎨 | **V03 oficial · 6 quadros (D-24)** | Usar [V03 aprovada](<storyboards/MM-05/STB MM05.jpg>); alinhar bases MM-04/MM-06, produzir alpha e testar no LED | Base/paleta final MM-04 |
 | MM-06 | Retorno temporal → bebê | 3 | Isaac | ⬜ | - | Storyboard dos 4 estágios + loop final do bebê | - |
@@ -31,6 +31,10 @@ Cada pessoa atualiza **a própria linha** quando muda de etapa. Na dúvida sobre
 | MM-16D | Filme final: morte → ressurreição | 9 | Eduardo | ⬜ | - | - | P-06 |
 | MM-16 | Conform e master do filme final | 9 | Lucas | ⬜ | - | - | MM-16A/B/C/D |
 
+## Feedback posterior da produção
+
+O [plano de 16/11](docs/plano-ajustes-2026-11-16.md) registra os novos gatilhos das Cenas 1–9. MM-13 é indicada em Noite Santa, antes de MM-12; Santo pra Sempre recebe vídeo de gerações, ainda sem responsável confirmado. MM-14/MM-15 passam a uma recapitulação integrada a revisar. MM-16 permanece filme único: A/B/C/D são origens de produção; reorganização por música é proposta recuperada, não montagem aprovada. Não avançamos etapas nem sobrescrevemos as versões de outros produtores por causa do feedback.
+
 ## Marcos
 
 | Data | Marco | Situação |
@@ -46,3 +50,4 @@ Cada pessoa atualiza **a própria linha** quando muda de etapa. Na dúvida sobre
 ## Como atualizar sua linha
 
 Troque o emoji da etapa, a versão (v01, v02...) e o próximo passo. Se estiver travado, escreva quem ou o que te trava (pessoa, peça ou código de pendência `P-XX`). Atualize a data e o nome no topo. Se a mudança afeta alguém, avisa no grupo.
+

@@ -1,5 +1,9 @@
 # Victor
 
+## Atualização local conciliada · 16/11/2026
+
+[Estado de produção e acervo verificado](../docs/producao-victor/README.md): corredor MM01 V13/costas aprovados e abertura V04 em revisão; cinco highlights MM02 B02–B06 aprovados; vinheta V07 em revisão; narração recebida, montagem integral ainda pendente. [Feedback das nove cenas](../docs/plano-ajustes-2026-11-16.md) define cozinha à direita e atualiza cues. As descrições de origem abaixo ficam como contexto e devem ser lidas com essa atualização. Não regerar aprovados.
+
 **Perfil do conjunto:** parte introdutória / recap.
 **Bloco:** I · **Peças:** MM-01, MM-02, MM-03
 
@@ -54,3 +58,4 @@
 - [ ] Alphas
 - [ ] Teste no telão
 - [ ] Finais + editáveis + backup
+

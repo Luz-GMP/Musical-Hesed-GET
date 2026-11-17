@@ -1,5 +1,10 @@
 # Alinhamento das fontes e decisões · HESED
 
+## Complemento de16/11/2026
+
+[Feedback recebido da produção](fontes/feedback-producao-2026-11-16.md), [plano conciliado](plano-ajustes-2026-11-16.md) e decisões D-52–D-57 acrescentam orientações posteriores. A cozinha à direita foi confirmada diretamente por Victor; a proposta MM16 recuperada permanece proposta. A abertura interna MM01 é conteúdo de vídeo aprovado posteriormente, sem alterar a restrição de cenário físico da Bíblia. O feedback de16/11 não é a transcrição original da reunião da Bíblia (P-14). As divergências anteriores abaixo permanecem como histórico e pontos ainda não resolvidos por esses registros.
+
+
 **Atualização:** 16/10/2026 · Codex, a pedido do usuário (D-14). **Escopo desta etapa:** incorporar a Bíblia, preparar sua consulta pelos agentes e registrar diferenças. Naquela etapa o usuário pediu concluir e commitar a documentação antes de criar MM-01. Essa etapa foi concluída; pedido posterior autorizou o storyboard, agora em revisão conforme D-15.
 
 ## Fontes disponíveis e autoridade
@@ -56,3 +61,4 @@ Os cues **Q001–Q025 da Bíblia** também são preliminares e distintos dos qua
 Depois da conclusão e revisão desta incorporação documental, começar a MM-01 com o guia canônico e um briefing próprio de quadros. Base confirmada: exterior/entrada da prisão na abertura, sem estrutura física de cadeia/correntes/cruz; atores retomam posição final de Goel; Jesus sai pelo corredor central, detentas permanecem congeladas e depois se levantam; MM-02 interrompe a discussão e devolve ao mesmo ambiente.
 
 Ainda não foram recebidas fotos/frames do cenário final de Goel ou planta/escala de palco. Arquitetura, enquadramento, hora do dia, estado visual dos portões, movimentos do loop e o que efetivamente aparece no LED serão propostas a desenvolver, não decisões já extraídas da Bíblia. Nenhum storyboard ou imagem de MM-01 foi gerado nesta etapa.
+

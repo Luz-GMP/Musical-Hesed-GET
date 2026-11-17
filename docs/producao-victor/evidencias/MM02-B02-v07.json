@@ -1,0 +1,36 @@
+{
+  "sourceLocal": "acompanhamento/MM02-highlights/B02-v07-1080p/entrega-aprovada-1080p.json",
+  "kind": "Registro historico de aprovacao/entrega; caminhos normalizados para o workspace local.",
+  "record": {
+    "output": "entregas/MM02/B02/v07/MM02-B02-v07-master-1080p.mp4",
+    "width": 1920,
+    "height": 1080,
+    "fps": 60,
+    "frames": 2711,
+    "duration": "45.183333",
+    "native_source_and_all_parts": "PASS",
+    "audio_packets_identical_to_approved_v07": "PASS",
+    "decode": "PASS",
+    "render_scale": 1,
+    "source_upscale": false,
+    "sha256": "d7c75a1bd0f5b447d7e09958b25757172e99dfaf74b483596b77ab2f82e1ce9e",
+    "source_live": [
+      "projetos/Remotion/MM02-B02-v07-1080p/renders/Mentira-cor-nativa1080.mp4",
+      "projetos/Remotion/MM02-B02-v07-1080p/renders/Ladra-cor-nativa1080.mp4"
+    ],
+    "native_graphics": [
+      "Wanted",
+      "Freeze",
+      "Text"
+    ],
+    "approval": "Victor explicitly approved V07; requested native 1080p final export and authorized resuming after usage interruption.",
+    "led_test": "not performed",
+    "approved_file": "MMs Victor/MM02 - Hesed/MM02 -Aprovados/MM02-B02-Mentira-e-Ladra-v07-aprovado-1080p.mp4",
+    "bytes": 82425134,
+    "copy_identical": "PASS",
+    "progressive": "PASS",
+    "visual_qa": "PASS",
+    "review_archive_status": "540p copy already absent from approved folder on resume; original review preserved in entregas/MM02/B02/v07",
+    "completed_at": "2026-10-22T10:47:32.327181"
+  }
+}

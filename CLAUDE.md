@@ -1,5 +1,10 @@
 # Harness de contexto · HESED Produção Audiovisual
 
+## Atualização conciliada em 16/11/2026
+
+Antes de trabalhar em MM-01/MM-02 ou nos gatilhos do espetáculo, ler [produção local de Victor](docs/producao-victor/README.md), [plano das nove cenas](docs/plano-ajustes-2026-11-16.md), [decisões D-52–D-57](docs/decisoes.md) e [STATUS.md](STATUS.md). Esses registros incorporam a abertura interna/teletransporte de MM01, os cinco highlights MM02 aprovados e o feedback posterior da produção. O corredor V13/costas e o exterior V06 têm funções diferentes e são preservados; a vinheta V07 e a abertura V04 ainda são prévias. Não regerar aprovados, inferir aceite técnico LED ou seguir isoladamente descrições antigas de produção não iniciada. Vídeos/áudios/editáveis pesados continuam fora do Git; consultar o manifesto e P-13.
+
+
 Este arquivo é lido automaticamente pelo Claude Code e pode ser colado no início de uma conversa com qualquer assistente de IA (Claude, ChatGPT, Gemini) para dar o contexto do projeto. Mantenha curto: ele aponta para os documentos, não repete o conteúdo.
 
 Este é o contexto comum para Claude, Codex e AntiGravity. O [AGENTS.md](AGENTS.md) direciona outros assistentes para cá; o [CODEX.md](CODEX.md) e o [ANTIGRAVITY.md](ANTIGRAVITY.md) complementam os respectivos fluxos. Orientações de produção compartilhadas devem ser mantidas aqui e nos guias correspondentes, para que o trabalho continue da mesma forma independentemente do assistente usado.
@@ -114,3 +119,4 @@ Para a MM-02 e os próximos vídeos produzidos com Victor, consultar o [procedim
 **Atualização D-36:** consultar o guia v02 e o anexo atualizado preservado em docs/fontes. Registrar motor (HTML/JS + Playwright + FFmpeg e/ou Remotion), FPS de origem/saída e configuração no storyboard. Após revisão no escopo, gerar, abrir, inspecionar e corrigir frames por cena antes do render completo; incluir estados críticos e pequenos previews quando necessário. Efeitos sonoros procedurais são recurso conforme direção. Preservar taxas racionais, sincronismo pela locução real e regras do telão/P-01; snippets e instalação de ferramentas não são validados pela mera presença no anexo.
 
 **Método vigente D-37:** [guia v03](guias/edicao-de-video-com-agentes.md) e [revisão do pacote](guias/revisao-ai-filmmaker-2026-10-20.md). Produzir/apresentar uma cena por vez, com prévia em movimento e áudio, número/versão e pendências; só avançar após aprovação explícita da versão sem pendências. Duplo QA: auditor DOM e dois frames (entrada/repouso) com prancha e inspeção visual; corrigir e reinspecionar. Aprovação técnica não substitui a de Victor; mudanças perceptíveis em cenas aprovadas exigem nova revisão. Render integral só com todas aprovadas. Motor HTML admite GSAP/cenas declarativas; música usa onsets revisados e narração pode vir de VoiceStudio existente, ElevenLabs escolhido ou arquivo. Não presumir localhost acessível, beats exatos ou zero erros pelo DOM. Fontes e scripts originais preservados, sem execução na incorporação. MM-02: acompanhar [cena atual B01](storyboards/MM-02/producao-por-cena.md).
+

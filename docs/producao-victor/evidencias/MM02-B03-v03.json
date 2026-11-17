@@ -1,0 +1,18 @@
+{
+  "sourceLocal": "acompanhamento/MM02-highlights/B03-v03/entrega-aprovada-1080p.json",
+  "kind": "Registro historico de aprovacao/entrega; caminhos normalizados para o workspace local.",
+  "record": {
+    "approvedBy": "Victor",
+    "version": 3,
+    "output": "MMs Victor/MM02 - Hesed/MM02 -Aprovados/MM02-B03-Adulterio-e-Idolatria-v03-aprovado-1080p.mp4",
+    "sha256": "317d44289197738eda3c194f864e6461788e63d6d5c5b6420bb3ac497cef327e",
+    "bytes": 75342210,
+    "width": 1920,
+    "height": 1080,
+    "fps": 60,
+    "frames": 2661,
+    "durationSec": 44.35,
+    "copyEqualsValidatedExport": true,
+    "nextAuthorizedBlock": "B04 — Ódio e Desobediência"
+  }
+}

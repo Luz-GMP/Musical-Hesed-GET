@@ -1,5 +1,12 @@
 # Construção de storyboards e imagens · HESED
 
+## Atualização conciliada ·16/11/2026 — ler antes dos contratos de origem
+
+As [duas imagens canônicas da abertura internaMM01](../assets/producao-victor/MM01/README.md), aprovadas em23/10, e o [estado de produção de Victor](../docs/producao-victor/README.md) complementam os contratos de origem abaixo. A abertura começa no corredor com detentas projetadas e passa por luz/desvanecimento ao exteriorV06 **sem detentas projetadas**, entregando o restante ao palco. Preservar os dois conjuntos, sem retirar a restrição de cenário físico daBíblia ou regerar aprovados. VídeoV04 é prévia em revisão, distinta das imagens aprovadas.
+
+O [feedback de16/11 e plano das nove cenas](../docs/plano-ajustes-2026-11-16.md) define cozinha àdireita/preto àesquerda, novos cues e reordenação deMM13/MM12; a propostaMM16 recuperada continua proposta. Mídias novas/derivadas precisam de consulta, versão e revisão próprias; este registro não aprova geração/alteração de imagens de outros produtores. Conteúdos/IDs anteriores permanecem preservados como origem, lidos com as atualizações posteriores expressas.
+
+
 **Padrão de trabalho:** storyboards ligados à música devem seguir a estrutura de comunicação das pranchas de Eduardo (Dudu), incluindo progressão musical e impactos visuais. Os demais podem usar uma estrutura mais simples, mantendo os blocos comuns de direção: objetivo, paleta, luz, elementos visuais, movimento, efeitos e continuidade. O formato de apresentação não amplia o conteúdo exigido pelo briefing de cada MM. Tempos e sincronização precisam de fonte verificada.
 
 Este guia orienta a criação. O [caderno de briefings por quadro](briefings-dos-quadros.md) registra o que construir em cada imagem. As fichas em `storyboards/MM-XX/README.md` continuam sendo o resumo de cada peça. Consulte também o [briefing oficial](../docs/briefing.md), o [roteiro](../docs/roteiro.md), as [decisões](../docs/decisoes.md) e as [dependências](../docs/dependencias.md).
@@ -209,3 +216,4 @@ Use este modelo ao acrescentar peças ao [caderno](briefings-dos-quadros.md):
 Não renumere IDs após revisão: mude a ordem de montagem numa lista separada. Marque quadros retirados como não utilizados e dê novo ID a adições. Ao gerar uma imagem, registre a versão e o feedback no quadro correspondente; não sobrescreva versões aprovadas. **Ao salvar, aplicar obrigatoriamente o [padrão canônico de nomes](../guias/entrega-e-arquivos.md#imagens-de-storyboard--padrão-canônico): `STB MM07.jpg` para a prancha e `MM07-Q01.png` para o quadro individual**, preservando a extensão real e a letra nos módulos (`MM16D-Q01.png`). Os IDs textuais mantêm o hífen (`MM-07-Q01`). Não usar as antigas sugestões `q01.jpg`, `prancha-vNN.jpg` ou `HESED_C...` para novas imagens de storyboard. Registrar a versão artística no caderno e atualizar os links ao renomear; o nome novo não altera o conteúdo ou sua aprovação.
 
 Antes de aprovar: conferir fidelidade à função da cena, anatomia, identidade, continuidade, leitura de longe, possibilidade de animação e relação com palco/música. Uma imagem bonita ainda pode falhar como peça do espetáculo. Use o [checklist de aceite](../guias/checklist-de-aceite.md) na validação do vídeo.
+

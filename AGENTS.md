@@ -1,5 +1,10 @@
 # AGENTS.md
 
+## Atualização conciliada em 16/11/2026
+
+Antes de trabalhar em MM-01/MM-02 ou nos gatilhos do espetáculo, ler [produção local de Victor](docs/producao-victor/README.md), [plano das nove cenas](docs/plano-ajustes-2026-11-16.md), [decisões D-52–D-57](docs/decisoes.md) e [STATUS.md](STATUS.md). Esses registros incorporam a abertura interna/teletransporte de MM01, os cinco highlights MM02 aprovados e o feedback posterior da produção. O corredor V13/costas e o exterior V06 têm funções diferentes e são preservados; a vinheta V07 e a abertura V04 ainda são prévias. Não regerar aprovados, inferir aceite técnico LED ou seguir isoladamente descrições antigas de produção não iniciada. Vídeos/áudios/editáveis pesados continuam fora do Git; consultar o manifesto e P-13.
+
+
 O contexto para assistentes de IA deste repositório está em [CLAUDE.md](CLAUDE.md). Leia esse arquivo antes de qualquer tarefa.
 
 Se você é o Codex, leia também [CODEX.md](CODEX.md) antes de começar. Ele complementa o contexto comum com o fluxo de trabalho do Codex.
@@ -33,3 +38,4 @@ A D-28 e o [inventário](storyboards/inventario-de-arquivos.md) registram a adeq
 ## Skill local · ai-filmmaker
 
 A skill do projeto está instalada em [`.agents/skills/ai-filmmaker/SKILL.md`](.agents/skills/ai-filmmaker/SKILL.md), com metadados de interface em `.agents/skills/ai-filmmaker/agents/openai.yaml`. Quando Victor pedir `ai-filmmaker` ou `$ai-filmmaker`, ler esse arquivo e aplicar o procedimento/referências indicados. Se a skill ainda não estiver no catálogo da sessão, resolver diretamente pelo arquivo local; não afirmar que falta apenas porque a lista em cache não a exibiu. A instalação é deste repositório, não instalação global no Windows nem de dependências de render. Seguir o briefing e D-38: B01A fala inicial antes de B01B vinheta; prioridade de produção B01B.
+

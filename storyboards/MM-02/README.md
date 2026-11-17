@@ -1,10 +1,17 @@
 # Storyboard · MM-02 · Flashback de Goel (recap)
 
+## Atualização de produção conciliada · 16/11/2026
+
+Consultar [estado local verificado de Victor](../../docs/producao-victor/README.md) e [plano atual das nove cenas](../../docs/plano-ajustes-2026-11-16.md) antes dos registros de origem abaixo. Os cinco highlights B02–B06 já foram aprovados; a tabela atual está em producao-por-cena.md. B01B V06 tem aceite visual e V07 é revisão pendente; não declarar o recap completo nem apagar aprovações.
+
+Os registros anteriores abaixo preservam a origem, sem prevalecer sobre as orientações posteriores expressas.
+
+
 | | |
 | --- | --- |
 | **Responsável** | Victor |
 | **Cena** | 1 |
-| **Recebe de** | MM-01 (Victor), exterior da prisão · V05 oficial |
+| **Recebe de** | MM-01 (Victor), abertura interna/teletransporte e exterior V06, conforme atualização conciliada |
 | **Entrega para** | Retorno à MM-01 e à discussão da Cena 1; compartilha lista de takes com Isaac/MM-08 (P-04) |
 | **Gatilho e música** | ver [mapa de cenas](../../docs/mapa-de-cenas.md) e [sua página](../../equipe/victor.md) |
 | **Pasta no Drive** | _a definir (P-13)_ |
@@ -42,3 +49,4 @@ Usar o [guia de edição com agentes](../../guias/edicao-de-video-com-agentes.md
 **Atualização D-36:** guia v02 incorpora Playwright/Remotion, escolha de FPS, inspeção visual de frames e SFX procedurais. Parâmetros finais, materiais e storyboard seguem pendentes; método pronto para orientar a implementação.
 
 **Método vigente D-37:** [guia v03](../../guias/edicao-de-video-com-agentes.md) e [produção por cena](producao-por-cena.md). Unidade atual B01B por D-38, precedida por B01A na montagem; prévia versionada com áudio e aprovação explícita antes de avançar, duplo QA, GSAP e narração multprovedor. Fontes e auxiliares preservados; sem prévia/render produzido.
+

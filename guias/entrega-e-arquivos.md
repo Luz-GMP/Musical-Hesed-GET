@@ -89,10 +89,11 @@ Para esses formatos de entrega: cena sempre com dois dígitos, descrição em mi
 | Item | Valor |
 | --- | --- |
 | Imagens-base | 3840×2160 (definido na Bíblia de Produção) |
-| Resolução de vídeo | **a definir (P-01)** |
-| Frame rate | **a definir (P-01)** |
+| Resolução de vídeo | **Entrega local final:1920×1080 progressivo (D-54)**; homologação/matriz física LED ainda P-01 |
+| Frame rate | Manter o FPS aprovado de cada peça (ex.: MM01/24, vinheta/30, highlights/60); compatibilidade LED ainda P-01 |
 | Codec / container | **a definir (P-01)** |
 | Áudio embutido? | **a definir** (depende de como a operação roda as músicas) |
 | Loops em arquivo separado? | **a definir (P-12)** |
 
 Quando a P-01 for respondida, atualize esta tabela e registre em [decisoes.md](../docs/decisoes.md).
+

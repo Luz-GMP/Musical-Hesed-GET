@@ -1,5 +1,12 @@
 # MM-03 · Casa da Religiosidade · V03 oficial
 
+## Atualização de produção conciliada · 16/11/2026
+
+Consultar [estado local verificado de Victor](../../docs/producao-victor/README.md) e [plano atual das nove cenas](../../docs/plano-ajustes-2026-11-16.md) antes dos registros de origem abaixo. Cozinha à direita vista pela plateia e preto à esquerda confirmados por Victor; preparar estado derivado e cues sem regerar a casa V03 aprovada.
+
+Os registros anteriores abaixo preservam a origem, sem prevalecer sobre as orientações posteriores expressas.
+
+
 A única composição oficial é a imagem reenviada pelo usuário e registrada em D-13: relógio à esquerda, bandejinha/chaves sobre renda delicada pendendo pela frente ao centro, menorá à direita. Sem foto ou Bíblia. Pia à esquerda sob o armário aéreo e cooktop à direita.
 
 ## Imagens atuais
@@ -36,3 +43,4 @@ Na fala, o usuário repetiu “02” no último estado; foi adotada e comunicada
 - Uma imagem-base com movimento ambiental discreto pode bastar; os detalhes desta prancha são leituras do mesmo espaço, não novos ambientes ou ações para preencher uma grade. Não fixar duração de fala.
 - Mantêm-se entrada após transição da Cena 2, passagem ao MM-04 em “Não tinha dor” e retorno na Cena 4 antes do MM-08. Sem frame técnico de ligação recebido; manter o mesmo ambiente nos retornos.
 - Antes de nova geração, consultar o guia/caderno e a V03 oficial registrada em D-13. Esta diretriz de escopo preserva a anotação remota; os objetos, enquadramentos e iluminação já definidos pelo usuário estão documentados acima.
+
