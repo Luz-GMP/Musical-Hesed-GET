@@ -2,7 +2,7 @@
 
 [Voltar ao guia](README.md) · Storyboard geral v03, pp. 60–61.
 
-**Quem prepara:** Isaac · MM-08 · Victor · arquivo de Goel
+**Quem prepara:** Isaac · MM-08 · Victor disponibiliza os clipes no Drive
 
 De volta à mesa, elas perguntam por que Jesus aceitaria morrer por elas. A resposta de Mari liga a dívida paga na cadeia ao perdão. O material da Páscoa precisa tornar essa ligação visível.
 
@@ -22,7 +22,7 @@ De volta à mesa, elas perguntam por que Jesus aceitaria morrer por elas. A resp
 
 ## Como preparar e passar adiante
 
-1. Localizar Musical Goel.mp4. Anotar três ou quatro momentos por descrição do que se vê. Para cada momento, escrever qual ideia da letra ele ajuda a entender.
+1. Victor está subindo para o Drive os clipes gravados no musical anterior. Quando estiverem disponíveis, Isaac escolhe três ou quatro trechos de Goel que mostrem culpa, sacrifício e libertação. Para cada trecho, anota o nome do clipe, o início, o fim e a ideia da letra que ele ajuda a contar.
 2. Mostrar a seleção a Victor. Um trecho repetido pode funcionar se agora a plateia percebe o perdão. Cortes de piada e cartazes usados na retrospectiva pedem uma justificativa antes de entrar aqui.
 
 ## A letra e as imagens

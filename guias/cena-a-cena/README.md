@@ -12,7 +12,7 @@ Acompanhe o espetáculo como a plateia vai vê-lo. Escolha a cena e comece pela 
 | [1](cena-01.md) | [Da cadeia à liberdade](cena-01.md) | Victor · MM-01 e MM-02 | 3–33 |
 | [2](cena-02.md) | [As detentas chegam à casa da Mari](cena-02.md) | Victor · MM-03 | 34 |
 | [3](cena-03.md) | [A criação, a queda e a promessa](cena-03.md) | Victor · MM-04 e MM-05 · Isaac · MM-06 · Eduardo · MM-07 | 35–59 |
-| [4](cena-04.md) | [O que significa graça](cena-04.md) | Isaac · MM-08 · Victor · arquivo de Goel | 60–61 |
+| [4](cena-04.md) | [O que significa graça](cena-04.md) | Isaac · MM-08 · Victor disponibiliza os clipes no Drive | 60–61 |
 | [5](cena-05.md) | [A visão de Mari e o anúncio a Maria e José](cena-05.md) | Victor · MM-09 · Eduardo · MM-10 e MM-13 · Isaac · MM-11 | 62–83 |
 | [6](cena-06.md) | [O caminho até o abrigo](cena-06.md) | Victor · MM-12 · recebe de Eduardo | 84–89 |
 | [7](cena-07.md) | [O anúncio e as gerações](cena-07.md) | Victor · estábulo / Eduardo · gerações | 90–93 |
@@ -34,7 +34,7 @@ Acompanhe o espetáculo como a plateia vai vê-lo. Escolha a cena e comece pela 
 ## O que cada pessoa pode pegar agora
 
 - **Victor, Cena 5.** Pode preparar com o que existe. Mostrar a atriz contando e, logo em seguida, a primeira imagem dos profetas. Identificar onde a visão termina e entregar esse ponto a Eduardo. [Abrir a cena](cena-05.md)
-- **Isaac e Victor, Cena 4.** Pode preparar com o que existe. Abrir o registro de Goel, separar os planos de dívida, cruz e liberdade e comparar com os cortes que já aparecem no resumo da Cena 1. [Abrir a cena](cena-04.md)
+- **Isaac, Cena 4.** Selecionar os clipes da Páscoa. Victor está subindo os clipes de Goel para o Drive. Quando estiverem disponíveis, Isaac seleciona os trechos da Páscoa para a MM-08 e confere com Victor quais já apareceram na Cena 1. [Abrir a cena](cena-04.md)
 - **Victor, Cena 3.** Combinar uma passagem. Escolher a fala em que a cozinha dá lugar à queda. Antes disso, em qualquer montagem de revisão, preservar a volta à mesa depois da criação. [Abrir a cena](cena-03.md)
 - **Isaac e Eduardo, Cena 3.** Combinar uma passagem. Colocar lado a lado o bebê que encerra a fala e o céu estrelado que abriria a música. Decidir se há mais alguma imagem durante a canção. [Abrir a cena](cena-03.md)
 - **Isaac e produção, Cena 5.** Localizar um arquivo. Identificar o vídeo chamado de mundinho. Depois comparar sua primeira imagem com a última da narração de Eduardo. [Abrir a cena](cena-05.md)
