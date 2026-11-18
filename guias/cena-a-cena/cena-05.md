@@ -36,13 +36,13 @@ Mari passa da espera dos profetas à identidade de Jesus. Depois da música, a n
 
 - **No palco.** Entra Ó Noite Santa. Pedir luz leve para que o figurino roxo escuro continue legível.
 - **No telão.** MM-13 neste ponto. Seleção proposta: Q01 noite → Q02 estrela → Q03 pastores → Q02 estrela. A multidão sobre o estábulo tem outra deixa na Cena 7.
-- **Para executar.** Eduardo mostra o último céu a Lucas, que abrirá a viagem na Cena 6. Cor da luz e sequência integral aguardam revisão.
+- **Para executar.** Eduardo mostra o último céu a Victor, que abrirá a viagem na Cena 6. Cor da luz e sequência integral aguardam revisão.
 
 ## Como preparar e passar adiante
 
 1. Victor mostra como o primeiro quadro nasce da fala da Mari e onde a visão termina. Eduardo prepara a resposta com o primeiro quadro da MM-10. Conferir se quem vê entende a mudança de assunto.
 2. Isaac apresenta o arquivo identificado como mundinho e o compara ao último quadro de Eduardo. A operação testa a volta para a cozinha antes de acender os dois focos.
-3. Eduardo e Lucas conferem juntos o fim de Ó Noite Santa e o começo do caminho. A referência de anjos reservada à Cena 7 fica identificada à parte.
+3. Eduardo e Victor conferem juntos o fim de Ó Noite Santa e o começo do caminho. A referência de anjos reservada à Cena 7 fica identificada à parte.
 
 ## A letra e as imagens
 
@@ -82,6 +82,6 @@ Mari passa da espera dos profetas à identidade de Jesus. Depois da música, a n
 **Amor, libertação e adoração.** A parte seguinte amplia o sentido do nascimento para quem o celebra.
 
 - **O que aparece hoje.** O campo funciona como ambiente contemplativo. A seleção não ilustra literalmente esses temas e o figurino é roxo escuro.
-- **Como aplicar.** Combinar com o palco um final leve e legível e mostrar o último céu a Lucas antes da viagem.
+- **Como aplicar.** Combinar com o palco um final leve e legível e mostrar o último céu a Victor antes da viagem.
 
 [Consultar as falas completas no roteiro](https://github.com/Luz-GMP/Musical-Hesed-GET/blob/b54e712049ef708785d3a916b811d52798a4310b/docs/roteiro.md#cena-5-jesus-a-luz-do-mundo) · [Seguir para a Cena 6](cena-06.md)

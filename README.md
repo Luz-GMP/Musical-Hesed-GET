@@ -1,5 +1,8 @@
 # HESED · Produção Audiovisual
 
+**Distribuição vigente · 18/11/2026.** Victor assume toda a produção antes atribuída a Lucas e produz a MM-16 inteira, do roteiro à entrega. Ninguém fornece blocos nem compila materiais para o final. Victor também produz Quebrando as Correntes e Brilha Tua Luz. Eduardo produz Santo pra Sempre. Maravilhosa Graça de Julia Vitória (Cena 4, MM-08) segue com Isaac. [Guia definitivo por pessoa](guias/cena-a-cena/quem-faz-as-musicas.md)
+
+
 ## Para preparar uma cena
 
 Comece pelo [guia de execução das nove cenas](guias/cena-a-cena/README.md). Cada ficha reúne as falas que acionam a tela, o que acontece no palco, o que a letra pede das imagens e o próximo trabalho de cada pessoa.
@@ -51,11 +54,10 @@ Para começar no AntiGravity, peça: **“Leia AGENTS.md, CLAUDE.md e ANTIGRAVIT
 
 | Pessoa | Entregas | Arquivo |
 | --- | --- | --- |
-| Victor | MM-01, MM-02, MM-03 | [equipe/victor.md](equipe/victor.md) |
-| Victor | MM-04, MM-09, MM-14, MM-16A | [equipe/victor.md](equipe/victor.md) |
-| Isaac | MM-06, MM-08, MM-11, MM-16C | [equipe/isaac.md](equipe/isaac.md) |
-| Eduardo | MM-07, MM-10, MM-13, MM-16D | [equipe/eduardo.md](equipe/eduardo.md) |
-| Lucas | MM-05, MM-12, MM-15, MM-16B + conform do MM-16 | [equipe/lucas.md](equipe/lucas.md) |
+| Victor | MM-01 a MM-05, MM-09, MM-12, MM-14, MM-15, MM-16 inteira, Correntes e Brilha Tua Luz | [Victor](equipe/victor.md) |
+| Isaac | MM-06, MM-08, MM-11 | [Isaac](equipe/isaac.md) |
+| Eduardo | MM-07, MM-10, MM-13, Santo pra Sempre | [Eduardo](equipe/eduardo.md) |
+| Lucas | Liberado das entregas e da compilação | [Lucas](equipe/lucas.md) |
 
 ## Regras de convivência do repo
 
@@ -89,4 +91,5 @@ hesed-producao/
 ├── guias/                 ← como fazer (playback, entrega, aceite, git)
 └── templates/             ← modelos de ficha de peça e de atualização
 ```
+
 

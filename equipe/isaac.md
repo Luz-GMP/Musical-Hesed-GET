@@ -1,11 +1,10 @@
 # Isaac
 
-**Perfil do conjunto:** montagem narrativa, arquivo de Goel, playback musical e módulo do filme final.
-**Blocos:** II, III e IV · **Peças:** MM-06, MM-08, MM-11, MM-16C
+1. **Cena 3 · MM-06.** Prepare cruz → milagres → infância → bebê. Sustente o bebê durante o diálogo. Mostre o último quadro a Eduardo para a passagem às estrelas.
+2. **Cena 4 · MM-08, Maravilhosa Graça de Julia Vitória.** Separe três ou quatro momentos de Goel que mostrem culpa, sacrifício e liberdade. Confira com Victor se o trecho já apareceu na retrospectiva. Monte a seleção para a fala sobre a dívida paga e entregue à operação. Esta música continua sua.
+3. **Cena 5 · MM-11, Luz do Mundo.** Identifique com a produção o vídeo do mundinho. Compare a primeira imagem com a última do universo de Eduardo. Entregue o vídeo e marque a volta à cozinha, antes de Maria e José entrarem no palco.
 
-**Costuras:** entrega o bebê para Eduardo (MM-07) · recebe o universo de Eduardo (MM-10) · divide o arquivo de Goel com Victor (MM-02) · entrega o 16C para Lucas (conform).
-
----
+**Primeira entrega prática:** os três trechos da Páscoa, com início, fim e uma frase dizendo o que cada um mostra. Você pode avançar enquanto a produção identifica o mundinho.
 
 ## MM-06 · Retorno temporal (cruz → milagres → infância → bebê)
 
@@ -78,19 +77,4 @@
 - [ ] Teste no telão com coreografia
 - [ ] Final + editável + backup
 
-## MM-16C · Filme final: nascimento → vida
-
-| | |
-| --- | --- |
-| **Cena** | 9 · Bloco IV · terceiro módulo de quatro |
-| **Música** | Maravilhosa Graça (Samuel Mizrahy) |
-| **Vizinhos** | antes: 16B prisão → liberdade (Lucas) · depois: 16D morte → ressurreição (Eduardo) |
-
-**Objetivo:** conectar o nascimento à entrada de Jesus na história humana.
-
-**Execução:** manjedoura → crescimento → caminhada/vida → presença entre pessoas. **Não avançar até a morte** (é do Eduardo).
-
-- [ ] Saber a duração do módulo (P-06) e se usa atrizes (P-05)
-- [ ] Alpha
-- [ ] Entregar a Lucas com margem nas pontas
-- [ ] Ajustes do conform
+[Guia definitivo por pessoa](../guias/cena-a-cena/quem-faz-as-musicas.md)

@@ -6,7 +6,7 @@
 | **Cena** | 3 · Bloco II |
 | **Versão / situação** | v01 · 16/10/2026 · proposta para revisão |
 | **Recebe de** | Sala MM-03 (Victor), conforme a Cena 3; frame de ligação não recebido |
-| **Entrega para** | MM-05 (Lucas): imagem-base, paleta e estado de saída da criação |
+| **Entrega para** | MM-05 (Victor): imagem-base, paleta e estado de saída da criação |
 | **Gatilho** | Religiosidade: “Não tinha dor, sofrimento, pecado, nada disso.” |
 | **Música** | Há Muito Tempo Atrás (Crianças Diante do Trono), com dança |
 | **Saída** | “Deu errado quando o ser humano escolheu viver longe de Deus.” |
@@ -15,7 +15,7 @@
 
 ## Conceito em uma frase
 
-Uma paisagem natural luminosa, harmônica e viva, sustentada com movimentos discretos até a queda, que será construída por Lucas sobre o mesmo mundo no MM-05.
+Uma paisagem natural luminosa, harmônica e viva, sustentada com movimentos discretos até a queda, que será construída por Victor sobre o mesmo mundo no MM-05.
 
 ## Prancha v01
 
@@ -39,7 +39,7 @@ Os quadros são estados de **uma única paisagem-base animável**, não quatro c
 ## Primeiro e último frame
 
 - **Primeiro frame:** a sala MM-03 dá lugar à paisagem natural no gatilho; método de transição e frame de Victor ainda a alinhar. Q01 estabelece o ambiente.
-- **Último estado:** paisagem ainda íntegra e luminosa; fornecer a Lucas a mesma base, paleta, enquadramento e estado corrente. O escurecimento e as silhuetas da queda pertencem ao MM-05.
+- **Último estado:** paisagem ainda íntegra e luminosa; fornecer a Victor a mesma base, paleta, enquadramento e estado corrente. O escurecimento e as silhuetas da queda pertencem ao MM-05.
 - **Paleta proposta:** branco quente e dourado suave na luz, azul suave no céu e verde natural de apoio. Brilho com textura, a testar com palco/dança.
 - **Loop:** Q01 → Q02 → Q03 → Q04 → Q01. Na edição, derivar os enquadramentos de uma base única e testar repetição; a prancha não comprova loop sem emenda.
 
@@ -56,5 +56,5 @@ A prancha segue a estrutura documentada das referências do Dudu (IDs, descriç�
 ## Próximos passos
 
 - Revisar a proposta visual e escolher a base piloto.
-- Alinhar imagem-base/paleta e passagem para MM-05 com Lucas; compartilhar no grupo quando houver definição.
+- Alinhar imagem-base/paleta e passagem para MM-05 com Victor; compartilhar no grupo quando houver definição.
 - Produzir o alpha em loop e testar com a dança e no telão real.

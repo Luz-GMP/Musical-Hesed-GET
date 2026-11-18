@@ -21,7 +21,7 @@ Use antes de marcar uma peça como ✅ no STATUS. Copie para a ficha da peça ou
 
 ## Arcos específicos
 - [ ] O nascimento cresce visualmente da simplicidade para a glória? (MM-12 → MM-13)
-- [ ] O filme final parece uma obra única, e não quatro módulos? (MM-16)
+- [ ] A MM-16 de Victor acompanha a parte falada e o sinal do último refrão? (MM-16)
 
 ## Entrega
 - [ ] Final e editável identificados e armazenados no Drive?

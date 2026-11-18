@@ -1,5 +1,8 @@
 # AntiGravity · HESED Produção Audiovisual
 
+**Distribuição vigente · 18/11/2026.** Victor assume toda a produção antes atribuída a Lucas e produz a MM-16 inteira, do roteiro à entrega. Ninguém fornece blocos nem compila materiais para o final. Victor também produz Quebrando as Correntes e Brilha Tua Luz. Eduardo produz Santo pra Sempre. Maravilhosa Graça de Julia Vitória (Cena 4, MM-08) segue com Isaac. [Guia definitivo por pessoa](guias/cena-a-cena/quem-faz-as-musicas.md)
+
+
 Para produção audiovisual, carregue `ai-filmmaker` em `.agents/skills/ai-filmmaker/SKILL.md`. Para a MM-07, use a [instrução para o Antigravity](storyboards/MM-07/instrucao-antigravity.md).
 
 ## Atualização conciliada ·16/11/2026
@@ -34,7 +37,7 @@ O [guia de construção](storyboards/guia-de-construcao.md) e o [caderno de brie
 - Preserve os IDs `MM-XX-QNN`, a identidade dos personagens, o cenário, a direção da luz e as costuras entre produtores. Não renumere os quadros para alterar a montagem.
 - Diferencie a prancha anotada da imagem-base individual limpa, sem títulos, timecodes ou colagem. Descreva animação e efeitos separadamente do instante da imagem.
 - Informe os documentos/IDs consultados e registre o prompt efetivamente enviado, referências reais, localização disponível, versão, tamanho e feedback no quadro. Não declare arquivos inexistentes, aprovações não confirmadas ou geração bem-sucedida após uma falha.
-- Tempos e formas de onda das pranchas não comprovam sincronização. Playbacks dependem do master definitivo; MM-10 acompanha uma fala variável; MM-16D depende da divisão do filme final por Lucas. 3840×2160 é a referência das imagens-base, não a especificação final dos vídeos.
+- Tempos e formas de onda das pranchas não comprovam sincronização. Playbacks dependem do master definitivo; MM-10 acompanha uma fala variável; a seleção da prancha MM-16D cabe exclusivamente a Victor. 3840×2160 é a referência das imagens-base, não a especificação final dos vídeos.
 
 ## Execução, registro e entrega
 
@@ -75,3 +78,4 @@ Para a MM-02 e os próximos vídeos produzidos com Victor, consultar o [procedim
 **Atualização D-36:** consultar o guia v02 e o anexo atualizado preservado em docs/fontes. Registrar motor (HTML/JS + Playwright + FFmpeg e/ou Remotion), FPS de origem/saída e configuração no storyboard. Após revisão no escopo, gerar, abrir, inspecionar e corrigir frames por cena antes do render completo; incluir estados críticos e pequenos previews quando necessário. Efeitos sonoros procedurais são recurso conforme direção. Preservar taxas racionais, sincronismo pela locução real e regras do telão/P-01; snippets e instalação de ferramentas não são validados pela mera presença no anexo.
 
 **Método vigente D-37:** [guia v03](guias/edicao-de-video-com-agentes.md) e [revisão do pacote](guias/revisao-ai-filmmaker-2026-10-20.md). Produzir/apresentar uma cena por vez, com prévia em movimento e áudio, número/versão e pendências; só avançar após aprovação explícita da versão sem pendências. Duplo QA: auditor DOM e dois frames (entrada/repouso) com prancha e inspeção visual; corrigir e reinspecionar. Aprovação técnica não substitui a de Victor; mudanças perceptíveis em cenas aprovadas exigem nova revisão. Render integral só com todas aprovadas. Motor HTML admite GSAP/cenas declarativas; música usa onsets revisados e narração pode vir de VoiceStudio existente, ElevenLabs escolhido ou arquivo. Não presumir localhost acessível, beats exatos ou zero erros pelo DOM. Fontes e scripts originais preservados, sem execução na incorporação. MM-02: acompanhar [cena atual B01](storyboards/MM-02/producao-por-cena.md).
+

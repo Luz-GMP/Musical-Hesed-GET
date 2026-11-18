@@ -1,5 +1,8 @@
 # Storyboards
 
+**Distribuição vigente · 18/11/2026.** Victor assume toda a produção antes atribuída a Lucas e produz a MM-16 inteira, do roteiro à entrega. Ninguém fornece blocos nem compila materiais para o final. Victor também produz Quebrando as Correntes e Brilha Tua Luz. Eduardo produz Santo pra Sempre. Maravilhosa Graça de Julia Vitória (Cena 4, MM-08) segue com Isaac. [Guia definitivo por pessoa](../guias/cena-a-cena/quem-faz-as-musicas.md)
+
+
 Uma pasta por peça. Cada pasta já tem um `README.md` com a ficha do storyboard: é ele que aparece quando você abre a pasta no site.
 
 Storyboard é a etapa 🎨 do [fluxo de trabalho](../guias/fluxo-de-trabalho.md). Não precisa ser bonito: foto de desenho no papel, print do Canva ou frame tirado de uma referência servem. O objetivo é a equipe (e o vizinho de costura) entender a sequência antes do alpha.
@@ -36,9 +39,8 @@ Mudou um quadro em revisão? O histórico Git guarda a anterior. Preserve a imag
 | Peça | Responsável |
 | --- | --- |
 | [MM-01](MM-01/) · [MM-02](MM-02/) · [MM-03](MM-03/) | Victor |
-| [MM-04](MM-04/) · [MM-09](MM-09/) · [MM-14](MM-14/) · [MM-16A](MM-16A/) | Victor |
-| [MM-06](MM-06/) · [MM-08](MM-08/) · [MM-11](MM-11/) · [MM-16C](MM-16C/) | Isaac |
-| [MM-07](MM-07/) · [MM-10](MM-10/) · [MM-13](MM-13/) · [MM-16D](MM-16D/) | Eduardo |
-| [MM-05](MM-05/) · [MM-12](MM-12/) · [MM-15](MM-15/) · [MM-16B](MM-16B/) | Lucas |
+| MM-01 a MM-05, MM-09, MM-12, MM-14, MM-15 e MM-16 inteira | Victor |
+| MM-06, MM-08 e MM-11 | Isaac |
+| MM-07, MM-10, MM-13 e gerações de Santo pra Sempre | Eduardo |
 
-O MM-16 (conform do Lucas) não tem pasta própria: ele é montado a partir dos storyboards dos módulos 16A a 16D.
+Victor produz a MM-16 inteira, incluindo seleção ou criação das imagens, eventual gravação, edição, finalização e entrega direta à operação. A–D identificam referências de acervo. O filme independe de qualquer material a preparar, separar ou enviar pelos demais. Pastas de acervo: [A](MM-16A/), [B](MM-16B/), [C](MM-16C/), [D](MM-16D/).

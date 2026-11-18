@@ -1,5 +1,8 @@
 # Ajustes de produção — leitura integrada das Cenas 1 a 9
 
+**Distribuição vigente · 18/11/2026.** Victor assume toda a produção antes atribuída a Lucas e produz a MM-16 inteira, do roteiro à entrega. Ninguém fornece blocos nem compila materiais para o final. Victor também produz Quebrando as Correntes e Brilha Tua Luz. Eduardo produz Santo pra Sempre. Maravilhosa Graça de Julia Vitória (Cena 4, MM-08) segue com Isaac. [Guia definitivo por pessoa](../guias/cena-a-cena/quem-faz-as-musicas.md)
+
+
 **Recebimento:** 16/11/2026, por Victor. **Escopo executado:** incorporação documental, conferência de fontes e recuperação da conversa sobre MM16; sem editar mídia, regerar arte ou alterar o snapshot. O feedback é orientação recebida da produção, não comprovação de execução ou aprovação de uma versão audiovisual.
 
 Fonte preservada: [feedback original](fontes/feedback-producao-2026-11-16.md). Contexto recuperado: [Entender divisão MM16](contexto-MM16-2026-10-24.md). A cozinha foi confirmada por Victor **à direita da plateia**, com metade esquerda preta. Data da reunião e nomes dos autores do feedback não foram informados.

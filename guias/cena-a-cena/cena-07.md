@@ -2,7 +2,7 @@
 
 [Voltar ao guia](README.md) · Storyboard geral v03, pp. 90–93.
 
-**Quem prepara:** Lucas · base da MM-12 · Eduardo · imagem derivada da MM-13 · vídeo da música sem responsável confirmado
+**Quem prepara:** Victor · MM-12. Eduardo · referência da MM-13 e vídeo das gerações de Santo pra Sempre.
 
 O nascimento acontece num lugar simples. Mari conta o anúncio aos pastores. O momento de ver a multidão é diferente do momento em que começa a música sobre as gerações.
 
@@ -35,7 +35,7 @@ O nascimento acontece num lugar simples. Mari conta o anúncio aos pastores. O m
 ## Como preparar e passar adiante
 
 1. Separar a p. 90 e a p. 91 e simular a leitura das duas falas sobre os anjos. A troca ocorre na segunda.
-2. Para a música, a coordenação identifica pessoa responsável e quais imagens a integrante sugeriu. Decidir se elas entram apenas na passagem sobre os anjos ou se a proposta muda o vídeo inteiro.
+2. Eduardo apresenta as gerações à direção e identifica as páginas dos anjos sugeridos antes de testar uma inserção.
 
 ## A letra e as imagens
 

@@ -2,7 +2,7 @@
 
 [Voltar ao guia](README.md) · Storyboard geral v03, pp. 35–59.
 
-**Quem prepara:** Victor · MM-04 · Lucas · MM-05 · Isaac · MM-06 · Eduardo · MM-07
+**Quem prepara:** Victor · MM-04 e MM-05 · Isaac · MM-06 · Eduardo · MM-07
 
 Mari conta de onde veio o pecado e por que Jesus veio ao mundo. A cena alterna a conversa à mesa, a dança da criação, a queda, a história contada de trás para frente e o número de Belém.
 
@@ -24,7 +24,7 @@ Mari conta de onde veio o pecado e por que Jesus veio ao mundo. A cena alterna a
 
 - **No palco.** O diálogo volta à mesa, depois Mari explica a escolha de viver longe de Deus.
 - **No telão.** Passar à queda MM-05. Usar a sequência V03 aprovada, do jardim luminoso à consequência do fruto. Combinar em qual fala sai a cozinha.
-- **Para executar.** Lucas recebe de Victor o jardim de referência e a deixa de reentrada. O visual pesado pertence à queda.
+- **Para executar.** Victor reutiliza o jardim de referência e a deixa de reentrada. O visual pesado pertence à queda.
 
 ### 4. Religiosidade responde “Enviando alguém pra nos salvar”
 
@@ -40,7 +40,7 @@ Mari conta de onde veio o pecado e por que Jesus veio ao mundo. A cena alterna a
 
 ## Como preparar e passar adiante
 
-1. Victor e Lucas colocam lado a lado o retorno da cozinha e o primeiro quadro da queda. Escrevem a frase em que a tela troca e entregam essa indicação a quem opera.
+1. Victor coloca lado a lado o retorno da cozinha e o primeiro quadro da queda. Escrevem a frase em que a tela troca e entregam essa indicação a quem opera.
 2. Isaac entrega a Eduardo o último quadro do bebê. Eduardo apresenta a imagem de estrelas que o sucederia. A produção vê ambos juntos e escolhe se o céu ocupará o número inteiro ou se haverá algum retorno narrativo.
 
 ## A letra e as imagens

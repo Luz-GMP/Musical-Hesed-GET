@@ -1,5 +1,8 @@
 # Alinhamento das fontes e decisões · HESED
 
+**Distribuição vigente · 18/11/2026.** Victor assume toda a produção antes atribuída a Lucas e produz a MM-16 inteira, do roteiro à entrega. Ninguém fornece blocos nem compila materiais para o final. Victor também produz Quebrando as Correntes e Brilha Tua Luz. Eduardo produz Santo pra Sempre. Maravilhosa Graça de Julia Vitória (Cena 4, MM-08) segue com Isaac. [Guia definitivo por pessoa](../guias/cena-a-cena/quem-faz-as-musicas.md)
+
+
 ## Complemento de16/11/2026
 
 [Feedback recebido da produção](fontes/feedback-producao-2026-11-16.md), [plano conciliado](plano-ajustes-2026-11-16.md) e decisões D-52–D-57 acrescentam orientações posteriores. A cozinha à direita foi confirmada diretamente por Victor; a proposta MM16 recuperada permanece proposta. A abertura interna MM01 é conteúdo de vídeo aprovado posteriormente, sem alterar a restrição de cenário físico da Bíblia. O feedback de16/11 não é a transcrição original da reunião da Bíblia (P-14). As divergências anteriores abaixo permanecem como histórico e pontos ainda não resolvidos por esses registros.

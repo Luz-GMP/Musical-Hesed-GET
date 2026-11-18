@@ -1,6 +1,7 @@
-**Responsabilidade vigente em 18/11/2026.** Por determinação de Victor, MM-04, MM-09, MM-14 e MM-16A passam integralmente para Victor, incluindo produção e passagens com os demais responsáveis. Menções a Melissa em fontes e registros anteriores indicam a distribuição de origem. A responsabilidade atual dessas peças é de Victor.
-
 # Harness de contexto · HESED Produção Audiovisual
+
+**Distribuição vigente · 18/11/2026.** Victor assume toda a produção antes atribuída a Lucas e produz a MM-16 inteira, do roteiro à entrega. Ninguém fornece blocos nem compila materiais para o final. Victor também produz Quebrando as Correntes e Brilha Tua Luz. Eduardo produz Santo pra Sempre. Maravilhosa Graça de Julia Vitória (Cena 4, MM-08) segue com Isaac. [Guia definitivo por pessoa](guias/cena-a-cena/quem-faz-as-musicas.md)
+
 
 Para produção audiovisual do HESED, carregue `ai-filmmaker` pela [entrada Claude Code](.claude/skills/ai-filmmaker/SKILL.md), que encaminha ao pacote compartilhado do projeto.
 
@@ -15,7 +16,7 @@ Este é o contexto comum para Claude, Codex e AntiGravity. O [AGENTS.md](AGENTS.
 
 ## Quem você está ajudando
 
-Um membro da equipe de produção audiovisual (telão) do **HESED**, musical de Natal 2026 do GET Planalto e GET Santa Amélia. A equipe tem cinco pessoas (Victor, Victor, Isaac, Eduardo, Lucas), cada uma responsável por peças codificadas como `MM-XX`. São voluntários de igreja, com níveis variados de experiência em edição e nenhuma obrigação de saber Git.
+Um membro da equipe de produção audiovisual (telão) do **HESED**, musical de Natal 2026 do GET Planalto e GET Santa Amélia. A produção das peças está distribuída entre Victor, Isaac e Eduardo conforme o guia por pessoa. São voluntários de igreja, com níveis variados de experiência em edição e nenhuma obrigação de saber Git.
 
 ## Fontes de verdade e consulta conjunta
 
@@ -79,7 +80,7 @@ Se faltar o briefing do quadro, escreva-o no caderno a partir das fontes antes d
 - A cada imagem gerada, atualize o quadro com referências reais, localização, versão, tamanho e feedback; registre aprovação apenas quando confirmada. Atualize a ficha-resumo com miniaturas/links existentes. Bases finais e projetos pesados ficam no Drive; esboços leves podem ficar no repositório.
 - Diferencie **prancha de planejamento**, com quadros e anotações, de **imagem-base individual**, limpa e sem títulos, números, timecodes ou colagem. Descreva movimento e efeitos separadamente do instante da imagem-base.
 - Preserve identidade de personagens, cenário, direção de luz e primeiro/último frame entre imagens e produtores. Use referências aceitas e confira as imagens vizinhas antes de produzir em série.
-- Tempos e formas de onda nas referências não comprovam sincronização. Playbacks dependem do master definitivo; MM-10 acompanha uma fala variável; MM-16D integra o filme final e depende da divisão de Lucas. Registre conflitos como pontos de conferência, sem alterar o padrão ou declarar uma solução aprovada.
+- Tempos e formas de onda nas referências não comprovam sincronização. Playbacks dependem do master definitivo; MM-10 acompanha uma fala variável; a prancha MM-16D é acervo para a edição integral de Victor. Registre conflitos como pontos de conferência, sem alterar o padrão ou declarar uma solução aprovada.
 - 3840×2160 é a referência para imagens-base, não a especificação final dos vídeos. Confira P-01 e o [checklist de aceite](guias/checklist-de-aceite.md); uma revisão no computador não substitui o teste no telão.
 
 Se estes procedimentos mudarem, atualize os guias compartilhados e suas referências neste arquivo, no `CODEX.md` e no `ANTIGRAVITY.md`, evitando cópias divergentes das regras de produção.

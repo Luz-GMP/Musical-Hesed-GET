@@ -1,5 +1,8 @@
 # Briefing Definitivo de Produção Audiovisual (v1.0)
 
+**Distribuição vigente · 18/11/2026.** Victor assume toda a produção antes atribuída a Lucas e produz a MM-16 inteira, do roteiro à entrega. Ninguém fornece blocos nem compila materiais para o final. Victor também produz Quebrando as Correntes e Brilha Tua Luz. Eduardo produz Santo pra Sempre. Maravilhosa Graça de Julia Vitória (Cena 4, MM-08) segue com Isaac. [Guia definitivo por pessoa](../guias/cena-a-cena/quem-faz-as-musicas.md)
+
+
 > Conversão em Markdown de `fontes/HESED_Briefing_Definitivo_Producao_Audiovisual_v1_0.docx`. Em caso de divergência, o .docx original vale. Este arquivo não deve ser editado: mudanças de escopo entram em `docs/decisoes.md`.
 
 **HESED**
@@ -28,11 +31,9 @@ A estrutura do espetáculo utilizada para a distribuição é: **Bloco I – cen
 
 | **Responsável** | **Presença no roteiro** | **Entregas** | **Perfil de execução** |
 | --- | --- | --- | --- |
-| **Victor** | Bloco I – Cenas 1 e 2 | MM-01, MM-02, MM-03 | Parte introdutória / recap. Briefing detalhado reservado. |
-| **Victor** | Blocos II, III e IV | MM-04, MM-09, MM-14, MM-16A | Ambientação, loops, montagem curta e módulo simples do filme final. |
-| **Isaac** | Blocos II, III e IV | MM-06, MM-08, MM-11, MM-16C | Montagem narrativa, arquivo de Goel, playback musical e módulo do filme final. |
-| **Eduardo** | Blocos II, III e IV | MM-07, MM-10, MM-13, MM-16D | Playback musical, animação conceitual, sequência celestial e fechamento do filme final. |
-| **Lucas** | Blocos II, III e IV | MM-05, MM-12, MM-15, MM-16B + conform MM-16 | Transformação visual, sequência narrativa, montagem e masterização do filme final. |
+| **Victor** | Cenas 1–9 | MM-01 a MM-05, MM-09, MM-12, MM-14, MM-15, MM-16, Correntes e Brilha Tua Luz | Produção integral das próprias peças e do filme final. |
+| **Isaac** | Cenas 3–5 | MM-06, MM-08, MM-11 | Regressão, Páscoa de Julia Vitória e mundinho. |
+| **Eduardo** | Cenas 3, 5 e 7 | MM-07, MM-10, MM-13 e Santo pra Sempre | Estrelas, universo, noite dos pastores e gerações. |
 
 3. Linguagem audiovisual comum
 
@@ -85,12 +86,12 @@ Regra de leitura: se a música cresce, o visual cresce; se a música respira, o 
 | --- | --- | --- | --- |
 | **Cena 1 – Pós-libertação** | Victor | MM-01 Exterior/entrada da prisão; MM-02 Flashback de Goel | Abertura + congelamento da discussão |
 | **Cena 2 – Transição/casa** | Victor | MM-03 Sala da casa | Após transição |
-| **Cena 3 – Princípio, queda e redenção** | Victor / Lucas / Isaac / Eduardo | MM-04, MM-05, MM-06, MM-07 | Criação → queda → retorno temporal → Nasceu em Belém |
+| **Cena 3 – Princípio, queda e redenção** | Victor / Isaac / Eduardo | MM-04, MM-05, MM-06, MM-07 | Criação → queda → retorno temporal → Nasceu em Belém |
 | **Cena 4 – O plano/graça** | Isaac | MM-08 Maravilhosa Graça / Goel | Definição de graça + canção |
 | **Cena 5 – Jesus, a luz do mundo** | Victor / Eduardo / Isaac | MM-09, MM-10, MM-11 | Profetas → Cristo eterno → Luz do Mundo |
-| **Cenas 6–7 – Viagem e nascimento** | Lucas / Eduardo | MM-12, MM-13 | Viagem/Belém/estábulo → noite/estrela/pastores/anjos |
-| **Cena 8 – Resumo / nova vida** | Victor / Lucas | MM-14, MM-15 | Pecados → vida e atos de Jesus |
-| **Cena 9 – Graça/final** | Victor / Lucas / Isaac / Eduardo | MM-16A/B/C/D + conform | Filme final antes e durante Maravilhosa Graça |
+| **Cenas 6–7 – Viagem e nascimento** | Victor / Eduardo | MM-12, MM-13 | Viagem/Belém/estábulo → noite/estrela/pastores/anjos |
+| **Cena 8 – Resumo / nova vida** | Victor | MM-14, MM-15 | Pecados → vida e atos de Jesus |
+| **Cena 9 – Graça/final** | Victor | MM-16 inteira | Filme único de Maravilhosa Graça, de Samuel Mizrahy. |
 
 7. Victor
 
@@ -116,7 +117,7 @@ MM-04 — Criação perfeita — vídeo/loop
 
 **Resultado esperado: **O público deve sentir plenitude e harmonia. A luminosidade precisa oferecer contraste suficiente para que o MM-05 possa “corromper” esse universo na queda.
 
-**Integrações / dependências: **Alinhar a paleta e a imagem-base com Lucas, responsável pelo MM-05.
+**Integrações / dependências: **Alinhar a paleta e a imagem-base com Victor, responsável pelo MM-05.
 
 MM-09 — Profetas — loop
 
@@ -148,23 +149,9 @@ MM-14 — Resumo dos pecados — montagem curta
 
 **Resultado esperado: **Comunicar “aprisionamento” sem precisar ilustrar cada pecado de modo literal ou prolongado.
 
-**Integrações / dependências: **O MM-14 deve contrastar com o MM-15 de Lucas: aprisionamento → restauração.
+**Integrações / dependências: **O MM-14 deve contrastar com o MM-15 de Victor: aprisionamento → restauração.
 
-MM-16A — Filme final — Cegueira → visão
 
-| **Cena / bloco** | Cena 9 — Bloco IV |
-| --- | --- |
-| **Entrada / disparo** | Abertura do filme final da graça, antes e durante Maravilhosa Graça. |
-| **Responsável** | Victor |
-| **Tipo de entrega** | Filme final — Cegueira → visão |
-
-**Objetivo: **Abrir o filme final com a ideia de revelação: não enxergava → passa a enxergar.
-
-**Execução sugerida: **Construir uma transformação simples e legível: sombra/escuro ou venda → entrada de luz → retirada da barreira → percepção/foco. Pode ser literal ou simbólica.
-
-**Resultado esperado: **Trecho curto, limpo e facilmente integrável aos outros módulos do MM-16.
-
-**Integrações / dependências: **Entregar a Lucas, que fará o conform/master do filme final.
 
 9. Isaac
 
@@ -214,21 +201,7 @@ MM-11 — Luz do Mundo — playback visual
 
 **Integrações / dependências: **Não competir com bailarinos e elenco; reservar as maiores mudanças para momentos musicais realmente relevantes.
 
-MM-16C — Filme final — Nascimento → vida
 
-| **Cena / bloco** | Cena 9 — Bloco IV |
-| --- | --- |
-| **Entrada / disparo** | Terceiro módulo do MM-16. |
-| **Responsável** | Isaac |
-| **Tipo de entrega** | Filme final — Nascimento → vida |
-
-**Objetivo: **Conectar o nascimento à entrada de Jesus na história humana.
-
-**Execução sugerida: **Construir a progressão manjedoura → crescimento → caminhada/vida → presença entre pessoas. Não avançar até a morte/ressurreição, pois esse fechamento pertence ao módulo de Eduardo.
-
-**Resultado esperado: **Um trecho narrativo contínuo, com linguagem compatível com os demais módulos do filme final.
-
-**Integrações / dependências: **Entregar a Lucas para conform/master.
 
 10. Eduardo
 
@@ -278,30 +251,16 @@ MM-13 — Noite, estrela, pastores e anjos — sequência
 
 **Integrações / dependências: **A posição musical exata entre Ó Noite Santa e Santo pra Sempre deve seguir o roteiro técnico/audio master fechado, pois os documentos-base ainda apresentam indicações em pontos diferentes.
 
-MM-16D — Filme final — Morte → ressurreição
 
-| **Cena / bloco** | Cena 9 — Bloco IV |
-| --- | --- |
-| **Entrada / disparo** | Quarto e último módulo narrativo do MM-16. |
-| **Responsável** | Eduardo |
-| **Tipo de entrega** | Filme final — Morte → ressurreição |
 
-**Objetivo: **Concluir o arco do filme final e lançar o espetáculo para o clímax da graça.
-
-**Execução sugerida: **Trabalhar morte → silêncio/escuridão → ressurreição → luz. Pode comunicar por símbolos: cruz/silhueta, céu escurecendo, túmulo/pedra, pausa visual, abertura e expansão luminosa. Construir o maior crescimento do filme neste trecho.
-
-**Resultado esperado: **Final visual forte, luminoso e aberto, pronto para o clímax de Maravilhosa Graça e para os efeitos de palco.
-
-**Integrações / dependências: **Entregar a Lucas com margem visual suficiente para a passagem ao acendimento final.
-
-11. Lucas
+11. Victor
 
 MM-05 — Queda — silhuetas de luz
 
 | **Cena / bloco** | Cena 3 — Bloco II |
 | --- | --- |
 | **Entrada / disparo** | Quando a narrativa chega à escolha humana de viver longe de Deus. |
-| **Responsável** | Lucas |
+| **Responsável** | Victor |
 | **Tipo de entrega** | Queda — silhuetas de luz |
 
 **Objetivo: **Transformar o mundo perfeito em um ambiente de ruptura, perda e peso.
@@ -317,7 +276,7 @@ MM-12 — Viagem, cidade e estábulo — sequência
 | **Cena / bloco** | Cenas 6 e 7 — Bloco III |
 | --- | --- |
 | **Entrada / disparo** | Durante o recenseamento, viagem de Maria e José, chegada a Belém e ausência de hospedagem. |
-| **Responsável** | Lucas |
+| **Responsável** | Victor |
 | **Tipo de entrega** | Viagem, cidade e estábulo — sequência |
 
 **Objetivo: **Acompanhar a narrativa espacial sem competir com as falas e com a montagem física do presépio.
@@ -333,7 +292,7 @@ MM-15 — Vida e atos de Jesus — montagem
 | **Cena / bloco** | Cena 8 — Bloco IV |
 | --- | --- |
 | **Entrada / disparo** | Durante a recapitulação de que Jesus curou, ensinou, perdoou e amou pessoas rejeitadas. |
-| **Responsável** | Lucas |
+| **Responsável** | Victor |
 | **Tipo de entrega** | Vida e atos de Jesus — montagem |
 
 **Objetivo: **Contrastar a condição de aprisionamento do MM-14 com restauração, acolhimento e vida.
@@ -344,29 +303,9 @@ MM-15 — Vida e atos de Jesus — montagem
 
 **Integrações / dependências: **Alinhar ritmo e tratamento de cor com Victor.
 
-MM-16B — Filme final — Prisão → liberdade
+MM-16 — Maravilhosa Graça de Samuel Mizrahy
 
-| **Cena / bloco** | Cena 9 — Bloco IV |
-| --- | --- |
-| **Entrada / disparo** | Segundo módulo do MM-16. |
-| **Responsável** | Lucas |
-| **Tipo de entrega** | Filme final — Prisão → liberdade |
-
-**Objetivo: **Retomar visualmente o eixo central de Goel/HESED: aprisionamento → liberdade.
-
-**Execução sugerida: **Pode usar prisão literal ou simbólica: sombras, barras, espaço fechado, silhueta enclausurada → abertura → espaço amplo → luz. O essencial é a transformação legível.
-
-**Resultado esperado: **Trecho curto, emocional e coerente com o módulo anterior de cegueira → visão e com o seguinte, nascimento → vida.
-
-**Integrações / dependências: **Será integrado por Lucas no próprio conform final.
-
-MM-16 — Conform e master do filme final
-
-**Responsável final: **Lucas.
-
-Lucas receberá os quatro módulos e fará a integração definitiva na ordem: **Victor — cegueira → visão | Lucas — prisão → liberdade | Isaac — nascimento → vida | Eduardo — morte → ressurreição.**
-
-O conform deverá uniformizar resolução, frame rate, cor, contraste, velocidade das transições, intensidade dos efeitos, entradas/saídas e sincronização com a música. O público não deve perceber quatro peças justapostas, mas um único filme.
+Victor produz a MM-16 inteira, incluindo seleção ou criação das imagens, eventual gravação, edição, finalização e entrega direta à operação. A–D identificam referências de acervo. O filme independe de qualquer material a preparar, separar ou enviar pelos demais.
 
 12. Fluxo de trabalho e aprovação
 
@@ -422,7 +361,7 @@ A resolução, frame rate e codec finais dos vídeos devem ser congelados junto 
 
 ☐ O nascimento cresce visualmente da simplicidade para a glória?
 
-☐ O filme final parece uma única obra, e não quatro módulos separados?
+☐ O filme de Victor conduz a parte falada e chega ao último refrão junto com a luz?
 
 ☐ O arquivo final e o editável estão identificados e armazenados corretamente?
 
@@ -432,12 +371,12 @@ A resolução, frame rate e codec finais dos vídeos devem ser congelados junto 
 
 | **Integração** | **Regra** |
 | --- | --- |
-| **Victor → Lucas** | MM-04 entrega a base visual de criação para MM-05 construir a queda. |
+| **Victor** | Usa a mesma base do jardim na criação e na queda. |
 | **Isaac → Eduardo** | MM-06 termina no bebê e deve encaixar diretamente em MM-07 Nasceu em Belém. |
 | **Victor → Eduardo → Isaac** | MM-09 profetas → MM-10 universo/criação → MM-11 Luz do Mundo devem formar uma progressão contínua. |
-| **Lucas → Eduardo** | MM-12 viagem/estábulo precisa entregar naturalmente o espaço ao MM-13 nascimento/anjos. |
-| **Victor → Lucas** | MM-14 pecados e MM-15 atos de Jesus formam um contraste deliberado: aprisionamento → restauração. |
-| **Todos → Lucas** | MM-16A/B/C/D precisam chegar com material de boa qualidade e margem de transição para o conform final. |
+| **Eduardo → Victor** | Último céu da MM-13 para o primeiro caminho da MM-12. |
+| **Victor** | Sustenta a panorâmica vazia enquanto as seis ações ocorrem no palco, depois monta os atos de Jesus e Brilha Tua Luz. |
+| **Victor → operação** | Entrega o filme final completo e combina a deixa das luzes de Natal. |
 
 **HESED — “Ele nasceu, e isso muda tudo.”**
 

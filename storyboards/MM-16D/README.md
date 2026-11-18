@@ -1,12 +1,15 @@
 # Storyboard · MM-16D · Filme final: morte → ressurreição
 
+**Distribuição vigente · 18/11/2026.** Victor assume toda a produção antes atribuída a Lucas e produz a MM-16 inteira, do roteiro à entrega. Ninguém fornece blocos nem compila materiais para o final. Victor também produz Quebrando as Correntes e Brilha Tua Luz. Eduardo produz Santo pra Sempre. Maravilhosa Graça de Julia Vitória (Cena 4, MM-08) segue com Isaac. [Guia definitivo por pessoa](../../guias/cena-a-cena/quem-faz-as-musicas.md)
+
+
 | | |
 | --- | --- |
-| **Responsável** | Eduardo |
+| **Produção do filme** | Victor |
 | **Cena** | 9 |
-| **Recebe de** | MM-16C (Isaac) |
-| **Entrega para** | MM-16 (Lucas) |
-| **Gatilho e música** | ver [mapa de cenas](../../docs/mapa-de-cenas.md) e [sua página](../../equipe/eduardo.md) |
+| **Uso desta pasta** | Referência visual já existente |
+| **Entrega** | Um filme completo de Victor para a operação |
+| **Guia** | [Guia definitivo por pessoa](../../guias/cena-a-cena/quem-faz-as-musicas.md) |
 | **Pasta no Drive** | _a definir (P-13)_ |
 
 Como preencher: [storyboards/README.md](../README.md).

@@ -1,11 +1,11 @@
 # Eduardo
 
-**Perfil do conjunto:** playback musical, animação conceitual, sequência celestial e fechamento do filme final.
-**Blocos:** II, III e IV · **Peças:** MM-07, MM-10, MM-13, MM-16D
+1. **Cena 3 · MM-07, Nasceu em Belém.** Receba o último bebê de Isaac e apresente a primeira imagem do céu. Teste a continuidade das estrelas e a leitura sob luz laranja e azul. As duas prévias rejeitadas ficam no histórico.
+2. **Cena 5 · MM-10.** Receba de Victor a saída da visão dos profetas. Leve o olhar do universo até a luz e mostre o último quadro a Isaac, que entra com o mundinho.
+3. **Cena 5 · MM-13, Ó Noite Santa.** Separe campo, estrela e pastores. Compare Q01 → Q02 → Q03 → Q02 com o início do caminho da MM-12 de Victor. A luz deve permitir a leitura do figurino roxo escuro.
+4. **Cena 7 · Santo pra Sempre.** Prepare o vídeo das gerações que louvam. Mostre primeiro quem esperou, quem louva hoje e as gerações reunidas. A direção escolhe sobre essa sequência e avalia a sugestão de uma inserção de anjos. A luz será definida depois. Ao fim, a operação volta à cozinha.
 
-**Costuras:** recebe o bebê de Isaac (MM-06) · recebe os profetas de Victor (MM-09) · entrega o universo para Isaac (MM-11) · recebe o estábulo de Lucas (MM-12) · entrega o 16D para Lucas (conform).
-
----
+**Primeira entrega prática:** as três imagens de Ó Noite Santa na ordem proposta. Já existem no acervo e permitem revisar a passagem à viagem.
 
 ## MM-07 · Nasceu em Belém (playback visual)
 
@@ -55,31 +55,18 @@
 | --- | --- |
 | **Cena** | 7 · Bloco III |
 | **Gatilho** | Nascimento e anúncio aos pastores |
-| **Música** | Santo pra Sempre e/ou Ó Noite Santa (P-07) |
+| **Música** | Ó Noite Santa · Cena 5 |
 
 **Objetivo:** crescer da intimidade do nascimento à glória celestial.
 
 **Execução:** uma base noturna que evolui: noite calma → estrela → campo → pastores → anúncio → céu se abrindo → anjos. Enriquecer a mesma paisagem em vez de trocar cenário.
 
-**Nota do roteiro:** Ó Noite Santa toca no fim da Cena 5, antes da viagem (Cena 6). Santo pra Sempre fecha a Cena 7. A posição exata depende do roteiro técnico (P-07).
+**Nota do roteiro:** Ó Noite Santa toca no fim da Cena 5, antes da viagem (Cena 6). Santo pra Sempre fecha a Cena 7. Eduardo prepara o vídeo das gerações separado da MM-13.
 
 - [ ] Resolver P-07
-- [ ] Receber estábulo/noite do MM-12 (Lucas)
+- [ ] Entregar o último céu a Victor para a MM-12
 - [ ] Alpha
 - [ ] Teste no telão
 - [ ] Final + editável + backup
 
-## MM-16D · Filme final: morte → ressurreição
-
-| | |
-| --- | --- |
-| **Cena** | 9 · Bloco IV · último módulo |
-| **Vizinho anterior** | 16C nascimento → vida (Isaac) |
-
-**Objetivo:** concluir o arco do filme final e lançar o espetáculo para o clímax da graça.
-
-**Execução:** morte → silêncio/escuridão → ressurreição → luz. Símbolos: cruz/silhueta, céu escurecendo, túmulo/pedra, pausa, abertura e expansão luminosa. **O maior crescimento do filme está aqui.** Final pronto para o clímax da música e os efeitos de palco.
-
-- [ ] Saber duração (P-06) e se usa atrizes (P-05)
-- [ ] Alpha
-- [ ] Entregar a Lucas com margem para o acendimento final
+[Guia definitivo por pessoa](../guias/cena-a-cena/quem-faz-as-musicas.md)

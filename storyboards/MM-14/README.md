@@ -13,7 +13,7 @@
 | Controle | Fala variável; sem música própria, segundos ou forma de onda |
 | Entrada proposta | “Cada uma de nós estava vivendo a sua vida da forma que queria”; ênfase em “nos atolamos em nossos pecados e nos aprisionamos” |
 | Recebe de | Frame/fornecedor de entrada não recebido; casa MM-03/V03 é referência ambiental. Retornos/cues seguem P-15 |
-| Entrega para | MM-15/Lucas: contraste aprisionamento → restauração, ritmo e tratamento de cor |
+| Entrega para | MM-15/Victor: contraste aprisionamento → restauração, ritmo e tratamento de cor |
 | Saída | “Ele curou, ensinou e perdoou as pessoas” |
 | Situação | Direção da prancha v04 aprovada (D-51); seis bases individuais para revisão; alpha e teste LED pendentes |
 
@@ -54,7 +54,7 @@ Não prolongar a fala para acomodar seis quadros. A duração e os cortes serão
 - **Elementos:** casa V03, duas portas à esquerda, aparador central e copa à direita; relógio/bandejinha sobre renda/menorá preservados. Sem mesa ou sofá novos no LED. Salmo 91 e menorá são continuidade doméstica, sem associação à culpa.
 - **Personagens desfocadas:** retrato 1 = Ladra ruiva; retrato 2 = Religiosidade de cabelos longos escuros; retrato 3 = Autossuficiência loira. Referências de identidade preservadas sob desfoque de rosto/cabelo/corpo/mãos/roupas/pés; roupas escuras, biotipo e altura conforme imagem coletiva. O reconhecimento facial detalhado deixa de ser prioridade nesta revisão. Sem cenário prisional ou contenção. A conversa atual permanece no palco; os quadros representam a condição anterior recapitulada, sem filmagem de elenco realizada.
 - **Movimento/efeitos:** aproximações leves, cortes simples e máscaras de sombra; animação e loop final ainda não executados ou testados.
-- **Costura:** alinhar com Lucas o último estado, cor e velocidade antes da produção de MM-15; primeiro frame de MM-15 não fornecido.
+- **Costura:** alinhar com Victor o último estado, cor e velocidade antes da produção de MM-15; primeiro frame de MM-15 não fornecido.
 
 ## Registro e revisão
 
@@ -62,7 +62,7 @@ Editada por `image_gen.imagegen` usando a prancha v03 local como referência ún
 
 Inspeção pelo Codex: pessoas inteiras desfocadas nos seis quadros, inclusive figuras parciais, mãos e botas; casa, objetos e textos com foco preservado. Poses, distanciamento, roupas escuras, seis IDs e gradação de luz mantidos, sem algemas/correntes. Pequenas variações gerativas de fundo/texto não equivalem a preservação pixel a pixel. Intensidade artística do desfoque segue para revisão; leitura em escala real depende de ensaio. Não houve animação ou teste de telão.
 
-Bases individuais produzidas conforme D-51 acima; sem alpha, envio ao Drive ou teste LED. P-01/P-13/P-15 continuam abertas. Avisar Victor e Lucas sobre a nova proposta para alinhar a passagem; nenhuma mensagem enviada pelo assistente.
+Bases individuais produzidas conforme D-51 acima; sem alpha, envio ao Drive ou teste LED. P-01/P-13/P-15 continuam abertas. Avisar Victor sobre a nova proposta para alinhar a passagem; nenhuma mensagem enviada pelo assistente.
 
 ## Histórico
 

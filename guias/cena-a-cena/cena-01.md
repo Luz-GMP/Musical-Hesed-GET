@@ -2,7 +2,7 @@
 
 [Voltar ao guia](README.md) · Storyboard geral v03, pp. 3–33.
 
-**Quem prepara:** Victor · MM-01 e MM-02
+**Quem prepara:** Victor · MM-01, MM-02 e Quebrando as Correntes
 
 As detentas acabaram de ser libertas e ainda tentam entender quem pagou a dívida. O público vê primeiro a prisão, depois Jesus saindo e, só no meio da discussão, a lembrança da Páscoa.
 

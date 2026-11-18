@@ -23,7 +23,7 @@ HESED_Telão/
 │   └── emergencia/       still de emergência
 ├── MM-02_Victor/
 ├── ...
-├── MM-16_Conform_Lucas/
+├── MM-16_Filme_Victor/
 └── 99_Operação/          pasta final que vai para o computador do telão
 ```
 
@@ -78,7 +78,7 @@ Exemplos:
 HESED_C03_MM-06_retorno-temporal_v01.mp4
 HESED_C03_MM-06_loop-bebe_v01.mp4
 HESED_C05_MM-11_luz-do-mundo_v03.mp4
-HESED_C09_MM-16C_nascimento-vida_v02.mp4
+HESED_C09_MM-16_filme_v02.mp4
 HESED_C03_criacao-base_3840x2160_v01.png
 ```
 

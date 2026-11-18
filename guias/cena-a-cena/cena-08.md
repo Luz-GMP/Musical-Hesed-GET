@@ -2,7 +2,7 @@
 
 [Voltar ao guia](README.md) · Storyboard geral v03, pp. 94–102.
 
-**Quem prepara:** Victor · MM-14 · Lucas · MM-15 · vídeo de Brilha Tua Luz sem responsável confirmado
+**Quem prepara:** Victor · MM-14, MM-15 e Brilha Tua Luz.
 
 As detentas contam a própria história de novo, agora entendendo a liberdade que receberam. As ações antigas voltam no palco. Depois a tela lembra o nascimento e mostra como Jesus tratava as pessoas.
 
@@ -18,13 +18,13 @@ As detentas contam a própria história de novo, agora entendendo a liberdade qu
 
 - **No palco.** O olhar das detentas acompanha a lembrança.
 - **No telão.** Retomar uma imagem de nascimento que o público já viu. MM07-Q07 é candidata. Se na Cena 3 ficar apenas céu estrelado, conferir onde o bebê realmente apareceu, por exemplo no fim da MM-06.
-- **Para executar.** Victor e Lucas devem conferir a origem antes de dizer que é uma repetição.
+- **Para executar.** Victor deve conferir a origem antes de dizer que é uma repetição.
 
 ### 3. “Ele curou, ensinou e perdoou as pessoas.”
 
 - **No palco.** A fala da Religiosidade conduz a sequência. Ladra pergunta se o amor alcança gente como ela.
 - **No telão.** MM15-Q01 cura → Q02 ensino → Q03 perdão → Q04 acolhimento. Segurar Q04 durante a pergunta da Ladra. Os quatro quadros estão em revisão.
-- **Para executar.** Lucas recebe a imagem do bebê e sai dos atos quando a conversa volta a tratar da liberdade delas.
+- **Para executar.** Victor recebe a imagem do bebê e sai dos atos quando a conversa volta a tratar da liberdade delas.
 
 ### 4. “Ele já nos libertou!” e, depois, a fala de todas
 
@@ -36,11 +36,11 @@ As detentas contam a própria história de novo, agora entendendo a liberdade qu
 
 - **No palco.** Elenco canta ou dança conforme marcação da produção. Depois fecha a cortina para retirar o cenário e trocar a roupa.
 - **No telão.** O número pede vídeo próprio. A frase com o bebê encerra a fala anterior. A Bíblia registra pequenas luzes portáteis como ideia a testar.
-- **Para executar.** Ver a proposta baseada na letra antes de definir o vídeo. Ainda faltam conceito aprovado e responsável.
+- **Para executar.** Victor apresenta as três miniaturas antes de montar a música. O conceito aguarda revisão.
 
 ## Como preparar e passar adiante
 
-1. Victor entrega a Lucas a panorâmica vazia e a referência do nascimento. Lucas devolve a última imagem de acolhimento para que a equipe possa testar o retorno à sala e a frase.
+1. Victor confere em sequência a panorâmica, o nascimento já visto, o acolhimento e a frase com o bebê.
 2. Mostrar à direção três imagens em sequência: nascimento já visto, quadro de acolhimento, frase com bebê. Em separado, apresentar um estudo simples para Brilha Tua Luz.
 
 ## A letra e as imagens

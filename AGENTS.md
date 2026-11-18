@@ -1,6 +1,7 @@
-**Responsabilidade vigente em 18/11/2026.** Por determinação de Victor, MM-04, MM-09, MM-14 e MM-16A passam integralmente para Victor, incluindo produção e passagens com os demais responsáveis. Menções a Melissa em fontes e registros anteriores indicam a distribuição de origem. A responsabilidade atual dessas peças é de Victor.
-
 # AGENTS.md
+
+**Distribuição vigente · 18/11/2026.** Victor assume toda a produção antes atribuída a Lucas e produz a MM-16 inteira, do roteiro à entrega. Ninguém fornece blocos nem compila materiais para o final. Victor também produz Quebrando as Correntes e Brilha Tua Luz. Eduardo produz Santo pra Sempre. Maravilhosa Graça de Julia Vitória (Cena 4, MM-08) segue com Isaac. [Guia definitivo por pessoa](guias/cena-a-cena/quem-faz-as-musicas.md)
+
 
 ## Atualização conciliada em 16/11/2026
 
@@ -17,7 +18,7 @@ Se você é o AntiGravity, leia também [ANTIGRAVITY.md](ANTIGRAVITY.md) antes d
 
 Antes de criar ou editar qualquer imagem do HESED, inclusive estudos, referências geradas, pranchas e bases definitivas, leia o [guia canônico de construção](storyboards/guia-de-construcao.md) e o briefing da peça/quadro no [caderno canônico de quadros](storyboards/briefings-dos-quadros.md). Siga o procedimento de consulta e registro do guia; não gere apenas a partir da mensagem do chat ou de memória. Se o quadro ainda não tiver briefing, registre-o com base nos documentos do projeto antes de gerar. Essa regra vale para todos os assistentes e ferramentas de imagem usados neste repositório.
 
-Classifique a função visual e separe ação no palco de conteúdo no telão antes de incluir pessoas na imagem. Siga a seção **“Ambientação, personagens e alcance da criação”** do guia: MM-03 é ambientação da casa sem pessoas; MM-14 é montagem curta e simbólica dos pecados, sem ilustrar cada pecado de forma literal ou prolongada. O padrão das pranchas não amplia o escopo definido pelo roteiro e pelo briefing.
+Classifique a função visual e separe ação no palco de conteúdo no telão antes de incluir pessoas na imagem. Siga a seção **“Ambientação, personagens e alcance da criação”** do guia: MM-03 é ambientação da casa sem pessoas; MM-14 sustenta a panorâmica vazia da casa noturna iluminada enquanto as atrizes encenam as seis ações. O padrão das pranchas não amplia o escopo definido pelo roteiro e pelo briefing.
 
 ## Consulta obrigatória de direção e fontes
 

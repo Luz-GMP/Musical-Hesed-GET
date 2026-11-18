@@ -4,7 +4,7 @@
 
 | Campo | Definição |
 | --- | --- |
-| Responsável | Lucas |
+| Responsável | Victor |
 | Cena / bloco | 6–7 · Bloco III |
 | Objetivo | Tornar legível a viagem até o abrigo simples, apoiando falas e montagem física do presépio. |
 | Entrada | Religiosidade: “Naquela época, foi decretado que todo mundo precisava voltar pra sua cidade de origem por causa de um recenseamento.” |
@@ -92,8 +92,9 @@ Dissoluções, aproximação lenta só na entrada e variação ambiental cíclic
 
 ## Fontes e registro
 
-Consultados: [guia](../guia-de-construcao.md), [caderno](../briefings-dos-quadros.md#mm-12--viagem-cidade-e-estábulo), [briefing MM-12](../../docs/briefing.md), [roteiro Cenas 6–7](../../docs/roteiro.md#cena-6-a-gravidez), [mapa](../../docs/mapa-de-cenas.md), [dependências](../../docs/dependencias.md), [Lucas](../../equipe/lucas.md), [decisões](../../docs/decisoes.md), [alinhamento](../../docs/alinhamento-das-fontes.md), [Bíblia v0.1](../../docs/fontes/HESED_Biblia_de_Producao_v0_1.md) §§2.1, 3/Cenas 6–7, 4.1, 5.1–5.2, 9/BIB-Q015–Q018. Cues BIB não são IDs de quadros. Transcrição original não recebida (P-14).
+Consultados: [guia](../guia-de-construcao.md), [caderno](../briefings-dos-quadros.md#mm-12--viagem-cidade-e-estábulo), [briefing MM-12](../../docs/briefing.md), [roteiro Cenas 6–7](../../docs/roteiro.md#cena-6-a-gravidez), [mapa](../../docs/mapa-de-cenas.md), [dependências](../../docs/dependencias.md), [Victor](../../equipe/victor.md), [decisões](../../docs/decisoes.md), [alinhamento](../../docs/alinhamento-das-fontes.md), [Bíblia v0.1](../../docs/fontes/HESED_Biblia_de_Producao_v0_1.md) §§2.1, 3/Cenas 6–7, 4.1, 5.1–5.2, 9/BIB-Q015–Q018. Cues BIB não são IDs de quadros. Transcrição original não recebida (P-14).
 
 Histórico preservado em [v01](<versoes/v01/STB MM12.png>), [v02](<versoes/v02/STB MM12.png>) e [v03 anterior à restauração](<versoes/v03/STB MM12.png>). A v02 continua rejeitada quanto às ruas, mas seu Q06 foi selecionado expressamente para restauração. Q03/Q04/Q05 da v03 aprovados em D-46 e preservados integralmente.
 
 Restauração em 24/10/2026 por composição do painel existente, sem geração nova: retângulo 534 × 276 px na posição x=1118, y=466, incluindo sua moldura. Comparação ImageMagick AE=0 entre Q06 restaurado e v02; AE=0 em toda a região exterior ao retângulo entre prancha consolidada e v03. Isso comprova a preservação dos demais painéis, títulos e rodapé. Cabeçalho impresso v03 mantido. PNG 1672 × 941 px; aprovação não equivale a animação ou teste LED.
+

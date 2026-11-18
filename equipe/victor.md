@@ -1,18 +1,15 @@
 # Victor
 
-**Responsabilidade vigente em 18/11/2026.** Por determinação de Victor, MM-04, MM-09, MM-14 e MM-16A passam integralmente para Victor, incluindo produção e passagens com os demais responsáveis. Menções a Melissa em fontes e registros anteriores indicam a distribuição de origem. A responsabilidade atual dessas peças é de Victor.
+- **Cena 1 · MM-01, MM-02 e Quebrando as Correntes.** Preserve os cinco trechos aprovados do resumo de Goel. No segundo congelamento, entre com a retrospectiva e volte ao mesmo exterior quando as atrizes retomarem a fala. Para a música, leve ao ensaio o exterior contínuo e a alternativa de mostrar o corredor de 00:13 a 00:47. Combine a saída das atrizes, a cortina fechada e a entrada do som de elevador.
+- **Cenas 2 e 3 · MM-03, MM-04 e MM-05.** Na mesa, use cozinha à direita da plateia, metade esquerda preta, casa noturna com luzes internas acesas. Separe dois jardins para começar. Combine com a iluminação a entrada da música na fala e a abertura verde em “haja luz”. Volte à mesa antes da queda. A queda já tem seis quadros aprovados na V03. Use-os para a continuidade com a regressão de Isaac.
+- **Cena 5 · MM-09.** Mostre a passagem da fala de Mari para a visão dos profetas e onde ela termina. Eduardo precisa ver a saída para começar o universo da MM-10.
+- **Cenas 6 e 7 · MM-12.** Confira o último céu de Ó Noite Santa com Eduardo. Avance na viagem pelas falas, de caminho e Belém até o abrigo. Segure Q06 vazio. A operação chama o estábulo com a multidão de anjos v09 somente na fala “uma multidão de anjos apareceu”. Mais tarde entra o vídeo das gerações de Eduardo.
+- **Cena 8 · MM-14, MM-15 e Brilha Tua Luz.** Uma panorâmica da casa iluminada sustenta as seis ações feitas pelas atrizes. Retome um bebê já visto e siga com cura, ensino, perdão e acolhimento. Volte à sala em “Ele já nos libertou!”. Feche o diálogo com o bebê e a frase “ELE NASCEU, E ISSO MUDA TUDO.” Para a música seguinte, apresente três miniaturas: a luz junto ao bebê, a luz se espalhando pelo ambiente e a luz alcançando o elenco. Combine o fim com o fechamento da cortina.
+- **Cena 9 · MM-16 inteira, Maravilhosa Graça de Samuel Mizrahy.** Você decide a estrutura, escolhe suas imagens, organiza eventual gravação das atrizes, edita, finaliza e entrega o único filme. Comece pelo que muda para uma detenta quando ela passa a enxergar. Ligue a liberdade dela ao que Jesus fez. Reserve uma imagem forte para a parte falada e combine as luzes de Natal no último refrão. Confirme no roteiro qual prancha é “Q07 em diante” e qual é a versão musical. A imagem existente pode ser consultada por você. Nenhuma etapa aguarda contribuição de outro editor.
 
+**Primeira entrega prática:** escolha uma peça sua por vez. A comparação dos dois fundos da Cena 1 já pode ir ao ensaio. Para o final, monte seu primeiro esboço em paralelo ao restante da produção.
 
-## MM-04, MM-09, MM-14 e MM-16A
-
-**Perfil do conjunto:** execução mais simples, baseada em ambientação, loops, montagem curta e módulo visual direto.
-**Blocos:** II, III e IV · **Peças:** MM-04, MM-09, MM-14, MM-16A
-
-**Costuras:** entrega a criação para Lucas (MM-05) · entrega os profetas para Eduardo (MM-10) · alinha os pecados com Lucas (MM-15) · entrega o 16A para Lucas (conform).
-
-> O MM-04 é a primeira peça da cadeia da Cena 3 e trava o Lucas. Vale começar por ela.
-
----
+[Guia definitivo por pessoa](../guias/cena-a-cena/quem-faz-as-musicas.md)
 
 ## MM-04 · Criação perfeita (vídeo/loop)
 
@@ -30,7 +27,7 @@
 **Nota do roteiro:** a peça cobre a fala, toda a música/dança e o diálogo de Adultério ("como isso aconteceu?") até a queda. Precisa ser loop.
 
 - [ ] Escolher imagem-base e paleta
-- [ ] **Enviar imagem-base e paleta ao Lucas** (ele depende disso)
+- [ ] **Enviar imagem-base e paleta ao Victor** (ele depende disso)
 - [ ] Alpha em loop
 - [ ] Teste no telão (com a dança)
 - [ ] Final + editável + still de emergência + backup
@@ -55,7 +52,7 @@
 
 ## MM-14 · Resumo dos pecados (montagem curta)
 
-**24/10/2026 · D-48/D-49/D-50/D-51:** [nova prancha v04](<../storyboards/MM-14/STB MM14.png>), seis quadros na casa V03, agora com Ladra, Religiosidade e Autossuficiência das referências enviadas, todas desfocadas de corpo inteiro, roupa escura, sem algemas/correntes. A ação ocorre no palco; o telão reforça o distanciamento. Direção v04 aprovada e seis bases individuais com desfoque e translucidez geradas para revisão; v01/v02/v03 preservadas como histórico. Conferir leitura das metáforas e alinhar último estado com Lucas/MM-15.
+**24/10/2026 · D-48/D-49/D-50/D-51:** [nova prancha v04](<../storyboards/MM-14/STB MM14.png>), seis quadros na casa V03, agora com Ladra, Religiosidade e Autossuficiência das referências enviadas, todas desfocadas de corpo inteiro, roupa escura, sem algemas/correntes. A ação ocorre no palco; o telão reforça o distanciamento. Direção v04 aprovada e seis bases individuais com desfoque e translucidez geradas para revisão; v01/v02/v03 preservadas como histórico. Conferir leitura das metáforas e alinhar último estado com Victor/MM-15.
 
 | | |
 | --- | --- |
@@ -67,20 +64,13 @@
 
 **Execução:** ações simbólicas e diretas (status, raiva, mentira, apropriação, isolamento, comparação, desobediência). Stills animados ou pequenos vídeos, cortes simples, ritmo curto. Sem ilustrar cada pecado de forma literal ou longa.
 
-- [ ] Alinhar ritmo e cor com Lucas (MM-15)
+- [ ] Alinhar ritmo e cor com Victor (MM-15)
 - [ ] Alpha
 - [ ] Final + editável + backup
 
-## MM-16A · Filme final: cegueira → visão
+## MM-16 · filme final
 
-Primeiro módulo. Sombra/escuro ou venda → entrada de luz → retirada da barreira → foco. Curto, limpo, fácil de integrar.
-
-**Nota do roteiro:** o roteiro fala em "detentas vendadas e agora enxergando". Se for com as atrizes, este é o módulo mais afetado (P-05).
-
-- [ ] Resolver P-05 e P-06
-- [ ] Alpha
-- [ ] Entregar a Lucas com margem nas pontas
-
+Victor produz a MM-16 inteira, incluindo seleção ou criação das imagens, eventual gravação, edição, finalização e entrega direta à operação. A–D identificam referências de acervo. O filme independe de qualquer material a preparar, separar ou enviar pelos demais.
 
 ## MM-01, MM-02 e MM-03
 
@@ -135,7 +125,7 @@ Primeiro módulo. Sombra/escuro ou venda → entrada de luz → retirada da barr
 
 ## Pendências gerais do Bloco I
 
-- Quebrando as Correntes (fim da Cena 1) não tem peça atribuída (P-08).
+- Quebrando as Correntes é de Victor. A escolha entre exterior e lembrança do corredor está em revisão.
 - O fundo sonoro de transição com cortina fechada: telão apagado ou com algo?
 
 - [ ] Detalhar briefing das três peças
@@ -143,4 +133,5 @@ Primeiro módulo. Sombra/escuro ou venda → entrada de luz → retirada da barr
 - [ ] Alphas
 - [ ] Teste no telão
 - [ ] Finais + editáveis + backup
+
 

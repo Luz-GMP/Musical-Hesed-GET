@@ -4,7 +4,7 @@
 | --- | --- |
 | **Responsável** | Eduardo |
 | **Cena** | 7 |
-| **Recebe de** | MM-12 (Lucas) |
+| **Recebe de** | MM-12 (Victor) |
 | **Entrega para** | - |
 | **Gatilho e música** | ver [mapa de cenas](../../docs/mapa-de-cenas.md) e [sua página](../../equipe/eduardo.md) |
 | **Pasta no Drive** | _a definir (P-13)_ |

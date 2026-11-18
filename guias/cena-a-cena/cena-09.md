@@ -2,7 +2,7 @@
 
 [Voltar ao guia](README.md) · Storyboard geral v03, pp. 103–118.
 
-**Quem prepara:** Victor · MM-16A · Lucas · MM-16B e montagem final · Isaac · MM-16C · Eduardo · MM-16D
+**Quem prepara:** Victor, responsável pela produção integral da MM-16.
 
 A tela carrega o número inteiro. A experiência das detentas atravessa o filme, da cegueira até a liberdade, e ganha sentido na vida, morte e ressurreição de Jesus.
 
@@ -11,8 +11,8 @@ A tela carrega o número inteiro. A experiência das detentas atravessa o filme,
 ### 1. Após a troca de roupa e cenário, começa Maravilhosa Graça de Samuel Mizrahy
 
 - **No palco.** A dança foi retirada deste número. O público acompanha o filme.
-- **No telão.** Reunir materiais de A, B, C e D em uma sequência. A abre a questão de voltar a ver, B traz libertação, C liga o nascimento à vida e D oferece morte e ressurreição.
-- **Para executar.** Lucas monta a sequência comum. As letras A–D identificam a origem. A montagem pela letra é proposta para a direção.
+- **No telão.** Victor liga a experiência das detentas ao nascimento, à vida, à morte e à ressurreição de Jesus.
+- **Para executar.** Victor produz a MM-16 inteira, incluindo seleção ou criação das imagens, eventual gravação, edição, finalização e entrega direta à operação. A–D identificam referências de acervo. O filme independe de qualquer material a preparar, separar ou enviar pelos demais.
 
 ### 2. Quando o filme tratar da redenção
 
@@ -28,8 +28,8 @@ A tela carrega o número inteiro. A experiência das detentas atravessa o filme,
 
 ## Como preparar e passar adiante
 
-1. Cada pessoa entrega a Lucas miniaturas com uma frase simples: “isto mostra…”. Marcar quais já existem e quais dependem de gravação das atrizes vendadas.
-2. Lucas coloca todas as miniaturas na ordem de sentido da letra e mostra à direção a passagem entre as detentas e Jesus. A prancha D é o material visual localizado. A/B/C ainda aparecem como lacunas no geral.
+1. Victor confere a faixa, o detalhamento do trecho falado e a prancha indicada por Q07.
+2. Victor desenha a sequência pela letra, escolhe imagens ou gravações e monta o filme. Ele entrega a versão completa à operação.
 
 ## A letra e as imagens
 
@@ -45,11 +45,11 @@ A tela carrega o número inteiro. A experiência das detentas atravessa o filme,
 **Preço pago, liberdade e nova vida.** O texto alterna o que Cristo fez e o que mudou para a pessoa.
 
 - **O que aparece hoje.** MM-16B pode mostrar a saída da prisão. D-Q07–Q11 trazem caminho para a cruz, morte e ressurreição. C pode lembrar de onde veio Jesus se fizer sentido no conjunto.
-- **Como aplicar.** Lucas alterna no papel um ato de Jesus e a consequência para as detentas. Isaac indica uma retomada curta de nascimento/vida. Eduardo identifica os quadros da Paixão.
+- **Como aplicar.** Victor alterna o que Jesus fez com a transformação das detentas e escolhe as retomadas de nascimento e vida que servirem à fala.
 
 **Declaração sobre salvação e refrão final.** A letra contém uma declaração sobre a graça como dádiva e volta a afirmar a redenção.
 
 - **O que aparece hoje.** O pedido da produção é dar peso à parte falada e ao último refrão. Falta o roteiro detalhado para associar a declaração ao trecho exato da versão do espetáculo. D-Q12 oferece uma imagem de vitória.
-- **Como aplicar.** Lucas reserva espaço visual para a declaração e uma mudança final que se perceba junto das luzes de Natal. Antes de cortar, confirmar a prancha chamada Q07.
+- **Como aplicar.** Victor reserva espaço visual para a declaração e uma mudança final que se perceba junto das luzes de Natal. Antes de cortar, confirmar a prancha chamada Q07.
 
 [Consultar as falas completas no roteiro](https://github.com/Luz-GMP/Musical-Hesed-GET/blob/b54e712049ef708785d3a916b811d52798a4310b/docs/roteiro.md#cena-9-graça) · [Voltar ao índice](README.md)

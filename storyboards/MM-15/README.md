@@ -1,6 +1,6 @@
 # Storyboard · MM-15 · Vida e atos de Jesus
 
-**v01 · 24/10/2026 · estudo para revisão · responsável: Lucas · Cena 8 / Bloco IV.**
+**v01 · 24/10/2026 · estudo para revisão · responsável: Victor · Cena 8 / Bloco IV.**
 
 ![Storyboard MM-15](<STB MM15.png>)
 
@@ -14,7 +14,7 @@ Do isolamento à proximidade: Jesus cura, ensina, perdoa e acolhe quem era rejei
 | --- | --- |
 | Gatilho | “Enquanto Ele estava na terra, Ele curou, ensinou e perdoou as pessoas”; mudança para cura em “Ele curou”, a ensaiar |
 | Recebe de | MM-14/Victor, estado Q10: casa com três figuras afastadas, sombras frias e calor residual |
-| Entrega para | Destinatário/arquivo seguinte não atribuído; diálogo leva a Brilha Tua Luz, P-08/P-15 abertas |
+| Entrega para | Victor prepara o retorno à sala, a frase com bebê e Brilha Tua Luz. |
 | Controle | Fala variável; sem música própria, segundos ou forma de onda |
 | Palco | Religiosidade narra e personagens respondem; não duplicar a conversa na projeção |
 | Telão | Ações humanas em ambiente bíblico, conforme briefing MM-15 |
@@ -43,7 +43,7 @@ Não alongar a fala para acomodar os cortes. São quatro estados, sem duração 
 
 ## Registro e inspeção
 
-Geração por `image_gen.imagegen`, fundo opaco, prompt integral preservado. Nenhuma imagem de referência foi anexada à chamada; a MM-14-Q10 foi inspecionada para orientar textualmente a costura. Fontes: guia canônico, caderno Q01–Q04 escrito antes da chamada, roteiro Cena 8, briefing MM-15, Bíblia §§3/5/7/9, alinhamento, D-25/D-48–D-51, mapa, dependências e página de Lucas.
+Geração por `image_gen.imagegen`, fundo opaco, prompt integral preservado. Nenhuma imagem de referência foi anexada à chamada; a MM-14-Q10 foi inspecionada para orientar textualmente a costura. Fontes: guia canônico, caderno Q01–Q04 escrito antes da chamada, roteiro Cena 8, briefing MM-15, Bíblia §§3/5/7/9, alinhamento, D-25/D-48–D-51, mapa, dependências e página de Victor.
 
 Prancha PNG nativa **1672 × 941**, sem recorte ou ampliação; não é base 4K. Original: `/workspace/generated_images/exec-c4e477c1-7dba-4f05-9151-3427614ad792.png`. Arquivo canônico: `STB MM15.png`.
 
@@ -64,4 +64,4 @@ Geradas uma por vez a pedido do usuário, antes da publicação. Todas são PNGs
 
 ## Próximos passos
 
-Revisar as quatro bases e a identidade visual; alinhar com Victor o corte MM-14-Q10 → MM-15-Q01 e com operação a saída após Q04. Após revisão, produzir alpha ajustado à fala. Avisar Victor/Lucas quando a costura for definida; nenhuma mensagem enviada pelo assistente. P-01/P-08/P-13/P-15 permanecem abertas.
+Victor revisa Q01–Q04, confere a passagem da casa panorâmica pelo bebê até a cura e combina o retorno à sala depois do acolhimento.

@@ -4,7 +4,7 @@
 | --- | --- |
 | **Responsável** | Isaac |
 | **Cena** | 3 |
-| **Recebe de** | MM-05 (Lucas) |
+| **Recebe de** | MM-05 (Victor) |
 | **Entrega para** | MM-07 (Eduardo) |
 | **Gatilho e música** | ver [mapa de cenas](../../docs/mapa-de-cenas.md) e [sua página](../../equipe/isaac.md) |
 | **Pasta no Drive** | _a definir (P-13)_ |
