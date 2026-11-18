@@ -35,25 +35,34 @@ As detentas acabaram de ser libertas e ainda tentam entender quem pagou a dívid
 ### 5. Ladra propõe sair da porta da cadeia
 
 - **No palco.** Elas se levantam e saem em Quebrando as Correntes.
-- **No telão.** Conteúdo da tela durante o número em aberto. As fotos vistas no início pertencem à abertura. Reutilizá-las aqui é uma pergunta da produção.
+- **No telão.** A escolha está aberta. A preparação abaixo compara a continuidade do exterior com uma lembrança breve das detentas no corredor.
 - **Para executar.** Referência de interpretação recebida: “vibe jhony jhony”. Ao fechar a cortina, entra o fundo de elevador/telemarketing para a troca.
 
 ## Como preparar e passar adiante
 
 1. Victor separa a abertura, a retrospectiva e a volta ao exterior. Entrega à operação a ordem dos três arquivos ou estados e marca em qual congelamento a retrospectiva começa.
-2. Produção define o que se verá durante Quebrando as Correntes. Até lá, a ficha do número fica aberta. A próxima imagem de ambiente é a casa da Mari.
+2. Colocar lado a lado a foto do corredor (p. 3) e o exterior (p. 32). Comparar as duas opções durante o primeiro verso e o primeiro refrão. A produção escolhe o fundo e combina a saída das atrizes com quem fecha a cortina.
 
 ## A letra e as imagens
 
 ### Quebrando as Correntes · Wagner Oliveira
 
-**Faixa identificada. Letra escrita pendente.** [Gravação indicada por Victor](https://www.youtube.com/watch?v=--T8S3DHuUA)
+**As nove músicas têm leitura de letra e imagem. Para esta faixa, a referência é a transcrição de trabalho do MP3 de Victor (3min44s). Os tempos localizam trechos nessa gravação. A produção ainda vai escolher o fundo do número e combinar a saída com o elenco.** [Gravação indicada por Victor](https://www.youtube.com/watch?v=--T8S3DHuUA)
 
-O link indicado por Victor identifica a faixa como lançamento de Wagner Oliveira, por O Discipulado. A descrição traz os créditos e a página consultada não ofereceu legenda nem letra escrita.
+A transcrição local está em `acompanhamento/guia-de-cena-2026-11-18/quebrando-as-correntes-transcricao.md`. As palavras duvidosas continuam entre colchetes na fonte. As indicações de tela abaixo são propostas para a produção comparar.
 
-**Número após a fala da Ladra.** O roteiro estabelece que elas saem livres. A letra da gravação de Wagner Oliveira ainda precisa de fonte textual.
+**O que já existe.** As pp. 3–4 mostram as detentas no corredor da MM-01. A p. 32 mostra o exterior ao qual elas voltam depois da MM-02. A p. 33 reserva o lugar do número. As duas primeiras referências servem para comparar as opções de fundo.
 
-- **O que aparece hoje.** As fotos nas pp. 3–6 mostram as mulheres antes de saírem da cadeia. A p. 33 não traz imagem do número. Voltar às fotos durante toda a saída pode fazer parecer que voltaram à prisão.
-- **Como aplicar.** Pedir a folha de letra à produção ou ao autor. Com o texto em mãos, marcar a ideia de cada parte e decidir se vale retomar as fotos em algum ponto.
+| Tempo no MP3 | Trecho | O que a letra conta | Como experimentar com o que já existe |
+| --- | --- | --- | --- |
+| 00:00 | Introdução | A Ladra propõe sair da porta da cadeia. O público acabou de voltar da retrospectiva. | Começar a leitura com o exterior já visível na p. 32. A primeira ação é das atrizes. |
+| 00:13 | Primeiro verso | A pessoa acreditava ser livre e percebe que seus próprios hábitos a prendiam. | É aqui que as fotos do corredor (pp. 3–4) podem funcionar como lembrança. Comparar essa retomada breve com a opção de deixar o exterior na tela. |
+| 00:47 | Primeiro refrão | Cristo liberta e a corrente cai. A letra passa da lembrança para a liberdade presente. | Se a equipe usar a foto no verso, voltar aqui ao exterior da p. 32. Deixar o público ver as detentas livres no palco. |
+| 01:09 | Segundo verso | A repetição transforma uma escolha em hábito. A pessoa quer parar e não consegue. | Manter o exterior como referência enquanto o verso relembra o que a prendia. O sentido desse bloco já permite planejar sem ilustrar as frases incertas. |
+| 01:42 | Segundo refrão | Volta a afirmação de liberdade. | Retomar a mesma relação entre telão e elenco do primeiro refrão. Se o exterior já estiver na tela, basta sustentá-lo. |
+| 02:03 | Ponte | A mudança vem do amor de Cristo. O que antes dominava a pessoa perde valor. | Deixar a atenção nas atrizes. O fundo pode continuar durante toda essa mudança de sentido. |
+| 02:25 | Terceiro verso | A cruz explica o preço da liberdade e o começo de uma vida nova. | A retrospectiva da MM-02 já trouxe a Páscoa. O exterior liga essa lembrança às mulheres que o público vê agora. |
+| 02:47 | Refrão final | A liberdade é afirmada pela última vez no refrão. | Sustentar o exterior e deixar a saída das atrizes conduzir o olhar. Combinar o movimento com o elenco no ensaio. |
+| 03:11–03:44 | Encerramento | A canção termina afirmando que a corrente caiu e que a pessoa é livre em Cristo. | Acompanhar a conclusão da saída. A cortina fechada dá a deixa para o fundo de elevador/telemarketing durante a troca para a casa da Mari. |
 
 [Consultar as falas completas no roteiro](https://github.com/Luz-GMP/Musical-Hesed-GET/blob/b54e712049ef708785d3a916b811d52798a4310b/docs/roteiro.md#cena-1-pós-libertação) · [Seguir para a Cena 2](cena-02.md)

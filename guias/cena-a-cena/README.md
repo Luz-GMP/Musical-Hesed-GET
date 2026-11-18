@@ -22,7 +22,7 @@ Acompanhe o espetáculo como a plateia vai vê-lo. Escolha a cena e comece pela 
 2. **Leia uma fala antes e uma depois.** A *deixa* é o que você ouve ou vê para agir. Exemplo da Cena 7: ao ouvir a primeira menção a um anjo, mantenha o estábulo vazio. Quando Mari disser “uma multidão de anjos apareceu”, troque para o mesmo estábulo com os anjos.
 3. **Combine a passagem.** Quem termina uma peça mostra a última imagem a quem começa a próxima. Juntos, anotam a fala ou ação que troca uma pela outra. Na conversa ao vivo, *segurar* significa deixar a imagem visível até essa deixa, mesmo que a atriz faça uma pausa.
 4. **Para fazer uma peça pendente**, comece com imagens pequenas na ordem da cena. Escreva, embaixo de cada uma, o que a plateia deve entender. Mostre primeiro a entrada, a mudança principal e a saída. Só avance para a montagem quando a direção escolher o que usar.
-5. **Para conferir uma música**, abra a letra indicada na ficha. Leia um bloco de sentido e olhe o quadro correspondente. Pergunte se a ideia aparece na tela, na atuação ou na luz. Uma repetição pode manter o mesmo fundo. As fichas avaliam o sentido das imagens, sem marcar segundos.
+5. **Para conferir uma música**, abra a letra indicada na ficha. Leia um bloco de sentido e olhe o quadro correspondente. Pergunte se a ideia aparece na tela, na atuação ou na luz. Uma repetição pode manter o mesmo fundo. Na Cena 1, os tempos do MP3 ajudam a localizar cada parte de Quebrando as Correntes.
 
 **Como ler o estado do material.** *Aprovado* vale para a versão e o tipo de material mencionados. *Em revisão* significa que existe algo para olhar e alguém ainda precisa aceitar. *Acervo* é uma imagem disponível para escolher. *Proposta* é uma ideia para a direção avaliar. *Pendente* indica exatamente qual escolha ou arquivo falta. Os números das páginas levam à edição horizontal v03 do storyboard geral de 17/11.
 
@@ -35,14 +35,14 @@ Acompanhe o espetáculo como a plateia vai vê-lo. Escolha a cena e comece pela 
 - **Melissa e Lucas, Cena 3.** Combinar uma passagem. Escolher juntos a fala em que a cozinha dá lugar à queda. Antes disso, em qualquer montagem de revisão, preservar a volta à mesa depois da criação. [Abrir a cena](cena-03.md)
 - **Isaac e Eduardo, Cena 3.** Combinar uma passagem. Colocar lado a lado o bebê que encerra a fala e o céu estrelado que abriria a música. Decidir se há mais alguma imagem durante a canção. [Abrir a cena](cena-03.md)
 - **Isaac e produção, Cena 5.** Localizar um arquivo. Identificar o vídeo chamado de mundinho. Depois comparar sua primeira imagem com a última da narração de Eduardo. [Abrir a cena](cena-05.md)
-- **Produção, Cena 1.** Confirmar uma escolha. Decidir o que a tela mostra em Quebrando as Correntes. A gravação foi identificada por Victor. Ainda falta localizar a letra escrita. [Abrir a cena](cena-01.md)
+- **Produção, Cena 1.** Confirmar uma escolha. Escolher entre manter o exterior da cadeia durante o número ou retomar a foto do corredor no primeiro verso (00:13) e voltar ao exterior no primeiro refrão (00:47). [Abrir a cena](cena-01.md)
 - **Produção, Cena 7.** Confirmar uma escolha. Apontar os anjos sugeridos por página e decidir como eles convivem com as gerações louvando. Atribuir a montagem da música. [Abrir a cena](cena-07.md)
 - **Produção, Cena 8.** Escolher um conceito. Indicar quem fará Brilha Tua Luz e avaliar a proposta de três imagens baseada na letra. Melissa e Lucas podem antes acertar o fim da recapitulação. [Abrir a cena](cena-08.md)
 - **Direção e Lucas, Cena 9.** Confirmar uma referência. Abrir a p. 112, identificar de qual prancha sai o Q07 e localizar o roteiro detalhado. Só depois fechar a seleção final com os quatro responsáveis. [Abrir a cena](cena-09.md)
 
 ## As nove músicas na ordem do espetáculo
 
-- [Quebrando as Correntes · Wagner Oliveira · Cena 1](cena-01.md) — Faixa identificada. Letra escrita pendente.
+- [Quebrando as Correntes · Wagner Oliveira · Cena 1](cena-01.md) — Transcrição do MP3 disponível. A ficha compara o corredor e o exterior, do primeiro verso ao encerramento.
 - [Há Muito Tempo Atrás · Crianças Diante do Trono · Cena 3](cena-03.md) — A paisagem combina com a criação. O palco completa a passagem da luz.
 - [Nasceu em Belém · Marcus Salles · Cena 3](cena-03.md) — O acervo conversa com a letra. A escolha de palco é o céu estrelado.
 - [Maravilhosa Graça · Julia Vitória · Cena 4](cena-04.md) — A Páscoa atende à ideia de sacrifício e perdão. A seleção da MM-08 ainda falta.
