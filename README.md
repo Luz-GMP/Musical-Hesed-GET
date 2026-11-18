@@ -1,5 +1,9 @@
 # HESED · Produção Audiovisual
 
+## Para preparar uma cena
+
+Comece pelo [guia de execução das nove cenas](guias/cena-a-cena/README.md). Cada ficha reúne as falas que acionam a tela, o que acontece no palco, o que a letra pede das imagens e o próximo trabalho de cada pessoa.
+
 ## Conciliação do trabalho local · 16/11/2026
 
 - [MM-01/MM-02: versões, aprovações, narração e próximos passos](docs/producao-victor/README.md).
