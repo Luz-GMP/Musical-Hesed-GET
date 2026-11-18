@@ -70,4 +70,3 @@ Este registro transforma em procedimento reutilizável o que foi validado durant
 - [ ] MP4 real validado por metadados, duração e total de frames.
 - [ ] Versão anterior preservada.
 - [ ] Responsabilidade por trilha, SFX, mixagem e publicação registrada.
-

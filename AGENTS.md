@@ -37,5 +37,7 @@ A D-28 e o [inventário](storyboards/inventario-de-arquivos.md) registram a adeq
 
 ## Skill local · ai-filmmaker
 
-A skill do projeto está instalada em [`.agents/skills/ai-filmmaker/SKILL.md`](.agents/skills/ai-filmmaker/SKILL.md), com metadados de interface em `.agents/skills/ai-filmmaker/agents/openai.yaml`. Quando Victor pedir `ai-filmmaker` ou `$ai-filmmaker`, ler esse arquivo e aplicar o procedimento/referências indicados. Se a skill ainda não estiver no catálogo da sessão, resolver diretamente pelo arquivo local; não afirmar que falta apenas porque a lista em cache não a exibiu. A instalação é deste repositório, não instalação global no Windows nem de dependências de render. Seguir o briefing e D-38: B01A fala inicial antes de B01B vinheta; prioridade de produção B01B.
+A skill inclui o fluxo editorial, o Harness e o módulo Motion Graphics. O mesmo pacote atende Codex, Antigravity, Claude Code e OpenCode. Consulte o [guia de ativação](guias/ai-filmmaker-multiplataforma.md). Para a MM-07, siga a [instrução de produção por take](storyboards/MM-07/instrucao-antigravity.md).
 
+
+A skill do projeto está instalada em [`.agents/skills/ai-filmmaker/SKILL.md`](.agents/skills/ai-filmmaker/SKILL.md), com metadados de interface em `.agents/skills/ai-filmmaker/agents/openai.yaml`. Quando Victor pedir `ai-filmmaker` ou `$ai-filmmaker`, ler esse arquivo e aplicar o procedimento/referências indicados. Se a skill ainda não estiver no catálogo da sessão, resolver diretamente pelo arquivo local; não afirmar que falta apenas porque a lista em cache não a exibiu. A instalação é deste repositório, não instalação global no Windows nem de dependências de render. Seguir o briefing e D-38: B01A fala inicial antes de B01B vinheta; prioridade de produção B01B.

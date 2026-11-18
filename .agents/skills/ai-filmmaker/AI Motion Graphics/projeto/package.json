@@ -1,0 +1,31 @@
+{
+  "name": "skill-motion-projeto",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Projeto Remotion da Skill Motion: cenas, blocos e transições para agentes com arquivos e terminal.",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "studio": "remotion studio",
+    "render": "remotion render",
+    "still": "remotion still",
+    "typecheck": "tsc --noEmit",
+    "tempos": "node scripts/tempos-de-texto.mjs",
+    "stills": "node scripts/stills.mjs",
+    "diagnostico": "node scripts/diagnostico.mjs"
+  },
+  "dependencies": {
+    "@remotion/bundler": "4.0.409",
+    "@remotion/cli": "4.0.409",
+    "@remotion/renderer": "4.0.409",
+    "@remotion/transitions": "4.0.409",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "remotion": "4.0.409"
+  },
+  "devDependencies": {
+    "@types/react": "19.0.0",
+    "typescript": "5.7.2"
+  }
+}
