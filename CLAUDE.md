@@ -1,3 +1,5 @@
+**Responsabilidade vigente em 18/11/2026.** Por determinação de Victor, MM-04, MM-09, MM-14 e MM-16A passam integralmente para Victor, incluindo produção e passagens com os demais responsáveis. Menções a Melissa em fontes e registros anteriores indicam a distribuição de origem. A responsabilidade atual dessas peças é de Victor.
+
 # Harness de contexto · HESED Produção Audiovisual
 
 Para produção audiovisual do HESED, carregue `ai-filmmaker` pela [entrada Claude Code](.claude/skills/ai-filmmaker/SKILL.md), que encaminha ao pacote compartilhado do projeto.
@@ -13,7 +15,7 @@ Este é o contexto comum para Claude, Codex e AntiGravity. O [AGENTS.md](AGENTS.
 
 ## Quem você está ajudando
 
-Um membro da equipe de produção audiovisual (telão) do **HESED**, musical de Natal 2026 do GET Planalto e GET Santa Amélia. A equipe tem cinco pessoas (Victor, Melissa, Isaac, Eduardo, Lucas), cada uma responsável por peças codificadas como `MM-XX`. São voluntários de igreja, com níveis variados de experiência em edição e nenhuma obrigação de saber Git.
+Um membro da equipe de produção audiovisual (telão) do **HESED**, musical de Natal 2026 do GET Planalto e GET Santa Amélia. A equipe tem cinco pessoas (Victor, Victor, Isaac, Eduardo, Lucas), cada uma responsável por peças codificadas como `MM-XX`. São voluntários de igreja, com níveis variados de experiência em edição e nenhuma obrigação de saber Git.
 
 ## Fontes de verdade e consulta conjunta
 

@@ -3,7 +3,7 @@
 **Perfil do conjunto:** transformação visual, sequência narrativa, montagem e masterização do filme final.
 **Blocos:** II, III e IV · **Peças:** MM-05, MM-12, MM-15, MM-16B + conform do MM-16
 
-**Costuras:** recebe a criação de Melissa (MM-04) · recebe os pecados de Melissa (MM-14) · entrega o estábulo para Eduardo (MM-13) · recebe os quatro módulos do MM-16 e fecha o filme.
+**Costuras:** recebe a criação de Victor (MM-04) · recebe os pecados de Victor (MM-14) · entrega o estábulo para Eduardo (MM-13) · recebe os quatro módulos do MM-16 e fecha o filme.
 
 > Você é o gargalo do final: o conform só começa quando os quatro módulos chegam. Defina cedo a duração de cada módulo (P-06) e um prazo de entrega para eles.
 
@@ -59,7 +59,7 @@
 
 **Execução:** cura, acolhimento, ensino, mão estendida, multidão ouvindo, perdão, aproximação de marginalizados. Leitura humana e positiva acima de precisão histórica.
 
-- [ ] Alinhar ritmo e cor com Melissa (MM-14)
+- [ ] Alinhar ritmo e cor com Victor (MM-14)
 - [ ] Alpha
 - [ ] Final + editável + backup
 
@@ -69,7 +69,7 @@ Segundo módulo. Prisão literal ou simbólica (sombras, barras, espaço fechado
 
 ## MM-16 · Conform e master do filme final
 
-Ordem: **16A Melissa → 16B Lucas → 16C Isaac → 16D Eduardo.** Uniformizar resolução, fps, cor, contraste, velocidade de transições, intensidade de efeitos, entradas/saídas e sincronia com Maravilhosa Graça (Samuel Mizrahy). O público deve ver **um filme**, não quatro peças.
+Ordem: **16A Victor → 16B Lucas → 16C Isaac → 16D Eduardo.** Uniformizar resolução, fps, cor, contraste, velocidade de transições, intensidade de efeitos, entradas/saídas e sincronia com Maravilhosa Graça (Samuel Mizrahy). O público deve ver **um filme**, não quatro peças.
 
 - [ ] Definir e comunicar duração de cada módulo (P-06)
 - [ ] Definir com a direção se há gravação com atrizes (P-05)

@@ -1,3 +1,5 @@
+**Responsabilidade vigente em 18/11/2026.** Por determinação de Victor, MM-04, MM-09, MM-14 e MM-16A passam integralmente para Victor, incluindo produção e passagens com os demais responsáveis. Menções a Melissa em fontes e registros anteriores indicam a distribuição de origem. A responsabilidade atual dessas peças é de Victor.
+
 # Codex · HESED Produção Audiovisual
 
 Para produção audiovisual do HESED, selecione `$ai-filmmaker` da pasta `.agents/skills/ai-filmmaker/`. Se o catálogo mostrar uma cópia pessoal com o mesmo nome, leia a [entrada do projeto](.agents/skills/ai-filmmaker/SKILL.md).

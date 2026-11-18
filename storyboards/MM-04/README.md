@@ -2,7 +2,7 @@
 
 | | |
 | --- | --- |
-| **Responsável** | Melissa |
+| **Responsável** | Victor |
 | **Cena** | 3 · Bloco II |
 | **Versão / situação** | v01 · 16/10/2026 · proposta para revisão |
 | **Recebe de** | Sala MM-03 (Victor), conforme a Cena 3; frame de ligação não recebido |
@@ -45,7 +45,7 @@ Os quadros são estados de **uma única paisagem-base animável**, não quatro c
 
 ## Fontes e revisão
 
-Consultados o guia de construção, o caderno, a página de Melissa, MM-05, briefing v1.0 (inclusive DOCX original), roteiro/Cena 3 (inclusive PDF original), decisões, mapa de cenas, dependências, status, pendências e guias de produção/entrega/aceite.
+Consultados o guia de construção, o caderno, a página de Victor, MM-05, briefing v1.0 (inclusive DOCX original), roteiro/Cena 3 (inclusive PDF original), decisões, mapa de cenas, dependências, status, pendências e guias de produção/entrega/aceite.
 
 A prancha segue a estrutura documentada das referências do Dudu (IDs, descrição, movimento, efeitos, paleta e gatilhos). Os arquivos visuais dessas referências não estavam disponíveis neste checkout ou neste chat. Os materiais de Eduardo foram excluídos do escopo desta criação, conforme o pedido; seus registros anteriores foram preservados.
 

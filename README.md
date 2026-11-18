@@ -52,7 +52,7 @@ Para começar no AntiGravity, peça: **“Leia AGENTS.md, CLAUDE.md e ANTIGRAVIT
 | Pessoa | Entregas | Arquivo |
 | --- | --- | --- |
 | Victor | MM-01, MM-02, MM-03 | [equipe/victor.md](equipe/victor.md) |
-| Melissa | MM-04, MM-09, MM-14, MM-16A | [equipe/melissa.md](equipe/melissa.md) |
+| Victor | MM-04, MM-09, MM-14, MM-16A | [equipe/victor.md](equipe/victor.md) |
 | Isaac | MM-06, MM-08, MM-11, MM-16C | [equipe/isaac.md](equipe/isaac.md) |
 | Eduardo | MM-07, MM-10, MM-13, MM-16D | [equipe/eduardo.md](equipe/eduardo.md) |
 | Lucas | MM-05, MM-12, MM-15, MM-16B + conform do MM-16 | [equipe/lucas.md](equipe/lucas.md) |

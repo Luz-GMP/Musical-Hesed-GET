@@ -2,7 +2,7 @@
 
 [Voltar ao guia](README.md) · Storyboard geral v03, pp. 103–118.
 
-**Quem prepara:** Melissa · MM-16A · Lucas · MM-16B e montagem final · Isaac · MM-16C · Eduardo · MM-16D
+**Quem prepara:** Victor · MM-16A · Lucas · MM-16B e montagem final · Isaac · MM-16C · Eduardo · MM-16D
 
 A tela carrega o número inteiro. A experiência das detentas atravessa o filme, da cegueira até a liberdade, e ganha sentido na vida, morte e ressurreição de Jesus.
 
@@ -40,7 +40,7 @@ A tela carrega o número inteiro. A experiência das detentas atravessa o filme,
 **Cegueira, visão e encontro.** O narrador conta que passou a enxergar e foi encontrado.
 
 - **O que aparece hoje.** MM-16A corresponde diretamente à ideia, mas a p. 103 tem apenas a descrição. A abertura de Jerusalém da prancha D não conta essa experiência pessoal.
-- **Como aplicar.** Melissa e direção decidem se usarão as próprias atrizes vendadas e como mostrar que agora enxergam.
+- **Como aplicar.** Victor e direção decidem se usarão as próprias atrizes vendadas e como mostrar que agora enxergam.
 
 **Preço pago, liberdade e nova vida.** O texto alterna o que Cristo fez e o que mudou para a pessoa.
 

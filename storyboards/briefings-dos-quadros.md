@@ -216,7 +216,7 @@ Os prompts abaixo já repetem a instrução de imagem limpa; ao levá-los à fer
 
 **Cena:** 5. **Responsável:** Eduardo (Dudu). **Ficha-resumo:** [MM-10/README.md](MM-10/README.md).
 
-**Função, gatilho e costuras:** Animação conceitual sob a fala “No princípio Ele já estava lá”, na exposição de João 1. Recebe o estado dos profetas do MM-09 (Melissa) e entrega universo/luz para MM-11 (Isaac), Luz do Mundo. Não é um playback autônomo.
+**Função, gatilho e costuras:** Animação conceitual sob a fala “No princípio Ele já estava lá”, na exposição de João 1. Recebe o estado dos profetas do MM-09 (Victor) e entrega universo/luz para MM-11 (Isaac), Luz do Mundo. Não é um playback autônomo.
 
 **Pontos de conferência:** Sair do histórico para eternidade, criação, vida e luz. A referência tem 12 quadros, preservados abaixo; a duração de 3–4 minutos e a timeline musical da prancha não têm validação para esta fala. Dimensionar pelos ensaios; quadros podem ser condensados. O briefing pede evitar ficção científica: tratar energia e cosmos com sobriedade. Figuração de Cristo permanece escolha artística a alinhar.
 
@@ -748,11 +748,11 @@ Os prompts abaixo já repetem a instrução de imagem limpa; ao levá-los à fer
 
 ## MM-04 · Criação perfeita
 
-**Cena:** 3 · Bloco II. **Responsável:** Melissa. **Ficha-resumo:** [MM-04/README.md](MM-04/README.md).
+**Cena:** 3 · Bloco II. **Responsável:** Victor. **Ficha-resumo:** [MM-04/README.md](MM-04/README.md).
 
 **Situação:** proposta de storyboard v01, 16/10/2026, preparada pelo Codex a pedido do usuário. Sem aprovação artística ou técnica presumida. Dudu/Eduardo fora desta produção: o usuário informou que seus storyboards já foram feitos; os registros anteriores foram preservados.
 
-**Fontes conferidas:** briefing v1.0, seção 8/MM-04 e seção 11/MM-05, inclusive DOCX original; roteiro, Cena 3, inclusive PDF original; decisões (somente D-00 aprovada entre as aplicáveis), mapa de cenas, dependências, página de Melissa, fichas MM-04/MM-05, guia de construção e checklist de aceite.
+**Fontes conferidas:** briefing v1.0, seção 8/MM-04 e seção 11/MM-05, inclusive DOCX original; roteiro, Cena 3, inclusive PDF original; decisões (somente D-00 aprovada entre as aplicáveis), mapa de cenas, dependências, página de Victor, fichas MM-04/MM-05, guia de construção e checklist de aceite.
 
 **Função, gatilho e costuras:** mundo perfeito, harmônico, vivo e luminoso antes da queda. Entra em “Não tinha dor”, acompanha Há Muito Tempo Atrás (Crianças Diante do Trono) e a fala posterior de Adultério, até “Deu errado quando o ser humano escolheu viver longe de Deus”. Recebe narrativamente a sala MM-03 de Victor, sem frame de ligação disponibilizado; a ficha anterior não indicava fornecedor. Entrega imagem-base, paleta e estado de saída ao Lucas/MM-05. Não antecipa a queda.
 
@@ -826,7 +826,7 @@ Os prompts abaixo já repetem a instrução de imagem limpa; ao levá-los à fer
 
 - **Data / executor:** 16/10/2026 · Codex, a pedido do usuário.
 - **Entrega:** uma prancha com quatro quadros de planejamento, não quatro bases individuais.
-- **Diretrizes/fontes e IDs consultados:** guia de construção atual; contrato MM-04 e Q01/Q02/Q03/Q04 deste caderno; briefing v1.0 seção MM-04/MM-05 e DOCX original; roteiro Cena 3 e PDF original; D-00; mapa de cenas; dependências; Melissa; fichas MM-04/MM-05 e checklist. D-01/D-02 continuam propostas e não alteram esta peça.
+- **Diretrizes/fontes e IDs consultados:** guia de construção atual; contrato MM-04 e Q01/Q02/Q03/Q04 deste caderno; briefing v1.0 seção MM-04/MM-05 e DOCX original; roteiro Cena 3 e PDF original; D-00; mapa de cenas; dependências; Victor; fichas MM-04/MM-05 e checklist. D-01/D-02 continuam propostas e não alteram esta peça.
 - **Referências realmente usadas na ferramenta:** somente descrição textual derivada dessas fontes. Sem imagens de referência anexadas; arquivos visuais do Dudu, frame de MM-03 e base aceita não fornecidos.
 - **Prompt efetivamente enviado:** íntegra em [MM-04/prompt-prancha-v01.txt](MM-04/prompt-prancha-v01.txt); aplicado à prancha inteira e aos quatro IDs. Ferramenta `image_gen.imagegen`, `transparent_background=false`; sem referências de imagens.
 - **Resultado real:** PNG gerado em `/workspace/generated_images/exec-4a38d99a-6857-4db3-93a5-50fbeede0728.png`, 1536×1024, 2.815.016 bytes; original mantido fora do repositório. Não é 4K e não foi enviado ao Drive.
@@ -836,9 +836,9 @@ Os prompts abaixo já repetem a instrução de imagem limpa; ao levá-los à fer
 
 ## MM-09 · Profetas
 
-**Reinício do zero · D-27 · novo estudo v03 · Melissa · Cena 5 · 16/10/2026.** Usuário rejeitou v01/v02 por desalinhamento/confusão/repetição, pediu excluir versões anteriores e recomeçar. Imagens v01/v02 e `STB MM09.png` (mesma V01), bem como prompts antigos, excluídos da pasta. Nenhuma dessas imagens será enviada à ferramenta ou usada como referência visual. Histórico anterior no Git, não direção vigente. V03 é número de rastreio, não continuação estética das versões recusadas.
+**Reinício do zero · D-27 · novo estudo v03 · Victor · Cena 5 · 16/10/2026.** Usuário rejeitou v01/v02 por desalinhamento/confusão/repetição, pediu excluir versões anteriores e recomeçar. Imagens v01/v02 e `STB MM09.png` (mesma V01), bem como prompts antigos, excluídos da pasta. Nenhuma dessas imagens será enviada à ferramenta ou usada como referência visual. Histórico anterior no Git, não direção vigente. V03 é número de rastreio, não continuação estética das versões recusadas.
 
-**Fontes:** roteiro Cena 5 relido da indicação “Profetas pregando e anunciando a vinda do Messias no telão” até “No princípio Ele já estava lá”; briefing MM-09 (poucas composições, loop contemplativo, movimentos lentos), Bíblia §§3/5.2/9 (BIB-Q012/Q013), alinhamento, D-25 (formato), D-26 (leitura literal) e D-27 (reinício), guia, Melissa, mapa e dependências. Formato de quatro composições distintas é proposta; o usuário não definiu quantidade nova, nomes de profetas ou cenas exatas.
+**Fontes:** roteiro Cena 5 relido da indicação “Profetas pregando e anunciando a vinda do Messias no telão” até “No princípio Ele já estava lá”; briefing MM-09 (poucas composições, loop contemplativo, movimentos lentos), Bíblia §§3/5.2/9 (BIB-Q012/Q013), alinhamento, D-25 (formato), D-26 (leitura literal) e D-27 (reinício), guia, Victor, mapa e dependências. Formato de quatro composições distintas é proposta; o usuário não definiu quantidade nova, nomes de profetas ou cenas exatas.
 
 **Função e operação:** mostrar profetas anunciando e sustentar a fala sobre espera por gerações e crença/dúvida. Elenco/humor permanecem no palco; ouvintes projetados são figuração histórica, não cópia das detentas. Entra na explicação “séculos antes”; sustenta falas sem timecodes/música própria; sai em “No princípio Ele já estava lá” para MM-10 em qualquer estado. Repetição futura por variação/movimento discreto, não quadro final duplicando Q01 por obrigação. Não antecipar Cristo, cosmos, bebê/presépio ou vídeo da MM-10.
 
@@ -945,7 +945,7 @@ Os prompts abaixo já repetem a instrução de imagem limpa; ao levá-los à fer
 
 **Função visual:** montagem curta simbólica sob fala variável. **Palco:** Religiosidade e demais atrizes conduzem a conversa na casa física. **Telão:** gestos cotidianos sintetizam comportamento destrutivo e fechamento; figuras humanas opcionais pelo briefing, adotadas como proposta de estudo, sem duplicar a conversa nem exigir filmagem das dez atrizes.
 
-**Fontes consultadas antes da geração:** guia canônico; este caderno e quadros históricos MM-14-Q01–Q04; briefing MM-14/MM-15; roteiro Cena 8; Bíblia v0.1 §§3/5.1/5.2/7.1; alinhamento das fontes; decisões D-03/D-13/D-25/D-28; mapa Cena 8; dependências; Melissa; fichas MM-03/MM-14/MM-15 e padrão de entrega. A transcrição original não está disponível.
+**Fontes consultadas antes da geração:** guia canônico; este caderno e quadros históricos MM-14-Q01–Q04; briefing MM-14/MM-15; roteiro Cena 8; Bíblia v0.1 §§3/5.1/5.2/7.1; alinhamento das fontes; decisões D-03/D-13/D-25/D-28; mapa Cena 8; dependências; Victor; fichas MM-03/MM-14/MM-15 e padrão de entrega. A transcrição original não está disponível.
 
 **Referência visual real:** [casa V03](<MM-03/STB MM03.jpg>), inspecionada e fornecida à ferramenta. Não reutilizar a v01 de MM-14. Casa modesta de cimento queimado, portas à esquerda, aparador central com relógio à esquerda, bandejinha sobre renda ao centro e menorá à direita; copa de tijolinho à direita, pia sob aéreo à esquerda da bancada e cooktop à direita. Sem mesa/sofá adicionais no LED, Bíblia, espelho ou porta-retrato. O Salmo 91 e a menorá pertencem à continuidade doméstica, sem associá-los à culpa.
 
@@ -1059,9 +1059,9 @@ Os prompts abaixo já repetem a instrução de imagem limpa; ao levá-los à fer
 
 > **Feedback posterior do usuário · 16/10/2026:** MM-14 v01 não aprovada por não corresponder ao roteiro/ambientação da casa. Reformular somente após estabelecer MM-03, conforme D-03. Q01–Q04 e geração abaixo são histórico, sem referência aceita de casa, elenco ou próxima versão.
 
-**Cena:** 8 · Bloco IV. **Responsável:** Melissa. **Situação:** proposta v01 de 16/10/2026, sem aprovação presumida. **Fontes:** briefing v1.0/MM-14 e MM-15; roteiro Cena 8; D-00; mapa de cenas; dependências; página de Melissa; fichas MM-14/MM-15 e guia canônico de construção.
+**Cena:** 8 · Bloco IV. **Responsável:** Victor. **Situação:** proposta v01 de 16/10/2026, sem aprovação presumida. **Fontes:** briefing v1.0/MM-14 e MM-15; roteiro Cena 8; D-00; mapa de cenas; dependências; página de Victor; fichas MM-14/MM-15 e guia canônico de construção.
 
-**Função, gatilho e costuras:** sintetizar comportamento destrutivo e aprisionamento antes da restauração. A página de Melissa indica a entrada na recapitulação “Cada uma de nós estava vivendo a sua vida da forma que queria...”; o mapa destaca “nos atolamos em nossos pecados e nos aprisionamos”. Proposta: iniciar discretamente na recapitulação e intensificar o fechamento na frase de aprisionamento; validar cue no ensaio. Saída em “Ele curou, ensinou e perdoou as pessoas”, entrada do MM-15/Lucas. Sem fornecedor/frame de entrada definido; alinhar com Lucas ritmo de corte e tratamento de cor.
+**Função, gatilho e costuras:** sintetizar comportamento destrutivo e aprisionamento antes da restauração. A página de Victor indica a entrada na recapitulação “Cada uma de nós estava vivendo a sua vida da forma que queria...”; o mapa destaca “nos atolamos em nossos pecados e nos aprisionamos”. Proposta: iniciar discretamente na recapitulação e intensificar o fechamento na frase de aprisionamento; validar cue no ensaio. Saída em “Ele curou, ensinou e perdoou as pessoas”, entrada do MM-15/Lucas. Sem fornecedor/frame de entrada definido; alinhar com Lucas ritmo de corte e tratamento de cor.
 
 **Controle e arco:** montagem curta Q01 → Q02 → Q03 → Q04; não é loop integral ou playback musical. Os quadros resumem apego, raiva, ocultação e isolamento, sem catálogo literal de pecados. Cortes simples a ajustar à fala, sem tempos inventados. Sustentar Q04 durante a fala intermediária que menciona o nascimento de Jesus, sem introduzir outro bloco de imagens ou antecipar restauração. O último estado pode ter movimento cíclico discreto para cobrir duração variável; não medir duração pela prancha.
 
@@ -1132,7 +1132,7 @@ Os prompts abaixo já repetem a instrução de imagem limpa; ao levá-los à fer
 ### Registro de geração · MM-14-Q01 a MM-14-Q04 · prancha v01
 
 - **Data / executor:** 16/10/2026 · Codex, a pedido do usuário.
-- **Diretrizes/fontes e IDs consultados:** guia de construção; contrato MM-14 e Q01/Q02/Q03/Q04 escritos antes da geração; briefing MM-14/MM-15; roteiro Cena 8; D-00; mapa de cenas; dependências; Melissa; fichas MM-14/MM-15. Entrada na recapitulação é proposta, com ênfase no aprisionamento e cue a validar no ensaio.
+- **Diretrizes/fontes e IDs consultados:** guia de construção; contrato MM-14 e Q01/Q02/Q03/Q04 escritos antes da geração; briefing MM-14/MM-15; roteiro Cena 8; D-00; mapa de cenas; dependências; Victor; fichas MM-14/MM-15. Entrada na recapitulação é proposta, com ênfase no aprisionamento e cue a validar no ensaio.
 - **Referências realmente usadas:** somente texto derivado dos documentos; nenhuma foto de atriz, personagem ou ambiente aceita. Identidade genérica e figurino são propostas de estudo.
 - **Prompt efetivamente enviado:** íntegra em [MM-14/prompt-prancha-v01.txt](MM-14/prompt-prancha-v01.txt), para os quatro IDs. Ferramenta `image_gen.imagegen`, `transparent_background=false`, sem imagens de referência.
 - **Original:** `/workspace/generated_images/exec-6ca88fdd-fed6-4eff-9a40-b8370df4d387.png`, PNG 1536×1024, 1,997,473 bytes; preservado fora do repositório, sem envio ao Drive.
@@ -1282,7 +1282,7 @@ Referência única V03, aprovada pelo usuário ao reenviar a imagem com renda; v
 
 **Contrato visual aceito:** mesma paisagem da criação MM-04 (árvore à esquerda, água central, margens/pedras/colinas) e dois adultos recorrentes. Corpos irradiam luz intensa no começo; emissão diminui revelando forma física; fundo ganha sombra/peso. Corpo oculto por desfoque, rostos/mãos/gestos legíveis, sem exposição de detalhes íntimos. Q02 entrega, Q03 mordida, Q05 percepção, Q06 desespero com mãos na cabeça, troncos encurvados e olhares mútuos, no ambiente mais sombrio. Aparência/posição/desfoque da V03 aceita são a referência; não restituir roupas ou usar personagens das versões excluídas por inferência.
 
-**Função e controle:** transformação simbólica no telão; detentas e mesa permanecem no palco, sem duplicar elenco. Recebe de Melissa/MM-04 na fala “escolheu viver longe de Deus”; mantém estado final sob lista de pecados, promessa e diálogo; entrega a Isaac/MM-06 em “Enviando alguém pra nos salvar”. Não antecipar cruz/Jesus/bebê ou montar cada pecado. Controle por fala variável, sem tempos medidos; loop/câmera fixa futura não produzidos.
+**Função e controle:** transformação simbólica no telão; detentas e mesa permanecem no palco, sem duplicar elenco. Recebe de Victor/MM-04 na fala “escolheu viver longe de Deus”; mantém estado final sob lista de pecados, promessa e diálogo; entrega a Isaac/MM-06 em “Enviando alguém pra nos salvar”. Não antecipar cruz/Jesus/bebê ou montar cada pecado. Controle por fala variável, sem tempos medidos; loop/câmera fixa futura não produzidos.
 
 | ID estável | Estado aceito da V03 | Continuidade/animação futura |
 | --- | --- | --- |
@@ -1502,7 +1502,7 @@ D-47 autoriza esta derivação em imagem individual, mantendo a parede e a abert
 
 **Função visual:** montagem narrativa curta de ações humanas. **Palco:** Religiosidade narra e as personagens respondem na casa. **Telão:** ilustra o ministério narrado em ambiente bíblico, sem duplicar a conversa atual. **Personagens no telão:** necessárias para cura, ensino, perdão e acolhimento conforme briefing. Desfoque/translucidez D-50/D-51 são específicos da MM-14; não estendê-los automaticamente ao Jesus e aos sujeitos desta montagem.
 
-**Costura/controle:** recebe MM-14/Melissa no estado frio Q10, três pessoas afastadas e calor residual. Entra em “Enquanto Ele estava na terra, Ele curou, ensinou e perdoou as pessoas”; mudança visual no início de “Ele curou”, a ensaiar. Contrastar isolamento com proximidade humana e calor. Não transportar as detentas nem a casa para a história bíblica. Destinatário/arquivo seguinte não atribuído: diálogo conduz a Brilha Tua Luz, com P-08/P-15 abertas. Sustentação de Q04 sob diálogo é proposta, não cue aprovado. Sem música própria, master, timecodes ou forma de onda; duração medida no ensaio.
+**Costura/controle:** recebe MM-14/Victor no estado frio Q10, três pessoas afastadas e calor residual. Entra em “Enquanto Ele estava na terra, Ele curou, ensinou e perdoou as pessoas”; mudança visual no início de “Ele curou”, a ensaiar. Contrastar isolamento com proximidade humana e calor. Não transportar as detentas nem a casa para a história bíblica. Destinatário/arquivo seguinte não atribuído: diálogo conduz a Brilha Tua Luz, com P-08/P-15 abertas. Sustentação de Q04 sob diálogo é proposta, não cue aprovado. Sem música própria, master, timecodes ou forma de onda; duração medida no ensaio.
 
 **Contrato visual proposto:** ilustração cinematográfica realista e reverente, ambientes bíblicos simples de pedra clara, terra e vegetação discreta. Jesus adulto de aparência levantina, pele oliva, cabelos escuros ondulados até os ombros, barba curta, túnica de linho cru e manto bege; mesma identidade nos quatro quadros. Esta aparência é estudo artístico sem equivalência aprovada com ator ou outras MMs. Poucos figurantes adultos com roupas terrosas. Referência de identidade entre peças ainda não recebida. Não especificar milagres, personagens bíblicos ou passagens que o texto não nomeia.
 

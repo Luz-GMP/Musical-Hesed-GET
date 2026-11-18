@@ -2,7 +2,7 @@
 
 | | |
 | --- | --- |
-| **Responsável / cena** | Melissa · Cena 5 · Bloco III |
+| **Responsável / cena** | Victor · Cena 5 · Bloco III |
 | **Versão / situação** | **Novo estudo v03**, criado do zero · 16/10/2026 · proposta para revisão |
 | **Recebe de** | Frame/fornecedor de entrada não definido |
 | **Entrega para** | Eduardo/MM-10: estado visual e paleta; costura a alinhar |
@@ -49,7 +49,7 @@ Quatro composições por função, não quatro variações do mesmo grupo pregan
 
 ## Fontes e arquivo
 
-[Roteiro Cena 5](../../docs/roteiro.md), [briefing MM-09](../../docs/briefing.md), [Bíblia](../../docs/fontes/HESED_Biblia_de_Producao_v0_1.md) §§3/5.2/9, [D-25/D-26/D-27](../../docs/decisoes.md), [alinhamento](../../docs/alinhamento-das-fontes.md), [Melissa](../../equipe/melissa.md), [mapa](../../docs/mapa-de-cenas.md), [dependências](../../docs/dependencias.md), [guia](../guia-de-construcao.md) e [briefings por quadro](../briefings-dos-quadros.md#mm-09--profetas). Transcrição original ausente (P-14).
+[Roteiro Cena 5](../../docs/roteiro.md), [briefing MM-09](../../docs/briefing.md), [Bíblia](../../docs/fontes/HESED_Biblia_de_Producao_v0_1.md) §§3/5.2/9, [D-25/D-26/D-27](../../docs/decisoes.md), [alinhamento](../../docs/alinhamento-das-fontes.md), [Victor](../../equipe/victor.md), [mapa](../../docs/mapa-de-cenas.md), [dependências](../../docs/dependencias.md), [guia](../guia-de-construcao.md) e [briefings por quadro](../briefings-dos-quadros.md#mm-09--profetas). Transcrição original ausente (P-14).
 
 - Ferramenta `image_gen.imagegen`, fundo opaco, geração nova **sem referências de imagem**.
 - Original: `/workspace/generated_images/exec-db235b08-230e-4182-a9ba-5f2496e2bb8d.png`, PNG 1672×941, 2716118 bytes, fora do repositório.

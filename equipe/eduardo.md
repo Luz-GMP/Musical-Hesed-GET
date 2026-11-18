@@ -3,7 +3,7 @@
 **Perfil do conjunto:** playback musical, animação conceitual, sequência celestial e fechamento do filme final.
 **Blocos:** II, III e IV · **Peças:** MM-07, MM-10, MM-13, MM-16D
 
-**Costuras:** recebe o bebê de Isaac (MM-06) · recebe os profetas de Melissa (MM-09) · entrega o universo para Isaac (MM-11) · recebe o estábulo de Lucas (MM-12) · entrega o 16D para Lucas (conform).
+**Costuras:** recebe o bebê de Isaac (MM-06) · recebe os profetas de Victor (MM-09) · entrega o universo para Isaac (MM-11) · recebe o estábulo de Lucas (MM-12) · entrega o 16D para Lucas (conform).
 
 ---
 
@@ -43,7 +43,7 @@
 
 **Nota do roteiro:** o texto é falado com pausas ("Nele estava a vida… e essa vida era a luz dos homens…"). Vale ter a duração ensaiada da fala; se variar muito, preparar a peça com um trecho final em loop.
 
-- [ ] Receber último estado do MM-09 (Melissa)
+- [ ] Receber último estado do MM-09 (Victor)
 - [ ] Alpha
 - [ ] Enviar último estado ao Isaac (MM-11)
 - [ ] Teste no telão

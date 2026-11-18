@@ -25,7 +25,7 @@ Os identificadores `FB-C…` abaixo servem apenas para localizar instruções ne
 | FB-C3-03 · Fim da criação | Volta cozinha à direita/preto à esquerda. | Volta luz na mesa. | Preservar a sequência posterior de queda/regressão do roteiro, que o feedback não cancelou. |
 | FB-C3-04 · Nasceu em Belém | Vídeo das estrelas. | Luz laranja e azul. | Conferir com MM-07/Eduardo, responsável original do playback, e a saída de MM-06/Isaac. A menção às estrelas não cancela automaticamente a costura do bebê. |
 | FB-C4-01 · Conversa e Maravilhosa Graça | Casa em metade cozinha/preto; durante a música, cortes da Páscoa. | Roxo claro durante a música. | Associação documental: MM-08/Isaac, distinta do recap MM-02. Preservar divisão de takes e conferir quais arquivos serão usados. Não confundir esta faixa com Maravilhosa Graça da Cena 9. |
-| FB-C5-01 · Profetas | Entrada como visão/imaginação de Mari, com referência “as visões da raven”. | Efeito/áudio da referência não especificados. | Revisar a entrada do MM-09/Melissa; não converter a referência em humor sobre o conteúdo bíblico nem copiar automaticamente trecho de série. |
+| FB-C5-01 · Profetas | Entrada como visão/imaginação de Mari, com referência “as visões da raven”. | Efeito/áudio da referência não especificados. | Revisar a entrada do MM-09/Victor; não converter a referência em humor sobre o conteúdo bíblico nem copiar automaticamente trecho de série. |
 | FB-C5-02 · Luz do Mundo | Vídeo do “mundinho”. | Luz toda branca. | Conferir significado/arquivo com MM-11/Isaac e a passagem MM-10/Eduardo. Termo não resolve sozinho a divergência entre playback abstrato e narração figurativa. |
 | FB-C5-03 · Fim de Luz do Mundo | Volta cozinha à direita/preto à esquerda; personagens entram nesse momento. | Iluminar personagens: primeiro Maria/anjo embaixo, lado do teclado; depois José/anjo embaixo, lado da bateria. | Corrige a indicação antiga de entrada dos personagens durante a música. Não converter teclado/bateria em esquerda/direita sem planta. |
 | FB-C5-04 · Noite Santa | Usar MM-13. | Luz leve que preserve leitura de figurino roxo escuro; cor ainda aberta. | Feedback posiciona MM-13 aqui, antes de MM-12. Rever sua montagem e continuidade com Eduardo/Lucas; não renumerar a peça. |
@@ -34,7 +34,7 @@ Os identificadores `FB-C…` abaixo servem apenas para localizar instruções ne
 | FB-C7-02 · “uma multidão de anjos apareceu” | Entrar imagem de vários anjos incluindo/derivada do MM12 Q06, conforme texto recebido. | Disparo pela fala. | O estado com anjos não está presente no JPG local inspecionado. Manter a base existente; identificar material recebido ou planejar nova variante sem sobrescrevê-la. |
 | FB-C7-03 · Santo pra Sempre | Vídeo das gerações louvando; Maria/José/manjedoura na caixa de som do lado da bateria. | Luz a definir **depois de ver o vídeo**. | Não atribuir esse novo vídeo ao MM-13 por automatismo, pois o feedback coloca MM-13 em Noite Santa. Confirmar material, duração e responsável; posicionamento cênico deve ser combinado com a operação. |
 | FB-C7-04 · Fim da música | Sai a manjedoura; retorna cozinha à direita/preto à esquerda. | Saída pelo fim musical. | Preparar retorno antes da recapitulação da Cena 8. |
-| FB-C8-01 · Recapitulação | “Entra MM15”: refresh do começo, rebobinando pecados → nascimento com imagens reutilizadas → ensinou/curou/etc. | Disparos por falas; sem duração imposta. | No briefing, pecados eram MM-14/Melissa e vida/atos MM-15/Lucas. O feedback pede uma sequência integrada; cruzar os acervos sem apagar autoria nem excluir MM-14 por omissão. |
+| FB-C8-01 · Recapitulação | “Entra MM15”: refresh do começo, rebobinando pecados → nascimento com imagens reutilizadas → ensinou/curou/etc. | Disparos por falas; sem duração imposta. | No briefing, pecados eram MM-14/Victor e vida/atos MM-15/Lucas. O feedback pede uma sequência integrada; cruzar os acervos sem apagar autoria nem excluir MM-14 por omissão. |
 | FB-C8-02 · “ele já nos libertou” | Retorno à sala. | Luz não especificada para esta transição. | A fonte diz “entra sala”; confirmar se retorna ao mesmo estado de cozinha/preto ou ao panorama completo. Não presumir o enquadramento. |
 | FB-C8-03 · “Ele nasceu, e isso muda tudo” | Texto em destaque e Jesus bebê. | Ênfase conforme fala coletiva. | Alteração explícita de conteúdo projetado: reservar revisão de legibilidade e identidade do bebê. Não regerar imagens já usadas; conferir as fontes aceitas. |
 | FB-C8-04 · Brilha Tua Luz | Montar vídeo próprio. | Música recebida da produção, master ainda a identificar. | Necessidade audiovisual confirmada pelo feedback, mas sem arquivo, briefing completo ou responsável definidos. Não criar novo código MM ou atribuir automaticamente a Lucas. |
@@ -47,7 +47,7 @@ A conversa [“Entender divisão MM16”](https://chatgpt.com/c/6add1b13-76d8-83
 
 | Pacote de origem | Responsável | Conteúdo |
 | --- | --- | --- |
-| MM-16A | Melissa | Cegueira → visão |
+| MM-16A | Victor | Cegueira → visão |
 | MM-16B | Lucas | Prisão → liberdade |
 | MM-16C | Isaac | Nascimento → vida |
 | MM-16D | Eduardo | Morte → ressurreição |
@@ -65,7 +65,7 @@ No snapshot, **MM-16D-Q07 = A caminhada**. A descrição de cortar Q01–Q06 é 
 2. **Abertura:** marcar canto dos anjos na luz branca, distinguindo início da expansão e branco pleno. A prévia MM01 V04 local tem 13 s/24 fps e não possui áudio; seu timing não é um cue musical aprovado por este feedback.
 3. **Casa:** lado definido (direita); enquadramento, fronteira da máscara e retorno “sala” da Cena 8 a revisar com a planta. Dimensão física não define metade do raster do LED.
 4. **Anjos:** resolver a menção na Cena 6 versus o gatilho explícito na Cena 7. A base MM12-Q06 existe, mas não contém a multidão; confirmar a variante com anjos sem alterar o JPG original.
-5. **Coordenação:** MM-13 antecipada para Noite Santa exige revisão da costura de Lucas/Eduardo; Cena 8 exige alinhamento Melissa/Lucas. Vídeos de Santo pra Sempre/Brilha Tua Luz precisam de dono confirmado; o feedback não redistribui toda a equipe.
+5. **Coordenação:** MM-13 antecipada para Noite Santa exige revisão da costura de Lucas/Eduardo; Cena 8 exige alinhamento Victor/Lucas. Vídeos de Santo pra Sempre/Brilha Tua Luz precisam de dono confirmado; o feedback não redistribui toda a equipe.
 6. **Operação final:** confirmar trecho falado, master musical, cue do último refrão, vídeo versus luz cênica e ensaio. A dança retirada refere-se à Cena 9; não cancelar as demais coreografias.
 
 ## Fontes verificadas e limites

@@ -23,7 +23,7 @@ Chegada à mesa: **cozinha à direita, preto à esquerda, vista pela plateia**, 
 
 | Gatilho | Telão / palco | Som / luz | Responsável de origem / conferência |
 | --- | --- | --- | --- |
-| Explicação da criação | Referência MM-04/criação; o roteiro antigo marca “Não tinha dor” para mudança visual | Música entra **durante** “Deus criou tudo perfeito”, crescendo; mesa amarela, foco branco inicial em Alana | Melissa/MM-04. Conciliar entrada de som e mudança visual; a frase não encerra toda a Cena3. |
+| Explicação da criação | Referência MM-04/criação; o roteiro antigo marca “Não tinha dor” para mudança visual | Música entra **durante** “Deus criou tudo perfeito”, crescendo; mesa amarela, foco branco inicial em Alana | Victor/MM-04. Conciliar entrada de som e mudança visual; a frase não encerra toda a Cena3. |
 | “Então Deus falou haja luz” | Continuidade do número | Expansão verde clara; retirar foco de Alana | Marcar no áudio/interpretação real. |
 | Fim da música | Volta cozinha direita/preto esquerda | Volta luz na mesa | Operação MM-03. |
 | “Deu errado quando o ser humano escolheu viver longe de Deus” | MM-05/queda | Luz mais pesada conforme roteiro | Lucas; V03 aprovada preservada. Não cancelada pelo feedback resumido. |
@@ -38,7 +38,7 @@ Casa em cozinha direita/preto esquerda. Durante **Maravilhosa Graça desta cena*
 
 | Gatilho | Telão / palco | Som / luz | Conferência |
 | --- | --- | --- | --- |
-| Profetas / imaginação de Mari | MM-09, entrada com referência “as visões da raven” | Efeito ainda não detalhado | Melissa; não implica usar trecho da série ou mudar o tom bíblico. |
+| Profetas / imaginação de Mari | MM-09, entrada com referência “as visões da raven” | Efeito ainda não detalhado | Victor; não implica usar trecho da série ou mudar o tom bíblico. |
 | Explicação de Cristo eterno | MM-10/universo conforme roteiro de origem | Fala | Eduardo; omitido no feedback não significa retirado. |
 | Luz do Mundo | Vídeo do “mundinho” | Luz toda branca | Isaac/MM-11; identificar arquivo e versão (P-10/P-18). |
 | Fim da música | Retorno cozinha/preto; **agora** entram personagens | Maria/anjo embaixo junto ao teclado; depois José/anjo junto à bateria, com focos | Atualiza a entrada antiga durante a música. Não converter posições dos instrumentos sem planta. |
@@ -59,7 +59,7 @@ MM-12/Lucas: caminho→Belém→chegada→abrigo. O feedback também menciona �
 
 ## Cena8 · Recapitulação, afirmação e Brilha Tua Luz
 
-1. Entra a sequência chamada MM15 no feedback: refresh/rebobinar dos pecados→nascimento com imagens já usadas→ensinou/curou/etc. O material de pecados era MM14/Melissa e vida/atosMM15/Lucas; integrar sem apagar a autoria ou considerar módulos cancelados.
+1. Entra a sequência chamada MM15 no feedback: refresh/rebobinar dos pecados→nascimento com imagens já usadas→ensinou/curou/etc. O material de pecados era MM14/Victor e vida/atosMM15/Lucas; integrar sem apagar a autoria ou considerar módulos cancelados.
 2. Em “ele já nos libertou”, voltar à sala. Confirmar panorama completo versus estado cozinha/preto.
 3. Em “Ele nasceu, e isso muda tudo”, texto em destaque e Jesus bebê, com reaproveitamento de fonte aceita e revisão de legibilidade.
 4. **Brilha Tua Luz requer vídeo próprio**, segundo feedback. Briefing, master, arquivo e responsável ainda abertos; não criar novo códigoMM por inferência.
@@ -67,7 +67,7 @@ MM-12/Lucas: caminho→Belém→chegada→abrigo. O feedback também menciona �
 
 ## Cena9 · Filme final único e luzes de Natal
 
-**MM16 é um único filme.** Sua divisão original A/Melissa (cegueira→visão), B/Lucas (prisão→liberdade), C/Isaac (nascimento→vida), D/Eduardo (morte→ressurreição), com conform deLucas, está preservada como organização de produção. A [proposta recuperada do chat](contexto-MM16-2026-10-24.md) é montar os materiais pela música, não concatenar obrigatoriamente quatro quartos de faixa. Ainda não há aprovação posterior dessa proposta como montagem final.
+**MM16 é um único filme.** Sua divisão original A/Victor (cegueira→visão), B/Lucas (prisão→liberdade), C/Isaac (nascimento→vida), D/Eduardo (morte→ressurreição), com conform deLucas, está preservada como organização de produção. A [proposta recuperada do chat](contexto-MM16-2026-10-24.md) é montar os materiais pela música, não concatenar obrigatoriamente quatro quartos de faixa. Ainda não há aprovação posterior dessa proposta como montagem final.
 
 O feedback pede seleção “Q07 em diante”, sem as seis primeiras; identificar a prancha antes de cortar, pois MM16D-Q07 é apenas uma hipótese (P-16). **A dança sai deste número**, o trecho falado da música ganha ênfase audiovisual e as luzes de Natal recebem impacto no último refrão. Não cancelar outras danças ou excluir arquivos por causa desse corte de seleção.
 

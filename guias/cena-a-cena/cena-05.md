@@ -2,7 +2,7 @@
 
 [Voltar ao guia](README.md) · Storyboard geral v03, pp. 62–83.
 
-**Quem prepara:** Melissa · MM-09 · Eduardo · MM-10 e MM-13 · Isaac · MM-11
+**Quem prepara:** Victor · MM-09 · Eduardo · MM-10 e MM-13 · Isaac · MM-11
 
 Mari passa da espera dos profetas à identidade de Jesus. Depois da música, a narrativa volta à casa e os personagens bíblicos entram no palco. Só então vem Ó Noite Santa.
 
@@ -11,7 +11,7 @@ Mari passa da espera dos profetas à identidade de Jesus. Depois da música, a n
 ### 1. Cobiça pede que conte a história. Mari começa “Bom, séculos antes de Jesus nascer”
 
 - **No palco.** A plateia precisa perceber que está entrando na imaginação de Mari.
-- **No telão.** Melissa prepara a passagem da casa para os profetas com a linguagem de As Visões da Raven. O efeito exato continua em revisão. Os quadros v03 passam por anúncio, espera e crença ou dúvida.
+- **No telão.** Victor prepara a passagem da casa para os profetas com a linguagem de As Visões da Raven. O efeito exato continua em revisão. Os quadros v03 passam por anúncio, espera e crença ou dúvida.
 - **Para executar.** Primeiro mostrar a entrada e a saída da visão em poucos quadros. O estudo existente já oferece o conteúdo do meio.
 
 ### 2. Mari diz “No princípio Ele já estava lá.”
@@ -40,7 +40,7 @@ Mari passa da espera dos profetas à identidade de Jesus. Depois da música, a n
 
 ## Como preparar e passar adiante
 
-1. Melissa mostra como o primeiro quadro nasce da fala da Mari e onde a visão termina. Eduardo prepara a resposta com o primeiro quadro da MM-10. Conferir se quem vê entende a mudança de assunto.
+1. Victor mostra como o primeiro quadro nasce da fala da Mari e onde a visão termina. Eduardo prepara a resposta com o primeiro quadro da MM-10. Conferir se quem vê entende a mudança de assunto.
 2. Isaac apresenta o arquivo identificado como mundinho e o compara ao último quadro de Eduardo. A operação testa a volta para a cozinha antes de acender os dois focos.
 3. Eduardo e Lucas conferem juntos o fim de Ó Noite Santa e o começo do caminho. A referência de anjos reservada à Cena 7 fica identificada à parte.
 

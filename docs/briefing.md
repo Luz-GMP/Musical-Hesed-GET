@@ -29,7 +29,7 @@ A estrutura do espetáculo utilizada para a distribuição é: **Bloco I – cen
 | **Responsável** | **Presença no roteiro** | **Entregas** | **Perfil de execução** |
 | --- | --- | --- | --- |
 | **Victor** | Bloco I – Cenas 1 e 2 | MM-01, MM-02, MM-03 | Parte introdutória / recap. Briefing detalhado reservado. |
-| **Melissa** | Blocos II, III e IV | MM-04, MM-09, MM-14, MM-16A | Ambientação, loops, montagem curta e módulo simples do filme final. |
+| **Victor** | Blocos II, III e IV | MM-04, MM-09, MM-14, MM-16A | Ambientação, loops, montagem curta e módulo simples do filme final. |
 | **Isaac** | Blocos II, III e IV | MM-06, MM-08, MM-11, MM-16C | Montagem narrativa, arquivo de Goel, playback musical e módulo do filme final. |
 | **Eduardo** | Blocos II, III e IV | MM-07, MM-10, MM-13, MM-16D | Playback musical, animação conceitual, sequência celestial e fechamento do filme final. |
 | **Lucas** | Blocos II, III e IV | MM-05, MM-12, MM-15, MM-16B + conform MM-16 | Transformação visual, sequência narrativa, montagem e masterização do filme final. |
@@ -85,12 +85,12 @@ Regra de leitura: se a música cresce, o visual cresce; se a música respira, o 
 | --- | --- | --- | --- |
 | **Cena 1 – Pós-libertação** | Victor | MM-01 Exterior/entrada da prisão; MM-02 Flashback de Goel | Abertura + congelamento da discussão |
 | **Cena 2 – Transição/casa** | Victor | MM-03 Sala da casa | Após transição |
-| **Cena 3 – Princípio, queda e redenção** | Melissa / Lucas / Isaac / Eduardo | MM-04, MM-05, MM-06, MM-07 | Criação → queda → retorno temporal → Nasceu em Belém |
+| **Cena 3 – Princípio, queda e redenção** | Victor / Lucas / Isaac / Eduardo | MM-04, MM-05, MM-06, MM-07 | Criação → queda → retorno temporal → Nasceu em Belém |
 | **Cena 4 – O plano/graça** | Isaac | MM-08 Maravilhosa Graça / Goel | Definição de graça + canção |
-| **Cena 5 – Jesus, a luz do mundo** | Melissa / Eduardo / Isaac | MM-09, MM-10, MM-11 | Profetas → Cristo eterno → Luz do Mundo |
+| **Cena 5 – Jesus, a luz do mundo** | Victor / Eduardo / Isaac | MM-09, MM-10, MM-11 | Profetas → Cristo eterno → Luz do Mundo |
 | **Cenas 6–7 – Viagem e nascimento** | Lucas / Eduardo | MM-12, MM-13 | Viagem/Belém/estábulo → noite/estrela/pastores/anjos |
-| **Cena 8 – Resumo / nova vida** | Melissa / Lucas | MM-14, MM-15 | Pecados → vida e atos de Jesus |
-| **Cena 9 – Graça/final** | Melissa / Lucas / Isaac / Eduardo | MM-16A/B/C/D + conform | Filme final antes e durante Maravilhosa Graça |
+| **Cena 8 – Resumo / nova vida** | Victor / Lucas | MM-14, MM-15 | Pecados → vida e atos de Jesus |
+| **Cena 9 – Graça/final** | Victor / Lucas / Isaac / Eduardo | MM-16A/B/C/D + conform | Filme final antes e durante Maravilhosa Graça |
 
 7. Victor
 
@@ -98,7 +98,7 @@ Responsabilidade registrada: Bloco I – Cenas 1 e 2 | MM-01, MM-02 e MM-03.
 
 Briefing detalhado: **RESERVADO / A DEFINIR PELO PRÓPRIO RESPONSÁVEL.**
 
-8. Melissa
+8. Victor
 
 Perfil deste conjunto: **execução mais simples, baseada em ambientação, loops, montagem curta e módulo visual direto.**
 
@@ -107,7 +107,7 @@ MM-04 — Criação perfeita — vídeo/loop
 | **Cena / bloco** | Cena 3 — Bloco II |
 | --- | --- |
 | **Entrada / disparo** | Na fala “Não tinha dor”, seguindo para o número Há Muito Tempo Atrás. |
-| **Responsável** | Melissa |
+| **Responsável** | Victor |
 | **Tipo de entrega** | Criação perfeita — vídeo/loop |
 
 **Objetivo: **Criar a sensação de mundo perfeito, harmônico, vivo e luminoso antes da queda.
@@ -123,7 +123,7 @@ MM-09 — Profetas — loop
 | **Cena / bloco** | Cena 5 — Bloco III |
 | --- | --- |
 | **Entrada / disparo** | Quando a Religiosidade começa a explicar que, séculos antes, profetas anunciaram a vinda do Messias. |
-| **Responsável** | Melissa |
+| **Responsável** | Victor |
 | **Tipo de entrega** | Profetas — loop |
 
 **Objetivo: **Sustentar visualmente a fala sobre os profetas sem transformar a cena em aula projetada.
@@ -139,7 +139,7 @@ MM-14 — Resumo dos pecados — montagem curta
 | **Cena / bloco** | Cena 8 — Bloco IV |
 | --- | --- |
 | **Entrada / disparo** | Durante a recapitulação de como as personagens se aprisionaram em seus pecados. |
-| **Responsável** | Melissa |
+| **Responsável** | Victor |
 | **Tipo de entrega** | Resumo dos pecados — montagem curta |
 
 **Objetivo: **Representar visualmente aprisionamento, comportamento destrutivo e condição anterior das personagens.
@@ -155,7 +155,7 @@ MM-16A — Filme final — Cegueira → visão
 | **Cena / bloco** | Cena 9 — Bloco IV |
 | --- | --- |
 | **Entrada / disparo** | Abertura do filme final da graça, antes e durante Maravilhosa Graça. |
-| **Responsável** | Melissa |
+| **Responsável** | Victor |
 | **Tipo de entrega** | Filme final — Cegueira → visão |
 
 **Objetivo: **Abrir o filme final com a ideia de revelação: não enxergava → passa a enxergar.
@@ -310,7 +310,7 @@ MM-05 — Queda — silhuetas de luz
 
 **Resultado esperado: **A queda deve parecer a corrupção do mesmo mundo criado no MM-04, e não a entrada de um vídeo sem relação estética.
 
-**Integrações / dependências: **Receber de Melissa paleta/imagem-base do MM-04 antes de finalizar.
+**Integrações / dependências: **Receber de Victor paleta/imagem-base do MM-04 antes de finalizar.
 
 MM-12 — Viagem, cidade e estábulo — sequência
 
@@ -342,7 +342,7 @@ MM-15 — Vida e atos de Jesus — montagem
 
 **Resultado esperado: **A transição MM-14 → MM-15 deve ser percebida como aprisionamento → restauração.
 
-**Integrações / dependências: **Alinhar ritmo e tratamento de cor com Melissa.
+**Integrações / dependências: **Alinhar ritmo e tratamento de cor com Victor.
 
 MM-16B — Filme final — Prisão → liberdade
 
@@ -364,7 +364,7 @@ MM-16 — Conform e master do filme final
 
 **Responsável final: **Lucas.
 
-Lucas receberá os quatro módulos e fará a integração definitiva na ordem: **Melissa — cegueira → visão | Lucas — prisão → liberdade | Isaac — nascimento → vida | Eduardo — morte → ressurreição.**
+Lucas receberá os quatro módulos e fará a integração definitiva na ordem: **Victor — cegueira → visão | Lucas — prisão → liberdade | Isaac — nascimento → vida | Eduardo — morte → ressurreição.**
 
 O conform deverá uniformizar resolução, frame rate, cor, contraste, velocidade das transições, intensidade dos efeitos, entradas/saídas e sincronização com a música. O público não deve perceber quatro peças justapostas, mas um único filme.
 
@@ -432,11 +432,11 @@ A resolução, frame rate e codec finais dos vídeos devem ser congelados junto 
 
 | **Integração** | **Regra** |
 | --- | --- |
-| **Melissa → Lucas** | MM-04 entrega a base visual de criação para MM-05 construir a queda. |
+| **Victor → Lucas** | MM-04 entrega a base visual de criação para MM-05 construir a queda. |
 | **Isaac → Eduardo** | MM-06 termina no bebê e deve encaixar diretamente em MM-07 Nasceu em Belém. |
-| **Melissa → Eduardo → Isaac** | MM-09 profetas → MM-10 universo/criação → MM-11 Luz do Mundo devem formar uma progressão contínua. |
+| **Victor → Eduardo → Isaac** | MM-09 profetas → MM-10 universo/criação → MM-11 Luz do Mundo devem formar uma progressão contínua. |
 | **Lucas → Eduardo** | MM-12 viagem/estábulo precisa entregar naturalmente o espaço ao MM-13 nascimento/anjos. |
-| **Melissa → Lucas** | MM-14 pecados e MM-15 atos de Jesus formam um contraste deliberado: aprisionamento → restauração. |
+| **Victor → Lucas** | MM-14 pecados e MM-15 atos de Jesus formam um contraste deliberado: aprisionamento → restauração. |
 | **Todos → Lucas** | MM-16A/B/C/D precisam chegar com material de boa qualidade e margem de transição para o conform final. |
 
 **HESED — “Ele nasceu, e isso muda tudo.”**

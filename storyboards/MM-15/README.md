@@ -13,7 +13,7 @@ Do isolamento à proximidade: Jesus cura, ensina, perdoa e acolhe quem era rejei
 | Campo | Definição |
 | --- | --- |
 | Gatilho | “Enquanto Ele estava na terra, Ele curou, ensinou e perdoou as pessoas”; mudança para cura em “Ele curou”, a ensaiar |
-| Recebe de | MM-14/Melissa, estado Q10: casa com três figuras afastadas, sombras frias e calor residual |
+| Recebe de | MM-14/Victor, estado Q10: casa com três figuras afastadas, sombras frias e calor residual |
 | Entrega para | Destinatário/arquivo seguinte não atribuído; diálogo leva a Brilha Tua Luz, P-08/P-15 abertas |
 | Controle | Fala variável; sem música própria, segundos ou forma de onda |
 | Palco | Religiosidade narra e personagens respondem; não duplicar a conversa na projeção |
@@ -64,4 +64,4 @@ Geradas uma por vez a pedido do usuário, antes da publicação. Todas são PNGs
 
 ## Próximos passos
 
-Revisar as quatro bases e a identidade visual; alinhar com Melissa o corte MM-14-Q10 → MM-15-Q01 e com operação a saída após Q04. Após revisão, produzir alpha ajustado à fala. Avisar Melissa/Lucas quando a costura for definida; nenhuma mensagem enviada pelo assistente. P-01/P-08/P-13/P-15 permanecem abertas.
+Revisar as quatro bases e a identidade visual; alinhar com Victor o corte MM-14-Q10 → MM-15-Q01 e com operação a saída após Q04. Após revisão, produzir alpha ajustado à fala. Avisar Victor/Lucas quando a costura for definida; nenhuma mensagem enviada pelo assistente. P-01/P-08/P-13/P-15 permanecem abertas.

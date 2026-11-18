@@ -8,7 +8,7 @@
 
 | Campo | Definição |
 | --- | --- |
-| Responsável | Melissa |
+| Responsável | Victor |
 | Cena / função | 8 · Bloco IV · montagem curta simbólica dos pecados |
 | Controle | Fala variável; sem música própria, segundos ou forma de onda |
 | Entrada proposta | “Cada uma de nós estava vivendo a sua vida da forma que queria”; ênfase em “nos atolamos em nossos pecados e nos aprisionamos” |
@@ -62,7 +62,7 @@ Editada por `image_gen.imagegen` usando a prancha v03 local como referência ún
 
 Inspeção pelo Codex: pessoas inteiras desfocadas nos seis quadros, inclusive figuras parciais, mãos e botas; casa, objetos e textos com foco preservado. Poses, distanciamento, roupas escuras, seis IDs e gradação de luz mantidos, sem algemas/correntes. Pequenas variações gerativas de fundo/texto não equivalem a preservação pixel a pixel. Intensidade artística do desfoque segue para revisão; leitura em escala real depende de ensaio. Não houve animação ou teste de telão.
 
-Bases individuais produzidas conforme D-51 acima; sem alpha, envio ao Drive ou teste LED. P-01/P-13/P-15 continuam abertas. Avisar Melissa e Lucas sobre a nova proposta para alinhar a passagem; nenhuma mensagem enviada pelo assistente.
+Bases individuais produzidas conforme D-51 acima; sem alpha, envio ao Drive ou teste LED. P-01/P-13/P-15 continuam abertas. Avisar Victor e Lucas sobre a nova proposta para alinhar a passagem; nenhuma mensagem enviada pelo assistente.
 
 ## Histórico
 

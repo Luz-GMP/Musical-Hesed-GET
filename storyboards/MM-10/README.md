@@ -4,7 +4,7 @@
 | --- | --- |
 | **Responsável** | Eduardo |
 | **Cena** | 5 |
-| **Recebe de** | MM-09 (Melissa) |
+| **Recebe de** | MM-09 (Victor) |
 | **Entrega para** | MM-11 (Isaac) |
 | **Gatilho e música** | ver [mapa de cenas](../../docs/mapa-de-cenas.md) e [sua página](../../equipe/eduardo.md) |
 | **Pasta no Drive** | _a definir (P-13)_ |

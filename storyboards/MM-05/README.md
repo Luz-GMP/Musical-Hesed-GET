@@ -5,7 +5,7 @@
 | **Responsável** | Lucas |
 | **Cena / bloco** | 3 · Bloco II |
 | **Versão / situação** | **V03 oficial** · seis quadros · aprovada pelo usuário em 16/10/2026 (D-24) |
-| **Recebe de** | Melissa/MM-04: paisagem luminosa, paleta e estado corrente do loop |
+| **Recebe de** | Victor/MM-04: paisagem luminosa, paleta e estado corrente do loop |
 | **Entrega para** | Isaac/MM-06: “Enviando alguém pra nos salvar” |
 | **Entrada** | “Deu errado quando o ser humano escolheu viver longe de Deus” |
 | **Controle** | Fala variável; transformação e espera/loop, sem tempos medidos |

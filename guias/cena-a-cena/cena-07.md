@@ -30,7 +30,7 @@ O nascimento acontece num lugar simples. Mari conta o anúncio aos pastores. O m
 
 - **No palco.** Sai a manjedoura.
 - **No telão.** Voltar à cozinha noturna à direita, preto à esquerda. A casa prepara o pedido de recapitulação.
-- **Para executar.** Entregar a Melissa o mesmo fundo que inicia a Cena 8.
+- **Para executar.** Entregar a Victor o mesmo fundo que inicia a Cena 8.
 
 ## Como preparar e passar adiante
 

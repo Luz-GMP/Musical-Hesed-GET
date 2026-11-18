@@ -8,13 +8,13 @@ Acompanhe o espetáculo como a plateia vai vê-lo. Escolha a cena e comece pela 
 | --- | --- | --- | --- |
 | [1](cena-01.md) | [Da cadeia à liberdade](cena-01.md) | Victor · MM-01 e MM-02 | 3–33 |
 | [2](cena-02.md) | [As detentas chegam à casa da Mari](cena-02.md) | Victor · MM-03 | 34 |
-| [3](cena-03.md) | [A criação, a queda e a promessa](cena-03.md) | Melissa · MM-04 · Lucas · MM-05 · Isaac · MM-06 · Eduardo · MM-07 | 35–59 |
+| [3](cena-03.md) | [A criação, a queda e a promessa](cena-03.md) | Victor · MM-04 · Lucas · MM-05 · Isaac · MM-06 · Eduardo · MM-07 | 35–59 |
 | [4](cena-04.md) | [O que significa graça](cena-04.md) | Isaac · MM-08 · Victor · arquivo de Goel | 60–61 |
-| [5](cena-05.md) | [A visão de Mari e o anúncio a Maria e José](cena-05.md) | Melissa · MM-09 · Eduardo · MM-10 e MM-13 · Isaac · MM-11 | 62–83 |
+| [5](cena-05.md) | [A visão de Mari e o anúncio a Maria e José](cena-05.md) | Victor · MM-09 · Eduardo · MM-10 e MM-13 · Isaac · MM-11 | 62–83 |
 | [6](cena-06.md) | [O caminho até o abrigo](cena-06.md) | Lucas · MM-12 · recebe de Eduardo | 84–89 |
 | [7](cena-07.md) | [O anúncio e as gerações que louvam](cena-07.md) | Lucas · base da MM-12 · Eduardo · imagem derivada da MM-13 · vídeo da música sem responsável confirmado | 90–93 |
-| [8](cena-08.md) | [O que o nascimento muda para elas](cena-08.md) | Melissa · MM-14 · Lucas · MM-15 · vídeo de Brilha Tua Luz sem responsável confirmado | 94–102 |
-| [9](cena-09.md) | [Um filme para o final](cena-09.md) | Melissa · MM-16A · Lucas · MM-16B e montagem final · Isaac · MM-16C · Eduardo · MM-16D | 103–118 |
+| [8](cena-08.md) | [O que o nascimento muda para elas](cena-08.md) | Victor · MM-14 · Lucas · MM-15 · vídeo de Brilha Tua Luz sem responsável confirmado | 94–102 |
+| [9](cena-09.md) | [Um filme para o final](cena-09.md) | Victor · MM-16A · Lucas · MM-16B e montagem final · Isaac · MM-16C · Eduardo · MM-16D | 103–118 |
 
 ## Como usar na primeira vez
 
@@ -30,14 +30,14 @@ Acompanhe o espetáculo como a plateia vai vê-lo. Escolha a cena e comece pela 
 
 ## O que cada pessoa pode pegar agora
 
-- **Melissa, Cena 5.** Pode preparar com o que existe. Mostrar a atriz contando e, logo em seguida, a primeira imagem dos profetas. Identificar onde a visão termina e entregar esse ponto a Eduardo. [Abrir a cena](cena-05.md)
+- **Victor, Cena 5.** Pode preparar com o que existe. Mostrar a atriz contando e, logo em seguida, a primeira imagem dos profetas. Identificar onde a visão termina e entregar esse ponto a Eduardo. [Abrir a cena](cena-05.md)
 - **Isaac e Victor, Cena 4.** Pode preparar com o que existe. Abrir o registro de Goel, separar os planos de dívida, cruz e liberdade e comparar com os cortes que já aparecem no resumo da Cena 1. [Abrir a cena](cena-04.md)
-- **Melissa e Lucas, Cena 3.** Combinar uma passagem. Escolher juntos a fala em que a cozinha dá lugar à queda. Antes disso, em qualquer montagem de revisão, preservar a volta à mesa depois da criação. [Abrir a cena](cena-03.md)
+- **Victor e Lucas, Cena 3.** Combinar uma passagem. Escolher juntos a fala em que a cozinha dá lugar à queda. Antes disso, em qualquer montagem de revisão, preservar a volta à mesa depois da criação. [Abrir a cena](cena-03.md)
 - **Isaac e Eduardo, Cena 3.** Combinar uma passagem. Colocar lado a lado o bebê que encerra a fala e o céu estrelado que abriria a música. Decidir se há mais alguma imagem durante a canção. [Abrir a cena](cena-03.md)
 - **Isaac e produção, Cena 5.** Localizar um arquivo. Identificar o vídeo chamado de mundinho. Depois comparar sua primeira imagem com a última da narração de Eduardo. [Abrir a cena](cena-05.md)
 - **Produção, Cena 1.** Confirmar uma escolha. Escolher entre manter o exterior da cadeia durante o número ou retomar a foto do corredor no primeiro verso (00:13) e voltar ao exterior no primeiro refrão (00:47). [Abrir a cena](cena-01.md)
 - **Produção, Cena 7.** Confirmar uma escolha. Apontar os anjos sugeridos por página e decidir como eles convivem com as gerações louvando. Atribuir a montagem da música. [Abrir a cena](cena-07.md)
-- **Produção, Cena 8.** Escolher um conceito. Indicar quem fará Brilha Tua Luz e avaliar a proposta de três imagens baseada na letra. Melissa e Lucas podem antes acertar o fim da recapitulação. [Abrir a cena](cena-08.md)
+- **Produção, Cena 8.** Escolher um conceito. Indicar quem fará Brilha Tua Luz e avaliar a proposta de três imagens baseada na letra. Victor e Lucas podem antes acertar o fim da recapitulação. [Abrir a cena](cena-08.md)
 - **Direção e Lucas, Cena 9.** Confirmar uma referência. Abrir a p. 112, identificar de qual prancha sai o Q07 e localizar o roteiro detalhado. Só depois fechar a seleção final com os quatro responsáveis. [Abrir a cena](cena-09.md)
 
 ## As nove músicas na ordem do espetáculo

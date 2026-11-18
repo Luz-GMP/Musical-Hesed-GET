@@ -36,7 +36,7 @@ Mudou um quadro em revisão? O histórico Git guarda a anterior. Preserve a imag
 | Peça | Responsável |
 | --- | --- |
 | [MM-01](MM-01/) · [MM-02](MM-02/) · [MM-03](MM-03/) | Victor |
-| [MM-04](MM-04/) · [MM-09](MM-09/) · [MM-14](MM-14/) · [MM-16A](MM-16A/) | Melissa |
+| [MM-04](MM-04/) · [MM-09](MM-09/) · [MM-14](MM-14/) · [MM-16A](MM-16A/) | Victor |
 | [MM-06](MM-06/) · [MM-08](MM-08/) · [MM-11](MM-11/) · [MM-16C](MM-16C/) | Isaac |
 | [MM-07](MM-07/) · [MM-10](MM-10/) · [MM-13](MM-13/) · [MM-16D](MM-16D/) | Eduardo |
 | [MM-05](MM-05/) · [MM-12](MM-12/) · [MM-15](MM-15/) · [MM-16B](MM-16B/) | Lucas |
