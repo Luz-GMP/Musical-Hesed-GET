@@ -1,6 +1,10 @@
 # Storyboard · MM-15 · Vida e atos de Jesus
 
-**v01 · 24/10/2026 · estudo para revisão · responsável: Victor · Cena 8 / Bloco IV.**
+**Distribuição vigente · 19/11/2026.** Victor fecha as Cenas 1, 2 e 9. Isaac fecha as Cenas 3, 4 e 5. Eduardo (Dudu) fecha as Cenas 6, 7 e 8. Cada pessoa prepara e entrega suas cenas diretamente à operação. A MM-16 é integralmente de Victor. As músicas em ajuste por Isaac seguem a partir das versões existentes. [Guia de execução por pessoa](../../guias/cena-a-cena/quem-faz-as-musicas.md)
+
+**Para executar agora.** Eduardo retoma os quatro atos, a sala, a frase com o bebê e Brilha Tua Luz. [Falas e deixas da Cena 8](../../guias/cena-a-cena/cena-08.md).
+
+**v01 · 24/10/2026 · estudo para revisão · responsável: Eduardo · Cena 8 / Bloco IV.**
 
 ![Storyboard MM-15](<STB MM15.png>)
 
@@ -13,8 +17,8 @@ Do isolamento à proximidade: Jesus cura, ensina, perdoa e acolhe quem era rejei
 | Campo | Definição |
 | --- | --- |
 | Gatilho | “Enquanto Ele estava na terra, Ele curou, ensinou e perdoou as pessoas”; mudança para cura em “Ele curou”, a ensaiar |
-| Recebe de | MM-14/Victor, estado Q10: casa com três figuras afastadas, sombras frias e calor residual |
-| Entrega para | Victor prepara o retorno à sala, a frase com bebê e Brilha Tua Luz. |
+| Recebe de | Ver primeiro e último quadro no guia vigente da cena. |
+| Entrega para | Ver primeiro e último quadro no guia vigente da cena. |
 | Controle | Fala variável; sem música própria, segundos ou forma de onda |
 | Palco | Religiosidade narra e personagens respondem; não duplicar a conversa na projeção |
 | Telão | Ações humanas em ambiente bíblico, conforme briefing MM-15 |

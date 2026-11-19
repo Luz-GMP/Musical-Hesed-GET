@@ -1,12 +1,16 @@
 # Storyboard · MM-07 · Nasceu em Belém (playback)
 
+**Distribuição vigente · 19/11/2026.** Victor fecha as Cenas 1, 2 e 9. Isaac fecha as Cenas 3, 4 e 5. Eduardo (Dudu) fecha as Cenas 6, 7 e 8. Cada pessoa prepara e entrega suas cenas diretamente à operação. A MM-16 é integralmente de Victor. As músicas em ajuste por Isaac seguem a partir das versões existentes. [Guia de execução por pessoa](../../guias/cena-a-cena/quem-faz-as-musicas.md)
+
+**Para executar agora.** Isaac passa do bebê para o céu de estrelas em Nasceu em Belém e apresenta essa passagem para escolha da produção. [Falas e deixas da Cena 3](../../guias/cena-a-cena/cena-03.md).
+
 | | |
 | --- | --- |
-| **Responsável** | Eduardo |
+| **Responsável** | Isaac |
 | **Cena** | 3 |
-| **Recebe de** | MM-06 (Isaac) |
-| **Entrega para** | - |
-| **Gatilho e música** | ver [mapa de cenas](../../docs/mapa-de-cenas.md) e [sua página](../../equipe/eduardo.md) |
+| Recebe de | Ver primeiro e último quadro no guia vigente da cena. |
+| Entrega para | Ver primeiro e último quadro no guia vigente da cena. |
+| **Gatilho e música** | ver [mapa de cenas](../../docs/mapa-de-cenas.md) e [sua página](../../equipe/isaac.md) |
 | **Pasta no Drive** | _a definir (P-13)_ |
 
 Como preencher: [storyboards/README.md](../README.md).

@@ -1,72 +1,33 @@
-# Eduardo
+# Eduardo (Dudu) · Cenas 6, 7 e 8
 
-1. **Cena 3 · MM-07, Nasceu em Belém.** Receba o último bebê de Isaac e apresente a primeira imagem do céu. Teste a continuidade das estrelas e a leitura sob luz laranja e azul. As duas prévias rejeitadas ficam no histórico.
-2. **Cena 5 · MM-10.** Receba de Victor a saída da visão dos profetas. Leve o olhar do universo até a luz e mostre o último quadro a Isaac, que entra com o mundinho.
-3. **Cena 5 · MM-13, Ó Noite Santa.** Separe campo, estrela e pastores. Compare Q01 → Q02 → Q03 → Q02 com o início do caminho da MM-12 de Victor. A luz deve permitir a leitura do figurino roxo escuro.
-4. **Cena 7 · Santo pra Sempre.** Prepare o vídeo das gerações que louvam. Mostre primeiro quem esperou, quem louva hoje e as gerações reunidas. A direção escolhe sobre essa sequência e avalia a sugestão de uma inserção de anjos. A luz será definida depois. Ao fim, a operação volta à cozinha.
+**Primeiro passo.** Confira as bases da MM-12 e coloque o estábulo vazio e a v09 lado a lado. Depois abra a panorâmica MM-14 e os quatro quadros da MM-15. Identifique o que já serve à Cena 8 antes de propor novas imagens.
 
-**Primeira entrega prática:** as três imagens de Ó Noite Santa na ordem proposta. Já existem no acervo e permitem revisar a passagem à viagem.
+### 6. Caminho até o abrigo
 
-## MM-07 · Nasceu em Belém (playback visual)
+Receba de Isaac a indicação do último céu. Use as bases existentes da MM-12 para passar por caminho, Belém, chegada, busca de abrigo e estábulo conforme as falas. Termine no Q06 vazio e mantenha esse mesmo quadro ao abrir a Cena 7.
 
-| | |
-| --- | --- |
-| **Cena** | 3 · Bloco II |
-| **Gatilho** | Após a Ladra: "...desse jeito aí faz bem mais sentido mesmo" |
-| **Música** | Nasceu em Belém (Marcus Salles) |
-| **Tipo** | Playback visual |
+Abra [Cena 6](../guias/cena-a-cena/cena-06.md) para conferir as falas e imagens. As referências são [MM-12](../storyboards/MM-12/README.md).
 
-**Objetivo:** criar a paisagem visual do nascimento e acompanhar a dinâmica musical.
+- [ ] Registrar versão, link e deixa da cena na [linha de acompanhamento](../STATUS.md#fila-das-nove-cenas). Segurar o mesmo estábulo vazio da MM-12 ao entrar na Cena 7.
 
-**Execução:** Belém à distância → céu estrelado → caminho/cidade → luz/nascimento, com movimento sutil nas bases. Mapear crescimentos, impactos e clímax; frases só em pontos específicos. Impactos respondidos com luz, mudança de plano, expansão, corte ou partículas.
+### 7. Anúncio e gerações
 
-**Nota do roteiro:** o MM-06 do Isaac termina num loop do bebê que segura um diálogo antes da música (D-01, proposta). O MM-07 deve começar desse frame.
+Segure o estábulo vazio na primeira menção a um anjo. Na fala “uma multidão de anjos apareceu”, entre com a imagem aprovada v09. Mais tarde, em Santo pra Sempre, entram as gerações louvando. Mostre a seleção à direção antes de fechar a luz. Ao fim da música, sai a manjedoura e volta a cozinha.
 
-- [ ] Confirmar D-01 com Isaac
-- [ ] Receber frame/loop do bebê
-- [ ] Audio master (P-02) + mapa da faixa
-- [ ] Alpha sincronizado
-- [ ] Teste no telão
-- [ ] Final + editável + backup
+Abra [Cena 7](../guias/cena-a-cena/cena-07.md) para conferir as falas e imagens. As referências são [MM-12](../storyboards/MM-12/README.md) · [MM-13](../storyboards/MM-13/README.md) (MM-13 identifica a origem da variante com anjos).
 
-## MM-10 · Cristo eterno / universo / criação (animação)
+- [ ] Registrar versão, link e deixa da cena na [linha de acompanhamento](../STATUS.md#fila-das-nove-cenas). Guardar a variante com anjos para a fala da multidão. Voltar à cozinha após as gerações.
 
-| | |
-| --- | --- |
-| **Cena** | 5 · Bloco III |
-| **Gatilho** | Religiosidade: "No princípio Ele já estava lá." (exposição de João 1) |
-| **Termina** | Entrada de Luz do Mundo (MM-11) |
+### 8. Recapitulação e Brilha Tua Luz
 
-**Objetivo:** sair do registro histórico dos profetas para uma dimensão cósmica de eternidade, criação, vida e luz.
+Parta dessa cozinha e abra a panorâmica noturna iluminada da MM-14. Sustente a casa vazia durante as seis ações feitas pelas atrizes. Retome o bebê visto antes e siga com cura, ensino, perdão e acolhimento (MM-15). Volte à sala em “Ele já nos libertou!”. Mostre o bebê e a frase “ELE NASCEU, E ISSO MUDA TUDO.” Para Brilha Tua Luz, apresente luz junto ao bebê → ambiente → elenco. Marque a cortina ao final para a troca que antecede o filme de Victor.
 
-**Execução:** começar quase no escuro; pontos de luz, estrelas, expansão, dominância progressiva da luz. Imagens, zoom lento, partículas, máscaras, flare controlado. **Evitar estética de ficção científica**; buscar solenidade.
+Abra [Cena 8](../guias/cena-a-cena/cena-08.md) para conferir as falas e imagens. As referências são [MM-14](../storyboards/MM-14/README.md) · [MM-15](../storyboards/MM-15/README.md).
 
-**Nota do roteiro:** o texto é falado com pausas ("Nele estava a vida… e essa vida era a luz dos homens…"). Vale ter a duração ensaiada da fala; se variar muito, preparar a peça com um trecho final em loop.
+- [ ] Registrar versão, link e deixa da cena na [linha de acompanhamento](../STATUS.md#fila-das-nove-cenas). Marcar a cortina após Brilha Tua Luz para a troca antes da MM-16.
 
-- [ ] Receber último estado do MM-09 (Victor)
-- [ ] Alpha
-- [ ] Enviar último estado ao Isaac (MM-11)
-- [ ] Teste no telão
-- [ ] Final + editável + backup
+## Entregar à operação
 
-## MM-13 · Noite, estrela, pastores e anjos (sequência)
+Na ordem do palco, indique o arquivo e a versão, a fala ou ação que chama a entrada, o que se mantém no telão e o sinal de saída. Marque prévia ou aprovado e registre o link do Drive quando disponível. Se a entrada depender de ensaio, indique qual sinal falta testar.
 
-| | |
-| --- | --- |
-| **Cena** | 7 · Bloco III |
-| **Gatilho** | Nascimento e anúncio aos pastores |
-| **Música** | Ó Noite Santa · Cena 5 |
-
-**Objetivo:** crescer da intimidade do nascimento à glória celestial.
-
-**Execução:** uma base noturna que evolui: noite calma → estrela → campo → pastores → anúncio → céu se abrindo → anjos. Enriquecer a mesma paisagem em vez de trocar cenário.
-
-**Nota do roteiro:** Ó Noite Santa toca no fim da Cena 5, antes da viagem (Cena 6). Santo pra Sempre fecha a Cena 7. Eduardo prepara o vídeo das gerações separado da MM-13.
-
-- [ ] Resolver P-07
-- [ ] Entregar o último céu a Victor para a MM-12
-- [ ] Alpha
-- [ ] Teste no telão
-- [ ] Final + editável + backup
-
-[Guia definitivo por pessoa](../guias/cena-a-cena/quem-faz-as-musicas.md)
+[Plano das nove músicas, com quantidade e duração sugeridas](../guias/cena-a-cena/quem-faz-as-musicas.md) · [Passagens entre responsáveis](../docs/dependencias.md) · [Guia ilustrado em PDF](../guias/cena-a-cena/pdf/HESED-guia-de-cena.pdf)

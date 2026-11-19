@@ -1,26 +1,13 @@
-# Dependências de produção e operação
+# Passagens entre as nove cenas
 
-| Quem termina | O que a próxima pessoa precisa ver | Quem usa |
-| --- | --- | --- |
-| Victor · MM-05 | Último quadro da queda e fala sobre enviar alguém para salvar | Isaac começa a regressão MM-06 |
-| Isaac · MM-06 | Último bebê, sustentado no diálogo | Eduardo abre o céu da MM-07 |
-| Victor · MM-02 | Indicação dos cortes de Goel já usados | Isaac escolhe a Páscoa da Cena 4 |
-| Victor · MM-09 | Último quadro da visão dos profetas | Eduardo entra com o universo MM-10 |
-| Eduardo · MM-10 | Última luz da narração | Isaac abre o mundinho MM-11 |
-| Eduardo · MM-13 | Último céu de Ó Noite Santa | Victor abre o caminho MM-12 |
-| Victor · MM-12 | Q06 vazio sustentado; anjos v09 na fala da multidão | Operação prepara a entrada posterior das gerações de Eduardo |
-| Eduardo · Santo pra Sempre | Final da música | Operação volta à casa de Victor |
-| Victor · MM-14, MM-15 e Brilha Tua Luz | Casa, nascimento, atos de Jesus, frase, música e cortina | Operação da Cena 8 |
-| Victor · MM-16 | Filme final pronto, marca da parte falada e sinal do último refrão | Operação e iluminação |
+Victor fecha as Cenas 1, 2 e 9. Isaac fecha as Cenas 3, 4 e 5. Eduardo (Dudu) fecha as Cenas 6, 7 e 8.
 
-```mermaid
-flowchart LR
-  V05["Victor · queda"] --> I06["Isaac · bebê"] --> E07["Eduardo · estrelas"]
-  V09["Victor · profetas"] --> E10["Eduardo · universo"] --> I11["Isaac · mundinho"]
-  E13["Eduardo · noite"] --> V12["Victor · caminho"] --> G["Eduardo · gerações"]
-  V16["Victor · filme final completo"] --> OP["Operação e luz"]
-```
+| Virada | Sinal que a operação precisa conhecer |
+| --- | --- |
+| 2 → 3 · Victor → Isaac | Mesma cozinha V03-01 durante a conversa. Conferir a deixa do jardim. |
+| 5 → 6 · Isaac → Eduardo | Último céu de Ó Noite Santa e primeiro quadro do caminho. |
+| 8 → 9 · Eduardo → Victor | Cortina ao fim de Brilha Tua Luz. A MM-16 entra após a troca. |
 
-Victor produz a MM-16 inteira, incluindo seleção ou criação das imagens, eventual gravação, edição, finalização e entrega direta à operação. A–D identificam referências de acervo. O filme independe de qualquer material a preparar, separar ou enviar pelos demais.
+As viradas 1 → 2, 3 → 4, 4 → 5, 6 → 7 e 7 → 8 são resolvidas dentro do bloco da mesma pessoa. O bebê usado na recapitulação deve ser uma referência já vista pelo público. Isaac indica a Eduardo qual versão apareceu. Victor disponibiliza a Isaac os clipes de Goel para a MM-08. Os arquivos já preparados continuam no acervo.
 
-[Guia definitivo por pessoa](../guias/cena-a-cena/quem-faz-as-musicas.md)
+[Guia de execução por pessoa](../guias/cena-a-cena/quem-faz-as-musicas.md)

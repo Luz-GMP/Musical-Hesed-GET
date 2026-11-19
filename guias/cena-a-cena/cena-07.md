@@ -2,7 +2,7 @@
 
 [Voltar ao guia](README.md) · Storyboard geral v03, pp. 90–93.
 
-**Quem prepara:** Victor · MM-12. Eduardo · referência da MM-13 e vídeo das gerações de Santo pra Sempre.
+**Quem prepara:** Eduardo · estábulo, anúncio e Santo pra Sempre
 
 O nascimento acontece num lugar simples. Mari conta o anúncio aos pastores. O momento de ver a multidão é diferente do momento em que começa a música sobre as gerações.
 
@@ -30,7 +30,7 @@ O nascimento acontece num lugar simples. Mari conta o anúncio aos pastores. O m
 
 - **No palco.** Sai a manjedoura.
 - **No telão.** Voltar à cozinha noturna à direita, preto à esquerda. A casa prepara o pedido de recapitulação.
-- **Para executar.** Entregar a Victor o mesmo fundo que inicia a Cena 8.
+- **Para executar.** Manter o mesmo fundo que inicia a Cena 8.
 
 ## Como preparar e passar adiante
 

@@ -1,5 +1,5 @@
 # Lucas
 
-Sua carga de produção passou para Victor. Você está liberado de MM-05, MM-12, MM-15, Brilha Tua Luz, de todas as partes da MM-16 e da compilação do espetáculo. O material já feito permanece no acervo. A equipe segue sem precisar de envio, remontagem ou conferência sua.
+O guia atual lista os três responsáveis pela entrega das nove cenas. Victor fecha as Cenas 1, 2 e 9. Isaac fecha as Cenas 3, 4 e 5. Eduardo (Dudu) fecha as Cenas 6, 7 e 8.
 
-[Guia definitivo por pessoa](../guias/cena-a-cena/quem-faz-as-musicas.md)
+[Guia de execução por pessoa](../guias/cena-a-cena/quem-faz-as-musicas.md)

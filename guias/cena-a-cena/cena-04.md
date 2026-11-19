@@ -2,7 +2,7 @@
 
 [Voltar ao guia](README.md) · Storyboard geral v03, pp. 60–61.
 
-**Quem prepara:** Isaac · MM-08 · Victor disponibiliza os clipes no Drive
+**Quem prepara:** Isaac · MM-08 · cortes de Goel
 
 De volta à mesa, elas perguntam por que Jesus aceitaria morrer por elas. A resposta de Mari liga a dívida paga na cadeia ao perdão. O material da Páscoa precisa tornar essa ligação visível.
 

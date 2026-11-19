@@ -2,7 +2,7 @@
 
 [Voltar ao guia](README.md) · Storyboard geral v03, pp. 35–59.
 
-**Quem prepara:** Victor · MM-04 e MM-05 · Isaac · MM-06 · Eduardo · MM-07
+**Quem prepara:** Isaac · MM-04, MM-05, MM-06 e MM-07
 
 Mari conta de onde veio o pecado e por que Jesus veio ao mundo. A cena alterna a conversa à mesa, a dança da criação, a queda, a história contada de trás para frente e o número de Belém.
 
@@ -11,7 +11,7 @@ Mari conta de onde veio o pecado e por que Jesus veio ao mundo. A cena alterna a
 ### 1. Religiosidade começa o relato. No roteiro, a primeira referência à mudança de imagem é “Não tinha dor”
 
 - **No palco.** A mesa tem luz amarela. Alana começa no foco branco.
-- **No telão.** Preparar MM-04, o jardim íntegro. A deixa exata para tirar a casa do telão precisa ser acertada com Victor e a direção.
+- **No telão.** Preparar MM-04, o jardim íntegro. A deixa exata para tirar a casa do telão precisa ser acertada com Isaac e a direção.
 - **Para executar.** Durante “Deus criou tudo perfeito”, começar Há Muito Tempo Atrás e aumentar aos poucos. São duas ações distintas.
 
 ### 2. Na passagem cantada sobre Deus chamar a luz
@@ -24,7 +24,7 @@ Mari conta de onde veio o pecado e por que Jesus veio ao mundo. A cena alterna a
 
 - **No palco.** O diálogo volta à mesa, depois Mari explica a escolha de viver longe de Deus.
 - **No telão.** Passar à queda MM-05. Usar a sequência V03 aprovada, do jardim luminoso à consequência do fruto. Combinar em qual fala sai a cozinha.
-- **Para executar.** Victor reutiliza o jardim de referência e a deixa de reentrada. O visual pesado pertence à queda.
+- **Para executar.** Isaac reutiliza o jardim de referência e a deixa de reentrada. O visual pesado pertence à queda.
 
 ### 4. Religiosidade responde “Enviando alguém pra nos salvar”
 
@@ -35,13 +35,13 @@ Mari conta de onde veio o pecado e por que Jesus veio ao mundo. A cena alterna a
 ### 5. Após a conversa sobre Belém da Judeia
 
 - **No palco.** Entra Nasceu em Belém. A luz do palco é laranja e azul.
-- **No telão.** Eduardo recebe o bebê de Isaac e passa ao vídeo das estrelas solicitado. A forma dessa passagem e o vídeo a usar estão em aberto.
+- **No telão.** Isaac mantém o bebê até a deixa e passa ao vídeo das estrelas solicitado. A forma dessa passagem e o vídeo a usar estão em aberto.
 - **Para executar.** Os dez quadros da MM-07 são referências. V01 e V02 foram rejeitadas, e a tentativa com Antigravity foi encerrada.
 
 ## Como preparar e passar adiante
 
-1. Victor coloca lado a lado o retorno da cozinha e o primeiro quadro da queda. Escrevem a frase em que a tela troca e entregam essa indicação a quem opera.
-2. Isaac entrega a Eduardo o último quadro do bebê. Eduardo apresenta a imagem de estrelas que o sucederia. A produção vê ambos juntos e escolhe se o céu ocupará o número inteiro ou se haverá algum retorno narrativo.
+1. Isaac coloca lado a lado o retorno da cozinha e o primeiro quadro da queda. Isaac escreve a frase em que a tela troca e entrega essa indicação a quem opera.
+2. Isaac confere o último quadro do bebê e apresenta a imagem de estrelas que o sucederia. A produção vê ambos juntos e escolhe se o céu ocupará o número inteiro ou se haverá algum retorno narrativo.
 
 ## A letra e as imagens
 
@@ -52,7 +52,7 @@ Mari conta de onde veio o pecado e por que Jesus veio ao mundo. A cena alterna a
 **Do início à criação da luz.** A canção começa antes da existência do mundo. A luz é o primeiro acontecimento.
 
 - **O que aparece hoje.** MM04-Q01 já mostra dia claro, árvores e água. A imagem sozinha não mostra a luz surgindo. A produção entregou essa mudança à iluminação de Alana.
-- **Como aplicar.** Definir com luz e Victor quanto tempo se vê o jardim antes de o verde se expandir. Não avançar para o fruto.
+- **Como aplicar.** Definir com luz e Isaac quanto tempo se vê o jardim antes de o verde se expandir. Não avançar para o fruto.
 
 **Céu, água e seres vivos.** A letra amplia o olhar da paisagem para a diversidade da vida.
 

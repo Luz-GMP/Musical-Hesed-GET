@@ -1,12 +1,16 @@
 # Storyboard · MM-05 · Queda — da luz à forma humana
 
+**Distribuição vigente · 19/11/2026.** Victor fecha as Cenas 1, 2 e 9. Isaac fecha as Cenas 3, 4 e 5. Eduardo (Dudu) fecha as Cenas 6, 7 e 8. Cada pessoa prepara e entrega suas cenas diretamente à operação. A MM-16 é integralmente de Victor. As músicas em ajuste por Isaac seguem a partir das versões existentes. [Guia de execução por pessoa](../../guias/cena-a-cena/quem-faz-as-musicas.md)
+
+**Para executar agora.** Isaac usa os seis quadros aprovados V03 da queda. [Falas e deixas da Cena 3](../../guias/cena-a-cena/cena-03.md).
+
 | | |
 | --- | --- |
-| **Responsável** | Victor |
+| **Responsável** | Isaac |
 | **Cena / bloco** | 3 · Bloco II |
 | **Versão / situação** | **V03 oficial** · seis quadros · aprovada pelo usuário em 16/10/2026 (D-24) |
-| **Recebe de** | Victor/MM-04: paisagem luminosa, paleta e estado corrente do loop |
-| **Entrega para** | Isaac/MM-06: “Enviando alguém pra nos salvar” |
+| Recebe de | Ver primeiro e último quadro no guia vigente da cena. |
+| Entrega para | Ver primeiro e último quadro no guia vigente da cena. |
 | **Entrada** | “Deu errado quando o ser humano escolheu viver longe de Deus” |
 | **Controle** | Fala variável; transformação e espera/loop, sem tempos medidos |
 | **Drive** | A definir (P-13); nenhum upload realizado |
@@ -44,7 +48,7 @@ Detentas ouvem a história no palco com casa/mesa presentes fisicamente; não du
 
 ## Fontes e rastreabilidade
 
-[Briefing](../../docs/briefing.md) §11/MM-05 e §8/MM-04; [roteiro Cena 3](../../docs/roteiro.md); [Bíblia](../../docs/fontes/HESED_Biblia_de_Producao_v0_1.md) §§3/5.2/7.1/9; [D-22/D-23](../../docs/decisoes.md); [alinhamento](../../docs/alinhamento-das-fontes.md); [Victor](../../equipe/victor.md); [dependências](../../docs/dependencias.md); [guia](../guia-de-construcao.md) e [caderno](../briefings-dos-quadros.md#mm-05--queda--silhuetas-de-luz). Transcrição original ausente (P-14).
+[Briefing](../../docs/briefing.md) §11/MM-05 e §8/MM-04; [roteiro Cena 3](../../docs/roteiro.md); [Bíblia](../../docs/fontes/HESED_Biblia_de_Producao_v0_1.md) §§3/5.2/7.1/9; [D-22/D-23](../../docs/decisoes.md); [alinhamento](../../docs/alinhamento-das-fontes.md); [Victor](../../equipe/isaac.md); [dependências](../../docs/dependencias.md); [guia](../guia-de-construcao.md) e [caderno](../briefings-dos-quadros.md#mm-05--queda--silhuetas-de-luz). Transcrição original ausente (P-14).
 
 - Imagem oficial: [STB MM05.jpg](<STB MM05.jpg>), JPEG **1672×941**, **666212 bytes**, preservada byte a byte. SHA-256: `d0ce27b9a8e490389dc117a1f40576b840b4cd1a4059f82c08ac54952b382dbb`.
 - [Prompt integral efetivamente usado](prompt-ajuste-desfoque-v03.txt). Ferramenta: `image_gen.imagegen`, fundo opaco; referência à época: v02, inspecionada, agora excluída da pasta por D-24. Nenhuma foto externa de ator usada.

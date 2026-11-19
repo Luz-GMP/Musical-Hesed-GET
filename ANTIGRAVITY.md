@@ -1,7 +1,8 @@
 # AntiGravity · HESED Produção Audiovisual
 
-**Distribuição vigente · 18/11/2026.** Victor assume toda a produção antes atribuída a Lucas e produz a MM-16 inteira, do roteiro à entrega. Ninguém fornece blocos nem compila materiais para o final. Victor também produz Quebrando as Correntes e Brilha Tua Luz. Eduardo produz Santo pra Sempre. Maravilhosa Graça de Julia Vitória (Cena 4, MM-08) segue com Isaac. [Guia definitivo por pessoa](guias/cena-a-cena/quem-faz-as-musicas.md)
+Para produzir uma cena, abra a ficha do responsável na ordem indicada e siga os links para falas, imagens e deixas. [Victor · cenas 1, 2 e 9](equipe/victor.md) · [Isaac · cenas 3, 4 e 5](equipe/isaac.md) · [Eduardo (Dudu) · cenas 6, 7 e 8](equipe/eduardo.md)
 
+**Distribuição vigente · 19/11/2026.** Victor fecha as Cenas 1, 2 e 9. Isaac fecha as Cenas 3, 4 e 5. Eduardo (Dudu) fecha as Cenas 6, 7 e 8. Cada pessoa prepara e entrega suas cenas diretamente à operação. A MM-16 é integralmente de Victor. As músicas em ajuste por Isaac seguem a partir das versões existentes. [Guia de execução por pessoa](guias/cena-a-cena/quem-faz-as-musicas.md)
 
 Para produção audiovisual, carregue `ai-filmmaker` em `.agents/skills/ai-filmmaker/SKILL.md`. Para a MM-07, use a [instrução para o Antigravity](storyboards/MM-07/instrucao-antigravity.md).
 

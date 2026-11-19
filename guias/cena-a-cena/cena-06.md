@@ -2,7 +2,7 @@
 
 [Voltar ao guia](README.md) · Storyboard geral v03, pp. 84–89.
 
-**Quem prepara:** Victor · MM-12 · recebe de Eduardo
+**Quem prepara:** Eduardo · MM-12
 
 A conversa explica o recenseamento, a viagem de José e Maria e a falta de hospedagem. A tela acompanha cada mudança de lugar. O estábulo precisa continuar visível quando começar a próxima cena.
 
@@ -12,7 +12,7 @@ A conversa explica o recenseamento, a viagem de José e Maria e a falta de hospe
 
 - **No palco.** O elenco narra a viagem de Maria grávida.
 - **No telão.** Usar Q01 caminho e Q02 Belém ao longe. Deixar cada lugar aparecer quando a fala o apresentar.
-- **Para executar.** Victor recebe a saída de MM-13. A prancha consolidada tem aceite e os seis quadros individuais constam em revisão no geral.
+- **Para executar.** Eduardo recebe a saída de MM-13. A prancha consolidada tem aceite e os seis quadros individuais constam em revisão no geral.
 
 ### 2. “E quando eles chegaram lá… não tinha lugar pra ficar.”
 
@@ -28,6 +28,6 @@ A conversa explica o recenseamento, a viagem de José e Maria e a falta de hospe
 
 ## Como preparar e passar adiante
 
-1. Victor entrega o Q06 vazio à operação com a indicação “manter ao entrar na Cena 7”. Conferir lado da porta, parede e horizonte comparando com a p. 91.
+1. Eduardo entrega o Q06 vazio à operação com a indicação “manter ao entrar na Cena 7”. Conferir lado da porta, parede e horizonte comparando com a p. 91.
 
 [Consultar as falas completas no roteiro](https://github.com/Luz-GMP/Musical-Hesed-GET/blob/b54e712049ef708785d3a916b811d52798a4310b/docs/roteiro.md#cena-6-a-gravidez) · [Seguir para a Cena 7](cena-07.md)

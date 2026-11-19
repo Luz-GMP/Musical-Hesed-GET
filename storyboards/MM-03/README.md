@@ -1,5 +1,9 @@
 # MM-03 · Casa da Religiosidade · V03 oficial
 
+**Distribuição vigente · 19/11/2026.** Victor fecha as Cenas 1, 2 e 9. Isaac fecha as Cenas 3, 4 e 5. Eduardo (Dudu) fecha as Cenas 6, 7 e 8. Cada pessoa prepara e entrega suas cenas diretamente à operação. A MM-16 é integralmente de Victor. As músicas em ajuste por Isaac seguem a partir das versões existentes. [Guia de execução por pessoa](../../guias/cena-a-cena/quem-faz-as-musicas.md)
+
+**Para executar agora.** Victor indica a cozinha noturna V03-01, iluminada à direita da plateia. [Falas e deixas da Cena 2](../../guias/cena-a-cena/cena-02.md).
+
 ## Atualização de produção conciliada · 16/11/2026
 
 Consultar [estado local verificado de Victor](../../docs/producao-victor/README.md) e [plano atual das nove cenas](../../docs/plano-ajustes-2026-11-16.md) antes dos registros de origem abaixo. Cozinha à direita vista pela plateia e preto à esquerda confirmados por Victor; preparar estado derivado e cues sem regerar a casa V03 aprovada.

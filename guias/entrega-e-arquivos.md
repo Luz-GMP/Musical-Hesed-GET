@@ -27,6 +27,10 @@ HESED_Telão/
 └── 99_Operação/          pasta final que vai para o computador do telão
 ```
 
+## Ordem de entrega da cena
+
+O responsável entrega diretamente à operação. Mantenha os nomes e links existentes. Em cada linha da lista de reprodução, anote **cena e ordem | arquivo e versão | fala/ação de entrada | imagem a manter | sinal de saída**. Exemplo da Cena 7: estábulo vazio até a fala da multidão, depois variante v09 com anjos. Liste o vídeo das gerações na entrada da música.
+
 ## O que entregar em cada peça
 
 - [ ] Arquivo final renderizado para o telão

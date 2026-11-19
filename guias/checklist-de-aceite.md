@@ -11,7 +11,7 @@ Use antes de marcar uma peça como ✅ no STATUS. Copie para a ficha da peça ou
 - [ ] Há continuidade de cor, escala, resolução e velocidade de movimento?
 
 ## Técnica
-- [ ] Stills foram transformados em clipes com movimento sutil?
+- [ ] As imagens previstas para ficar paradas se sustentam pelo tempo da fala?
 - [ ] Loops repetem sem ponto de reinício evidente?
 - [ ] Resolução, fps e codec seguem a especificação do telão?
 
@@ -20,7 +20,7 @@ Use antes de marcar uma peça como ✅ no STATUS. Copie para a ficha da peça ou
 - [ ] Textos aparecem só quando agregam impacto, nunca como letra integral?
 
 ## Arcos específicos
-- [ ] O nascimento cresce visualmente da simplicidade para a glória? (MM-12 → MM-13)
+- [ ] O último céu de Ó Noite Santa prepara o caminho da MM-12 e o estábulo permanece vazio até a fala da multidão?
 - [ ] A MM-16 de Victor acompanha a parte falada e o sinal do último refrão? (MM-16)
 
 ## Entrega

@@ -6,6 +6,8 @@ Referências e aprovações não são execução final. Onde há arquivo, quadro
 
 ## Cena1 · Abertura, exterior e recap
 
+**Quem fecha:** Victor.
+
 | Gatilho / ordem | Telão / palco | Som / luz | Produção e limites |
 | --- | --- | --- | --- |
 | Abertura | Prisioneiras no corredor/teletransporte; costas→frontal→luz/desvanecimento→exterior apagado sem detentas projetadas | Canto dos anjos na entrada da luz branca | Victor/MM-01; imagens canônicas aprovadas, préviaV04 de13s/24fps em revisão. Definir início da luz versus branco pleno. |
@@ -17,38 +19,50 @@ Referências e aprovações não são execução final. Onde há arquivo, quadro
 
 ## Cena2 · Casa da Mari
 
+**Quem fecha:** Victor.
+
 Chegada à mesa: **cozinha à direita, preto à esquerda, vista pela plateia**, confirmado por Victor. Referência MM-03/V03 preservada; enquadramento/máscara e cue de mudança a validar. Não gerar nova casa por causa deste estado de operação.
 
 ## Cena3 · Criação, queda, promessa e Nasceu em Belém
 
+**Quem fecha:** Isaac.
+
 | Gatilho | Telão / palco | Som / luz | Responsável de origem / conferência |
 | --- | --- | --- | --- |
-| Explicação da criação | Referência MM-04/criação; o roteiro antigo marca “Não tinha dor” para mudança visual | Música entra **durante** “Deus criou tudo perfeito”, crescendo; mesa amarela, foco branco inicial em Alana | Victor/MM-04. Conciliar entrada de som e mudança visual; a frase não encerra toda a Cena3. |
+| Explicação da criação | Referência MM-04/criação; o roteiro antigo marca “Não tinha dor” para mudança visual | Música entra **durante** “Deus criou tudo perfeito”, crescendo; mesa amarela, foco branco inicial em Alana | Isaac/MM-04. Conciliar entrada de som e mudança visual; a frase não encerra toda a Cena3. |
 | “Então Deus falou haja luz” | Continuidade do número | Expansão verde clara; retirar foco de Alana | Marcar no áudio/interpretação real. |
 | Fim da música | Volta cozinha direita/preto esquerda | Volta luz na mesa | Operação MM-03. |
-| “Deu errado quando o ser humano escolheu viver longe de Deus” | MM-05/queda | Luz mais pesada conforme roteiro | Victor; V03 aprovada preservada. Não cancelada pelo feedback resumido. |
+| “Deu errado quando o ser humano escolheu viver longe de Deus” | MM-05/queda | Luz mais pesada conforme roteiro | Isaac; V03 aprovada preservada. Não cancelada pelo feedback resumido. |
 | “Enviando alguém pra nos salvar” | MM-06/regressão→bebê e sustentação do diálogo | Fala variável | Isaac; costura ao MM-07 ainda depende do planejamento e material real. |
-| Nasceu em Belém | Vídeo das estrelas, conforme feedback | Laranja e azul | Conferir MM-07/Eduardo e sua entrada a partir de MM-06; não cancelar costura do bebê sem confirmação. |
+| Nasceu em Belém | Vídeo das estrelas, conforme feedback | Laranja e azul | Conferir MM-07/Isaac e sua entrada a partir de MM-06; não cancelar costura do bebê sem confirmação. |
 
 ## Cena4 · Graça / arquivo da Páscoa
+
+**Quem fecha:** Isaac.
 
 Casa em cozinha direita/preto esquerda. Durante **Maravilhosa Graça desta cena**, vídeo com cortes da Páscoa/MM-08 e luz roxo claro. Responsável original Isaac; combinar a lista de takes com Victor/MM-02 (P-04). Não confundir com a versão musical do filme final/Cena9.
 
 ## Cena5 · Profetas, Luz do Mundo e Noite Santa
 
+**Quem fecha:** Isaac.
+
 | Gatilho | Telão / palco | Som / luz | Conferência |
 | --- | --- | --- | --- |
-| Profetas / imaginação de Mari | MM-09, entrada com referência “as visões da raven” | Efeito ainda não detalhado | Victor; não implica usar trecho da série ou mudar o tom bíblico. |
-| Explicação de Cristo eterno | MM-10/universo conforme roteiro de origem | Fala | Eduardo; omitido no feedback não significa retirado. |
+| Profetas / imaginação de Mari | MM-09, entrada com referência “as visões da raven” | Efeito ainda não detalhado | Isaac; não implica usar trecho da série ou mudar o tom bíblico. |
+| Explicação de Cristo eterno | MM-10/universo conforme roteiro de origem | Fala | Isaac; omitido no feedback não significa retirado. |
 | Luz do Mundo | Vídeo do “mundinho” | Luz toda branca | Isaac/MM-11; identificar arquivo e versão (P-10/P-18). |
 | Fim da música | Retorno cozinha/preto; **agora** entram personagens | Maria/anjo embaixo junto ao teclado; depois José/anjo junto à bateria, com focos | Atualiza a entrada antiga durante a música. Não converter posições dos instrumentos sem planta. |
-| Noite Santa | **MM-13**, antes de MM-12 | Luz leve, considerando figurino roxo escuro | Eduardo/Victor: rever a seleção e a costura; cor/cue definitivo ainda pendentes. |
+| Noite Santa | **MM-13**, antes de MM-12 | Luz leve, considerando figurino roxo escuro | Isaac/Eduardo: rever a seleção e a costura; cor/cue definitivo ainda pendentes. |
 
 ## Cena6 · Viagem, Belém e abrigo
 
-MM-12/Victor: caminho→Belém→chegada→abrigo. O feedback também menciona “anjos louvando” aqui; a Cena7 dá um cue explícito para a multidão. **Conferir a segmentação, sem antecipar os anjos por decisão do editor** (P-17). Preservar a prancha e Q01–Q06 remotos aprovados/revisados conforme D-44–D-47.
+**Quem fecha:** Eduardo.
+
+MM-12/Eduardo: caminho→Belém→chegada→abrigo. O feedback também menciona “anjos louvando” aqui; a Cena7 dá um cue explícito para a multidão. **Conferir a segmentação, sem antecipar os anjos por decisão do editor** (P-17). Preservar a prancha e Q01–Q06 remotos aprovados/revisados conforme D-44–D-47.
 
 ## Cena7 · Nascimento e Santo pra Sempre
+
+**Quem fecha:** Eduardo.
 
 | Gatilho | Telão / palco | Luz / operação |
 | --- | --- | --- |
@@ -59,13 +73,17 @@ MM-12/Victor: caminho→Belém→chegada→abrigo. O feedback também menciona �
 
 ## Cena8 · Recapitulação, afirmação e Brilha Tua Luz
 
-1. Entra a sequência chamada MM15 no feedback: refresh/rebobinar dos pecados→nascimento com imagens já usadas→ensinou/curou/etc. O material de pecados era MM14/Victor e vida/atosMM15/Victor; integrar sem apagar a autoria ou considerar módulos cancelados.
+**Quem fecha:** Eduardo.
+
+1. Entra a sequência chamada MM15 no feedback: refresh/rebobinar dos pecados→nascimento com imagens já usadas→ensinou/curou/etc. O material de pecados era MM14/Eduardo e vida/atosMM15/Eduardo; integrar sem apagar a autoria ou considerar módulos cancelados.
 2. Em “ele já nos libertou”, voltar à sala. Usar a mesma panorâmica noturna iluminada Q11.
 3. Em “Ele nasceu, e isso muda tudo”, texto em destaque e Jesus bebê, com reaproveitamento de fonte aceita e revisão de legibilidade.
-4. Victor prepara o vídeo próprio de Brilha Tua Luz. Conceito e versão de palco seguem para revisão.
+4. Eduardo prepara o vídeo próprio de Brilha Tua Luz. Conceito e versão de palco seguem para revisão.
 5. O roteiro mantém fechamento de cortina para troca; cue final da operação a conferir.
 
 ## Cena9 · Filme final único e luzes de Natal
+
+**Quem fecha:** Victor.
 
 Victor produz a MM-16 inteira, incluindo seleção ou criação das imagens, eventual gravação, edição, finalização e entrega direta à operação. A–D identificam referências de acervo. O filme independe de qualquer material a preparar, separar ou enviar pelos demais.
 

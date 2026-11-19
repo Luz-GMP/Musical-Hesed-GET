@@ -1,7 +1,12 @@
 # HESED · Produção Audiovisual
 
-**Distribuição vigente · 18/11/2026.** Victor assume toda a produção antes atribuída a Lucas e produz a MM-16 inteira, do roteiro à entrega. Ninguém fornece blocos nem compila materiais para o final. Victor também produz Quebrando as Correntes e Brilha Tua Luz. Eduardo produz Santo pra Sempre. Maravilhosa Graça de Julia Vitória (Cena 4, MM-08) segue com Isaac. [Guia definitivo por pessoa](guias/cena-a-cena/quem-faz-as-musicas.md)
+**Distribuição vigente · 19/11/2026.** Victor fecha as Cenas 1, 2 e 9. Isaac fecha as Cenas 3, 4 e 5. Eduardo (Dudu) fecha as Cenas 6, 7 e 8. Cada pessoa prepara e entrega suas cenas diretamente à operação. A MM-16 é integralmente de Victor. As músicas em ajuste por Isaac seguem a partir das versões existentes. [Guia de execução por pessoa](guias/cena-a-cena/quem-faz-as-musicas.md)
 
+## Abra sua fila de execução
+
+[Victor · cenas 1, 2 e 9](equipe/victor.md) · [Isaac · cenas 3, 4 e 5](equipe/isaac.md) · [Eduardo (Dudu) · cenas 6, 7 e 8](equipe/eduardo.md)
+
+Cada ficha começa pelo material que já existe, segue a ordem do palco e termina nas deixas para a operação. Para enviar ou baixar: [guia por pessoa em PDF](guias/cena-a-cena/pdf/HESED-guia-definitivo-por-pessoa.pdf) e [guia ilustrado em PDF](guias/cena-a-cena/pdf/HESED-guia-de-cena.pdf).
 
 ## Para preparar uma cena
 
@@ -19,7 +24,7 @@ Repositório de coordenação da equipe de telão do **HESED, Musical de Natal 2
 
 Aqui fica tudo que a equipe precisa para trabalhar alinhada: o contexto do espetáculo, o que cada pessoa entrega, em que pé está cada peça, as decisões que já foram tomadas e as perguntas que ainda estão abertas. **Os vídeos e projetos pesados não ficam aqui**, ficam no Drive (ver [guias/entrega-e-arquivos.md](guias/entrega-e-arquivos.md)). O repositório é o mapa; o Drive é o depósito.
 
-> **Princípio central:** cinco pessoas produzem o conteúdo, mas o público deve perceber uma única linguagem audiovisual.
+> **Princípio central:** os três responsáveis preservam a mesma linguagem visual nas nove cenas.
 
 ## Por onde começar
 
@@ -48,16 +53,14 @@ Aqui fica tudo que a equipe precisa para trabalhar alinhada: o contexto do espet
 | Usar IA (Claude, Codex, AntiGravity, ChatGPT etc.) para ajudar no seu trabalho | [AGENTS.md](AGENTS.md) · [CLAUDE.md](CLAUDE.md) · [CODEX.md](CODEX.md) · [ANTIGRAVITY.md](ANTIGRAVITY.md) |
 
 Para começar no AntiGravity, peça: **“Leia AGENTS.md, CLAUDE.md e ANTIGRAVITY.md antes de executar a tarefa e siga as diretrizes canônicas indicadas nesses arquivos.”** Não presuma que o nome do arquivo, sozinho, garante sua leitura automática.
-| Usar IA (Claude, Codex, ChatGPT etc.) para ajudar no seu trabalho | [AGENTS.md](AGENTS.md) · [CLAUDE.md](CLAUDE.md) · [CODEX.md](CODEX.md) |
 
 ## Equipe
 
 | Pessoa | Entregas | Arquivo |
 | --- | --- | --- |
-| Victor | MM-01 a MM-05, MM-09, MM-12, MM-14, MM-15, MM-16 inteira, Correntes e Brilha Tua Luz | [Victor](equipe/victor.md) |
-| Isaac | MM-06, MM-08, MM-11 | [Isaac](equipe/isaac.md) |
-| Eduardo | MM-07, MM-10, MM-13, Santo pra Sempre | [Eduardo](equipe/eduardo.md) |
-| Lucas | Liberado das entregas e da compilação | [Lucas](equipe/lucas.md) |
+| Victor | Cenas 1, 2 e 9 | [Ficha](equipe/victor.md) |
+| Isaac | Cenas 3, 4 e 5 | [Ficha](equipe/isaac.md) |
+| Eduardo | Cenas 6, 7 e 8 | [Ficha](equipe/eduardo.md) |
 
 ## Regras de convivência do repo
 

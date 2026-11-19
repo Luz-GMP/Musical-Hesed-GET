@@ -1,6 +1,5 @@
-# Responsabilidades transferidas para Victor
+# Melissa
 
-**Distribuição vigente · 18/11/2026.** Victor assume toda a produção antes atribuída a Lucas e produz a MM-16 inteira, do roteiro à entrega. Ninguém fornece blocos nem compila materiais para o final. Victor também produz Quebrando as Correntes e Brilha Tua Luz. Eduardo produz Santo pra Sempre. Maravilhosa Graça de Julia Vitória (Cena 4, MM-08) segue com Isaac. [Guia definitivo por pessoa](../guias/cena-a-cena/quem-faz-as-musicas.md)
+O guia atual lista os três responsáveis pela entrega das nove cenas. Victor fecha as Cenas 1, 2 e 9. Isaac fecha as Cenas 3, 4 e 5. Eduardo (Dudu) fecha as Cenas 6, 7 e 8.
 
-
-Consulte a [página atual de Victor](victor.md) para executar as quatro peças.
+[Guia de execução por pessoa](../guias/cena-a-cena/quem-faz-as-musicas.md)

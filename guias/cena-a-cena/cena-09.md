@@ -2,7 +2,7 @@
 
 [Voltar ao guia](README.md) · Storyboard geral v03, pp. 103–118.
 
-**Quem prepara:** Victor, responsável pela produção integral da MM-16.
+**Quem prepara:** Victor · produção integral da MM-16
 
 A tela carrega o número inteiro. A experiência das detentas atravessa o filme, da cegueira até a liberdade, e ganha sentido na vida, morte e ressurreição de Jesus.
 

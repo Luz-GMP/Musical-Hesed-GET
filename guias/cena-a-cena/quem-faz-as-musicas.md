@@ -1,40 +1,32 @@
-# HESED · Guia definitivo de produção por pessoa
+# HESED · Guia de execução por pessoa
 
-Distribuição definida por Victor em 18/11/2026. Cada responsável prepara a sua peça e entrega a versão revisada diretamente à operação do telão. Victor produz a MM-16 inteira, do roteiro visual ao arquivo final. Ninguém precisa criar, separar, enviar ou compilar material para ele nesse filme. As siglas antigas A–D servem apenas para localizar referências no acervo.
+19 de novembro de 2026 · Distribuição final das nove cenas
 
-## O que eu faço agora?
+Victor fecha as Cenas 1, 2 e 9. Isaac fecha as Cenas 3, 4 e 5. Eduardo (Dudu) fecha as Cenas 6, 7 e 8. A pessoa indicada fecha tudo o que vai ao telão naquela cena e entrega à operação os arquivos na ordem, com a deixa de entrada e de saída.
 
-### Victor
+## Victor
 
-- **Cena 1 · MM-01, MM-02 e Quebrando as Correntes.** Preserve os cinco trechos aprovados do resumo de Goel. No segundo congelamento, entre com a retrospectiva e volte ao mesmo exterior quando as atrizes retomarem a fala. Para a música, leve ao ensaio o exterior contínuo e a alternativa de mostrar o corredor de 00:13 a 00:47. Combine a saída das atrizes, a cortina fechada e a entrada do som de elevador.
-- **Cenas 2 e 3 · MM-03, MM-04 e MM-05.** Na mesa, use cozinha à direita da plateia, metade esquerda preta, casa noturna com luzes internas acesas. Separe dois jardins para começar. Combine com a iluminação a entrada da música na fala e a abertura verde em “haja luz”. Volte à mesa antes da queda. A queda já tem seis quadros aprovados na V03. Use-os para a continuidade com a regressão de Isaac.
-- **Cena 5 · MM-09.** Mostre a passagem da fala de Mari para a visão dos profetas e onde ela termina. Eduardo precisa ver a saída para começar o universo da MM-10.
-- **Cenas 6 e 7 · MM-12.** Confira o último céu de Ó Noite Santa com Eduardo. Avance na viagem pelas falas, de caminho e Belém até o abrigo. Segure Q06 vazio. A operação chama o estábulo com a multidão de anjos v09 somente na fala “uma multidão de anjos apareceu”. Mais tarde entra o vídeo das gerações de Eduardo.
-- **Cena 8 · MM-14, MM-15 e Brilha Tua Luz.** Uma panorâmica da casa iluminada sustenta as seis ações feitas pelas atrizes. Retome um bebê já visto e siga com cura, ensino, perdão e acolhimento. Volte à sala em “Ele já nos libertou!”. Feche o diálogo com o bebê e a frase “ELE NASCEU, E ISSO MUDA TUDO.” Para a música seguinte, apresente três miniaturas: a luz junto ao bebê, a luz se espalhando pelo ambiente e a luz alcançando o elenco. Combine o fim com o fechamento da cortina.
-- **Cena 9 · MM-16 inteira, Maravilhosa Graça de Samuel Mizrahy.** Você decide a estrutura, escolhe suas imagens, organiza eventual gravação das atrizes, edita, finaliza e entrega o único filme. Comece pelo que muda para uma detenta quando ela passa a enxergar. Ligue a liberdade dela ao que Jesus fez. Reserve uma imagem forte para a parte falada e combine as luzes de Natal no último refrão. Confirme no roteiro qual prancha é “Q07 em diante” e qual é a versão musical. A imagem existente pode ser consultada por você. Nenhuma etapa aguarda contribuição de outro editor.
+- **Cena 1 · Da prisão à liberdade.** Organize a MM-01, a MM-02 e Quebrando as Correntes. O primeiro branco chama o canto dos anjos. Depois da saída de Jesus, o segundo congelamento chama a retrospectiva. Reponha o mesmo exterior quando as atrizes voltarem à conversa. Preserve os cinco trechos já aprovados. Compare exterior contínuo e corredor de 00:13 a 00:47. A cortina fechada chama o som de elevador.
+- **Cena 2 · Chegada à casa.** Na chegada à mesa, chame a MM-03 V03-01. É noite, com as luzes internas acesas, cozinha à direita da plateia e preto à esquerda. Indique a Isaac o arquivo exato para a abertura da Cena 3.
+- **Cena 9 · Filme final.** Faça a MM-16 inteira para Maravilhosa Graça de Samuel Mizrahy. Escolha os planos, organize eventual gravação, confira qual é o Q07 pedido e marque a parte falada na versão de palco. A operação chama o filme depois da troca de cenário e figurino. Combine o acendimento das luzes de Natal no último refrão.
 
-**Primeira entrega prática:** escolha uma peça sua por vez. A comparação dos dois fundos da Cena 1 já pode ir ao ensaio. Para o final, monte seu primeiro esboço em paralelo ao restante da produção.
+**Comece por aqui.** Separe as versões de abertura, retrospectiva e retorno ao exterior. Identifique a cozinha V03-01 para Isaac. Você já pode esboçar o filme final em paralelo.
 
-### Isaac
+## Isaac
 
-1. **Cena 3 · MM-06.** Prepare cruz → milagres → infância → bebê. Sustente o bebê durante o diálogo. Mostre o último quadro a Eduardo para a passagem às estrelas.
-2. **Cena 4 · MM-08, Maravilhosa Graça de Julia Vitória.** Separe três ou quatro momentos de Goel que mostrem culpa, sacrifício e liberdade. Confira com Victor se o trecho já apareceu na retrospectiva. Monte a seleção para a fala sobre a dívida paga e entregue à operação. Esta música continua sua.
-3. **Cena 5 · MM-11, Luz do Mundo.** Identifique com a produção o vídeo do mundinho. Compare a primeira imagem com a última do universo de Eduardo. Entregue o vídeo e marque a volta à cozinha, antes de Maria e José entrarem no palco.
+- **Cena 3 · Criação, queda e Belém.** Comece pela versão que você já tem da regressão até o bebê (MM-06). Ligue o jardim da MM-04 à dança de Há Muito Tempo Atrás: a música cresce durante “Deus criou tudo perfeito”; em “haja luz”, o verde se expande no palco. Volte à cozinha antes da queda (MM-05 V03, seis quadros aprovados). Depois da regressão e do diálogo, passe do bebê para o céu estrelado de Nasceu em Belém (MM-07). As duas prévias rejeitadas ficam no histórico.
+- **Cena 4 · Graça e Páscoa.** Use sua seleção da MM-08 para Maravilhosa Graça de Julia Vitória. Quando os clipes de Goel que Victor está subindo ao Drive estiverem disponíveis, escolha ou complete três ou quatro momentos de culpa, sacrifício e liberdade. Anote clipe, início e fim. Entre na fala sobre o perdão da dívida, com luz roxo-claro.
+- **Cena 5 · Da visão de Mari à noite dos pastores.** Entre na imaginação de Mari na MM-09, passe dos profetas ao universo na MM-10 e ao mundinho em Luz do Mundo (MM-11). Volte à cozinha antes dos focos de Maria/anjo e José/anjo. Em Ó Noite Santa (MM-13), experimente campo → estrela → pastores → estrela. Mostre o último céu a Eduardo para a viagem da Cena 6.
 
-**Primeira entrega prática:** os três trechos da Páscoa, com início, fim e uma frase dizendo o que cada um mostra. Você pode avançar enquanto a produção identifica o mundinho.
+**Comece por aqui.** Abra o que já enviou e as músicas que está ajustando. Marque o que é faixa, corte ou vídeo e continue pela versão mais avançada. As músicas ainda sem título identificado podem ser relacionadas depois, sem atrasar o restante. Para o material herdado, consulte os quadros existentes de criação, queda, estrelas, profetas, universo e pastores.
 
-### Eduardo
+## Eduardo (Dudu)
 
-1. **Cena 3 · MM-07, Nasceu em Belém.** Receba o último bebê de Isaac e apresente a primeira imagem do céu. Teste a continuidade das estrelas e a leitura sob luz laranja e azul. As duas prévias rejeitadas ficam no histórico.
-2. **Cena 5 · MM-10.** Receba de Victor a saída da visão dos profetas. Leve o olhar do universo até a luz e mostre o último quadro a Isaac, que entra com o mundinho.
-3. **Cena 5 · MM-13, Ó Noite Santa.** Separe campo, estrela e pastores. Compare Q01 → Q02 → Q03 → Q02 com o início do caminho da MM-12 de Victor. A luz deve permitir a leitura do figurino roxo escuro.
-4. **Cena 7 · Santo pra Sempre.** Prepare o vídeo das gerações que louvam. Mostre primeiro quem esperou, quem louva hoje e as gerações reunidas. A direção escolhe sobre essa sequência e avalia a sugestão de uma inserção de anjos. A luz será definida depois. Ao fim, a operação volta à cozinha.
+- **Cena 6 · Caminho até o abrigo.** Receba de Isaac a indicação do último céu. Use as bases existentes da MM-12 para passar por caminho, Belém, chegada, busca de abrigo e estábulo conforme as falas. Termine no Q06 vazio e mantenha esse mesmo quadro ao abrir a Cena 7.
+- **Cena 7 · Anúncio e gerações.** Segure o estábulo vazio na primeira menção a um anjo. Na fala “uma multidão de anjos apareceu”, entre com a imagem aprovada v09. Mais tarde, em Santo pra Sempre, entram as gerações louvando. Mostre a seleção à direção antes de fechar a luz. Ao fim da música, sai a manjedoura e volta a cozinha.
+- **Cena 8 · Recapitulação e Brilha Tua Luz.** Parta dessa cozinha e abra a panorâmica noturna iluminada da MM-14. Sustente a casa vazia durante as seis ações feitas pelas atrizes. Retome o bebê visto antes e siga com cura, ensino, perdão e acolhimento (MM-15). Volte à sala em “Ele já nos libertou!”. Mostre o bebê e a frase “ELE NASCEU, E ISSO MUDA TUDO.” Para Brilha Tua Luz, apresente luz junto ao bebê → ambiente → elenco. Marque a cortina ao final para a troca que antecede o filme de Victor.
 
-**Primeira entrega prática:** as três imagens de Ó Noite Santa na ordem proposta. Já existem no acervo e permitem revisar a passagem à viagem.
-
-### Lucas
-
-Sua carga de produção passou para Victor. Você está liberado de MM-05, MM-12, MM-15, Brilha Tua Luz, de todas as partes da MM-16 e da compilação do espetáculo. O material já feito permanece no acervo. A equipe segue sem precisar de envio, remontagem ou conferência sua.
+**Comece por aqui.** Confira as bases da MM-12 e coloque o estábulo vazio e a v09 lado a lado. Depois abra a panorâmica MM-14 e os quatro quadros da MM-15. Identifique o que já serve à Cena 8 antes de propor novas imagens.
 
 ## As nove músicas na ordem do palco
 
@@ -43,19 +35,21 @@ Os tempos abaixo são sugestões para a primeira revisão. A faixa local de Corr
 | Cena e música | Quem produz | Primeira experiência | Como termina |
 | --- | --- | --- | --- |
 | 1 · Quebrando as Correntes | Victor | 1 fundo por 3min44s, ou 2 imagens com corredor de 00:13 a 00:47 | Exterior e saída das atrizes. Cortina fechada chama o elevador. |
-| 3 · Há Muito Tempo Atrás | Victor | 2 a 4 vistas do jardim, 25–50 s por vista | Volta à mesa antes da queda. |
-| 3 · Nasceu em Belém | Eduardo | 1 céu com 2 intensidades de estrela. Teste um ciclo de 30–45 s para o recorte de cerca de 5 min | Preparar o retorno à casa da Cena 4. |
+| 3 · Há Muito Tempo Atrás | Isaac | 2 a 4 vistas do jardim, 25–50 s por vista | Volta à mesa antes da queda. |
+| 3 · Nasceu em Belém | Isaac | 1 céu com 2 intensidades de estrela. Teste um ciclo de 30–45 s para o recorte de cerca de 5 min | Preparar o retorno à casa da Cena 4. |
 | 4 · Maravilhosa Graça · Julia Vitória | Isaac | 3–4 momentos de Goel, 6–8 planos. Gesto de 6–12 s, reação de 12–25 s | Entregar à conversa que prepara os profetas. |
 | 5 · Luz do Mundo | Isaac | 1 vídeo do mundinho. Procurar 2–3 momentos de 20–40 s | Cozinha. Maria e anjo junto ao teclado, depois José e anjo junto à bateria. |
-| 5 · Ó Noite Santa | Eduardo | 3 imagens em 4 entradas. Campo 25–45 s, estrela 30–60 s, pastores 15–30 s, estrela até o fim | O céu prepara o caminho de Victor na Cena 6. |
+| 5 · Ó Noite Santa | Isaac | 3 imagens em 4 entradas. Campo 25–45 s, estrela 30–60 s, pastores 15–30 s, estrela até o fim | Isaac mostra a Eduardo o último céu antes da viagem da Cena 6. |
 | 7 · Santo pra Sempre | Eduardo | 3 imagens de gerações, 20–45 s por grupo. Inserção de anjos depende de escolha da direção | Sai a manjedoura e volta a cozinha. |
-| 8 · Brilha Tua Luz | Victor | 3 momentos. Origem da luz 15–30 s, ambiente 25–45 s, alcance do elenco 25–60 s | Cortina para a retirada do cenário. |
+| 8 · Brilha Tua Luz | Eduardo | 3 momentos. Origem da luz 15–30 s, ambiente 25–45 s, alcance do elenco 25–60 s | Cortina para a retirada do cenário. |
 | 9 · Maravilhosa Graça · Samuel Mizrahy | Victor | Seleção inicial de 8–12 planos. Testar 6–15 s por ação e sustentar a imagem durante a fala | Último refrão junto das luzes de Natal. |
 
-## Como entregar à operação
+## Passagens entre pessoas
 
-Quando uma peça estiver pronta para revisão, envie o nome e a versão do arquivo, a frase ou ação que o dispara e o que deve aparecer em seguida. Identifique se é prévia ou final aprovado. A operação coloca cada arquivo em ordem e combina luz, cortina e entrada dos atores no ensaio. Exemplo da Cena 6: “MM-12 termina no estábulo vazio. Manter o quadro ao começar a Cena 7. Trocar só na fala da multidão”.
+Na passagem 2 → 3, Victor indica a Isaac a cozinha noturna V03-01. Na 5 → 6, Isaac mostra o último céu de Ó Noite Santa a Eduardo. Na 8 → 9, Eduardo marca o fechamento da cortina e a operação dispara a MM-16 de Victor depois da troca de cenário e figurino.
 
-A definição dos responsáveis já vale. Ainda dependem de escolha artística ou ensaio o fundo de Correntes, a versão das estrelas, o mundinho, as gerações, o conceito de Brilha e o Q07 do final. As artes aprovadas continuam disponíveis nas versões registradas.
+## Entrega à operação
 
-[Consultar as falas e os quadros das nove cenas](README.md)
+Para cada arquivo, anote cena, versão, se é prévia ou final aprovado, o que dispara a entrada e até quando segurar a última imagem. Em diálogos, use a fala ou a ação. Preserve a duração da versão musical escolhida. Se Isaac já ajustou uma faixa usada por outra pessoa, aproveitem a versão existente na cena correspondente.
+
+[Consultar as falas e as imagens cena a cena](README.md)

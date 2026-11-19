@@ -1,5 +1,9 @@
 # Storyboard · MM-01 · Exterior/entrada da prisão
 
+**Distribuição vigente · 19/11/2026.** Victor fecha as Cenas 1, 2 e 9. Isaac fecha as Cenas 3, 4 e 5. Eduardo (Dudu) fecha as Cenas 6, 7 e 8. Cada pessoa prepara e entrega suas cenas diretamente à operação. A MM-16 é integralmente de Victor. As músicas em ajuste por Isaac seguem a partir das versões existentes. [Guia de execução por pessoa](../../guias/cena-a-cena/quem-faz-as-musicas.md)
+
+**Para executar agora.** Abertura de Victor. Preparar corredor, luz e exterior antes da conversa. [Falas e deixas da Cena 1](../../guias/cena-a-cena/cena-01.md).
+
 ## Atualização de produção conciliada · 16/11/2026
 
 Consultar [estado local verificado de Victor](../../docs/producao-victor/README.md) e [plano atual das nove cenas](../../docs/plano-ajustes-2026-11-16.md) antes dos registros de origem abaixo. A abertura agora inclui corredor interno V13/costas aprovados e desvanecimento; exterior V06 permanece como destino/continuidade. A prévia V04 tem13s/24fps e ainda aguarda revisão própria.
@@ -13,7 +17,7 @@ Os registros anteriores abaixo preservam a origem, sem prevalecer sobre as orien
 | **Cena** | 1 · Pós-libertação |
 | **Versão oficial** | **V06**, aprovada pelo usuário em 21/10/2026 (D-40/D-41) |
 | **Etapa** | Referência visual canônica; animação será retomada a partir deste conjunto |
-| **Recebe de** | Posição cênica final de Goel; foto/frame/planta não fornecidos |
+| Recebe de | Ver primeiro e último quadro no guia vigente da cena. |
 | **Interrupção/retorno** | MM-02, flashback; retorno ao mesmo ambiente MM-01 |
 | **Saída** | Encerramento da Cena 1, transição à casa MM-03; operação a definir |
 | **Controle** | Fala variável; sem duração medida |

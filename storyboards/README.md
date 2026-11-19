@@ -1,7 +1,6 @@
 # Storyboards
 
-**Distribuição vigente · 18/11/2026.** Victor assume toda a produção antes atribuída a Lucas e produz a MM-16 inteira, do roteiro à entrega. Ninguém fornece blocos nem compila materiais para o final. Victor também produz Quebrando as Correntes e Brilha Tua Luz. Eduardo produz Santo pra Sempre. Maravilhosa Graça de Julia Vitória (Cena 4, MM-08) segue com Isaac. [Guia definitivo por pessoa](../guias/cena-a-cena/quem-faz-as-musicas.md)
-
+**Distribuição vigente · 19/11/2026.** Victor fecha as Cenas 1, 2 e 9. Isaac fecha as Cenas 3, 4 e 5. Eduardo (Dudu) fecha as Cenas 6, 7 e 8. Cada pessoa prepara e entrega suas cenas diretamente à operação. A MM-16 é integralmente de Victor. As músicas em ajuste por Isaac seguem a partir das versões existentes. [Guia de execução por pessoa](../guias/cena-a-cena/quem-faz-as-musicas.md)
 
 Uma pasta por peça. Cada pasta já tem um `README.md` com a ficha do storyboard: é ele que aparece quando você abre a pasta no site.
 
@@ -38,9 +37,8 @@ Mudou um quadro em revisão? O histórico Git guarda a anterior. Preserve a imag
 
 | Peça | Responsável |
 | --- | --- |
-| [MM-01](MM-01/) · [MM-02](MM-02/) · [MM-03](MM-03/) | Victor |
-| MM-01 a MM-05, MM-09, MM-12, MM-14, MM-15 e MM-16 inteira | Victor |
-| MM-06, MM-08 e MM-11 | Isaac |
-| MM-07, MM-10, MM-13 e gerações de Santo pra Sempre | Eduardo |
+| MM-01 a MM-03 e MM-16 | Victor |
+| MM-04 a MM-11 e MM-13 | Isaac |
+| MM-12, MM-14 e MM-15 | Eduardo |
 
 Victor produz a MM-16 inteira, incluindo seleção ou criação das imagens, eventual gravação, edição, finalização e entrega direta à operação. A–D identificam referências de acervo. O filme independe de qualquer material a preparar, separar ou enviar pelos demais. Pastas de acervo: [A](MM-16A/), [B](MM-16B/), [C](MM-16C/), [D](MM-16D/).

@@ -1,23 +1,26 @@
 # HESED · Guia de execução das nove cenas
 
-**Distribuição vigente · 18/11/2026.** Victor assume toda a produção antes atribuída a Lucas e produz a MM-16 inteira, do roteiro à entrega. Ninguém fornece blocos nem compila materiais para o final. Victor também produz Quebrando as Correntes e Brilha Tua Luz. Eduardo produz Santo pra Sempre. Maravilhosa Graça de Julia Vitória (Cena 4, MM-08) segue com Isaac. [Guia definitivo por pessoa](quem-faz-as-musicas.md)
+[Victor · cenas 1, 2 e 9](../../equipe/victor.md) · [Isaac · cenas 3, 4 e 5](../../equipe/isaac.md) · [Eduardo (Dudu) · cenas 6, 7 e 8](../../equipe/eduardo.md)
 
+[Baixar o guia por pessoa](pdf/HESED-guia-definitivo-por-pessoa.pdf) · [Baixar o guia ilustrado](pdf/HESED-guia-de-cena.pdf)
 
-**Edição de 18 de novembro de 2026 · Para elenco, produção, telão, luz e som.**
+**Distribuição vigente · 19/11/2026.** Victor fecha as Cenas 1, 2 e 9. Isaac fecha as Cenas 3, 4 e 5. Eduardo (Dudu) fecha as Cenas 6, 7 e 8. Cada pessoa prepara e entrega suas cenas diretamente à operação. A MM-16 é integralmente de Victor. As músicas em ajuste por Isaac seguem a partir das versões existentes. [Guia de execução por pessoa](quem-faz-as-musicas.md)
+
+**Edição de 19 de novembro de 2026 · Para elenco, produção, telão, luz e som.**
 
 Acompanhe o espetáculo como a plateia vai vê-lo. Escolha a cena e comece pela primeira fala ou ação. Em cada passo, veja o que as atrizes fazem, o que entra no telão e a quem cabe preparar a próxima imagem.
 
-| Cena | O que acontece | Quem trabalha nela | Páginas no storyboard v03 |
-| --- | --- | --- | --- |
-| [1](cena-01.md) | [Da cadeia à liberdade](cena-01.md) | Victor · MM-01 e MM-02 | 3–33 |
-| [2](cena-02.md) | [As detentas chegam à casa da Mari](cena-02.md) | Victor · MM-03 | 34 |
-| [3](cena-03.md) | [A criação, a queda e a promessa](cena-03.md) | Victor · MM-04 e MM-05 · Isaac · MM-06 · Eduardo · MM-07 | 35–59 |
-| [4](cena-04.md) | [O que significa graça](cena-04.md) | Isaac · MM-08 · Victor disponibiliza os clipes no Drive | 60–61 |
-| [5](cena-05.md) | [A visão de Mari e o anúncio a Maria e José](cena-05.md) | Victor · MM-09 · Eduardo · MM-10 e MM-13 · Isaac · MM-11 | 62–83 |
-| [6](cena-06.md) | [O caminho até o abrigo](cena-06.md) | Victor · MM-12 · recebe de Eduardo | 84–89 |
-| [7](cena-07.md) | [O anúncio e as gerações](cena-07.md) | Victor · estábulo / Eduardo · gerações | 90–93 |
-| [8](cena-08.md) | [Recapitulação e Brilha Tua Luz](cena-08.md) | Victor | 94–102 |
-| [9](cena-09.md) | [Um filme para o final](cena-09.md) | Victor · MM-16 inteira | 103–118 |
+| Cena | Quem fecha | Consultar |
+| --- | --- | --- |
+| 1 · Prisão e libertação | Victor | [Falas, imagens e deixas](cena-01.md) |
+| 2 · Casa da Mari | Victor | [Falas, imagens e deixas](cena-02.md) |
+| 3 · Criação, queda e Belém | Isaac | [Falas, imagens e deixas](cena-03.md) |
+| 4 · Graça e Páscoa | Isaac | [Falas, imagens e deixas](cena-04.md) |
+| 5 · Profetas, mundo e noite | Isaac | [Falas, imagens e deixas](cena-05.md) |
+| 6 · Viagem até o abrigo | Eduardo | [Falas, imagens e deixas](cena-06.md) |
+| 7 · Anúncio e gerações | Eduardo | [Falas, imagens e deixas](cena-07.md) |
+| 8 · Recapitulação e Brilha Tua Luz | Eduardo | [Falas, imagens e deixas](cena-08.md) |
+| 9 · Filme final | Victor | [Falas, imagens e deixas](cena-09.md) |
 
 ## Como usar na primeira vez
 
@@ -31,17 +34,13 @@ Acompanhe o espetáculo como a plateia vai vê-lo. Escolha a cena e comece pela 
 
 **Regra da casa da Mari.** Em todas as aparições da casa, usar noite com as luzes internas acesas, versão V03-01. Na mesa, a cozinha fica à direita de quem está na plateia e o lado esquerdo fica preto. Na recapitulação da Cena 8, a parede, o quadro e o aparador ocupam esse lado e completam a panorâmica.
 
-## O que cada pessoa pode pegar agora
+## Para começar hoje
 
-- **Victor, Cena 5.** Pode preparar com o que existe. Mostrar a atriz contando e, logo em seguida, a primeira imagem dos profetas. Identificar onde a visão termina e entregar esse ponto a Eduardo. [Abrir a cena](cena-05.md)
-- **Isaac, Cena 4.** Selecionar os clipes da Páscoa. Victor está subindo os clipes de Goel para o Drive. Quando estiverem disponíveis, Isaac seleciona os trechos da Páscoa para a MM-08 e confere com Victor quais já apareceram na Cena 1. [Abrir a cena](cena-04.md)
-- **Victor, Cena 3.** Combinar uma passagem. Escolher a fala em que a cozinha dá lugar à queda. Antes disso, em qualquer montagem de revisão, preservar a volta à mesa depois da criação. [Abrir a cena](cena-03.md)
-- **Isaac e Eduardo, Cena 3.** Combinar uma passagem. Colocar lado a lado o bebê que encerra a fala e o céu estrelado que abriria a música. Decidir se há mais alguma imagem durante a canção. [Abrir a cena](cena-03.md)
-- **Isaac e produção, Cena 5.** Localizar um arquivo. Identificar o vídeo chamado de mundinho. Depois comparar sua primeira imagem com a última da narração de Eduardo. [Abrir a cena](cena-05.md)
-- **Produção, Cena 1.** Confirmar uma escolha. Escolher entre manter o exterior da cadeia durante o número ou retomar a foto do corredor no primeiro verso (00:13) e voltar ao exterior no primeiro refrão (00:47). [Abrir a cena](cena-01.md)
-- **Eduardo, Cena 7.** Apresentar as gerações e conferir com a produção quais anjos foram sugeridos.
-- **Victor, Cena 8.** Apresentar o conceito em três imagens para Brilha Tua Luz.
-- **Victor, Cena 9.** Conferir a prancha Q07 e a versão da música antes de fechar o filme.
+- **Victor.** Separe as versões de abertura, retrospectiva e retorno ao exterior. Identifique a cozinha V03-01 para Isaac. Você já pode esboçar o filme final em paralelo.
+- **Isaac.** Abra o que já enviou e as músicas que está ajustando. Marque o que é faixa, corte ou vídeo e continue pela versão mais avançada. As músicas ainda sem título identificado podem ser relacionadas depois, sem atrasar o restante. Para o material herdado, consulte os quadros existentes de criação, queda, estrelas, profetas, universo e pastores.
+- **Eduardo.** Confira as bases da MM-12 e coloque o estábulo vazio e a v09 lado a lado. Depois abra a panorâmica MM-14 e os quatro quadros da MM-15. Identifique o que já serve à Cena 8 antes de propor novas imagens.
+
+Na passagem 2 → 3, Victor indica a Isaac a cozinha noturna V03-01. Na 5 → 6, Isaac mostra o último céu de Ó Noite Santa a Eduardo. Na 8 → 9, Eduardo marca o fechamento da cortina e a operação dispara a MM-16 de Victor depois da troca de cenário e figurino.
 
 ## As nove músicas na ordem do espetáculo
 

@@ -1,5 +1,13 @@
 # Storyboard · MM-14 · Resumo dos pecados
 
+**Distribuição vigente · 19/11/2026.** Victor fecha as Cenas 1, 2 e 9. Isaac fecha as Cenas 3, 4 e 5. Eduardo (Dudu) fecha as Cenas 6, 7 e 8. Cada pessoa prepara e entrega suas cenas diretamente à operação. A MM-16 é integralmente de Victor. As músicas em ajuste por Isaac seguem a partir das versões existentes. [Guia de execução por pessoa](../../guias/cena-a-cena/quem-faz-as-musicas.md)
+
+**Para executar agora.** Eduardo sustenta uma única panorâmica vazia da casa, à noite e com as luzes acesas, enquanto as atrizes representam as seis ações no palco. Depois vêm o bebê e os atos de Jesus. [Falas e deixas da Cena 8](../../guias/cena-a-cena/cena-08.md).
+
+## Acervo anterior à decisão da panorâmica
+
+Os estudos abaixo registram o desenvolvimento e suas aprovações de outubro. A instrução de projeção em vigor está acima.
+
 **v04 · seis quadros · 24/10/2026 · proposta para revisão (D-48/D-49/D-50).** Todas as personagens agora aparecem desfocadas de corpo inteiro nos seis quadros, aproximadamente como a Religiosidade ao fundo do quadro 4/v03. A ação acontece no palco; o telão reforça o distanciamento. Casa, objetos e textos conservam nitidez. A imagem coletiva na prisão serve somente à roupa, corpo e altura: a montagem ocorre na casa V03, com mãos e pés livres, sem algemas ou correntes.
 
 ![MM-14 v04 — personagens desfocadas](<STB MM14.png>)
@@ -8,12 +16,12 @@
 
 | Campo | Definição |
 | --- | --- |
-| Responsável | Victor |
+| Responsável | Eduardo |
 | Cena / função | 8 · Bloco IV · montagem curta simbólica dos pecados |
 | Controle | Fala variável; sem música própria, segundos ou forma de onda |
 | Entrada proposta | “Cada uma de nós estava vivendo a sua vida da forma que queria”; ênfase em “nos atolamos em nossos pecados e nos aprisionamos” |
-| Recebe de | Frame/fornecedor de entrada não recebido; casa MM-03/V03 é referência ambiental. Retornos/cues seguem P-15 |
-| Entrega para | MM-15/Victor: contraste aprisionamento → restauração, ritmo e tratamento de cor |
+| Recebe de | Ver primeiro e último quadro no guia vigente da cena. |
+| Entrega para | Ver primeiro e último quadro no guia vigente da cena. |
 | Saída | “Ele curou, ensinou e perdoou as pessoas” |
 | Situação | Direção da prancha v04 aprovada (D-51); seis bases individuais para revisão; alpha e teste LED pendentes |
 

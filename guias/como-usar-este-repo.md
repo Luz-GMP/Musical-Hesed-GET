@@ -2,6 +2,12 @@
 
 Você não precisa instalar nada. Tudo dá para fazer pelo site do GitHub, inclusive no celular.
 
+## Comece pela sua fila
+
+[Victor · cenas 1, 2 e 9](../equipe/victor.md) · [Isaac · cenas 3, 4 e 5](../equipe/isaac.md) · [Eduardo (Dudu) · cenas 6, 7 e 8](../equipe/eduardo.md)
+
+Abra a primeira cena da sua ficha, confira o que já existe e use a fala marcada para localizar a entrada no roteiro. Cada ficha reúne os storyboards na ordem de uso. Se estiver usando um agente, peça para abrir sua ficha e a cena em que vai trabalhar. Registre progresso real no [quadro das nove cenas](../STATUS.md#fila-das-nove-cenas).
+
 ## Primeira vez
 
 1. Crie uma conta em [github.com](https://github.com) (se ainda não tiver).
@@ -12,7 +18,7 @@ Você não precisa instalar nada. Tudo dá para fazer pelo site do GitHub, inclu
 
 1. Abra o [STATUS.md](../STATUS.md) no GitHub.
 2. Clique no ícone de lápis ✏️ no canto superior direito do arquivo.
-3. Mude **só a sua linha**: emoji da etapa, versão, próximo passo, o que te trava.
+3. Na sua cena ou peça, atualize a linha: emoji da etapa, versão, próximo passo, o que te trava.
 4. Atualize a data e o nome no topo.
 5. Desça até "Commit changes", escreva algo curto como `MM-04: alpha pronto` e confirme.
 

@@ -24,7 +24,7 @@ Em roupas cotidianas, elas se sentam para comer. Religiosidade começa apontando
 
 - **No palco.** As interrupções cessam. Autossuficiência pede que seja objetiva.
 - **No telão.** Sustentar a casa e preparar a criação da Cena 3.
-- **Para executar.** Victor separa esse mesmo fundo para o começo e o retorno depois da música.
+- **Para executar.** Victor indica a Isaac esse mesmo fundo para o começo e o retorno depois da música.
 
 ## Como preparar e passar adiante
 

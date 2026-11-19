@@ -1,12 +1,16 @@
 # Storyboard · MM-04 · Criação perfeita (loop)
 
+**Distribuição vigente · 19/11/2026.** Victor fecha as Cenas 1, 2 e 9. Isaac fecha as Cenas 3, 4 e 5. Eduardo (Dudu) fecha as Cenas 6, 7 e 8. Cada pessoa prepara e entrega suas cenas diretamente à operação. A MM-16 é integralmente de Victor. As músicas em ajuste por Isaac seguem a partir das versões existentes. [Guia de execução por pessoa](../../guias/cena-a-cena/quem-faz-as-musicas.md)
+
+**Para executar agora.** Isaac prepara o jardim e o retorno à mesa antes da queda. [Falas e deixas da Cena 3](../../guias/cena-a-cena/cena-03.md).
+
 | | |
 | --- | --- |
-| **Responsável** | Victor |
+| **Responsável** | Isaac |
 | **Cena** | 3 · Bloco II |
 | **Versão / situação** | v01 · 16/10/2026 · proposta para revisão |
-| **Recebe de** | Sala MM-03 (Victor), conforme a Cena 3; frame de ligação não recebido |
-| **Entrega para** | MM-05 (Victor): imagem-base, paleta e estado de saída da criação |
+| Recebe de | Ver primeiro e último quadro no guia vigente da cena. |
+| Entrega para | Ver primeiro e último quadro no guia vigente da cena. |
 | **Gatilho** | Religiosidade: “Não tinha dor, sofrimento, pecado, nada disso.” |
 | **Música** | Há Muito Tempo Atrás (Crianças Diante do Trono), com dança |
 | **Saída** | “Deu errado quando o ser humano escolheu viver longe de Deus.” |

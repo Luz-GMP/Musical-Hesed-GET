@@ -1,80 +1,33 @@
-# Isaac
+# Isaac · Cenas 3, 4 e 5
 
-1. **Cena 3 · MM-06.** Prepare cruz → milagres → infância → bebê. Sustente o bebê durante o diálogo. Mostre o último quadro a Eduardo para a passagem às estrelas.
-2. **Cena 4 · MM-08, Maravilhosa Graça de Julia Vitória.** Separe três ou quatro momentos de Goel que mostrem culpa, sacrifício e liberdade. Confira com Victor se o trecho já apareceu na retrospectiva. Monte a seleção para a fala sobre a dívida paga e entregue à operação. Esta música continua sua.
-3. **Cena 5 · MM-11, Luz do Mundo.** Identifique com a produção o vídeo do mundinho. Compare a primeira imagem com a última do universo de Eduardo. Entregue o vídeo e marque a volta à cozinha, antes de Maria e José entrarem no palco.
+**Primeiro passo.** Abra o que já enviou e as músicas que está ajustando. Marque o que é faixa, corte ou vídeo e continue pela versão mais avançada. As músicas ainda sem título identificado podem ser relacionadas depois, sem atrasar o restante. Para o material herdado, consulte os quadros existentes de criação, queda, estrelas, profetas, universo e pastores.
 
-**Primeira entrega prática:** os três trechos da Páscoa, com início, fim e uma frase dizendo o que cada um mostra. Você pode avançar enquanto a produção identifica o mundinho.
+### 3. Criação, queda e Belém
 
-## MM-06 · Retorno temporal (cruz → milagres → infância → bebê)
+Comece pela versão que você já tem da regressão até o bebê (MM-06). Ligue o jardim da MM-04 à dança de Há Muito Tempo Atrás: a música cresce durante “Deus criou tudo perfeito”; em “haja luz”, o verde se expande no palco. Volte à cozinha antes da queda (MM-05 V03, seis quadros aprovados). Depois da regressão e do diálogo, passe do bebê para o céu estrelado de Nasceu em Belém (MM-07). As duas prévias rejeitadas ficam no histórico.
 
-| | |
-| --- | --- |
-| **Cena** | 3 · Bloco II |
-| **Gatilho** | Religiosidade: "Enviando alguém pra nos salvar." |
-| **Termina** | Quando entra Nasceu em Belém (MM-07) |
-| **Tipo** | Montagem/sequência + loop final |
+Abra [Cena 3](../guias/cena-a-cena/cena-03.md) para conferir as falas e imagens. As referências são [MM-04](../storyboards/MM-04/README.md) · [MM-05](../storyboards/MM-05/README.md) · [MM-06](../storyboards/MM-06/README.md) · [MM-07](../storyboards/MM-07/README.md).
 
-**Objetivo:** o público perceber claramente que a narrativa está voltando da cruz até o nascimento.
+- [ ] Registrar versão, link e deixa da cena na [linha de acompanhamento](../STATUS.md#fila-das-nove-cenas). Voltar à cozinha após o jardim. Passar do bebê para as estrelas na deixa de Belém.
 
-**Execução:** quatro estágios com a mesma direção de arte: cruz → Jesus adulto/ministério → infância → bebê. A regressão pode ser cronológica (não precisa de vídeo literalmente ao contrário), com recuo de câmera, passagem de luz ou dissoluções.
+### 4. Graça e Páscoa
 
-**Nota do roteiro:** depois da fala-gatilho ainda há um bloco de diálogo (vibe de herói, "gente boa", Belém do Pará) antes de Nasceu em Belém, e o roteiro diz "continua com Jesus bebê durante a música". Logo, a peça é **regressão curta + loop do bebê** de duração indefinida (D-01, proposta).
+Use sua seleção da MM-08 para Maravilhosa Graça de Julia Vitória. Quando os clipes de Goel que Victor está subindo ao Drive estiverem disponíveis, escolha ou complete três ou quatro momentos de culpa, sacrifício e liberdade. Anote clipe, início e fim. Entre na fala sobre o perdão da dívida, com luz roxo-claro.
 
-**Costura:** frame/loop do bebê → Eduardo, assim que o alpha existir.
+Abra [Cena 4](../guias/cena-a-cena/cena-04.md) para conferir as falas e imagens. As referências são [MM-08](../storyboards/MM-08/README.md).
 
-- [ ] Storyboard dos 4 estágios
-- [ ] Definir se a regressão vai em arquivo separado do loop (depende de P-12)
-- [ ] Alpha
-- [ ] Último frame + paleta enviados ao Eduardo
-- [ ] Teste no telão
-- [ ] Final + editável + still de emergência + backup
+- [ ] Registrar versão, link e deixa da cena na [linha de acompanhamento](../STATUS.md#fila-das-nove-cenas). Marcar a entrada dos cortes de Goel na fala do perdão e devolver a imagem à conversa.
 
-## MM-08 · Maravilhosa Graça / Goel (montagem de arquivo)
+### 5. Da visão de Mari a Ó Noite Santa
 
-| | |
-| --- | --- |
-| **Cena** | 4 · Bloco II |
-| **Gatilho** | Religiosidade: "...É receber perdão e ter a dívida paga mesmo sendo culpado." |
-| **Música** | Maravilhosa Graça (Julia Vitória) |
-| **Tipo** | Montagem de arquivo |
+Entre na imaginação de Mari na MM-09, passe dos profetas ao universo na MM-10 e ao mundinho em Luz do Mundo (MM-11). Volte à cozinha antes dos focos de Maria/anjo e José/anjo. Em Ó Noite Santa (MM-13), experimente campo → estrela → pastores → estrela. Mostre o último céu a Eduardo para a viagem da Cena 6.
 
-**Objetivo:** reconectar a explicação da graça à libertação vivida em Goel.
+Abra [Cena 5](../guias/cena-a-cena/cena-05.md) para conferir as falas e imagens. As referências são [MM-09](../storyboards/MM-09/README.md) · [MM-10](../storyboards/MM-10/README.md) · [MM-11](../storyboards/MM-11/README.md) · [MM-13](../storyboards/MM-13/README.md).
 
-**Execução:** material de Goel que comunique prisão, culpa, dívida, sacrifício e libertação. Mais contemplativo que o recap da Cena 1: cortes lentos, fades, silêncio visual, luz crescendo com a música. O público deve reconhecer Goel, mas sentir as imagens ressignificadas.
+- [ ] Registrar versão, link e deixa da cena na [linha de acompanhamento](../STATUS.md#fila-das-nove-cenas). Voltar à cozinha após o mundinho. Mostrar o último céu a Eduardo.
 
-**Atenção:** o MM-02 do Victor (Cena 1) usa o mesmo arquivo (detentas presas, Juliette no juiz, condenação, morte e volta de Jesus). Combinar divisão de takes (P-04). Sugestão: Victor fica com os momentos narrativos e de humor; o MM-08 com closes de culpa, correntes e libertação.
+## Entregar à operação
 
-- [ ] Localizar o material bruto (P-03)
-- [ ] Dividir takes com Victor (P-04)
-- [ ] Audio master da faixa (P-02) + mapa da música
-- [ ] Alpha
-- [ ] Teste no telão
-- [ ] Final + editável + backup
+Na ordem do palco, indique o arquivo e a versão, a fala ou ação que chama a entrada, o que se mantém no telão e o sinal de saída. Marque prévia ou aprovado e registre o link do Drive quando disponível. Se a entrada depender de ensaio, indique qual sinal falta testar.
 
-## MM-11 · Luz do Mundo (playback visual)
-
-| | |
-| --- | --- |
-| **Cena** | 5 · Bloco III |
-| **Gatilho** | Religiosidade: "...quando Ele veio, ele nos trouxe pra Luz." |
-| **Música** | Luz do Mundo (Fernandinho) |
-| **Tipo** | Playback visual |
-
-**Objetivo:** traduzir musicalmente a passagem da escuridão para a luz.
-
-**Execução:** mapear a faixa ([guia](../guias/playback-visual.md)). Composição predominantemente abstrata: escuro → ponto de luz → expansão → feixes/profundidade → ambiente tomado pela luz. Impactos sonoros sincronizados com expansão, corte, clarão ou mudança de escala. Frases só onde a música pedir.
-
-**Nota do roteiro:** durante essa música Maria, José, o anjo e os pastores entram e compõem o presépio no palco. O telão não pode competir com isso. O roteiro também diz que o telão "acompanha a narração"; confirmar com a direção se o abstrato está ok (P-10). Depois da música há diálogo sem peça atribuída (P-09), que tende a cair no final do MM-11.
-
-**Costura:** recebe o último estado do MM-10 (Eduardo).
-
-- [ ] Audio master (P-02)
-- [ ] Mapa da faixa (intro, crescimentos, impactos, clímax, fim)
-- [ ] Último estado do MM-10 recebido
-- [ ] Alpha sincronizado
-- [ ] Resolver P-09 e P-10
-- [ ] Teste no telão com coreografia
-- [ ] Final + editável + backup
-
-[Guia definitivo por pessoa](../guias/cena-a-cena/quem-faz-as-musicas.md)
+[Plano das nove músicas, com quantidade e duração sugeridas](../guias/cena-a-cena/quem-faz-as-musicas.md) · [Passagens entre responsáveis](../docs/dependencias.md) · [Guia ilustrado em PDF](../guias/cena-a-cena/pdf/HESED-guia-de-cena.pdf)

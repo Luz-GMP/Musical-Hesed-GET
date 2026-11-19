@@ -8,8 +8,8 @@
 | **Termina em** | |
 | **Música** | |
 | **Tipo** | still animado / loop / montagem / sequência / animação / playback |
-| **Recebe de** | MM-XX (pessoa): o quê |
-| **Entrega para** | MM-XX (pessoa): o quê |
+| **Imagem anterior** | Arquivo ou estado do palco |
+| **Próxima imagem / deixa para a operação** | Arquivo, fala ou ação |
 | **Pasta no Drive** | |
 
 ## Conceito em uma frase

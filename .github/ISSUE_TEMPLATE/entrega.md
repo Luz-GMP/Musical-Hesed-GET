@@ -5,7 +5,8 @@ title: "MM-XX vNN: "
 labels: entrega
 ---
 
-**Peça:** MM-XX
+**Cena, responsável e ordem na cena:**
+**Peça ou música:**
 **Versão:** vNN (alpha / revisão / final)
 **Link no Drive:**
 
@@ -13,7 +14,8 @@ labels: entrega
 
 **Feedback que preciso (e de quem):**
 
-**Costuras:** último/primeiro frame enviado para ___
+**Entrada:** fala, ação ou música que chama o arquivo.
+**Saída:** o que fica no telão e qual sinal chama o próximo arquivo.
 
 ### Checklist de aceite (para versões finais)
 - [ ] Comunica a função da cena sem texto explicativo

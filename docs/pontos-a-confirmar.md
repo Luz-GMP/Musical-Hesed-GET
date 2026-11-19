@@ -1,6 +1,8 @@
 # Pontos a confirmar
 
-**Responsável:** Victor
+**Registro de organização anterior à redistribuição.** Para produção e pendências atuais, consulte a [fila por cena](../STATUS.md#fila-das-nove-cenas) e as [pendências de produção](pendencias.md).
+
+**Responsável pelo registro:** Victor
 
 Itens da organização do repositório que ficaram sem certeza na hora de abrir as issues. Não são pendências de produção (essas estão em [pendencias.md](pendencias.md)); são só ajustes de quem é marcado em cada issue.
 

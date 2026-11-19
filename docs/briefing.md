@@ -1,7 +1,6 @@
 # Briefing Definitivo de Produção Audiovisual (v1.0)
 
-**Distribuição vigente · 18/11/2026.** Victor assume toda a produção antes atribuída a Lucas e produz a MM-16 inteira, do roteiro à entrega. Ninguém fornece blocos nem compila materiais para o final. Victor também produz Quebrando as Correntes e Brilha Tua Luz. Eduardo produz Santo pra Sempre. Maravilhosa Graça de Julia Vitória (Cena 4, MM-08) segue com Isaac. [Guia definitivo por pessoa](../guias/cena-a-cena/quem-faz-as-musicas.md)
-
+**Distribuição vigente · 19/11/2026.** Victor fecha as Cenas 1, 2 e 9. Isaac fecha as Cenas 3, 4 e 5. Eduardo (Dudu) fecha as Cenas 6, 7 e 8. Cada pessoa prepara e entrega suas cenas diretamente à operação. A MM-16 é integralmente de Victor. As músicas em ajuste por Isaac seguem a partir das versões existentes. [Guia de execução por pessoa](../guias/cena-a-cena/quem-faz-as-musicas.md)
 
 > Conversão em Markdown de `fontes/HESED_Briefing_Definitivo_Producao_Audiovisual_v1_0.docx`. Em caso de divergência, o .docx original vale. Este arquivo não deve ser editado: mudanças de escopo entram em `docs/decisoes.md`.
 
@@ -29,11 +28,17 @@ A estrutura do espetáculo utilizada para a distribuição é: **Bloco I – cen
 
 2. Distribuição consolidada da equipe
 
-| **Responsável** | **Presença no roteiro** | **Entregas** | **Perfil de execução** |
-| --- | --- | --- | --- |
-| **Victor** | Cenas 1–9 | MM-01 a MM-05, MM-09, MM-12, MM-14, MM-15, MM-16, Correntes e Brilha Tua Luz | Produção integral das próprias peças e do filme final. |
-| **Isaac** | Cenas 3–5 | MM-06, MM-08, MM-11 | Regressão, Páscoa de Julia Vitória e mundinho. |
-| **Eduardo** | Cenas 3, 5 e 7 | MM-07, MM-10, MM-13 e Santo pra Sempre | Estrelas, universo, noite dos pastores e gerações. |
+| Cena | Quem fecha | Peças e músicas |
+| --- | --- | --- |
+| 1 · Prisão e libertação | Victor | MM-01, MM-02 e Quebrando as Correntes |
+| 2 · Casa da Mari | Victor | MM-03 |
+| 3 · Criação, queda e Belém | Isaac | MM-04, MM-05, MM-06 e MM-07 |
+| 4 · Graça e Páscoa | Isaac | MM-08 · cortes de Goel |
+| 5 · Profetas, mundo e noite | Isaac | MM-09, MM-10, MM-11 e MM-13 |
+| 6 · Viagem até o abrigo | Eduardo | MM-12 |
+| 7 · Anúncio e gerações | Eduardo | estábulo, anúncio e Santo pra Sempre |
+| 8 · Recapitulação e Brilha Tua Luz | Eduardo | MM-14, MM-15 e Brilha Tua Luz |
+| 9 · Filme final | Victor | produção integral da MM-16 |
 
 3. Linguagem audiovisual comum
 
@@ -82,33 +87,45 @@ Regra de leitura: se a música cresce, o visual cresce; se a música respira, o 
 
 6. Mapa audiovisual por cena
 
-| **Cena** | **Responsável(is)** | **Mídia** | **Função / disparo** |
-| --- | --- | --- | --- |
-| **Cena 1 – Pós-libertação** | Victor | MM-01 Exterior/entrada da prisão; MM-02 Flashback de Goel | Abertura + congelamento da discussão |
-| **Cena 2 – Transição/casa** | Victor | MM-03 Sala da casa | Após transição |
-| **Cena 3 – Princípio, queda e redenção** | Victor / Isaac / Eduardo | MM-04, MM-05, MM-06, MM-07 | Criação → queda → retorno temporal → Nasceu em Belém |
-| **Cena 4 – O plano/graça** | Isaac | MM-08 Maravilhosa Graça / Goel | Definição de graça + canção |
-| **Cena 5 – Jesus, a luz do mundo** | Victor / Eduardo / Isaac | MM-09, MM-10, MM-11 | Profetas → Cristo eterno → Luz do Mundo |
-| **Cenas 6–7 – Viagem e nascimento** | Victor / Eduardo | MM-12, MM-13 | Viagem/Belém/estábulo → noite/estrela/pastores/anjos |
-| **Cena 8 – Resumo / nova vida** | Victor | MM-14, MM-15 | Pecados → vida e atos de Jesus |
-| **Cena 9 – Graça/final** | Victor | MM-16 inteira | Filme único de Maravilhosa Graça, de Samuel Mizrahy. |
+| Cena | Quem fecha | Peças e músicas |
+| --- | --- | --- |
+| 1 · Prisão e libertação | Victor | MM-01, MM-02 e Quebrando as Correntes |
+| 2 · Casa da Mari | Victor | MM-03 |
+| 3 · Criação, queda e Belém | Isaac | MM-04, MM-05, MM-06 e MM-07 |
+| 4 · Graça e Páscoa | Isaac | MM-08 · cortes de Goel |
+| 5 · Profetas, mundo e noite | Isaac | MM-09, MM-10, MM-11 e MM-13 |
+| 6 · Viagem até o abrigo | Eduardo | MM-12 |
+| 7 · Anúncio e gerações | Eduardo | estábulo, anúncio e Santo pra Sempre |
+| 8 · Recapitulação e Brilha Tua Luz | Eduardo | MM-14, MM-15 e Brilha Tua Luz |
+| 9 · Filme final | Victor | produção integral da MM-16 |
 
-7. Victor
+Na passagem 2 → 3, Victor indica a Isaac a cozinha noturna V03-01. Na 5 → 6, Isaac mostra o último céu de Ó Noite Santa a Eduardo. Na 8 → 9, Eduardo marca o fechamento da cortina e a operação dispara a MM-16 de Victor depois da troca de cenário e figurino.
 
-Responsabilidade registrada: Bloco I – Cenas 1 e 2 | MM-01, MM-02 e MM-03.
+## Victor
 
-Briefing detalhado: **RESERVADO / A DEFINIR PELO PRÓPRIO RESPONSÁVEL.**
+- **Cena 1 · Da prisão à liberdade.** Organize a MM-01, a MM-02 e Quebrando as Correntes. O primeiro branco chama o canto dos anjos. Depois da saída de Jesus, o segundo congelamento chama a retrospectiva. Reponha o mesmo exterior quando as atrizes voltarem à conversa. Preserve os cinco trechos já aprovados. Compare exterior contínuo e corredor de 00:13 a 00:47. A cortina fechada chama o som de elevador.
+- **Cena 2 · Chegada à casa.** Na chegada à mesa, chame a MM-03 V03-01. É noite, com as luzes internas acesas, cozinha à direita da plateia e preto à esquerda. Indique a Isaac o arquivo exato para a abertura da Cena 3.
+- **Cena 9 · Filme final.** Faça a MM-16 inteira para Maravilhosa Graça de Samuel Mizrahy. Escolha os planos, organize eventual gravação, confira qual é o Q07 pedido e marque a parte falada na versão de palco. A operação chama o filme depois da troca de cenário e figurino. Combine o acendimento das luzes de Natal no último refrão.
 
-8. Victor
+**Comece por aqui.** Separe as versões de abertura, retrospectiva e retorno ao exterior. Identifique a cozinha V03-01 para Isaac. Você já pode esboçar o filme final em paralelo.
 
-Perfil deste conjunto: **execução mais simples, baseada em ambientação, loops, montagem curta e módulo visual direto.**
+MM-16 — Maravilhosa Graça de Samuel Mizrahy
+Victor produz a MM-16 inteira, incluindo seleção ou criação das imagens, eventual gravação, edição, finalização e entrega direta à operação. A–D identificam referências de acervo. O filme independe de qualquer material a preparar, separar ou enviar pelos demais.
+
+
+## Isaac
+
+- **Cena 3 · Criação, queda e Belém.** Comece pela versão que você já tem da regressão até o bebê (MM-06). Ligue o jardim da MM-04 à dança de Há Muito Tempo Atrás: a música cresce durante “Deus criou tudo perfeito”; em “haja luz”, o verde se expande no palco. Volte à cozinha antes da queda (MM-05 V03, seis quadros aprovados). Depois da regressão e do diálogo, passe do bebê para o céu estrelado de Nasceu em Belém (MM-07). As duas prévias rejeitadas ficam no histórico.
+- **Cena 4 · Graça e Páscoa.** Use sua seleção da MM-08 para Maravilhosa Graça de Julia Vitória. Quando os clipes de Goel que Victor está subindo ao Drive estiverem disponíveis, escolha ou complete três ou quatro momentos de culpa, sacrifício e liberdade. Anote clipe, início e fim. Entre na fala sobre o perdão da dívida, com luz roxo-claro.
+- **Cena 5 · Da visão de Mari à noite dos pastores.** Entre na imaginação de Mari na MM-09, passe dos profetas ao universo na MM-10 e ao mundinho em Luz do Mundo (MM-11). Volte à cozinha antes dos focos de Maria/anjo e José/anjo. Em Ó Noite Santa (MM-13), experimente campo → estrela → pastores → estrela. Mostre o último céu a Eduardo para a viagem da Cena 6.
+
+**Comece por aqui.** Abra o que já enviou e as músicas que está ajustando. Marque o que é faixa, corte ou vídeo e continue pela versão mais avançada. As músicas ainda sem título identificado podem ser relacionadas depois, sem atrasar o restante. Para o material herdado, consulte os quadros existentes de criação, queda, estrelas, profetas, universo e pastores.
 
 MM-04 — Criação perfeita — vídeo/loop
-
 | **Cena / bloco** | Cena 3 — Bloco II |
 | --- | --- |
 | **Entrada / disparo** | Na fala “Não tinha dor”, seguindo para o número Há Muito Tempo Atrás. |
-| **Responsável** | Victor |
+| **Responsável** | Isaac |
 | **Tipo de entrega** | Criação perfeita — vídeo/loop |
 
 **Objetivo: **Criar a sensação de mundo perfeito, harmônico, vivo e luminoso antes da queda.
@@ -117,46 +134,24 @@ MM-04 — Criação perfeita — vídeo/loop
 
 **Resultado esperado: **O público deve sentir plenitude e harmonia. A luminosidade precisa oferecer contraste suficiente para que o MM-05 possa “corromper” esse universo na queda.
 
-**Integrações / dependências: **Alinhar a paleta e a imagem-base com Victor, responsável pelo MM-05.
+**Operação:** consultar as deixas na ficha da cena e indicar o primeiro e o último quadro.
 
-MM-09 — Profetas — loop
-
-| **Cena / bloco** | Cena 5 — Bloco III |
+MM-05 — Queda — silhuetas de luz
+| **Cena / bloco** | Cena 3 — Bloco II |
 | --- | --- |
-| **Entrada / disparo** | Quando a Religiosidade começa a explicar que, séculos antes, profetas anunciaram a vinda do Messias. |
-| **Responsável** | Victor |
-| **Tipo de entrega** | Profetas — loop |
+| **Entrada / disparo** | Quando a narrativa chega à escolha humana de viver longe de Deus. |
+| **Responsável** | Isaac |
+| **Tipo de entrega** | Queda — silhuetas de luz |
 
-**Objetivo: **Sustentar visualmente a fala sobre os profetas sem transformar a cena em aula projetada.
+**Objetivo: **Transformar o mundo perfeito em um ambiente de ruptura, perda e peso.
 
-**Execução sugerida: **Criar um loop com poucas composições coerentes: silhueta de profeta, deserto, pergaminho, cidade antiga e horizonte. Aplicar movimentos lentos e transições discretas. O loop deve poder durar além do previsto sem denunciar a repetição.
+**Execução sugerida: **Partir do universo visual do MM-04: silhuetas humanas inicialmente integradas à luz; depois perda gradual de brilho, aumento de sombras, redução de saturação e crescimento de contraste. Pode ser construído principalmente com máscaras, opacidade, cor e iluminação.
 
-**Resultado esperado: **Atmosfera histórica e contemplativa, com baixa distração durante as falas.
+**Resultado esperado: **A queda deve parecer a corrupção do mesmo mundo criado no MM-04, e não a entrada de um vídeo sem relação estética.
 
-**Integrações / dependências: **O último estado visual deve permitir a passagem para o MM-10 de Eduardo.
-
-MM-14 — Resumo dos pecados — montagem curta
-
-| **Cena / bloco** | Cena 8 — Bloco IV |
-| --- | --- |
-| **Entrada / disparo** | Durante a recapitulação de como as personagens se aprisionaram em seus pecados. |
-| **Responsável** | Victor |
-| **Tipo de entrega** | Resumo dos pecados — montagem curta |
-
-**Objetivo: **Representar visualmente aprisionamento, comportamento destrutivo e condição anterior das personagens.
-
-**Execução sugerida: **Usar ações simbólicas e diretas: obsessão por status, raiva, mentira, apropriação, isolamento, comparação, desobediência etc. Pode ser uma montagem de stills animados ou pequenos vídeos, com cortes simples e ritmo curto.
-
-**Resultado esperado: **Comunicar “aprisionamento” sem precisar ilustrar cada pecado de modo literal ou prolongado.
-
-**Integrações / dependências: **O MM-14 deve contrastar com o MM-15 de Victor: aprisionamento → restauração.
-
-
-
-9. Isaac
+**Operação:** consultar as deixas na ficha da cena e indicar o primeiro e o último quadro.
 
 MM-06 — Retorno temporal — cruz → milagres → infância → bebê
-
 | **Cena / bloco** | Cena 3 — Bloco II |
 | --- | --- |
 | **Entrada / disparo** | Na fala “Enviando alguém para nos salvar”. |
@@ -169,10 +164,24 @@ MM-06 — Retorno temporal — cruz → milagres → infância → bebê
 
 **Resultado esperado: **Uma regressão temporal clara que termine no bebê e prepare diretamente a entrada de Nasceu em Belém.
 
-**Integrações / dependências: **O último plano precisa encaixar com o MM-07 de Eduardo.
+**Operação:** consultar as deixas na ficha da cena e indicar o primeiro e o último quadro.
+
+MM-07 — Nasceu em Belém — playback visual
+| **Cena / bloco** | Cena 3 — Bloco II |
+| --- | --- |
+| **Entrada / disparo** | Entrada da música Nasceu em Belém, imediatamente após a regressão temporal terminar no bebê. |
+| **Responsável** | Isaac |
+| **Tipo de entrega** | Nasceu em Belém — playback visual |
+
+**Objetivo: **Criar a paisagem visual do nascimento e acompanhar a dinâmica musical.
+
+**Execução sugerida: **Construir uma sequência coerente — Belém à distância → céu estrelado → caminho/cidade → luz/nascimento — com movimento sutil nas bases. Mapear crescimentos, impactos e clímax. Inserir frases de maior impacto da música apenas em pontos específicos, quando reforçarem a narrativa. Em batidas ou impactos instrumentais, responder visualmente com luz, mudança de plano, expansão, corte ou partículas.
+
+**Resultado esperado: **Um playback que pareça sincronizado com a música, e não apenas um vídeo rodando ao fundo.
+
+**Operação:** consultar as deixas na ficha da cena e indicar o primeiro e o último quadro.
 
 MM-08 — Maravilhosa Graça / Goel — montagem de arquivo
-
 | **Cena / bloco** | Cena 4 — Bloco II |
 | --- | --- |
 | **Entrada / disparo** | Após a definição de “graça”, durante Maravilhosa Graça — Julia Vitória. |
@@ -185,8 +194,35 @@ MM-08 — Maravilhosa Graça / Goel — montagem de arquivo
 
 **Resultado esperado: **O público deve reconhecer Goel, mas sentir que agora as imagens foram ressignificadas pela compreensão da graça.
 
-MM-11 — Luz do Mundo — playback visual
+MM-09 — Profetas — loop
+| **Cena / bloco** | Cena 5 — Bloco III |
+| --- | --- |
+| **Entrada / disparo** | Quando a Religiosidade começa a explicar que, séculos antes, profetas anunciaram a vinda do Messias. |
+| **Responsável** | Isaac |
+| **Tipo de entrega** | Profetas — loop |
 
+**Objetivo: **Sustentar visualmente a fala sobre os profetas sem transformar a cena em aula projetada.
+
+**Execução sugerida: **Criar um loop com poucas composições coerentes: silhueta de profeta, deserto, pergaminho, cidade antiga e horizonte. Aplicar movimentos lentos e transições discretas. O loop deve poder durar além do previsto sem denunciar a repetição.
+
+**Resultado esperado: **Atmosfera histórica e contemplativa, com baixa distração durante as falas.
+
+**Operação:** consultar as deixas na ficha da cena e indicar o primeiro e o último quadro.
+
+MM-10 — Cristo eterno / universo / criação — animação
+| **Cena / bloco** | Cena 5 — Bloco III |
+| --- | --- |
+| **Entrada / disparo** | Na fala “No princípio Ele já estava lá”, durante a exposição de João 1. |
+| **Responsável** | Isaac |
+| **Tipo de entrega** | Cristo eterno / universo / criação — animação |
+
+**Objetivo: **Aumentar a escala da narrativa: sair do registro histórico dos profetas e entrar em uma dimensão cósmica de eternidade, criação, vida e luz.
+
+**Execução sugerida: **Começar quase no escuro. Introduzir pontos de luz, estrelas, expansão do universo e progressiva dominância da luz. A animação pode ser feita com imagens, zoom lento, partículas, máscaras, flare controlado e transformações. Evitar estética de ficção científica; buscar solenidade e reverência.
+
+**Resultado esperado: **Sensação de grandeza e eternidade que prepare diretamente o playback Luz do Mundo.
+
+MM-11 — Luz do Mundo — playback visual
 | **Cena / bloco** | Cena 5 — Bloco III |
 | --- | --- |
 | **Entrada / disparo** | Entrada da música Luz do Mundo, após a declaração de que a luz brilhou nas trevas. |
@@ -199,48 +235,13 @@ MM-11 — Luz do Mundo — playback visual
 
 **Resultado esperado: **Playback integrado à música e à coreografia, com sensação de crescimento contínuo e clímax sincronizado.
 
-**Integrações / dependências: **Não competir com bailarinos e elenco; reservar as maiores mudanças para momentos musicais realmente relevantes.
-
-
-
-10. Eduardo
-
-MM-07 — Nasceu em Belém — playback visual
-
-| **Cena / bloco** | Cena 3 — Bloco II |
-| --- | --- |
-| **Entrada / disparo** | Entrada da música Nasceu em Belém, imediatamente após a regressão temporal terminar no bebê. |
-| **Responsável** | Eduardo |
-| **Tipo de entrega** | Nasceu em Belém — playback visual |
-
-**Objetivo: **Criar a paisagem visual do nascimento e acompanhar a dinâmica musical.
-
-**Execução sugerida: **Construir uma sequência coerente — Belém à distância → céu estrelado → caminho/cidade → luz/nascimento — com movimento sutil nas bases. Mapear crescimentos, impactos e clímax. Inserir frases de maior impacto da música apenas em pontos específicos, quando reforçarem a narrativa. Em batidas ou impactos instrumentais, responder visualmente com luz, mudança de plano, expansão, corte ou partículas.
-
-**Resultado esperado: **Um playback que pareça sincronizado com a música, e não apenas um vídeo rodando ao fundo.
-
-**Integrações / dependências: **Receber de Isaac o último estado/plano do MM-06 para garantir uma transição orgânica.
-
-MM-10 — Cristo eterno / universo / criação — animação
-
-| **Cena / bloco** | Cena 5 — Bloco III |
-| --- | --- |
-| **Entrada / disparo** | Na fala “No princípio Ele já estava lá”, durante a exposição de João 1. |
-| **Responsável** | Eduardo |
-| **Tipo de entrega** | Cristo eterno / universo / criação — animação |
-
-**Objetivo: **Aumentar a escala da narrativa: sair do registro histórico dos profetas e entrar em uma dimensão cósmica de eternidade, criação, vida e luz.
-
-**Execução sugerida: **Começar quase no escuro. Introduzir pontos de luz, estrelas, expansão do universo e progressiva dominância da luz. A animação pode ser feita com imagens, zoom lento, partículas, máscaras, flare controlado e transformações. Evitar estética de ficção científica; buscar solenidade e reverência.
-
-**Resultado esperado: **Sensação de grandeza e eternidade que prepare diretamente o playback Luz do Mundo.
+**Operação:** consultar as deixas na ficha da cena e indicar o primeiro e o último quadro.
 
 MM-13 — Noite, estrela, pastores e anjos — sequência
-
 | **Cena / bloco** | Cena 7 — Bloco III |
 | --- | --- |
 | **Entrada / disparo** | Durante o nascimento e o anúncio aos pastores; sustenta a progressão musical desta parte. |
-| **Responsável** | Eduardo |
+| **Responsável** | Isaac |
 | **Tipo de entrega** | Noite, estrela, pastores e anjos — sequência |
 
 **Objetivo: **Fazer a imagem crescer da intimidade do nascimento para a glória da celebração celestial.
@@ -249,34 +250,22 @@ MM-13 — Noite, estrela, pastores e anjos — sequência
 
 **Resultado esperado: **A progressão visual deve ser percebida como uma única construção que culmina em glória, sem perder a reverência do presépio.
 
-**Integrações / dependências: **A posição musical exata entre Ó Noite Santa e Santo pra Sempre deve seguir o roteiro técnico/audio master fechado, pois os documentos-base ainda apresentam indicações em pontos diferentes.
+**Operação:** consultar as deixas na ficha da cena e indicar o primeiro e o último quadro.
 
 
+## Eduardo
 
-11. Victor
+- **Cena 6 · Caminho até o abrigo.** Receba de Isaac a indicação do último céu. Use as bases existentes da MM-12 para passar por caminho, Belém, chegada, busca de abrigo e estábulo conforme as falas. Termine no Q06 vazio e mantenha esse mesmo quadro ao abrir a Cena 7.
+- **Cena 7 · Anúncio e gerações.** Segure o estábulo vazio na primeira menção a um anjo. Na fala “uma multidão de anjos apareceu”, entre com a imagem aprovada v09. Mais tarde, em Santo pra Sempre, entram as gerações louvando. Mostre a seleção à direção antes de fechar a luz. Ao fim da música, sai a manjedoura e volta a cozinha.
+- **Cena 8 · Recapitulação e Brilha Tua Luz.** Parta dessa cozinha e abra a panorâmica noturna iluminada da MM-14. Sustente a casa vazia durante as seis ações feitas pelas atrizes. Retome o bebê visto antes e siga com cura, ensino, perdão e acolhimento (MM-15). Volte à sala em “Ele já nos libertou!”. Mostre o bebê e a frase “ELE NASCEU, E ISSO MUDA TUDO.” Para Brilha Tua Luz, apresente luz junto ao bebê → ambiente → elenco. Marque a cortina ao final para a troca que antecede o filme de Victor.
 
-MM-05 — Queda — silhuetas de luz
-
-| **Cena / bloco** | Cena 3 — Bloco II |
-| --- | --- |
-| **Entrada / disparo** | Quando a narrativa chega à escolha humana de viver longe de Deus. |
-| **Responsável** | Victor |
-| **Tipo de entrega** | Queda — silhuetas de luz |
-
-**Objetivo: **Transformar o mundo perfeito em um ambiente de ruptura, perda e peso.
-
-**Execução sugerida: **Partir do universo visual do MM-04: silhuetas humanas inicialmente integradas à luz; depois perda gradual de brilho, aumento de sombras, redução de saturação e crescimento de contraste. Pode ser construído principalmente com máscaras, opacidade, cor e iluminação.
-
-**Resultado esperado: **A queda deve parecer a corrupção do mesmo mundo criado no MM-04, e não a entrada de um vídeo sem relação estética.
-
-**Integrações / dependências: **Receber de Victor paleta/imagem-base do MM-04 antes de finalizar.
+**Comece por aqui.** Confira as bases da MM-12 e coloque o estábulo vazio e a v09 lado a lado. Depois abra a panorâmica MM-14 e os quatro quadros da MM-15. Identifique o que já serve à Cena 8 antes de propor novas imagens.
 
 MM-12 — Viagem, cidade e estábulo — sequência
-
 | **Cena / bloco** | Cenas 6 e 7 — Bloco III |
 | --- | --- |
 | **Entrada / disparo** | Durante o recenseamento, viagem de Maria e José, chegada a Belém e ausência de hospedagem. |
-| **Responsável** | Victor |
+| **Responsável** | Eduardo |
 | **Tipo de entrega** | Viagem, cidade e estábulo — sequência |
 
 **Objetivo: **Acompanhar a narrativa espacial sem competir com as falas e com a montagem física do presépio.
@@ -285,14 +274,17 @@ MM-12 — Viagem, cidade e estábulo — sequência
 
 **Resultado esperado: **Uma sequência legível e discreta que ajude o público a saber “onde estamos” enquanto o núcleo bíblico se monta em cena.
 
-**Integrações / dependências: **O final deve entregar visualmente o espaço ao MM-13 de Eduardo.
+**Operação:** consultar as deixas na ficha da cena e indicar o primeiro e o último quadro.
+
+MM-14 — Recapitulação na panorâmica da casa
+
+Eduardo sustenta uma única panorâmica noturna com a casa iluminada e vazia. As seis ações acontecem no palco. Em seguida, retoma o bebê e entra nos atos da MM-15. [Falas e imagens da Cena 8](../guias/cena-a-cena/cena-08.md).
 
 MM-15 — Vida e atos de Jesus — montagem
-
 | **Cena / bloco** | Cena 8 — Bloco IV |
 | --- | --- |
 | **Entrada / disparo** | Durante a recapitulação de que Jesus curou, ensinou, perdoou e amou pessoas rejeitadas. |
-| **Responsável** | Victor |
+| **Responsável** | Eduardo |
 | **Tipo de entrega** | Vida e atos de Jesus — montagem |
 
 **Objetivo: **Contrastar a condição de aprisionamento do MM-14 com restauração, acolhimento e vida.
@@ -301,11 +293,8 @@ MM-15 — Vida e atos de Jesus — montagem
 
 **Resultado esperado: **A transição MM-14 → MM-15 deve ser percebida como aprisionamento → restauração.
 
-**Integrações / dependências: **Alinhar ritmo e tratamento de cor com Victor.
+**Operação:** consultar as deixas na ficha da cena e indicar o primeiro e o último quadro.
 
-MM-16 — Maravilhosa Graça de Samuel Mizrahy
-
-Victor produz a MM-16 inteira, incluindo seleção ou criação das imagens, eventual gravação, edição, finalização e entrega direta à operação. A–D identificam referências de acervo. O filme independe de qualquer material a preparar, separar ou enviar pelos demais.
 
 12. Fluxo de trabalho e aprovação
 
@@ -367,17 +356,6 @@ A resolução, frame rate e codec finais dos vídeos devem ser congelados junto 
 
 ☐ Existe backup do arquivo aprovado?
 
-15. Dependências entre produtores
+15. Passagens entre responsáveis
 
-| **Integração** | **Regra** |
-| --- | --- |
-| **Victor** | Usa a mesma base do jardim na criação e na queda. |
-| **Isaac → Eduardo** | MM-06 termina no bebê e deve encaixar diretamente em MM-07 Nasceu em Belém. |
-| **Victor → Eduardo → Isaac** | MM-09 profetas → MM-10 universo/criação → MM-11 Luz do Mundo devem formar uma progressão contínua. |
-| **Eduardo → Victor** | Último céu da MM-13 para o primeiro caminho da MM-12. |
-| **Victor** | Sustenta a panorâmica vazia enquanto as seis ações ocorrem no palco, depois monta os atos de Jesus e Brilha Tua Luz. |
-| **Victor → operação** | Entrega o filme final completo e combina a deixa das luzes de Natal. |
-
-**HESED — “Ele nasceu, e isso muda tudo.”**
-
-GET Planalto e GET Santa Amélia  •  Musical de Natal 2026
+Na passagem 2 → 3, Victor indica a Isaac a cozinha noturna V03-01. Na 5 → 6, Isaac mostra o último céu de Ó Noite Santa a Eduardo. Na 8 → 9, Eduardo marca o fechamento da cortina e a operação dispara a MM-16 de Victor depois da troca de cenário e figurino.

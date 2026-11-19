@@ -1,5 +1,9 @@
 # Storyboard · MM-02 · Flashback de Goel (recap)
 
+**Distribuição vigente · 19/11/2026.** Victor fecha as Cenas 1, 2 e 9. Isaac fecha as Cenas 3, 4 e 5. Eduardo (Dudu) fecha as Cenas 6, 7 e 8. Cada pessoa prepara e entrega suas cenas diretamente à operação. A MM-16 é integralmente de Victor. As músicas em ajuste por Isaac seguem a partir das versões existentes. [Guia de execução por pessoa](../../guias/cena-a-cena/quem-faz-as-musicas.md)
+
+**Para executar agora.** Retrospectiva de Victor no segundo congelamento. Retomar o mesmo exterior. [Falas e deixas da Cena 1](../../guias/cena-a-cena/cena-01.md).
+
 ## Atualização de produção conciliada · 16/11/2026
 
 Consultar [estado local verificado de Victor](../../docs/producao-victor/README.md) e [plano atual das nove cenas](../../docs/plano-ajustes-2026-11-16.md) antes dos registros de origem abaixo. Os cinco highlights B02–B06 já foram aprovados; a tabela atual está em producao-por-cena.md. B01B V06 tem aceite visual e V07 é revisão pendente; não declarar o recap completo nem apagar aprovações.
@@ -11,8 +15,8 @@ Os registros anteriores abaixo preservam a origem, sem prevalecer sobre as orien
 | --- | --- |
 | **Responsável** | Victor |
 | **Cena** | 1 |
-| **Recebe de** | MM-01 (Victor), abertura interna/teletransporte e exterior V06, conforme atualização conciliada |
-| **Entrega para** | Retorno à MM-01 e à discussão da Cena 1; compartilha lista de takes com Isaac/MM-08 (P-04) |
+| Recebe de | Ver primeiro e último quadro no guia vigente da cena. |
+| Entrega para | Ver primeiro e último quadro no guia vigente da cena. |
 | **Gatilho e música** | ver [mapa de cenas](../../docs/mapa-de-cenas.md) e [sua página](../../equipe/victor.md) |
 | **Pasta no Drive** | _a definir (P-13)_ |
 

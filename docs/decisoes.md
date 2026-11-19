@@ -1,7 +1,6 @@
 # Log de decisões
 
-**Distribuição vigente · 18/11/2026.** Victor assume toda a produção antes atribuída a Lucas e produz a MM-16 inteira, do roteiro à entrega. Ninguém fornece blocos nem compila materiais para o final. Victor também produz Quebrando as Correntes e Brilha Tua Luz. Eduardo produz Santo pra Sempre. Maravilhosa Graça de Julia Vitória (Cena 4, MM-08) segue com Isaac. [Guia definitivo por pessoa](../guias/cena-a-cena/quem-faz-as-musicas.md)
-
+**Distribuição vigente · 19/11/2026.** Victor fecha as Cenas 1, 2 e 9. Isaac fecha as Cenas 3, 4 e 5. Eduardo (Dudu) fecha as Cenas 6, 7 e 8. Cada pessoa prepara e entrega suas cenas diretamente à operação. A MM-16 é integralmente de Victor. As músicas em ajuste por Isaac seguem a partir das versões existentes. [Guia de execução por pessoa](../guias/cena-a-cena/quem-faz-as-musicas.md)
 
 Tudo que foi decidido e muda como alguém trabalha. Se não está aqui, não foi decidido. Decisões novas entram **no topo**.
 
@@ -9,7 +8,8 @@ Tudo que foi decidido e muda como alguém trabalha. Se não está aqui, não foi
 
 | Código | Data | Decisão | Quem decidiu | Afeta | Situação |
 | --- | --- | --- | --- | --- | --- |
-| D-58 | 18/11/2026 | Victor assume toda a produção antes atribuída a Lucas e produz a MM-16 inteira, do roteiro à entrega. Ninguém fornece blocos nem compila materiais para o final. Victor também produz Quebrando as Correntes e Brilha Tua Luz. Eduardo produz Santo pra Sempre. Maravilhosa Graça de Julia Vitória (Cena 4, MM-08) segue com Isaac. | Victor | Equipe, guias, entrega e todas as peças | 🟢 |
+| D-59 | 19/11/2026 | Victor fecha as Cenas 1, 2 e 9. Isaac fecha as Cenas 3, 4 e 5. Eduardo (Dudu) fecha as Cenas 6, 7 e 8. Victor mantém o filme final inteiro. Reaproveitar o trabalho do Isaac. | Victor | Equipe e operação | 🟢 |
+| D-58 | 18/11/2026 | Distribuição substituída por D-59. Victor assume toda a produção antes atribuída a Lucas e produz a MM-16 inteira, do roteiro à entrega. Ninguém fornece blocos nem compila materiais para o final. Victor também produz Quebrando as Correntes e Brilha Tua Luz. Eduardo produz Santo pra Sempre. Maravilhosa Graça de Julia Vitória (Cena 4, MM-08) segue com Isaac. | Victor | Equipe, guias, entrega e todas as peças | 🟢 |
 | D-57 | 16/11/2026 | Distribuição substituída por D-58. Recuperada a conversa de 24/10 “Entender divisão MM16”: proposta de um storyboard master orientado pela música, mantendo A/B/C/D como pacotes de produção, sem concatenar obrigatoriamente quatro segmentos. Não há aprovação posterior na conversa lida; não equivale a autorização para excluir módulos ou equiparar MM16/Q07 a MM16D-Q07. Ver [contexto](contexto-MM16-2026-10-24.md). | Proposta do assistente no chat recuperado; Victor solicitou conferência | Equipe MM-16 e Lucas/conform | 🟡 |
 | D-56 | 16/11/2026 | Victor autoriza conciliar os trabalhos locais com o repositório e publicar na main, com foco MM01/MM02; esclarece que arquivos pesados de edição, como After Effects, não precisam ser enviados. Publicar documentação/evidências; preservar mídia pesada local e material remoto de outras pessoas, sem force-push. | Victor neste chat | Coordenação, todos os assistentes | 🟢 |
 | D-55 | 16/11/2026 | Victor encaminha feedback da produção das Cenas 1–9 e confirma cozinha na metade direita vista pela plateia/preto à esquerda. Aplicar os gatilhos expressos do [plano](plano-ajustes-2026-11-16.md), incluindo MM13 em Noite Santa e final sem dança, com ênfase no trecho falado/luzes no último refrão. Identificação de MM16/Q07, variantes com anjos, masters e responsáveis novos permanecem pendentes. Não equivale à aprovação de renders. | Produção, relato recebido de Victor; lado da cozinha confirmado por Victor | Todas as cenas; MM-03/MM-13/MM-12/MM-14/MM-15/MM-16 | 🟢 |
