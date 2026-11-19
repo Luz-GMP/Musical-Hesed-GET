@@ -4,7 +4,12 @@
 
 **Distribuição vigente · 19/11/2026.** Victor fecha as Cenas 1, 2 e 9. Isaac fecha as Cenas 3, 4 e 5. Eduardo (Dudu) fecha as Cenas 6, 7 e 8. Cada pessoa prepara e entrega suas cenas diretamente à operação. A MM-16 é integralmente de Victor. As músicas em ajuste por Isaac seguem a partir das versões existentes. [Guia de execução por pessoa](../../guias/cena-a-cena/quem-faz-as-musicas.md)
 
-**Para executar agora.** Victor indica a cozinha noturna V03-01, iluminada à direita da plateia. [Falas e deixas da Cena 2](../../guias/cena-a-cena/cena-02.md).
+**Para executar agora.** Victor indica a cozinha noturna V03-01, iluminada à direita da plateia ([cozinha-noturna-v03-01/MM03-Q01.png](cozinha-noturna-v03-01/MM03-Q01.png)). [Falas e deixas da Cena 2](../../guias/cena-a-cena/cena-02.md).
+
+## Recorte vigente · Cozinha noturna à direita com preto à esquerda (V03-01)
+
+- **Arquivo vigente:** [cozinha-noturna-v03-01/MM03-Q01.png](cozinha-noturna-v03-01/MM03-Q01.png) (SHA-256 `5e0410305c47383834fcedd747d3a4598452a313b0782fca94ba55ea9e0e733f`).
+- **Uso:** abertura da casa na Cena 2 (Victor), passagem para a Cena 3 (Isaac) e retorno à cozinha ao final de *Santo pra Sempre* na Cena 7 / abertura da Cena 8 (Eduardo). Todas as entradas da casa usam a versão noturna com luzes internas acesas (`V03-01`).
 
 ## Atualização de produção conciliada · 16/11/2026
 

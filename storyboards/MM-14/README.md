@@ -4,7 +4,13 @@
 
 **Distribuição vigente · 19/11/2026.** Victor fecha as Cenas 1, 2 e 9. Isaac fecha as Cenas 3, 4 e 5. Eduardo (Dudu) fecha as Cenas 6, 7 e 8. Cada pessoa prepara e entrega suas cenas diretamente à operação. A MM-16 é integralmente de Victor. As músicas em ajuste por Isaac seguem a partir das versões existentes. [Guia de execução por pessoa](../../guias/cena-a-cena/quem-faz-as-musicas.md)
 
-**Para executar agora.** Eduardo sustenta uma única panorâmica vazia da casa, à noite e com as luzes acesas, enquanto as atrizes representam as seis ações no palco. Depois vêm o bebê e os atos de Jesus. [Falas e deixas da Cena 8](../../guias/cena-a-cena/cena-08.md).
+**Para executar agora.** Eduardo sustenta uma única panorâmica vazia da casa, à noite e com as luzes acesas ([MM14-Q11 V03-01](casa-sem-personagens-noturna-v03-01/MM14-Q11.png)), enquanto as atrizes representam as seis ações no palco. Depois vêm o bebê e os atos de Jesus. [Falas e deixas da Cena 8](../../guias/cena-a-cena/cena-08.md).
+
+## Panorâmica vigente · Casa noturna sem personagens (V03-01)
+
+- **Arquivo vigente:** [casa-sem-personagens-noturna-v03-01/MM14-Q11.png](casa-sem-personagens-noturna-v03-01/MM14-Q11.png) (PNG 910×357, SHA-256 `5540698e4b12243bfa44ecd8b015cb81736ea0e3916b5c74b79660351ca34f14`).
+- **Direção (17/11/2026):** todas as cenas na casa são noturnas com luzes internas acesas (`V03-01`) e sem personagens projetados durante os pecados; as seis ações acontecem no palco.
+- **Acervo antigo preservado:** os seis quadros `MM14-Q05.png` a `MM14-Q10.png` e a prancha `STB MM14.png` abaixo ficam fora da seleção vigente.
 
 ## Acervo anterior à decisão da panorâmica
 
