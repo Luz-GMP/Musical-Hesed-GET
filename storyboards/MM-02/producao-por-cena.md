@@ -1,5 +1,7 @@
 # MM-02 · Produção e aprovação progressiva
 
+**Uso no espetáculo.** [Cena 1](../../guias/cena-a-cena/cena-01.md) reúne a fala de entrada, o que o palco faz e até quando sustentar esta imagem. [Roteiro de montagem do telão](../../guias/cena-a-cena/pdf/HESED-roteiro-de-montagem.pdf), página 2.
+
 **Atualização:** 16/11/2026 · Codex, a pedido de Victor. Conciliação da produção local com a main. Método D-37, sequência D-38, aceite visual original D-43 e avanços conciliados D-53. [Acervo/versões](../../docs/producao-victor/README.md) · [manifesto verificado](../../docs/producao-victor/acervo-verificado.json).
 
 ## Sequência e estado atual

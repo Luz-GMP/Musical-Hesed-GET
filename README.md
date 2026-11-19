@@ -1,5 +1,7 @@
 # HESED · Produção Audiovisual
 
+**Comece pelo [Roteiro de montagem do telão](guias/cena-a-cena/pdf/HESED-roteiro-de-montagem.pdf).** O índice do PDF leva à página de cada cena. Ali estão, juntas, a fala, a música, a luz, a imagem e a saída. Para navegar pelas nove cenas no computador, baixe o [mapa HTML](guias/cena-a-cena/mapa-do-telao.html) e abra o arquivo no navegador. [Download direto do mapa](https://github.com/Luz-GMP/Musical-Hesed-GET/raw/refs/heads/main/guias/cena-a-cena/mapa-do-telao.html).
+
 **Distribuição vigente · 19/11/2026.** Victor fecha as Cenas 1, 2 e 9. Isaac fecha as Cenas 3, 4 e 5. Eduardo (Dudu) fecha as Cenas 6, 7 e 8. Cada pessoa prepara e entrega suas cenas diretamente à operação. A MM-16 é integralmente de Victor. As músicas em ajuste por Isaac seguem a partir das versões existentes. [Guia de execução por pessoa](guias/cena-a-cena/quem-faz-as-musicas.md)
 
 ## Abra sua fila de execução
@@ -8,7 +10,7 @@
 
 Cada ficha começa pelo material que já existe, segue a ordem do palco e termina nas deixas para a operação. Para enviar ou baixar: [guia por pessoa em PDF](guias/cena-a-cena/pdf/HESED-guia-definitivo-por-pessoa.pdf) e [guia ilustrado em PDF](guias/cena-a-cena/pdf/HESED-guia-de-cena.pdf).
 
-## Para preparar uma cena
+## Referências para preparar uma cena
 
 Comece pelo [guia de execução das nove cenas](guias/cena-a-cena/README.md). Cada ficha reúne as falas que acionam a tela, o que acontece no palco, o que a letra pede das imagens e o próximo trabalho de cada pessoa.
 

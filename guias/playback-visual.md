@@ -1,6 +1,8 @@
 # Como fazer um playback visual
 
-Peças: **MM-07** (Nasceu em Belém), **MM-08** (Maravilhosa Graça, Julia Vitória), **MM-11** (Luz do Mundo), **MM-13** (Santo pra Sempre), **MM-16** (Maravilhosa Graça, Samuel Mizrahy).
+Para montar e ensaiar, siga o [Roteiro de montagem do telão](cena-a-cena/pdf/HESED-roteiro-de-montagem.pdf). Leia cada deixa na ordem do palco: fala ou ação, entrada da música, imagem a sustentar e sinal de saída.
+
+No palco, MM-13 acompanha Ó Noite Santa na Cena 5. Santo pra Sempre acompanha as gerações na Cena 7. As duas versões de Maravilhosa Graça entram em cenas diferentes: Julia Vitória na 4 e Samuel Mizrahy na 9.
 
 O playback é uma **coreografia do telão com a música**. Se a música cresce, o visual cresce; se a música respira, o visual respira; se a música impacta, o telão responde ao impacto.
 

@@ -5,8 +5,10 @@ title: "MM-XX vNN: "
 labels: entrega
 ---
 
+Para conferir a entrada e a saída, consulte o [Roteiro de montagem do telão](../../guias/cena-a-cena/pdf/HESED-roteiro-de-montagem.pdf).
+
 **Cena, responsável e ordem na cena:**
-**Peça ou música:**
+**Imagem ou música dentro desta cena:**
 **Versão:** vNN (alpha / revisão / final)
 **Link no Drive:**
 

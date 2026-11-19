@@ -1,5 +1,7 @@
 # HESED · Guia de execução das nove cenas
 
+**Comece pelo [Roteiro de montagem do telão](pdf/HESED-roteiro-de-montagem.pdf).** O índice do PDF leva à página de cada cena. Ali estão, juntas, a fala, a música, a luz, a imagem e a saída. Para navegar pelas nove cenas no computador, baixe o [mapa HTML](mapa-do-telao.html) e abra o arquivo no navegador. [Download direto do mapa](https://github.com/Luz-GMP/Musical-Hesed-GET/raw/refs/heads/main/guias/cena-a-cena/mapa-do-telao.html).
+
 [Victor · cenas 1, 2 e 9](../../equipe/victor.md) · [Isaac · cenas 3, 4 e 5](../../equipe/isaac.md) · [Eduardo (Dudu) · cenas 6, 7 e 8](../../equipe/eduardo.md)
 
 [Baixar o guia por pessoa](pdf/HESED-guia-definitivo-por-pessoa.pdf) · [Baixar o guia ilustrado](pdf/HESED-guia-de-cena.pdf)
@@ -42,7 +44,7 @@ Acompanhe o espetáculo como a plateia vai vê-lo. Escolha a cena e comece pela 
 
 Na passagem 2 → 3, Victor indica a Isaac a cozinha noturna V03-01. Na 5 → 6, Isaac mostra o último céu de Ó Noite Santa a Eduardo. Na 8 → 9, Eduardo marca o fechamento da cortina e a operação dispara a MM-16 de Victor depois da troca de cenário e figurino.
 
-## As nove músicas na ordem do espetáculo
+## Índice de músicas para consulta
 
 - [Quebrando as Correntes · Wagner Oliveira · Cena 1](cena-01.md) — Transcrição do MP3 disponível. A ficha compara o corredor e o exterior, do primeiro verso ao encerramento.
 - [Há Muito Tempo Atrás · Crianças Diante do Trono · Cena 3](cena-03.md) — A paisagem combina com a criação. O palco completa a passagem da luz.

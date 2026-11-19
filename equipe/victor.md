@@ -1,5 +1,7 @@
 # Victor · Cenas 1, 2 e 9
 
+**Monte sua sequência de palco.** [Roteiro de montagem do telão](../guias/cena-a-cena/pdf/HESED-roteiro-de-montagem.pdf) · [Cena 1](../guias/cena-a-cena/cena-01.md), [Cena 2](../guias/cena-a-cena/cena-02.md), [Cena 9](../guias/cena-a-cena/cena-09.md). Em cada cena, parta do arquivo que você já tem e percorra falas, músicas e saídas em ordem.
+
 **Primeiro passo.** Separe as versões de abertura, retrospectiva e retorno ao exterior. Identifique a cozinha V03-01 para Isaac. Você já pode esboçar o filme final em paralelo.
 
 ### 1. Prisão e libertação
@@ -30,4 +32,4 @@ Abra [Cena 9](../guias/cena-a-cena/cena-09.md) para conferir as falas e imagens.
 
 Na ordem do palco, indique o arquivo e a versão, a fala ou ação que chama a entrada, o que se mantém no telão e o sinal de saída. Marque prévia ou aprovado e registre o link do Drive quando disponível. Se a entrada depender de ensaio, indique qual sinal falta testar.
 
-[Plano das nove músicas, com quantidade e duração sugeridas](../guias/cena-a-cena/quem-faz-as-musicas.md) · [Passagens entre responsáveis](../docs/dependencias.md) · [Guia ilustrado em PDF](../guias/cena-a-cena/pdf/HESED-guia-de-cena.pdf)
+[Referência complementar de tempos para a primeira montagem](../guias/cena-a-cena/quem-faz-as-musicas.md) · [Passagens entre responsáveis](../docs/dependencias.md) · [Guia ilustrado em PDF](../guias/cena-a-cena/pdf/HESED-guia-de-cena.pdf)

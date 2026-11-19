@@ -5,6 +5,8 @@ title: "P-XX: "
 labels: pendência
 ---
 
+Para montar e ensaiar, siga o [Roteiro de montagem do telão](../../guias/cena-a-cena/pdf/HESED-roteiro-de-montagem.pdf). Leia cada deixa na ordem do palco: fala ou ação, entrada da música, imagem a sustentar e sinal de saída.
+
 **Pergunta (respondível em uma frase):**
 
 **Afeta:** (pessoas / peças)

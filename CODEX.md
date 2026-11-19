@@ -1,6 +1,8 @@
 # Codex · HESED Produção Audiovisual
 
-Para produzir uma cena, abra a ficha do responsável na ordem indicada e siga os links para falas, imagens e deixas. [Victor · cenas 1, 2 e 9](equipe/victor.md) · [Isaac · cenas 3, 4 e 5](equipe/isaac.md) · [Eduardo (Dudu) · cenas 6, 7 e 8](equipe/eduardo.md)
+**Execução no HESED.** Abra o [Roteiro de montagem do telão](guias/cena-a-cena/pdf/HESED-roteiro-de-montagem.pdf) e a ficha da cena antes de preparar a peça. Identifique a fala anterior, quem atua no palco, quando a música entra, qual imagem permanece e o sinal de saída. Atribua a música ao responsável daquela cena. Rotule propostas e escolhas de ensaio ao lado da deixa. Quando a direção alterar um sinal, corrija primeiro a linha da cena, depois a mesma passagem no PDF e no mapa HTML.
+
+Filas de execução dos responsáveis: [Victor · cenas 1, 2 e 9](equipe/victor.md) · [Isaac · cenas 3, 4 e 5](equipe/isaac.md) · [Eduardo (Dudu) · cenas 6, 7 e 8](equipe/eduardo.md)
 
 **Distribuição vigente · 19/11/2026.** Victor fecha as Cenas 1, 2 e 9. Isaac fecha as Cenas 3, 4 e 5. Eduardo (Dudu) fecha as Cenas 6, 7 e 8. Cada pessoa prepara e entrega suas cenas diretamente à operação. A MM-16 é integralmente de Victor. As músicas em ajuste por Isaac seguem a partir das versões existentes. [Guia de execução por pessoa](guias/cena-a-cena/quem-faz-as-musicas.md)
 

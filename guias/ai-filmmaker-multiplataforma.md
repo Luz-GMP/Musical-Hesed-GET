@@ -1,5 +1,7 @@
 # AI Filmmaker no HESED
 
+Para montar e ensaiar, siga o [Roteiro de montagem do telão](cena-a-cena/pdf/HESED-roteiro-de-montagem.pdf). Leia cada deixa na ordem do palco: fala ou ação, entrada da música, imagem a sustentar e sinal de saída.
+
 A skill fica em `.agents/skills/ai-filmmaker/SKILL.md`. Abra a raiz do HESED na ferramenta. Peça **“Use a skill ai-filmmaker para a peça MM-XX e siga o briefing vigente”**. O pacote inclui o manual editorial, o Harness e o modelo Motion Graphics.
 
 | Plataforma | Descoberta no projeto |

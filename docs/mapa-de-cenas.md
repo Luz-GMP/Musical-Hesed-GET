@@ -1,5 +1,7 @@
 # Mapa de cenas
 
+Para montar e ensaiar, siga o [Roteiro de montagem do telão](../guias/cena-a-cena/pdf/HESED-roteiro-de-montagem.pdf). Leia cada deixa na ordem do palco: fala ou ação, entrada da música, imagem a sustentar e sinal de saída.
+
 **Atualização conciliada:**16/11/2026, a pedido de Victor. O [feedback recebido da produção](fontes/feedback-producao-2026-11-16.md) e o [plano detalhado das nove cenas](plano-ajustes-2026-11-16.md) atualizam os gatilhos expressos abaixo. O roteiro/briefing originais foram preservados. Informações omitidas pelo feedback continuam no planejamento de origem; não significam cancelamento.
 
 Referências e aprovações não são execução final. Onde há arquivo, quadro ou responsável por confirmar, não criar decisão por inferência. Tempos de palco são variáveis; os gatilhos abaixo não são timecodes de ensaio.

@@ -1,5 +1,7 @@
 # Pendências
 
+Para montar e ensaiar, siga o [Roteiro de montagem do telão](../guias/cena-a-cena/pdf/HESED-roteiro-de-montagem.pdf). Leia cada deixa na ordem do palco: fala ou ação, entrada da música, imagem a sustentar e sinal de saída.
+
 Perguntas abertas que travam ou podem travar alguém. Cada uma tem um código fixo (`P-XX`) para ser citado no STATUS.md e no grupo. Quando resolver, **mova a resposta para [decisoes.md](decisoes.md)** e marque aqui como ✅ com o código da decisão.
 
 **Prioridade:** 🔴 trava produção agora · 🟡 trava em breve · 🟢 pode esperar

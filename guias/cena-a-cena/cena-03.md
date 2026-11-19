@@ -1,42 +1,25 @@
 # Cena 3 · A criação, a queda e a promessa
 
+[Roteiro de montagem do telão](pdf/HESED-roteiro-de-montagem.pdf) · Página 4. A tabela desta ficha segue a mesma ordem. As notas de letra e storyboard detalham as escolhas de imagem.
+
 [Voltar ao guia](README.md) · Storyboard geral v03, pp. 35–59.
 
 **Quem prepara:** Isaac · MM-04, MM-05, MM-06 e MM-07
 
 Mari conta de onde veio o pecado e por que Jesus veio ao mundo. A cena alterna a conversa à mesa, a dança da criação, a queda, a história contada de trás para frente e o número de Belém.
 
-## A cena na ordem em que acontece
+## Montagem na ordem do palco
 
-### 1. Religiosidade começa o relato. No roteiro, a primeira referência à mudança de imagem é “Não tinha dor”
+| Quando entra | Palco, som e luz | Imagem, material e saída |
+| --- | --- | --- |
+| Religiosidade começa o relato | Mesa amarela. Alana começa sob um foco branco. | Abra com a cozinha V03-01 recebida de Victor. Deixe o jardim da MM-04 preparado. O roteiro cita “Não tinha dor” como referência para a troca visual. Acerte a fala exata no ensaio. |
+| Durante “Deus criou tudo perfeito” | Começa **Há Muito Tempo Atrás** no meio da fala. O volume sobe aos poucos. | O jardim íntegro acompanha a criação. Para a primeira montagem, experimente 2 a 4 vistas, 25–50 s por vista, com espaço para a dança. Os quadros do jardim estão em revisão. |
+| No verso “Então Deus falou: haja luz” | O verde-claro se espalha no palco e sai o foco isolado de Alana. | Sustente a criação durante a dança. Ao terminar a música, volte à cozinha e à luz da mesa antes da pergunta de Adultério. |
+| Adultério pergunta como tudo deu errado | Mari fala da escolha humana de viver longe de Deus. | Da cozinha, passe à MM-05 na fala combinada. Use a V03 aprovada com seis quadros, do jardim luminoso à queda. A mordida pertence a este momento. |
+| “Enviando alguém pra nos salvar” | A conversa segue até as perguntas sobre o bebê e sobre Belém. | MM-06. Volte no tempo da cruz aos milagres, à infância e ao bebê. Deixe o último quadro durar enquanto houver fala. |
+| Depois da conversa sobre Belém da Judeia | Entra **Nasceu em Belém**, de Marcus Salles. Luz de palco laranja e azul. | Do bebê, passe ao céu estrelado da MM-07. Teste um céu com duas intensidades de estrela, ciclo de 30–45 s para o recorte de cerca de 5 min. A produção escolhe a passagem e quanto tempo fica o céu. Depois, volte à casa. |
 
-- **No palco.** A mesa tem luz amarela. Alana começa no foco branco.
-- **No telão.** Preparar MM-04, o jardim íntegro. A deixa exata para tirar a casa do telão precisa ser acertada com Isaac e a direção.
-- **Para executar.** Durante “Deus criou tudo perfeito”, começar Há Muito Tempo Atrás e aumentar aos poucos. São duas ações distintas.
-
-### 2. Na passagem cantada sobre Deus chamar a luz
-
-- **No palco.** A luz verde-clara se espalha e o foco isolado de Alana sai. As detentas seguem ouvindo enquanto se dança.
-- **No telão.** Sustentar a criação íntegra. Os quatro quadros em revisão mostram variações da mesma paisagem.
-- **Para executar.** A mudança de cor pedida é da luz do palco. Ao fim da música, repor cozinha à direita, esquerda preta e luz na mesa.
-
-### 3. Adultério pergunta como tudo deu errado
-
-- **No palco.** O diálogo volta à mesa, depois Mari explica a escolha de viver longe de Deus.
-- **No telão.** Passar à queda MM-05. Usar a sequência V03 aprovada, do jardim luminoso à consequência do fruto. Combinar em qual fala sai a cozinha.
-- **Para executar.** Isaac reutiliza o jardim de referência e a deixa de reentrada. O visual pesado pertence à queda.
-
-### 4. Religiosidade responde “Enviando alguém pra nos salvar”
-
-- **No palco.** A conversa segue até as perguntas sobre o bebê e Belém.
-- **No telão.** MM-06 volta no tempo: cruz → milagres → infância → bebê. Ao chegar ao bebê, deixar a imagem disponível enquanto falam.
-- **Para executar.** Isaac prepara quatro etapas e um final que possa durar o quanto a atriz precisar. Ainda faltam imagens no storyboard.
-
-### 5. Após a conversa sobre Belém da Judeia
-
-- **No palco.** Entra Nasceu em Belém. A luz do palco é laranja e azul.
-- **No telão.** Isaac mantém o bebê até a deixa e passa ao vídeo das estrelas solicitado. A forma dessa passagem e o vídeo a usar estão em aberto.
-- **Para executar.** Os dez quadros da MM-07 são referências. V01 e V02 foram rejeitadas, e a tentativa com Antigravity foi encerrada.
+**Antes de entregar.** Retome a regressão até o bebê que já tem em andamento. Mostre à direção o último bebê e a primeira estrela lado a lado.
 
 ## Como preparar e passar adiante
 

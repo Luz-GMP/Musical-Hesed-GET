@@ -1,5 +1,7 @@
 # Isaac · Cenas 3, 4 e 5
 
+**Monte sua sequência de palco.** [Roteiro de montagem do telão](../guias/cena-a-cena/pdf/HESED-roteiro-de-montagem.pdf) · [Cena 3](../guias/cena-a-cena/cena-03.md), [Cena 4](../guias/cena-a-cena/cena-04.md), [Cena 5](../guias/cena-a-cena/cena-05.md). Em cada cena, parta do arquivo que você já tem e percorra falas, músicas e saídas em ordem.
+
 **Primeiro passo.** Abra o que já enviou e as músicas que está ajustando. Marque o que é faixa, corte ou vídeo e continue pela versão mais avançada. As músicas ainda sem título identificado podem ser relacionadas depois, sem atrasar o restante. Para o material herdado, consulte os quadros existentes de criação, queda, estrelas, profetas, universo e pastores.
 
 ### 3. Criação, queda e Belém
@@ -30,4 +32,4 @@ Abra [Cena 5](../guias/cena-a-cena/cena-05.md) para conferir as falas e imagens.
 
 Na ordem do palco, indique o arquivo e a versão, a fala ou ação que chama a entrada, o que se mantém no telão e o sinal de saída. Marque prévia ou aprovado e registre o link do Drive quando disponível. Se a entrada depender de ensaio, indique qual sinal falta testar.
 
-[Plano das nove músicas, com quantidade e duração sugeridas](../guias/cena-a-cena/quem-faz-as-musicas.md) · [Passagens entre responsáveis](../docs/dependencias.md) · [Guia ilustrado em PDF](../guias/cena-a-cena/pdf/HESED-guia-de-cena.pdf)
+[Referência complementar de tempos para a primeira montagem](../guias/cena-a-cena/quem-faz-as-musicas.md) · [Passagens entre responsáveis](../docs/dependencias.md) · [Guia ilustrado em PDF](../guias/cena-a-cena/pdf/HESED-guia-de-cena.pdf)

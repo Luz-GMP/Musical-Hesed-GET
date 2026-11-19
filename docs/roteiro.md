@@ -1,5 +1,7 @@
 # Roteiro: HESED, Musical de Natal 2026
 
+Para montar e ensaiar, siga o [Roteiro de montagem do telão](../guias/cena-a-cena/pdf/HESED-roteiro-de-montagem.pdf). Leia cada deixa na ordem do palco: fala ou ação, entrada da música, imagem a sustentar e sinal de saída.
+
 > Transcrição em Markdown do roteiro original (`fontes/HESED_Roteiro_Musical_Natal_2026.pdf`). Linhas com 🎬 são indicações técnicas (cenário, vídeo, música, cortina). Em caso de divergência, o PDF original vale.
 
 MUSICAL DE NATAL 2026 GET PLANALTO E GET SANTA AMÉLIA João 1, 3 e 8, Colossenses 2, Romanos 5 e 7, Gálatas 5, Gênesis 1, 2 e 3, Efésios 1 e 2, Isaías 7 e 9

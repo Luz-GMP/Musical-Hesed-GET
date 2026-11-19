@@ -1,5 +1,7 @@
 # Edição de vídeo com agentes · direção e procedimento de uso
 
+Para montar e ensaiar, siga o [Roteiro de montagem do telão](cena-a-cena/pdf/HESED-roteiro-de-montagem.pdf). Leia cada deixa na ordem do palco: fala ou ação, entrada da música, imagem a sustentar e sinal de saída.
+
 **Versão:** v03 · **Atualização:** 21/10/2026 · **Direção:** Victor · **Registro:** Codex · **Decisões:** D-35/D-36/D-37/D-38/D-39/D-43.
 
 Método de produção adotado por Victor para a MM-02 e os próximos vídeos realizados com ele. Base vigente: [pacote AI Filmmaker Agent recebido em 20/10/2026](../docs/fontes/AI_Filmmaker_Agent_2026-10-20/README.md), com MD e seis auxiliares preservados; [revisão técnica e novidades](revisao-ai-filmmaker-2026-10-20.md). Versões anteriores permanecem em docs/fontes. Este guia aplica as fontes junto da direção D-34; exemplos continuam exemplos. D-39 instala a skill local [ai-filmmaker](../.agents/skills/ai-filmmaker/SKILL.md) neste projeto. Isso disponibiliza as instruções e referências; não instala plugin global ou dependências de render. O catálogo de uma sessão já aberta pode exigir recarregamento, e AGENTS.md oferece a resolução direta pelo arquivo local.

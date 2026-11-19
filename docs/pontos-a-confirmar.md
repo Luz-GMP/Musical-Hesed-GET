@@ -1,5 +1,7 @@
 # Pontos a confirmar
 
+Para montar e ensaiar, siga o [Roteiro de montagem do telão](../guias/cena-a-cena/pdf/HESED-roteiro-de-montagem.pdf). Leia cada deixa na ordem do palco: fala ou ação, entrada da música, imagem a sustentar e sinal de saída.
+
 **Registro de organização anterior à redistribuição.** Para produção e pendências atuais, consulte a [fila por cena](../STATUS.md#fila-das-nove-cenas) e as [pendências de produção](pendencias.md).
 
 **Responsável pelo registro:** Victor

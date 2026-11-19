@@ -1,5 +1,7 @@
 # Visão geral do HESED
 
+Para montar e ensaiar, siga o [Roteiro de montagem do telão](../guias/cena-a-cena/pdf/HESED-roteiro-de-montagem.pdf). Leia cada deixa na ordem do palco: fala ou ação, entrada da música, imagem a sustentar e sinal de saída.
+
 ## O espetáculo
 
 **HESED** é o musical de Natal 2026 do GET Planalto e GET Santa Amélia, continuação direta do musical de Páscoa (**Goel**). Em Goel, dez detentas (Ódio, Mentira, Cobiça, Idolatria, Adultério, Desobediência, Religiosidade, Autossuficiência, Ladra/Roubo e Profanação) foram libertas por Jesus, que pagou uma dívida que não era dele. HESED começa exatamente onde Goel terminou: elas estão livres, mas não entendem quem as libertou nem por quê. A Religiosidade, agora quebrantada, conta a história desde o princípio: criação, queda, profetas, nascimento, vida e graça.

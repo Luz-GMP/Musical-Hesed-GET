@@ -1,5 +1,7 @@
 # Aplicação no HESED
 
+**Execução no HESED.** Abra o [Roteiro de montagem do telão](../../../../guias/cena-a-cena/pdf/HESED-roteiro-de-montagem.pdf) e a ficha da cena antes de preparar a peça. Identifique a fala anterior, quem atua no palco, quando a música entra, qual imagem permanece e o sinal de saída. Atribua a música ao responsável daquela cena. Rotule propostas e escolhas de ensaio ao lado da deixa.
+
 1. Localize a raiz que contém `AGENTS.md`. A partir do pacote de projeto, ela fica três níveis acima de `SKILL.md`. Leia as instruções vigentes, o briefing da peça, o status, as decisões e os registros com aprovação. No workspace de produção use também `acompanhamento/estado-atual.md` e `acompanhamento/historico.md`.
 2. Consulte `guias/edicao-de-video-com-agentes.md`, o caderno de quadros e o guia de construção em `storyboards/` conforme a peça. No workspace sem checkout, consulte a main vigente e as referências conciliadas indicadas em `AGENTS.md`; o snapshot é histórico. Os exemplos não alteram decisões da peça.
 3. Respeite o ponto de entrada, a versão e o instrumento escolhido por Victor. A exportação final do HESED é 1920×1080 progressiva, com o FPS aprovado da peça. A aprovação de uma imagem ou o sucesso do Harness não constitui aprovação audiovisual ou ensaio no telão.

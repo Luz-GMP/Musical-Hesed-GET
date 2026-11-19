@@ -1,5 +1,7 @@
 # Entrega e organização de arquivos
 
+Para montar e ensaiar, siga o [Roteiro de montagem do telão](cena-a-cena/pdf/HESED-roteiro-de-montagem.pdf). Leia cada deixa na ordem do palco: fala ou ação, entrada da música, imagem a sustentar e sinal de saída.
+
 ## Onde fica o quê
 
 | Tipo | Onde | Por quê |

@@ -1,5 +1,7 @@
 # Produção de Victor — conciliação de 16/11/2026
 
+Para montar e ensaiar, siga o [Roteiro de montagem do telão](../../guias/cena-a-cena/pdf/HESED-roteiro-de-montagem.pdf). Leia cada deixa na ordem do palco: fala ou ação, entrada da música, imagem a sustentar e sinal de saída.
+
 Este índice integra o trabalho local de MM-01/MM-02 ao repositório. A base remota conferida foi `83c9448b7ec8767c50385650bb553d70853d7169`, de 24/10. As aprovações abaixo foram extraídas dos registros de Victor e confrontadas com arquivos existentes; não são novas aprovações atribuídas pela conciliação.
 
 ## MM-01: abertura e entrega ao palco

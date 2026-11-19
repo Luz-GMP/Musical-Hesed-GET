@@ -1,5 +1,7 @@
 # Briefings dos quadros · HESED
 
+Para montar e ensaiar, siga o [Roteiro de montagem do telão](../guias/cena-a-cena/pdf/HESED-roteiro-de-montagem.pdf). Leia cada deixa na ordem do palco: fala ou ação, entrada da música, imagem a sustentar e sinal de saída.
+
 **Distribuição vigente · 19/11/2026.** Victor fecha as Cenas 1, 2 e 9. Isaac fecha as Cenas 3, 4 e 5. Eduardo (Dudu) fecha as Cenas 6, 7 e 8. Cada pessoa prepara e entrega suas cenas diretamente à operação. A MM-16 é integralmente de Victor. As músicas em ajuste por Isaac seguem a partir das versões existentes. [Guia de execução por pessoa](../guias/cena-a-cena/quem-faz-as-musicas.md)
 
 ## Atualização conciliada ·16/11/2026 — ler antes dos contratos de origem

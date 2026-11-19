@@ -1,5 +1,7 @@
 # Instrução para o Antigravity · MM-07 · Nasceu em Belém
 
+**Uso no espetáculo.** [Cena 3](../../guias/cena-a-cena/cena-03.md) reúne a fala de entrada, o que o palco faz e até quando sustentar esta imagem. [Roteiro de montagem do telão](../../guias/cena-a-cena/pdf/HESED-roteiro-de-montagem.pdf), página 4.
+
 **Arquivo histórico.** Victor encerrou essa tentativa em 18/11. Para executar hoje, Isaac segue o [guia da Cena 3](../../guias/cena-a-cena/cena-03.md) e trabalha a passagem do bebê para o céu de estrelas.
 
 Abra a raiz do HESED e envie o texto abaixo ao agente. A primeira entrega solicitada é **um piloto**, com revisão de Victor antes de produzir os demais planos.

@@ -1,30 +1,23 @@
 # Cena 9 · Um filme para o final
 
+[Roteiro de montagem do telão](pdf/HESED-roteiro-de-montagem.pdf) · Página 10. A tabela desta ficha segue a mesma ordem. As notas de letra e storyboard detalham as escolhas de imagem.
+
 [Voltar ao guia](README.md) · Storyboard geral v03, pp. 103–118.
 
 **Quem prepara:** Victor · produção integral da MM-16
 
 A tela carrega o número inteiro. A experiência das detentas atravessa o filme, da cegueira até a liberdade, e ganha sentido na vida, morte e ressurreição de Jesus.
 
-## A cena na ordem em que acontece
+## Montagem na ordem do palco
 
-### 1. Após a troca de roupa e cenário, começa Maravilhosa Graça de Samuel Mizrahy
+| Quando entra | Palco, som e luz | Imagem, material e saída |
+| --- | --- | --- |
+| A troca de roupa e cenário termina | Entra **Maravilhosa Graça**, na versão de Samuel Mizrahy. A dança saiu deste número. | Abra o filme ligando a experiência das detentas à de quem passa a enxergar e ser encontrado. Teste 8–12 planos, com 6–15 s por ação. A ordem final depende da faixa do palco. |
+| A letra fala do preço da liberdade | O público acompanha o que Jesus fez e a mudança que isso produz nas detentas. | Intercale a transformação delas com vida, morte e ressurreição. A prancha D traz caminhada (Q07), cruz, escuridão, túmulo vazio, ressurreição e vitória. Compare a p. 112 com o pedido “Q07 em diante” antes de excluir os seis primeiros. |
+| Chega a declaração falada | A plateia ouve a declaração enquanto vê apenas o filme. | Segure uma imagem legível pelo tempo da fala. Confira o roteiro detalhado e marque onde a voz começa e termina na versão do espetáculo. |
+| Entra o último refrão | As luzes de Natal acendem no grande momento final. | Reserve a mudança visual de maior impacto para este refrão. Combine e ensaie um único sinal com a iluminação para que a tela e as luzes cheguem juntas. |
 
-- **No palco.** A dança foi retirada deste número. O público acompanha o filme.
-- **No telão.** Victor liga a experiência das detentas ao nascimento, à vida, à morte e à ressurreição de Jesus.
-- **Para executar.** Victor produz a MM-16 inteira, incluindo seleção ou criação das imagens, eventual gravação, edição, finalização e entrega direta à operação. A–D identificam referências de acervo. O filme independe de qualquer material a preparar, separar ou enviar pelos demais.
-
-### 2. Quando o filme tratar da redenção
-
-- **No palco.** A tela deve deixar claro quem é liberto e por quê.
-- **No telão.** Na prancha D, Q07 é a caminhada, Q08 a cruz, Q09 a escuridão, Q10 o túmulo vazio, Q11 a ressurreição e Q12 a vitória. A produção pediu “Q07 em diante”.
-- **Para executar.** Mostrar a p. 112 para confirmar se era essa prancha. A orientação de tirar seis quadros só pode ser aplicada à versão identificada.
-
-### 3. Parte falada e último refrão
-
-- **No palco.** Durante a parte falada, o vídeo sustenta a atenção sozinho. As luzes de Natal ganham impacto no último refrão.
-- **No telão.** Escolher uma imagem legível para a ideia falada. Reservar o crescimento visual e a ação das luzes para o refrão final.
-- **Para executar.** Localizar o detalhamento citado pela produção e confirmar o conteúdo do trecho falado. Preparar um sinal comum para telão e iluminação.
+**Antes de entregar.** Confirme a qual prancha pertence o Q07 pedido e localize a parte falada na versão de palco antes de cortar a abertura.
 
 ## Como preparar e passar adiante
 

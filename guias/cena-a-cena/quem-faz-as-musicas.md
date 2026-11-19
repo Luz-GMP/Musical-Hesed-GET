@@ -1,5 +1,7 @@
 # HESED · Guia de execução por pessoa
 
+**Para executar, abra o [Roteiro de montagem do telão](pdf/HESED-roteiro-de-montagem.pdf).** Use este guia para localizar seu bloco e consultar durações. As nove músicas já aparecem no ponto da cena em que entram, com o que vem antes e depois.
+
 19 de novembro de 2026 · Distribuição final das nove cenas
 
 Victor fecha as Cenas 1, 2 e 9. Isaac fecha as Cenas 3, 4 e 5. Eduardo (Dudu) fecha as Cenas 6, 7 e 8. A pessoa indicada fecha tudo o que vai ao telão naquela cena e entrega à operação os arquivos na ordem, com a deixa de entrada e de saída.
@@ -28,21 +30,21 @@ Victor fecha as Cenas 1, 2 e 9. Isaac fecha as Cenas 3, 4 e 5. Eduardo (Dudu) fe
 
 **Comece por aqui.** Confira as bases da MM-12 e coloque o estábulo vazio e a v09 lado a lado. Depois abra a panorâmica MM-14 e os quatro quadros da MM-15. Identifique o que já serve à Cena 8 antes de propor novas imagens.
 
-## As nove músicas na ordem do palco
+## Tempos de referência para a primeira montagem
 
 Os tempos abaixo são sugestões para a primeira revisão. A faixa local de Correntes e o recorte de Belém têm duração conhecida. Para as outras sete músicas, feche os segundos com a versão real de palco. Uma imagem pode voltar no refrão.
 
 | Cena e música | Quem produz | Primeira experiência | Como termina |
 | --- | --- | --- | --- |
-| 1 · Quebrando as Correntes | Victor | 1 fundo por 3min44s, ou 2 imagens com corredor de 00:13 a 00:47 | Exterior e saída das atrizes. Cortina fechada chama o elevador. |
-| 3 · Há Muito Tempo Atrás | Isaac | 2 a 4 vistas do jardim, 25–50 s por vista | Volta à mesa antes da queda. |
-| 3 · Nasceu em Belém | Isaac | 1 céu com 2 intensidades de estrela. Teste um ciclo de 30–45 s para o recorte de cerca de 5 min | Preparar o retorno à casa da Cena 4. |
-| 4 · Maravilhosa Graça · Julia Vitória | Isaac | 3–4 momentos de Goel, 6–8 planos. Gesto de 6–12 s, reação de 12–25 s | Entregar à conversa que prepara os profetas. |
-| 5 · Luz do Mundo | Isaac | 1 vídeo do mundinho. Procurar 2–3 momentos de 20–40 s | Cozinha. Maria e anjo junto ao teclado, depois José e anjo junto à bateria. |
-| 5 · Ó Noite Santa | Isaac | 3 imagens em 4 entradas. Campo 25–45 s, estrela 30–60 s, pastores 15–30 s, estrela até o fim | Isaac mostra a Eduardo o último céu antes da viagem da Cena 6. |
-| 7 · Santo pra Sempre | Eduardo | 3 imagens de gerações, 20–45 s por grupo. Inserção de anjos depende de escolha da direção | Sai a manjedoura e volta a cozinha. |
-| 8 · Brilha Tua Luz | Eduardo | 3 momentos. Origem da luz 15–30 s, ambiente 25–45 s, alcance do elenco 25–60 s | Cortina para a retirada do cenário. |
-| 9 · Maravilhosa Graça · Samuel Mizrahy | Victor | Seleção inicial de 8–12 planos. Testar 6–15 s por ação e sustentar a imagem durante a fala | Último refrão junto das luzes de Natal. |
+| [Cena 1](cena-01.md#montagem-na-ordem-do-palco) · Quebrando as Correntes | Victor | 1 fundo por 3min44s, ou 2 imagens com corredor de 00:13 a 00:47 | Exterior e saída das atrizes. Cortina fechada chama o elevador. |
+| [Cena 3](cena-03.md#montagem-na-ordem-do-palco) · Há Muito Tempo Atrás | Isaac | 2 a 4 vistas do jardim, 25–50 s por vista | Volta à mesa antes da queda. |
+| [Cena 3](cena-03.md#montagem-na-ordem-do-palco) · Nasceu em Belém | Isaac | 1 céu com 2 intensidades de estrela. Teste um ciclo de 30–45 s para o recorte de cerca de 5 min | Preparar o retorno à casa da Cena 4. |
+| [Cena 4](cena-04.md#montagem-na-ordem-do-palco) · Maravilhosa Graça · Julia Vitória | Isaac | 3–4 momentos de Goel, 6–8 planos. Gesto de 6–12 s, reação de 12–25 s | Entregar à conversa que prepara os profetas. |
+| [Cena 5](cena-05.md#montagem-na-ordem-do-palco) · Luz do Mundo | Isaac | 1 vídeo do mundinho. Procurar 2–3 momentos de 20–40 s | Cozinha. Maria e anjo junto ao teclado, depois José e anjo junto à bateria. |
+| [Cena 5](cena-05.md#montagem-na-ordem-do-palco) · Ó Noite Santa | Isaac | 3 imagens em 4 entradas. Campo 25–45 s, estrela 30–60 s, pastores 15–30 s, estrela até o fim | Isaac mostra a Eduardo o último céu antes da viagem da Cena 6. |
+| [Cena 7](cena-07.md#montagem-na-ordem-do-palco) · Santo pra Sempre | Eduardo | 3 imagens de gerações, 20–45 s por grupo. Inserção de anjos depende de escolha da direção | Sai a manjedoura e volta a cozinha. |
+| [Cena 8](cena-08.md#montagem-na-ordem-do-palco) · Brilha Tua Luz | Eduardo | 3 momentos. Origem da luz 15–30 s, ambiente 25–45 s, alcance do elenco 25–60 s | Cortina para a retirada do cenário. |
+| [Cena 9](cena-09.md#montagem-na-ordem-do-palco) · Maravilhosa Graça · Samuel Mizrahy | Victor | Seleção inicial de 8–12 planos. Testar 6–15 s por ação e sustentar a imagem durante a fala | Último refrão junto das luzes de Natal. |
 
 ## Passagens entre pessoas
 

@@ -5,6 +5,8 @@ description: Planeja, produz e edita vídeos em MP4 a partir de roteiros, grava�
 
 # AI Filmmaker
 
+**Execução no HESED.** Abra o [Roteiro de montagem do telão](../../../guias/cena-a-cena/pdf/HESED-roteiro-de-montagem.pdf) e a ficha da cena antes de preparar a peça. Identifique a fala anterior, quem atua no palco, quando a música entra, qual imagem permanece e o sinal de saída. Atribua a música ao responsável daquela cena. Rotule propostas e escolhas de ensaio ao lado da deixa.
+
 No HESED, comece pela [aplicação no projeto](references/hesed.md). Ela reúne as decisões locais,
 o ponto de partida da MM-07 e a regra de continuidade entre storyboard, aprovações e execução.
 Use sempre a entrada do projeto quando houver uma cópia pessoal com o mesmo nome.

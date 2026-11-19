@@ -1,30 +1,22 @@
 # Cena 2 · As detentas chegam à casa da Mari
 
+[Roteiro de montagem do telão](pdf/HESED-roteiro-de-montagem.pdf) · Página 3. A tabela desta ficha segue a mesma ordem. As notas de letra e storyboard detalham as escolhas de imagem.
+
 [Voltar ao guia](README.md) · Storyboard geral v03, p. 34.
 
 **Quem prepara:** Victor · MM-03
 
 Em roupas cotidianas, elas se sentam para comer. Religiosidade começa apontando os erros das outras e muda de postura quando pega a Bíblia. O centro da cena é a mesa.
 
-## A cena na ordem em que acontece
+## Montagem na ordem do palco
 
-### 1. Ao entrarem na casa
+| Quando entra | Palco, som e luz | Imagem, material e saída |
+| --- | --- | --- |
+| Abre a casa depois da troca | As mulheres entram em roupa cotidiana. Ladra comenta a fome e Cobiça observa a casa. | Use a casa à noite, com as luzes internas acesas. Combine no ensaio qual imagem recebe a chegada antes da mesa. |
+| Elas chegam à mesa | As atrizes se sentam. A mesa real passa a concentrar a conversa. | Entre com a cozinha da MM-03 V03-01. Para quem está na plateia, a cozinha fica à direita e a metade esquerda fica preta. Sustente o fundo aprovado. |
+| Religiosidade pega a Bíblia | Ela explica que a história começou antes da cruz. Autossuficiência pede que seja objetiva. | Segure a cozinha durante a conversa e na abertura da próxima cena. A mudança de responsável acontece com a mesma imagem no telão. |
 
-- **No palco.** Elas chegam em roupa cotidiana. A Ladra comenta a fome e Cobiça observa a casa.
-- **No telão.** Usar a casa à noite com as luzes internas acesas. A imagem anterior à chegada à mesa precisa ter seu ponto de troca combinado no ensaio.
-- **Para executar.** Victor fornece as imagens já existentes. A posição da plateia é a referência para os lados.
-
-### 2. Quando chegam à mesa
-
-- **No palco.** As atrizes se assentam e conversam. A mesa real ocupa a atenção.
-- **No telão.** Chamar MM-03 V03-01 com cozinha à direita de quem assiste e lado esquerdo preto. Deixar esse fundo quieto.
-- **Para executar.** Recorte noturno aprovado, p. 34. Conferir com a mesa física se as duas partes se leem do lugar da plateia.
-
-### 3. Religiosidade pega a Bíblia e diz que a história não começou na cruz
-
-- **No palco.** As interrupções cessam. Autossuficiência pede que seja objetiva.
-- **No telão.** Sustentar a casa e preparar a criação da Cena 3.
-- **Para executar.** Victor indica a Isaac esse mesmo fundo para o começo e o retorno depois da música.
+**Antes de entregar.** Passe a Isaac o arquivo exato da cozinha V03-01. Olhem o enquadramento da plateia com a mesa real no lugar.
 
 ## Como preparar e passar adiante
 

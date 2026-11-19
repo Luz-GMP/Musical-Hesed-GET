@@ -1,42 +1,24 @@
 # Cena 1 · Da cadeia à liberdade
 
+[Roteiro de montagem do telão](pdf/HESED-roteiro-de-montagem.pdf) · Página 2. A tabela desta ficha segue a mesma ordem. As notas de letra e storyboard detalham as escolhas de imagem.
+
 [Voltar ao guia](README.md) · Storyboard geral v03, pp. 3–33.
 
 **Quem prepara:** Victor · MM-01, MM-02 e Quebrando as Correntes
 
 As detentas acabaram de ser libertas e ainda tentam entender quem pagou a dívida. O público vê primeiro a prisão, depois Jesus saindo e, só no meio da discussão, a lembrança da Páscoa.
 
-## A cena na ordem em que acontece
+## Montagem na ordem do palco
 
-### 1. Abertura • prisioneiras
+| Quando entra | Palco, som e luz | Imagem, material e saída |
+| --- | --- | --- |
+| As prisioneiras esperam | As detentas estão na posição final de Goel. O canto dos anjos entra com a primeira luz branca. | MM-01. Comece pelas detentas no corredor. O clarão conduz ao desaparecimento e revela o exterior da cadeia. A abertura V04 está em revisão. |
+| Jesus sai pelo corredor central | As atrizes ficam imóveis durante a saída. Depois, conversam sobre as correntes que sumiram. | Segure o exterior V06. Guarde esse mesmo enquadramento para depois da retrospectiva. |
+| A discussão cresce e elas congelam outra vez | A pausa das atrizes abre espaço para lembrar o que aconteceu na Páscoa. | Chame a MM-02 no segundo congelamento. Narração B01A, vinheta B01B e recortes de Goel no estilo de Todo Mundo Odeia o Chris. Preserve os cinco blocos aprovados B02–B06. B01B V07 segue em revisão; B07–B14 ainda precisam de montagem. |
+| Termina a retrospectiva | As detentas retomam a conversa imediatamente. | Volte direto ao mesmo exterior. A plateia reconhece onde a discussão parou. |
+| Ladra propõe sair da porta da cadeia | Entra **Quebrando as Correntes**. As atrizes se levantam e saem. Referência de interpretação da produção: “vibe jhony jhony”. | Teste o exterior por toda a faixa de 3min44s. Outra opção: mostrar o corredor no primeiro verso (00:13) e voltar ao exterior no refrão (00:47). No fim, a saída das atrizes conduz o olhar. Cortina fechada chama o som de elevador/telemarketing para a troca. |
 
-- **No palco.** As detentas esperam na posição final de Goel.
-- **No telão.** Mostrar as detentas no corredor. Quando a luz branca começar, o canto dos anjos entra junto. O desaparecimento leva ao exterior da cadeia.
-- **Para executar.** Victor e operação devem escolher no ensaio o primeiro sinal de branco. Abertura V04 em revisão.
-
-### 2. Jesus sai pelo corredor central
-
-- **No palco.** Elas ficam imóveis até Jesus sair. Depois conversam sobre as correntes que sumiram.
-- **No telão.** Manter o exterior da MM-01. Deixar a saída de Jesus acontecer ao vivo.
-- **Para executar.** O exterior V06 e as bases do corredor têm aceite. Guardar a imagem exata do exterior para voltar a ela.
-
-### 3. A discussão cresce e elas congelam pela segunda vez
-
-- **No palco.** A pausa das atrizes abre espaço para a retrospectiva.
-- **No telão.** Disparar MM-02. Começa a narração B01A, segue a vinheta B01B e entram os recortes de Goel no estilo narrativo de Todo Mundo Odeia o Chris.
-- **Para executar.** Cinco blocos B02–B06 aprovados. Vinheta B01B V07 em revisão. A sequência B07–B14 exige montagem/conferência.
-
-### 4. Acaba a retrospectiva
-
-- **No palco.** As detentas retomam a discussão no mesmo instante. Religiosidade tenta fazê-las escutar.
-- **No telão.** Repor o mesmo exterior. Sem repetir o clarão, o desaparecimento ou a saída de Jesus.
-- **Para executar.** Testar com duas pessoas, uma encerra o vídeo e a outra retoma a fala sem espera.
-
-### 5. Ladra propõe sair da porta da cadeia
-
-- **No palco.** Elas se levantam e saem em Quebrando as Correntes.
-- **No telão.** A escolha está aberta. A preparação abaixo compara a continuidade do exterior com uma lembrança breve das detentas no corredor.
-- **Para executar.** Referência de interpretação recebida: “vibe jhony jhony”. Ao fechar a cortina, entra o fundo de elevador/telemarketing para a troca.
+**Antes de entregar.** Combine com o elenco o primeiro branco e o segundo congelamento. Compare os dois fundos da música antes de fechar a montagem.
 
 ## Como preparar e passar adiante
 

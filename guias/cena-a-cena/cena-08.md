@@ -1,42 +1,24 @@
 # Cena 8 · O que o nascimento muda para elas
 
+[Roteiro de montagem do telão](pdf/HESED-roteiro-de-montagem.pdf) · Página 9. A tabela desta ficha segue a mesma ordem. As notas de letra e storyboard detalham as escolhas de imagem.
+
 [Voltar ao guia](README.md) · Storyboard geral v03, pp. 94–102.
 
 **Quem prepara:** Eduardo · MM-14, MM-15 e Brilha Tua Luz
 
 As detentas contam a própria história de novo, agora entendendo a liberdade que receberam. As ações antigas voltam no palco. Depois a tela lembra o nascimento e mostra como Jesus tratava as pessoas.
 
-## A cena na ordem em que acontece
+## Montagem na ordem do palco
 
-### 1. Autossuficiência pede para recapitular. Mari diz “Cada uma de nós estava vivendo a sua vida da forma que queria.”
+| Quando entra | Palco, som e luz | Imagem, material e saída |
+| --- | --- | --- |
+| “Cada uma de nós estava vivendo a sua vida da forma que queria.” | As atrizes encenam cada uma por si, autossuficiência, rigidez de julgamento, ocultação e apropriação, isolamento e aprisionamento interior. | Abra a cozinha para a casa completa MM14-Q11 V03-01. É noite, as luzes estão acesas, há aparador e quadro à esquerda. Segure uma única panorâmica vazia durante as seis ações. |
+| Mari lembra que Ele veio como bebê | As detentas lembram o nascimento. | Retome um bebê realmente visto antes. Se a Cena 3 usar só estrelas na MM-07, confira o bebê no fim da MM-06. A imagem de nascimento da prancha é candidata. |
+| “Ele curou, ensinou e perdoou as pessoas.” | Ladra pergunta se esse amor também alcança gente como ela. | MM-15. Mostre cura, ensino, perdão e acolhimento (Q01–Q04, em revisão). Segure o acolhimento durante a pergunta da Ladra. |
+| “Ele já nos libertou!” e depois a fala de todas | A conversa volta à liberdade delas e termina em uma afirmação coletiva. | Retome a panorâmica da sala. Na fala de todas, mostre Jesus bebê e a frase “ELE NASCEU, E ISSO MUDA TUDO.” A composição ainda precisa ser montada e lida à distância. |
+| Terminada a frase, começa a música | Entra **Brilha Tua Luz**, de Aline Barros e Isaías Saad. A luz ganha alcance conforme o elenco responde. | Para o vídeo próprio, proponha luz junto ao bebê (15–30 s), luz no ambiente (25–45 s) e luz alcançando o elenco (25–60 s). Conceito em revisão. No fim, marque a cortina para retirar o cenário e trocar o figurino antes do filme de Victor. |
 
-- **No palco.** As atrizes encenam cada uma por si, autossuficiência, rigidez de julgamento, ocultação e apropriação, isolamento e aprisionamento interior.
-- **No telão.** Receber a cozinha da Cena 7. Para as ações, abrir a casa inteira MM14-Q11 V03-01. Na esquerda aparecem parede, aparador, objetos e quadro. Na direita continua a mesma cozinha. É noite, com luzes internas acesas.
-- **Para executar.** A sensação de rebobinar vem da retomada do começo. Sustentar um único fundo vazio durante as seis ações. O geral já incorporou a direção.
-
-### 2. Mari conta que Ele veio à terra como um bebê
-
-- **No palco.** O olhar das detentas acompanha a lembrança.
-- **No telão.** Retomar uma imagem de nascimento que o público já viu. MM07-Q07 é candidata. Se na Cena 3 ficar apenas céu estrelado, conferir onde o bebê realmente apareceu, por exemplo no fim da MM-06.
-- **Para executar.** Eduardo deve conferir a origem antes de dizer que é uma repetição.
-
-### 3. “Ele curou, ensinou e perdoou as pessoas.”
-
-- **No palco.** A fala da Religiosidade conduz a sequência. Ladra pergunta se o amor alcança gente como ela.
-- **No telão.** MM15-Q01 cura → Q02 ensino → Q03 perdão → Q04 acolhimento. Segurar Q04 durante a pergunta da Ladra. Os quatro quadros estão em revisão.
-- **Para executar.** Eduardo recebe a imagem do bebê e sai dos atos quando a conversa volta a tratar da liberdade delas.
-
-### 4. “Ele já nos libertou!” e, depois, a fala de todas
-
-- **No palco.** A fala individual vira uma afirmação coletiva.
-- **No telão.** Voltar à sala. No geral v03 é a mesma panorâmica Q11. Em seguida, destacar por escrito “ELE NASCEU, E ISSO MUDA TUDO.” com Jesus bebê.
-- **Para executar.** Conferir leitura da frase à distância e identidade do bebê. A composição final ainda falta.
-
-### 5. Terminada a frase, entra Brilha Tua Luz
-
-- **No palco.** Elenco canta ou dança conforme marcação da produção. Depois fecha a cortina para retirar o cenário e trocar a roupa.
-- **No telão.** O número pede vídeo próprio. A frase com o bebê encerra a fala anterior. A Bíblia registra pequenas luzes portáteis como ideia a testar.
-- **Para executar.** Eduardo apresenta as três miniaturas antes de montar a música. O conceito aguarda revisão.
+**Antes de entregar.** Confira com Isaac qual bebê o público viu. Prepare a composição da frase e apresente as três imagens do número antes de fechar o vídeo.
 
 ## Como preparar e passar adiante
 

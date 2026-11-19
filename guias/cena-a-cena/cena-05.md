@@ -1,42 +1,24 @@
 # Cena 5 · A visão de Mari e o anúncio a Maria e José
 
+[Roteiro de montagem do telão](pdf/HESED-roteiro-de-montagem.pdf) · Página 6. A tabela desta ficha segue a mesma ordem. As notas de letra e storyboard detalham as escolhas de imagem.
+
 [Voltar ao guia](README.md) · Storyboard geral v03, pp. 62–83.
 
 **Quem prepara:** Isaac · MM-09, MM-10, MM-11 e MM-13
 
 Mari passa da espera dos profetas à identidade de Jesus. Depois da música, a narrativa volta à casa e os personagens bíblicos entram no palco. Só então vem Ó Noite Santa.
 
-## A cena na ordem em que acontece
+## Montagem na ordem do palco
 
-### 1. Cobiça pede que conte a história. Mari começa “Bom, séculos antes de Jesus nascer”
+| Quando entra | Palco, som e luz | Imagem, material e saída |
+| --- | --- | --- |
+| “Bom, séculos antes de Jesus nascer” | Cobiça pede a história. Mari começa a contar. | Passe da casa para a visão dos profetas (MM-09), com a entrada na imaginação inspirada em As Visões da Raven. Teste a entrada e a saída da visão. A v03 traz anúncio, espera e dúvida. |
+| “No princípio Ele já estava lá.” | Mari explica que Jesus já existia antes de nascer. | Da visão, passe ao universo, à Terra e à vida (MM-10). O último quadro prepara a canção. |
+| Mari diz que Ele nos trouxe para a luz | Começa **Luz do Mundo**, de Fernandinho. Palco todo branco. | Entre com o vídeo do “mundinho” (MM-11). Confira qual é o arquivo. Nele, procure 2–3 momentos de 20–40 s para a primeira montagem. A Terra da MM-10 ajuda a comparar a entrada. |
+| Termina Luz do Mundo | Foco em Maria e anjo embaixo, do lado do teclado. Na fala sobre o noivo, foco em José e anjo embaixo, do lado da bateria. | Volte à cozinha noturna, à direita, com preto à esquerda. Mantenha a imagem durante as duas entradas no palco. |
+| Depois da conversa sobre a manjedoura | Começa **Ó Noite Santa**, de Pedras Vivas. Testar luz leve que permita ver a roupa roxo-escura. | MM-13. Experimente campo (25–45 s), estrela (30–60 s), pastores (15–30 s) e a mesma estrela até o fim. São três imagens em quatro entradas. A sequência e a cor da luz seguem em revisão. |
 
-- **No palco.** A plateia precisa perceber que está entrando na imaginação de Mari.
-- **No telão.** Isaac prepara a passagem da casa para os profetas com a linguagem de As Visões da Raven. O efeito exato continua em revisão. Os quadros v03 passam por anúncio, espera e crença ou dúvida.
-- **Para executar.** Primeiro mostrar a entrada e a saída da visão em poucos quadros. O estudo existente já oferece o conteúdo do meio.
-
-### 2. Mari diz “No princípio Ele já estava lá.”
-
-- **No palco.** Ela explica que Jesus já existia antes do nascimento.
-- **No telão.** Isaac usa a saída da MM-09 e entra com a MM-10. O universo, a Terra e a vida acompanham a explicação. Os 12 quadros são acervo.
-- **Para executar.** Preparar o último quadro para entrar na MM-11 quando começar a canção.
-
-### 3. Mari diz que Ele nos trouxe para a luz
-
-- **No palco.** Começa Luz do Mundo. A iluminação do palco fica toda branca.
-- **No telão.** Isaac entra com MM-11, o vídeo chamado de “mundinho”. A imagem da Terra na MM-10 ajuda a comparar referências. Falta identificar o arquivo do número.
-- **Para executar.** Esperar o fim da música para a entrada dos personagens.
-
-### 4. Termina Luz do Mundo. Mari conta que Deus escolheu uma menina
-
-- **No palco.** Volta a cozinha. Maria e o anjo recebem foco embaixo, do lado do teclado. Depois entram José e o anjo no foco embaixo, do lado da bateria.
-- **No telão.** Voltar ao recorte noturno da casa. Deixar que a atenção acompanhe cada dupla no palco.
-- **Para executar.** Para a segunda dupla, usar como referência a fala sobre o anjo aparecer ao noivo. Acertar o gesto de entrada com o elenco.
-
-### 5. Depois da conversa sobre a manjedoura
-
-- **No palco.** Entra Ó Noite Santa. Pedir luz leve para que o figurino roxo escuro continue legível.
-- **No telão.** MM-13 neste ponto. Seleção proposta: Q01 noite → Q02 estrela → Q03 pastores → Q02 estrela. A multidão sobre o estábulo tem outra deixa na Cena 7.
-- **Para executar.** Isaac mostra o último céu a Eduardo, que abrirá a viagem na Cena 6. Cor da luz e sequência integral aguardam revisão.
+**Antes de entregar.** Identifique a versão do “mundinho” e mostre a Eduardo o último céu de Ó Noite Santa para a entrada da viagem.
 
 ## Como preparar e passar adiante
 

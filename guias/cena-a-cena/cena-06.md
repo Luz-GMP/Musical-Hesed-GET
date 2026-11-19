@@ -1,30 +1,22 @@
 # Cena 6 · O caminho até o abrigo
 
+[Roteiro de montagem do telão](pdf/HESED-roteiro-de-montagem.pdf) · Página 7. A tabela desta ficha segue a mesma ordem. As notas de letra e storyboard detalham as escolhas de imagem.
+
 [Voltar ao guia](README.md) · Storyboard geral v03, pp. 84–89.
 
 **Quem prepara:** Eduardo · MM-12
 
 A conversa explica o recenseamento, a viagem de José e Maria e a falta de hospedagem. A tela acompanha cada mudança de lugar. O estábulo precisa continuar visível quando começar a próxima cena.
 
-## A cena na ordem em que acontece
+## Montagem na ordem do palco
 
-### 1. Mari explica o recenseamento e diz que José precisou ir a Belém
+| Quando entra | Palco, som e luz | Imagem, material e saída |
+| --- | --- | --- |
+| Mari conta que José precisou ir a Belém | O recenseamento põe Maria e José a caminho. | Receba o céu de Ó Noite Santa e chame MM-12. Mostre Q01, o caminho, e depois Q02, Belém ao longe, quando a fala apresentar a cidade. |
+| “E quando eles chegaram lá… não tinha lugar pra ficar.” | A viagem vira busca por hospedagem. As detentas podem reagir ou fazer pausas. | Mostre chegada (Q03), noite (Q04) e falta de acolhimento (Q05). Segure cada lugar enquanto a fala precisar. Combine em ensaio a troca entre esses três quadros. |
+| “Sim. E foi ali que Jesus nasceu.” | A atenção se volta ao lugar simples do nascimento. | Chegue ao abrigo vazio MM12-Q06. Mantenha o mesmo enquadramento na abertura da Cena 7. A prancha consolidada tem aceite. As bases individuais seguem em revisão. |
 
-- **No palco.** O elenco narra a viagem de Maria grávida.
-- **No telão.** Usar Q01 caminho e Q02 Belém ao longe. Deixar cada lugar aparecer quando a fala o apresentar.
-- **Para executar.** Eduardo recebe a saída de MM-13. A prancha consolidada tem aceite e os seis quadros individuais constam em revisão no geral.
-
-### 2. “E quando eles chegaram lá… não tinha lugar pra ficar.”
-
-- **No palco.** A atenção passa da viagem à busca por hospedagem.
-- **No telão.** Q03 chegada → Q04 noite → Q05 sem acolhimento. A ordem conta a busca. Ensaiar em qual trecho da frase cada troca é compreensível.
-- **Para executar.** Se houver pausa ou reação das detentas, a imagem pode permanecer.
-
-### 3. “Sim. E foi ali que Jesus nasceu.”
-
-- **No palco.** A simplicidade do abrigo dá sentido ao nascimento.
-- **No telão.** Chegar ao Q06, abrigo vazio. Preparar a Cena 7 mantendo exatamente esse enquadramento.
-- **Para executar.** O feedback inicial citava anjos aqui. A fala explícita da multidão e a imagem aprovada vêm na cena seguinte.
+**Antes de entregar.** Compare o último céu de Isaac com o primeiro caminho. Deixe o quadro vazio e a variante com anjos identificados por nomes diferentes.
 
 ## Como preparar e passar adiante
 

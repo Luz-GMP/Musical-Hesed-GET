@@ -1,24 +1,22 @@
 # Cena 4 · O que significa graça
 
+[Roteiro de montagem do telão](pdf/HESED-roteiro-de-montagem.pdf) · Página 5. A tabela desta ficha segue a mesma ordem. As notas de letra e storyboard detalham as escolhas de imagem.
+
 [Voltar ao guia](README.md) · Storyboard geral v03, pp. 60–61.
 
 **Quem prepara:** Isaac · MM-08 · cortes de Goel
 
 De volta à mesa, elas perguntam por que Jesus aceitaria morrer por elas. A resposta de Mari liga a dívida paga na cadeia ao perdão. O material da Páscoa precisa tornar essa ligação visível.
 
-## A cena na ordem em que acontece
+## Montagem na ordem do palco
 
-### 1. Desobediência pergunta se Ele nasceu para isso
+| Quando entra | Palco, som e luz | Imagem, material e saída |
+| --- | --- | --- |
+| Desobediência pergunta se Ele nasceu para isso | O diálogo acontece na mesa. Dê espaço à reação de Ódio. | Retome a cozinha noturna iluminada, à direita da plateia, com preto à esquerda. Segure enquanto elas tentam entender o que é graça. |
+| “É receber perdão e ter a dívida paga mesmo sendo culpado.” | Entra **Maravilhosa Graça**, na versão de Julia Vitória. A luz passa a roxo-claro. | MM-08. Faça a primeira imagem de Goel responder à fala da dívida. Procure três ou quatro momentos que contem culpa, sacrifício e liberdade. Registre nome do clipe, início e fim. |
+| A música desenvolve a ideia de perdão | O público vê o preço da liberdade de que elas acabaram de falar. | Teste 6–8 planos. Um gesto pode durar 6–12 s e uma reação, 12–25 s. Confira com Victor a intenção dos trechos também usados na MM-02. Ao terminar, devolva a atenção à conversa que abre a visão de Mari. |
 
-- **No palco.** Conversa à mesa na casa da Mari.
-- **No telão.** Voltar à cozinha à direita com luz interna acesa e preto à esquerda. Manter o cenário enquanto a conversa amadurece.
-- **Para executar.** O público precisa enxergar a reação de Ódio ao entender que é amada.
-
-### 2. Religiosidade conclui “É receber perdão e ter a dívida paga mesmo sendo culpado.”
-
-- **No palco.** Começa Maravilhosa Graça, na versão de Julia Vitória. Luz roxo-claro.
-- **No telão.** Entram cortes da Páscoa. Procurar em Goel momentos de culpa, sacrifício e libertação. Na p. 61 há a indicação da peça, sem sequência pronta.
-- **Para executar.** Isaac prepara a seleção e confronta com Victor os trechos já vistos na MM-02. Ao terminar, entregar à conversa que abre os Profetas.
+**Antes de entregar.** Victor disponibiliza os clipes do musical anterior no Drive. Enquanto o acesso é confirmado, aproveite a seleção que já preparou e anote os trechos que faltam.
 
 ## Como preparar e passar adiante
 

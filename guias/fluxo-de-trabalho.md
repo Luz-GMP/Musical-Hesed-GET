@@ -1,5 +1,7 @@
 # Fluxo de trabalho
 
+Para montar e ensaiar, siga o [Roteiro de montagem do telão](cena-a-cena/pdf/HESED-roteiro-de-montagem.pdf). Leia cada deixa na ordem do palco: fala ou ação, entrada da música, imagem a sustentar e sinal de saída.
+
 Comece pela sua fila. [Victor · cenas 1, 2 e 9](../equipe/victor.md) · [Isaac · cenas 3, 4 e 5](../equipe/isaac.md) · [Eduardo (Dudu) · cenas 6, 7 e 8](../equipe/eduardo.md). Cada pessoa fecha as passagens internas das próprias cenas. As três viradas de responsável estão no [mapa de passagens](../docs/dependencias.md).
 
 Toda peça passa pelas mesmas sete etapas. O emoji entre parênteses é o que vai na coluna "Etapa" do [STATUS.md](../STATUS.md).

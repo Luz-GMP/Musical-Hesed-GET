@@ -1,36 +1,23 @@
 # Cena 7 · O anúncio e as gerações que louvam
 
+[Roteiro de montagem do telão](pdf/HESED-roteiro-de-montagem.pdf) · Página 8. A tabela desta ficha segue a mesma ordem. As notas de letra e storyboard detalham as escolhas de imagem.
+
 [Voltar ao guia](README.md) · Storyboard geral v03, pp. 90–93.
 
 **Quem prepara:** Eduardo · estábulo, anúncio e Santo pra Sempre
 
 O nascimento acontece num lugar simples. Mari conta o anúncio aos pastores. O momento de ver a multidão é diferente do momento em que começa a música sobre as gerações.
 
-## A cena na ordem em que acontece
+## Montagem na ordem do palco
 
-### 1. “Maria deu à luz ali mesmo…” e depois a menção a um anjo
+| Quando entra | Palco, som e luz | Imagem, material e saída |
+| --- | --- | --- |
+| “Maria deu à luz ali mesmo…” | Maria e José estão com a manjedoura. A narração menciona primeiro um anjo. | Continue com o mesmo estábulo vazio, MM12-Q06, inclusive nessa primeira menção. Deixe preparada a variante que mantém o prédio no lugar. |
+| “Uma multidão de anjos apareceu” | A fala de Mari revela a multidão. | Agora chame o estábulo com anjos, MM13-Q06 v09, imagem aprovada (p. 91 do storyboard). O outro Q06, na p. 121, mostra anjos no campo. |
+| Mari fala das gerações que esperaram o Redentor | Começa **Santo pra Sempre**. Maria, José e a manjedoura ficam junto à caixa de som do lado da bateria. | Mostre gerações louvando. Teste três imagens, uma por grupo, por 20–45 s cada. A sugestão de incluir outros anjos depende da escolha da direção. Definam a iluminação após ver o vídeo. |
+| Termina Santo pra Sempre | A manjedoura sai. O elenco volta à conversa. | Volte à cozinha noturna à direita, com preto à esquerda. Deixe essa imagem até o pedido de recapitulação da próxima cena. |
 
-- **No palco.** Maria, José e a manjedoura compõem a cena.
-- **No telão.** Manter MM12-Q06, estábulo vazio, inclusive na primeira menção a um anjo. A imagem pode ficar parada enquanto o elenco fala.
-- **Para executar.** Quem opera deixa pronta a versão do mesmo lugar com a multidão.
-
-### 2. Mari diz “uma multidão de anjos apareceu”
-
-- **No palco.** A fala revela a multidão.
-- **No telão.** Trocar para MM13-Q06 v09, estábulo com anjos. O prédio fica no mesmo lugar. Esta imagem estática foi aprovada por Victor.
-- **Para executar.** A p. 91 é o quadro certo. A prancha antiga também tem um Q06 com anjos no campo, p. 121.
-
-### 3. Mari fala das gerações que aguardaram pelo redentor
-
-- **No palco.** Começa Santo pra Sempre. Maria, José e manjedoura ficam junto à caixa de som do lado da bateria.
-- **No telão.** Direção registrada para a música: gerações louvando. A produção sugeriu os anjos antes pensados para Noite Santa. Falta identificar os quadros e decidir onde entrariam.
-- **Para executar.** Mostrar à direção o estábulo aprovado, o quadro sugerido e a ideia das gerações. Definir a luz depois que o vídeo estiver escolhido.
-
-### 4. Fim de Santo pra Sempre
-
-- **No palco.** Sai a manjedoura.
-- **No telão.** Voltar à cozinha noturna à direita, preto à esquerda. A casa prepara o pedido de recapitulação.
-- **Para executar.** Manter o mesmo fundo que inicia a Cena 8.
+**Antes de entregar.** Mostre à direção as gerações e a referência de anjos sugerida pela produção. Escolham onde ela cabe antes de fechar a luz da música.
 
 ## Como preparar e passar adiante
 

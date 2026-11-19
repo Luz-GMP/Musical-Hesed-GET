@@ -1,5 +1,7 @@
 # Briefing Definitivo de Produção Audiovisual (v1.0)
 
+Para montar e ensaiar, siga o [Roteiro de montagem do telão](../guias/cena-a-cena/pdf/HESED-roteiro-de-montagem.pdf). Leia cada deixa na ordem do palco: fala ou ação, entrada da música, imagem a sustentar e sinal de saída.
+
 **Distribuição vigente · 19/11/2026.** Victor fecha as Cenas 1, 2 e 9. Isaac fecha as Cenas 3, 4 e 5. Eduardo (Dudu) fecha as Cenas 6, 7 e 8. Cada pessoa prepara e entrega suas cenas diretamente à operação. A MM-16 é integralmente de Victor. As músicas em ajuste por Isaac seguem a partir das versões existentes. [Guia de execução por pessoa](../guias/cena-a-cena/quem-faz-as-musicas.md)
 
 > Conversão em Markdown de `fontes/HESED_Briefing_Definitivo_Producao_Audiovisual_v1_0.docx`. Em caso de divergência, o .docx original vale. Este arquivo não deve ser editado: mudanças de escopo entram em `docs/decisoes.md`.
@@ -22,7 +24,7 @@ Versão 1.0  •  22 de setembro de 2026
 
 Este documento consolida **o que será produzido, por quem, em qual parte do roteiro e com qual orientação de execução.** Ele funciona como referência comum para storyboard, criação, revisão, ensaio técnico, renderização e operação do telão.
 
-Princípio central: cinco pessoas produzem o conteúdo, mas o público deve perceber uma única linguagem audiovisual.
+Princípio central: as três pessoas responsáveis preservam a continuidade de uma cena para a próxima.
 
 A estrutura do espetáculo utilizada para a distribuição é: **Bloco I – cenas 1–2; Bloco II – cenas 3–4; Bloco III – cenas 5–7; Bloco IV – cenas 8–9.**
 
@@ -304,7 +306,7 @@ MM-15 — Vida e atos de Jesus — montagem
 
 **3. Alpha** — Produzir versão de baixa resolução para revisão de conceito, ritmo e continuidade.
 
-**4. Integração entre responsáveis** — Nas peças conectadas, trocar último/primeiro frame, paleta e timing antes do render final.
+**4. Integração entre responsáveis** — Cada responsável confere as passagens dentro da cena. Nas viradas 2→3, 5→6 e 8→9, compare a saída com a entrada da pessoa seguinte.
 
 **5. Teste no palco/telão** — Verificar escala, brilho, legibilidade, velocidade de movimento e relação com luz/coreografia.
 

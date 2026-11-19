@@ -1,5 +1,7 @@
 # Plano de produção por código · [MM / título]
 
+Para montar e ensaiar, siga o [Roteiro de montagem do telão](../guias/cena-a-cena/pdf/HESED-roteiro-de-montagem.pdf). Leia cada deixa na ordem do palco: fala ou ação, entrada da música, imagem a sustentar e sinal de saída.
+
 **Responsável/direção:** [nome] · **Versão/data:** [preencher]<br>
 **Situação:** [rascunho / em revisão / aprovado — pessoa e data]<br>
 **Procedimento:** [edição com agentes](../guias/edicao-de-video-com-agentes.md).

@@ -1,5 +1,7 @@
 # MM01 — imagens canônicas da abertura interna
 
+Para montar e ensaiar, siga o [Roteiro de montagem do telão](../../../guias/cena-a-cena/pdf/HESED-roteiro-de-montagem.pdf). Leia cada deixa na ordem do palco: fala ou ação, entrada da música, imagem a sustentar e sinal de saída.
+
 Cópias exatas das duas imagens aprovadas por Victor em23/10/2026, preservadas na resolução nativa1672×941. Não houve geração, recorte, correção de cor ou nova aprovação nesta publicação. São referências visuais; não são masters de vídeo1080p nem prova de ensaio LED.
 
 ## Frontal V13

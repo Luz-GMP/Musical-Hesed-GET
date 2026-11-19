@@ -1,5 +1,7 @@
 # Eduardo (Dudu) · Cenas 6, 7 e 8
 
+**Monte sua sequência de palco.** [Roteiro de montagem do telão](../guias/cena-a-cena/pdf/HESED-roteiro-de-montagem.pdf) · [Cena 6](../guias/cena-a-cena/cena-06.md), [Cena 7](../guias/cena-a-cena/cena-07.md), [Cena 8](../guias/cena-a-cena/cena-08.md). Em cada cena, parta do arquivo que você já tem e percorra falas, músicas e saídas em ordem.
+
 **Primeiro passo.** Confira as bases da MM-12 e coloque o estábulo vazio e a v09 lado a lado. Depois abra a panorâmica MM-14 e os quatro quadros da MM-15. Identifique o que já serve à Cena 8 antes de propor novas imagens.
 
 ### 6. Caminho até o abrigo
@@ -30,4 +32,4 @@ Abra [Cena 8](../guias/cena-a-cena/cena-08.md) para conferir as falas e imagens.
 
 Na ordem do palco, indique o arquivo e a versão, a fala ou ação que chama a entrada, o que se mantém no telão e o sinal de saída. Marque prévia ou aprovado e registre o link do Drive quando disponível. Se a entrada depender de ensaio, indique qual sinal falta testar.
 
-[Plano das nove músicas, com quantidade e duração sugeridas](../guias/cena-a-cena/quem-faz-as-musicas.md) · [Passagens entre responsáveis](../docs/dependencias.md) · [Guia ilustrado em PDF](../guias/cena-a-cena/pdf/HESED-guia-de-cena.pdf)
+[Referência complementar de tempos para a primeira montagem](../guias/cena-a-cena/quem-faz-as-musicas.md) · [Passagens entre responsáveis](../docs/dependencias.md) · [Guia ilustrado em PDF](../guias/cena-a-cena/pdf/HESED-guia-de-cena.pdf)

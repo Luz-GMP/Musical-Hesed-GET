@@ -1,5 +1,7 @@
 # Storyboard · MM-16D · Filme final: morte → ressurreição
 
+**Uso no espetáculo.** [Cena 9](../../guias/cena-a-cena/cena-09.md) reúne a fala de entrada, o que o palco faz e até quando sustentar esta imagem. [Roteiro de montagem do telão](../../guias/cena-a-cena/pdf/HESED-roteiro-de-montagem.pdf), página 10.
+
 **Cena 9 · Victor.** Prancha de referência do filme final. Victor produz e entrega a MM-16 inteira. [Fila de execução](../../equipe/victor.md).
 
 
