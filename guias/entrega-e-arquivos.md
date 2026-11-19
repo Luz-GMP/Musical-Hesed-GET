@@ -33,9 +33,12 @@ HESED_Telão/
 
 O responsável entrega diretamente à operação. Mantenha os nomes e links existentes. Em cada linha da lista de reprodução, anote **cena e ordem | arquivo e versão | fala/ação de entrada | imagem a manter | sinal de saída**. Exemplo da Cena 7: estábulo vazio até a fala da multidão, depois variante v09 com anjos. Liste o vídeo das gerações na entrada da música.
 
+Para cada vídeo, inclua o [mapa de marcadores e timecodes](timecodes-e-operacao.md) da versão entregue. Registre a deixa do GO, a imagem de espera, o estado de saída e as ações de luz e telão no tempo conferido do MP4. Identifique o master de áudio usado e os pontos ainda pendentes de ensaio.
+
 ## O que entregar em cada peça
 
 - [ ] Arquivo final renderizado para o telão
+- [ ] Tabela de marcadores com início, saída e eventos de sincronismo, conferida no MP4 da mesma versão
 - [ ] Arquivo editável / projeto
 - [ ] Assets necessários para alterações posteriores
 - [ ] Still de emergência (imagem que substitui o vídeo se ele falhar)

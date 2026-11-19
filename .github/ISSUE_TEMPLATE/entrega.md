@@ -18,6 +18,7 @@ Para conferir a entrada e a saída, consulte o [Roteiro de montagem do telão](.
 
 **Entrada:** fala, ação ou música que chama o arquivo.
 **Saída:** o que fica no telão e qual sinal chama o próximo arquivo.
+**Marcadores da versão:** link ou tabela com início, saída e eventos de sincronismo conferidos no MP4. [Guia de timecodes](../../guias/timecodes-e-operacao.md)
 
 ### Checklist de aceite (para versões finais)
 - [ ] Comunica a função da cena sem texto explicativo

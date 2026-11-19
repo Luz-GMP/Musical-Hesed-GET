@@ -30,6 +30,21 @@ Salve a prancha como `STB MM09.jpg` e cada quadro individual como `MM09-Q01.png`
 | Tempo | Momento | Resposta visual |
 | --- | --- | --- |
 
+## Timecodes e operação
+
+Preencha para cada versão de vídeo conforme o [guia de timecodes](../guias/timecodes-e-operacao.md). Os tempos são relativos ao primeiro quadro do MP4 entregue.
+
+- MP4, versão e FPS:
+- Master de áudio e versão ou indicação de música ao vivo:
+- Deixa de palco para o GO e imagem de espera:
+- Sinal de saída e imagem ou luz a sustentar:
+
+| Marcador | Tempo no MP4 | Referência | Telão | Luz e transição | Situação |
+| --- | --- | --- | --- | --- | --- |
+| INÍCIO | 00:00:00.000 | Primeiro quadro | | | A conferir no MP4 |
+| [Evento de sincronismo] | A definir | [trecho, quadro ou deixa] | | | |
+| SAÍDA | A definir | [último quadro útil ou passagem] | | | |
+
 ## Versões
 | Versão | Data | O que mudou | Feedback |
 | --- | --- | --- | --- |

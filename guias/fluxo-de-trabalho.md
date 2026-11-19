@@ -19,6 +19,7 @@ Toda peça passa pelas mesmas sete etapas. O emoji entre parênteses é o que va
 ## Regras práticas
 
 - **Alpha cedo vale mais que final bonito tarde.** A prévia permite conferir a deixa com a operação.
+- Em cada edição, marque início, saída e eventos de sincronismo. Reconfira no MP4 e entregue a tabela da versão à operação. [Guia de timecodes](timecodes-e-operacao.md)
 - **Nunca renderize final sem a especificação do telão (P-01).**
 - **Nunca mapeie playback em cima de áudio provisório (P-02).** É retrabalho garantido.
 - **Teste sempre com o telão real**, não só no monitor. Brilho e velocidade enganam muito numa tela pequena.

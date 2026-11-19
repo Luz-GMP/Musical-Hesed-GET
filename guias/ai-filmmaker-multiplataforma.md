@@ -4,6 +4,8 @@ Para montar e ensaiar, siga o [Roteiro de montagem do telão](cena-a-cena/pdf/HE
 
 A skill fica em `.agents/skills/ai-filmmaker/SKILL.md`. Abra a raiz do HESED na ferramenta. Peça **“Use a skill ai-filmmaker para a peça MM-XX e siga o briefing vigente”**. O pacote inclui o manual editorial, o Harness e o modelo Motion Graphics.
 
+Em qualquer plataforma, planeje e insira os marcadores de início, saída e sincronismo na edição. Em montagens por código, registre os eventos na configuração e na tabela de entrega. Reconfira os tempos no MP4 final. [Guia de timecodes e operação](timecodes-e-operacao.md)
+
 | Plataforma | Descoberta no projeto |
 | --- | --- |
 | [Codex](https://developers.openai.com/codex/skills/) | `.agents/skills/`. Invocação explícita com `$ai-filmmaker`. Se aparecer outra cópia pessoal, escolha o caminho do projeto. |

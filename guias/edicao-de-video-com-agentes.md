@@ -2,7 +2,9 @@
 
 Para montar e ensaiar, siga o [Roteiro de montagem do telão](cena-a-cena/pdf/HESED-roteiro-de-montagem.pdf). Leia cada deixa na ordem do palco: fala ou ação, entrada da música, imagem a sustentar e sinal de saída.
 
-**Versão:** v03 · **Atualização:** 21/10/2026 · **Direção:** Victor · **Registro:** Codex · **Decisões:** D-35/D-36/D-37/D-38/D-39/D-43.
+**Versão:** v03 · **Atualização:** 19/11/2026 · **Direção:** Victor · **Registro:** Codex · **Decisões:** D-35/D-36/D-37/D-38/D-39/D-43/D-60.
+
+**Antes de montar qualquer vídeo**, liste as deixas e os eventos que pedem sincronia pelo [guia de timecodes e operação](timecodes-e-operacao.md). Já na primeira edição, marque início, saída e viradas na timeline final. Em Remotion, HTML ou FFmpeg, registre os eventos na configuração ou plano editável e use os mesmos valores para gerar a tabela de entrega. Associe sempre o mapa à versão renderizada.
 
 Método de produção adotado por Victor para a MM-02 e os próximos vídeos realizados com ele. Base vigente: [pacote AI Filmmaker Agent recebido em 20/10/2026](../docs/fontes/AI_Filmmaker_Agent_2026-10-20/README.md), com MD e seis auxiliares preservados; [revisão técnica e novidades](revisao-ai-filmmaker-2026-10-20.md). Versões anteriores permanecem em docs/fontes. Este guia aplica as fontes junto da direção D-34; exemplos continuam exemplos. D-39 instala a skill local [ai-filmmaker](../.agents/skills/ai-filmmaker/SKILL.md) neste projeto. Isso disponibiliza as instruções e referências; não instala plugin global ou dependências de render. O catálogo de uma sessão já aberta pode exigir recarregamento, e AGENTS.md oferece a resolução direta pelo arquivo local.
 
@@ -103,7 +105,7 @@ TTS/voz por serviço externo depende de escolha e autorização no escopo; prese
 1. Com todas as cenas aprovadas, conferir as costuras da sequência e produzir o render final nos parâmetros definidos. Se a integração mudar uma cena aprovada, voltar ao ciclo de revisão dessa cena. H.264/yuv420p pode ser uma opção de compatibilidade, não substitui P-01 do telão.
 2. Conferir duração, fps, dimensões, áudio e reprodução real do arquivo; assistir aos trechos críticos e comparar sincronismo no início, meio, fim e nas transições. Verificar mídia ausente, fontes, frames pretos inesperados, cortes de fala e clipping.
 3. Mixar voz, takes, trilha e efeitos com inteligibilidade; medir loudness/picos. -14 LUFS é exemplo do anexo para redes sociais, não alvo aprovado do espetáculo. Evitar normalização repetida ou processamento que destrua pausas e dinâmica.
-4. Entregar caminho real do vídeo, versão, configuração/projeto e materiais necessários; registrar limitações e aprovação. Seguir [entrega e arquivos](entrega-e-arquivos.md) e [checklist de aceite](checklist-de-aceite.md). Validação local não substitui ensaio no LED.
+4. Conferir cada marcador no MP4 entregue, contado desde o primeiro quadro do arquivo. Quando unir blocos ou revisar cortes e áudio, recalcular os tempos afetados. Entregar arquivo, versão, projeto/configuração e tabela de marcadores, com limitações e aprovação registradas. Seguir [entrega e arquivos](entrega-e-arquivos.md) e [checklist de aceite](checklist-de-aceite.md). Validação local não substitui ensaio no LED.
 
 Mídia pesada, renders, caches e projetos de edição ficam no armazenamento de mídia definido, fora do Git. Este repositório conserva documentação e esboços leves. Não presumir Drive acessível (P-13) nem mudar essa política ao criar um projeto de render. A localização do código/projeto será definida na implementação.
 

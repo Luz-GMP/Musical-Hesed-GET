@@ -25,7 +25,7 @@ Com o **audio master definitivo** (o mesmo que vai tocar no dia), ouça a faixa 
 | ... | Clímax | | maior intensidade da peça |
 | ... | Encerramento | | sustenta imagem forte ou prepara a próxima |
 
-Dica: no editor, coloque **marcadores na timeline** em cada impacto antes de pôr qualquer imagem. Isso vira a grade do vídeo, como o grid de um layout.
+**Marque a timeline antes de montar as imagens.** Coloque início, saída e cada impacto que precisa sincronizar som, imagem ou luz. Confira os tempos no MP4 depois de exportar e entregue a tabela da versão à operação. Veja os comandos por editor e o padrão da ficha no [guia de timecodes e operação](timecodes-e-operacao.md).
 
 ## 2. Tabela de respostas
 
