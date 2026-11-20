@@ -1,6 +1,6 @@
 # Status da produção
 
-**Última atualização:** 24/10/2026 · por Codex, a pedido do usuário (MM-07: auditoria de planejamento/assets e plano v01 registrados; sem alpha ou teste LED)
+**Última atualização:** 20/11/2026 · por Codex, a pedido do usuário (MM-07: planejamento/assets conferidos e QA estrutural da prévia V02 registrado; sem alpha, áudio ou teste LED)
 
 Cada pessoa atualiza **a própria linha** quando muda de etapa. Na dúvida sobre as etapas, veja [guias/fluxo-de-trabalho.md](guias/fluxo-de-trabalho.md).
 
@@ -16,7 +16,7 @@ Cada pessoa atualiza **a própria linha** quando muda de etapa. Na dúvida sobre
 | MM-04 | Criação perfeita (loop) | 3 | Melissa | 🎨 | storyboard v01 | Revisar [prancha](<storyboards/MM-04/STB MM04.jpg>), escolher base piloto e alinhar paleta com Lucas/MM-05 | - |
 | MM-05 | Queda (silhuetas de luz) | 3 | Lucas | 🎨 | **V03 oficial · 6 quadros (D-24)** | Usar [V03 aprovada](<storyboards/MM-05/STB MM05.jpg>); alinhar bases MM-04/MM-06, produzir alpha e testar no LED | Base/paleta final MM-04 |
 | MM-06 | Retorno temporal → bebê | 3 | Isaac | ⬜ | - | Storyboard dos 4 estágios + loop final do bebê | - |
-| MM-07 | Nasceu em Belém (playback) | 3 | Eduardo | 🎨 | **C01/Q01 parallax v01 · prévia silenciosa** | Revisar prévia de 15 s; depois receber master/loop do MM-06 e fechar a costura antes de avançar | D-01, P-01, P-02, P-12 |
+| MM-07 | Nasceu em Belém (playback) | 3 | Eduardo | 🎨 | **MM07-Q01 parallax v02 · prévia silenciosa** | Revisar a V02 nítida de 15 s; QA estrutural local conferido; depois receber master/loop do MM-06 e fechar a costura antes de avançar | D-01, P-01, P-02, P-12 |
 | MM-08 | Maravilhosa Graça / Goel (arquivo) | 4 | Isaac | ⬜ | - | Localizar material bruto de Goel | P-03 |
 | MM-09 | Profetas (loop) | 5 | Melissa | 🎨 | novo estudo v03 | Revisar [nova proposta](<storyboards/MM-09/STB MM09.jpg>): anúncio, espera e crença/dúvida; versões antigas excluídas (D-27) | - |
 | MM-10 | Cristo eterno / universo | 5 | Eduardo | ⬜ | - | - | - |

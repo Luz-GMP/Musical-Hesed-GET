@@ -1,0 +1,146 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>HESED · MM-07-Q01 · Parallax v02</title>
+  <style>
+    :root {
+      color-scheme: dark;
+      --gold: #d9b36c;
+      --ink: #070b12;
+      --line: rgba(217,179,108,.35);
+    }
+    * { box-sizing: border-box; }
+    html, body { min-height: 100%; margin: 0; background: var(--ink); color: #f5f1e8; font-family: Georgia, serif; }
+    body { display: grid; place-items: center; padding: 24px; }
+    .page { width: min(1240px, 100%); }
+    header { display: flex; justify-content: space-between; align-items: end; gap: 16px; padding-bottom: 14px; border-bottom: 1px solid var(--line); }
+    h1 { margin: 0; font-size: clamp(20px, 3vw, 34px); font-weight: 400; letter-spacing: .04em; }
+    .meta { color: var(--gold); font: 13px/1.35 Arial, sans-serif; letter-spacing: .08em; text-align: right; text-transform: uppercase; }
+    .stage { position: relative; margin-top: 18px; aspect-ratio: 16 / 9; overflow: hidden; background: #0b1726; box-shadow: 0 18px 60px rgba(0,0,0,.45); }
+    .camera { position: absolute; inset: -14%; overflow: hidden; transform-origin: 50% 55%; will-change: transform; }
+    .layer { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; object-position: center; transform-origin: 50% 55%; user-select: none; pointer-events: none; will-change: transform; }
+    .base { transform: scale(1.08); }
+    /* A borda é suavizada pela opacidade da máscara, não por blur na fotografia. */
+    .sky { opacity: .66; clip-path: polygon(0 0,100% 0,100% 46%,85% 44%,69% 47%,53% 43%,37% 46%,21% 42%,0 45%); }
+    .mountains { opacity: .76; clip-path: polygon(0 38%,15% 34%,30% 39%,44% 32%,58% 38%,72% 30%,85% 36%,100% 29%,100% 74%,0 74%); }
+    .foreground { opacity: .9; clip-path: polygon(0 56%,15% 53%,30% 60%,45% 54%,61% 62%,76% 55%,89% 61%,100% 52%,100% 100%,0 100%); }
+    .edge-softener { position: absolute; inset: 0; pointer-events: none; background: linear-gradient(180deg, rgba(5,10,18,.02), transparent 32%, rgba(5,10,18,.06) 74%, rgba(5,10,18,.13)); }
+    .vignette { position: absolute; inset: 0; pointer-events: none; background: radial-gradient(ellipse at 55% 46%, transparent 47%, rgba(0,0,0,.18) 100%); }
+    .guide { position: absolute; inset: 5%; border: 1px dashed rgba(255,255,255,.2); pointer-events: none; opacity: 0; transition: opacity .18s; }
+    .guide-labels { position: absolute; top: 14px; left: 16px; display: flex; gap: 8px; opacity: 0; transition: opacity .18s; font: 12px/1.2 Arial, sans-serif; }
+    .guide-labels span { padding: 5px 7px; background: rgba(0,0,0,.42); border: 1px solid rgba(255,255,255,.28); }
+    .show-guides .guide, .show-guides .guide-labels { opacity: 1; }
+    .show-guides .sky { outline: 1px solid rgba(102,186,255,.8); }
+    .show-guides .mountains { outline: 1px solid rgba(255,198,88,.8); }
+    .show-guides .foreground { outline: 1px solid rgba(111,230,153,.8); }
+    .controls { display: grid; grid-template-columns: auto auto 1fr auto; gap: 10px; align-items: center; margin-top: 14px; font: 13px/1.2 Arial, sans-serif; }
+    button { border: 1px solid var(--line); padding: 8px 11px; color: #f5f1e8; background: #111a26; cursor: pointer; }
+    button:hover { background: #1b2b3e; }
+    input[type=range] { width: 100%; accent-color: var(--gold); }
+    .readout { min-width: 62px; color: var(--gold); text-align: right; }
+    .note { margin: 12px 0 0; color: #c9c4b9; font: 13px/1.5 Arial, sans-serif; }
+    .note strong { color: var(--gold); font-weight: 400; }
+    @media (max-width: 720px) { body { padding: 12px; } header { display: block; } .meta { margin-top: 8px; text-align: left; } .controls { grid-template-columns: auto auto 1fr; } .readout { grid-column: 3; } }
+  </style>
+</head>
+<body>
+  <main class="page">
+    <header>
+      <h1>MM-07 · Q01 · Abertura</h1>
+      <div class="meta">Parallax v02 · estudo de 15 s · sem master</div>
+    </header>
+
+    <section class="stage" id="stage" aria-label="Prévia parallax MM-07-Q01 versão 2">
+      <div class="camera" id="camera">
+        <img class="layer base" src="MM07-Q01.JPG" alt="Base canônica MM07-Q01">
+        <img class="layer sky" id="sky" src="MM07-Q01.JPG" alt="Camada de fundo: céu">
+        <img class="layer mountains" id="mountains" src="MM07-Q01.JPG" alt="Camada intermediária: montanhas">
+        <img class="layer foreground" id="foreground" src="MM07-Q01.JPG" alt="Camada de primeiro plano: terreno e vegetação">
+      </div>
+      <div class="edge-softener"></div>
+      <div class="vignette"></div>
+      <div class="guide"></div>
+      <div class="guide-labels"><span>Fundo · céu</span><span>Meio · montanhas</span><span>Frente · terreno</span></div>
+    </section>
+
+    <div class="controls">
+      <button id="play" type="button">▶ Reproduzir</button>
+      <button id="guides" type="button">Guias</button>
+      <input id="scrub" type="range" min="0" max="15" step="0.001" value="0" aria-label="Posição na prévia">
+      <div class="readout" id="readout">00:00.000</div>
+    </div>
+
+    <p class="note"><strong>V02:</strong> sem filtros de desfoque. A camada da frente percorre o maior deslocamento, as montanhas acompanham em escala intermediária e o céu quase permanece; a câmera avança e deriva de modo contínuo. A duração de 15 s vem da prancha e segue como estudo até receber o master.</p>
+  </main>
+
+  <script>
+    const DURATION = 15;
+    const stage = document.querySelector('#stage');
+    const camera = document.querySelector('#camera');
+    const sky = document.querySelector('#sky');
+    const mountains = document.querySelector('#mountains');
+    const foreground = document.querySelector('#foreground');
+    const playButton = document.querySelector('#play');
+    const guidesButton = document.querySelector('#guides');
+    const scrub = document.querySelector('#scrub');
+    const readout = document.querySelector('#readout');
+    let playing = false;
+    let time = 0;
+    let last = 0;
+
+    const clamp = (value, min, max) => Math.max(min, Math.min(max, value));
+    const ease = value => value * value * (3 - 2 * value);
+    const lerp = (from, to, amount) => from + (to - from) * amount;
+
+    function renderAtTime(value) {
+      time = clamp(Number(value) || 0, 0, DURATION);
+      const u = time / DURATION;
+      const move = ease(u);
+      const sway = Math.sin(u * Math.PI) * .35;
+
+      camera.style.transform = `translate(${lerp(1.15, -1.25, move).toFixed(3)}%, ${lerp(.65, -.45, move).toFixed(3)}%) scale(${lerp(1.00, 1.072, move).toFixed(5)})`;
+      sky.style.transform = `translate(${lerp(5, -3, move).toFixed(2)}px, ${lerp(1, -2, move).toFixed(2)}px) scale(${lerp(1.082, 1.088, move).toFixed(5)})`;
+      mountains.style.transform = `translate(${lerp(22, -14, move).toFixed(2)}px, ${lerp(6, -4, move).toFixed(2)}px) scale(${lerp(1.115, 1.132, move).toFixed(5)})`;
+      foreground.style.transform = `translate(${lerp(54, -34, move).toFixed(2)}px, ${lerp(15 + sway, -9 + sway, move).toFixed(2)}px) scale(${lerp(1.175, 1.205, move).toFixed(5)})`;
+
+      scrub.value = time.toFixed(3);
+      const minutes = Math.floor(time / 60).toString().padStart(2, '0');
+      const seconds = (time % 60).toFixed(3).padStart(6, '0');
+      readout.textContent = `${minutes}:${seconds}`;
+    }
+
+    function tick(now) {
+      if (!playing) return;
+      if (!last) last = now;
+      renderAtTime(time + (now - last) / 1000);
+      last = now;
+      if (time >= DURATION) {
+        playing = false;
+        playButton.textContent = '▶ Reproduzir';
+        last = 0;
+        return;
+      }
+      requestAnimationFrame(tick);
+    }
+
+    playButton.addEventListener('click', () => {
+      if (time >= DURATION) renderAtTime(0);
+      playing = !playing;
+      playButton.textContent = playing ? '❚❚ Pausar' : '▶ Reproduzir';
+      last = 0;
+      if (playing) requestAnimationFrame(tick);
+    });
+    guidesButton.addEventListener('click', () => stage.classList.toggle('show-guides'));
+    scrub.addEventListener('input', event => {
+      playing = false;
+      playButton.textContent = '▶ Reproduzir';
+      last = 0;
+      renderAtTime(event.target.value);
+    });
+    window.renderAtTime = renderAtTime;
+    renderAtTime(0);
+  </script>
+</body>
+</html>

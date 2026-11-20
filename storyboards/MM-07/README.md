@@ -14,7 +14,7 @@ As bases abaixo são estudos visuais disponíveis para montagem; não há aprova
 | **Música** | *Nasceu em Belém* — Marcus Salles; master definitivo não recebido (P-02) |
 | **Pasta no Drive** | A definir (P-13) |
 | **Plano operacional** | [plano-de-video.md](plano-de-video.md) |
-| **Prévia atual** | [C01/Q01 parallax v01](preview-c01-q01-v01.html) · estudo visual silencioso de 15 s |
+| **Prévia atual** | [MM07-Q01 parallax v02](preview-mm07-q01-parallax-v02.html) · estudo visual silencioso de 15 s |
 
 ## Conceito em uma frase
 
@@ -54,14 +54,15 @@ Da expectativa noturna de Belém ao nascimento íntimo e à esperança que se ab
 - **Atmosfera:** início contemplativo e frio; aproximação com calor humano; interior âmbar; crescimento de luz no nascimento; recuperação para esperança exterior.
 - **Continuidade necessária:** mesmo horizonte/cidade/estrela entre Q01, Q02, Q09 e Q10; casal, roupas, jumento, manjedoura e bebê consistentes entre Q03, Q05, Q06 e Q07/Q08. Os estudos atuais não comprovam essa continuidade.
 
-## Prévia C01/Q01 · parallax v01
+## Prévia MM07-Q01 · parallax
 
 - **Base preservada:** `MM07-Q01.JPG`; nenhuma nova imagem canônica foi gerada ou sobrescrita.
 - **Camadas de estudo:** céu/fundo, montanhas intermediárias e terreno/vegetação do primeiro plano, usando máscaras aproximadas sobre a mesma base.
 - **Movimento:** fundo com deriva mínima; montanhas com deslocamento intermediário; primeiro plano com deslocamento mais perceptível; câmera com push-in e deriva diagonal muito lentos.
 - **Referência de movimento consultada:** vídeo fornecido pelo usuário, usado somente para observar a gramática de camadas e profundidade; estética, desenho e acabamento não foram reproduzidos.
-- **Arquivo:** [preview-c01-q01-v01.html](preview-c01-q01-v01.html). É uma prévia interativa silenciosa, com controles de reprodução, scrub e guias de máscara. O tempo de 15 s é o rótulo de estudo da prancha, não uma medição do master.
-- **Estado:** produzida para revisão do usuário; ainda sem aprovação, QA de reprodução em navegador, áudio ou teste no LED.
+- **V01 descartada para revisão:** imagem suavizada por filtros de blur e deslocamentos muito discretos; feedback do usuário em 24/10/2026 indica que o movimento não ficou perceptível.
+- **Arquivo atual:** [preview-mm07-q01-parallax-v02.html](preview-mm07-q01-parallax-v02.html). A V02 remove o blur da fotografia, aumenta a separação de movimento entre os três planos e elimina a designação “C01” da interface. Mantém controles de reprodução, scrub e guias de máscara.
+- **Estado:** V02 produzida para revisão do usuário; auditoria estrutural local conferida em 20/11/2026 (camadas, `renderAtTime`, controles, 16:9, ausência de blur e limites t=0/t=15). Ainda sem QA de reprodução/movimento no navegador, áudio, aprovação ou teste no LED. O tempo de 15 s é o rótulo de estudo da prancha, não uma medição do master.
 
 ## Notas e pendências
 
