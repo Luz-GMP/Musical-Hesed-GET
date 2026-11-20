@@ -1,12 +1,17 @@
 # Storyboard · MM-16C · Filme final: nascimento → vida
 
+**Uso no espetáculo.** [Cena 9](../../guias/cena-a-cena/cena-09.md) reúne a fala de entrada, o que o palco faz e até quando sustentar esta imagem. [Roteiro de montagem do telão](../../guias/cena-a-cena/pdf/HESED-roteiro-de-montagem.pdf), página 10.
+
+**Cena 9 · Victor.** Prancha de referência do filme final. Victor produz e entrega a MM-16 inteira. [Fila de execução](../../equipe/victor.md).
+
+
 | | |
 | --- | --- |
-| **Responsável** | Isaac |
+| **Produção do filme** | Victor |
 | **Cena** | 9 |
-| **Recebe de** | MM-16B (Lucas) |
-| **Entrega para** | MM-16D (Eduardo) · MM-16 (Lucas) |
-| **Gatilho e música** | ver [mapa de cenas](../../docs/mapa-de-cenas.md) e [sua página](../../equipe/isaac.md) |
+| **Uso desta pasta** | Referência visual já existente |
+| **Entrega** | Um filme completo de Victor para a operação |
+| **Guia** | [Guia definitivo por pessoa](../../guias/cena-a-cena/quem-faz-as-musicas.md) |
 | **Pasta no Drive** | _a definir (P-13)_ |
 
 Como preencher: [storyboards/README.md](../README.md).

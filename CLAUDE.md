@@ -1,12 +1,27 @@
 # Harness de contexto · HESED Produção Audiovisual
 
+**Execução no HESED.** Abra o [Roteiro de montagem do telão](guias/cena-a-cena/pdf/HESED-roteiro-de-montagem.pdf) e a ficha da cena antes de preparar a peça. Identifique a fala anterior, quem atua no palco, quando a música entra, qual imagem permanece e o sinal de saída. Atribua a música ao responsável daquela cena. Rotule propostas e escolhas de ensaio ao lado da deixa. Quando a direção alterar um sinal, corrija primeiro a linha da cena, depois a mesma passagem no PDF e no mapa HTML.
+
+**Marcadores obrigatórios em cada vídeo.** Antes de editar, siga o [guia de timecodes e operação](guias/timecodes-e-operacao.md). Marque início, saída e eventos de sincronismo na sequência final, ou na configuração de montagem se a edição for por código. Entregue a tabela de marcadores junto ao MP4 da mesma versão e confira os tempos no arquivo exportado. Registre na ficha a deixa real de palco e os pontos ainda a definir.
+
+Filas de execução dos responsáveis: [Victor · cenas 1, 2 e 9](equipe/victor.md) · [Isaac · cenas 3, 4 e 5](equipe/isaac.md) · [Eduardo (Dudu) · cenas 6, 7 e 8](equipe/eduardo.md)
+
+**Distribuição vigente · 19/11/2026.** Victor fecha as Cenas 1, 2 e 9. Isaac fecha as Cenas 3, 4 e 5. Eduardo (Dudu) fecha as Cenas 6, 7 e 8. Cada pessoa prepara e entrega suas cenas diretamente à operação. A MM-16 é integralmente de Victor. As músicas em ajuste por Isaac seguem a partir das versões existentes. [Guia de execução por pessoa](guias/cena-a-cena/quem-faz-as-musicas.md)
+
+Para produção audiovisual do HESED, carregue `ai-filmmaker` pela [entrada Claude Code](.claude/skills/ai-filmmaker/SKILL.md), que encaminha ao pacote compartilhado do projeto.
+
+## Atualização conciliada em 16/11/2026
+
+Antes de trabalhar em MM-01/MM-02 ou nos gatilhos do espetáculo, ler [produção local de Victor](docs/producao-victor/README.md), [plano das nove cenas](docs/plano-ajustes-2026-11-16.md), [decisões D-52–D-57](docs/decisoes.md) e [STATUS.md](STATUS.md). Esses registros incorporam a abertura interna/teletransporte de MM01, os cinco highlights MM02 aprovados e o feedback posterior da produção. O corredor V13/costas e o exterior V06 têm funções diferentes e são preservados; a vinheta V07 e a abertura V04 ainda são prévias. Não regerar aprovados, inferir aceite técnico LED ou seguir isoladamente descrições antigas de produção não iniciada. Vídeos/áudios/editáveis pesados continuam fora do Git; consultar o manifesto e P-13.
+
+
 Este arquivo é lido automaticamente pelo Claude Code e pode ser colado no início de uma conversa com qualquer assistente de IA (Claude, ChatGPT, Gemini) para dar o contexto do projeto. Mantenha curto: ele aponta para os documentos, não repete o conteúdo.
 
 Este é o contexto comum para Claude, Codex e AntiGravity. O [AGENTS.md](AGENTS.md) direciona outros assistentes para cá; o [CODEX.md](CODEX.md) e o [ANTIGRAVITY.md](ANTIGRAVITY.md) complementam os respectivos fluxos. Orientações de produção compartilhadas devem ser mantidas aqui e nos guias correspondentes, para que o trabalho continue da mesma forma independentemente do assistente usado.
 
 ## Quem você está ajudando
 
-Um membro da equipe de produção audiovisual (telão) do **HESED**, musical de Natal 2026 do GET Planalto e GET Santa Amélia. A equipe tem cinco pessoas (Victor, Melissa, Isaac, Eduardo, Lucas), cada uma responsável por peças codificadas como `MM-XX`. São voluntários de igreja, com níveis variados de experiência em edição e nenhuma obrigação de saber Git.
+Um membro da equipe de produção audiovisual (telão) do **HESED**, musical de Natal 2026 do GET Planalto e GET Santa Amélia. A produção das peças está distribuída entre Victor, Isaac e Eduardo conforme o guia por pessoa. São voluntários de igreja, com níveis variados de experiência em edição e nenhuma obrigação de saber Git.
 
 ## Fontes de verdade e consulta conjunta
 
@@ -70,7 +85,7 @@ Se faltar o briefing do quadro, escreva-o no caderno a partir das fontes antes d
 - A cada imagem gerada, atualize o quadro com referências reais, localização, versão, tamanho e feedback; registre aprovação apenas quando confirmada. Atualize a ficha-resumo com miniaturas/links existentes. Bases finais e projetos pesados ficam no Drive; esboços leves podem ficar no repositório.
 - Diferencie **prancha de planejamento**, com quadros e anotações, de **imagem-base individual**, limpa e sem títulos, números, timecodes ou colagem. Descreva movimento e efeitos separadamente do instante da imagem-base.
 - Preserve identidade de personagens, cenário, direção de luz e primeiro/último frame entre imagens e produtores. Use referências aceitas e confira as imagens vizinhas antes de produzir em série.
-- Tempos e formas de onda nas referências não comprovam sincronização. Playbacks dependem do master definitivo; MM-10 acompanha uma fala variável; MM-16D integra o filme final e depende da divisão de Lucas. Registre conflitos como pontos de conferência, sem alterar o padrão ou declarar uma solução aprovada.
+- Tempos e formas de onda nas referências não comprovam sincronização. Playbacks dependem do master definitivo; MM-10 acompanha uma fala variável; a prancha MM-16D é acervo para a edição integral de Victor. Registre conflitos como pontos de conferência, sem alterar o padrão ou declarar uma solução aprovada.
 - 3840×2160 é a referência para imagens-base, não a especificação final dos vídeos. Confira P-01 e o [checklist de aceite](guias/checklist-de-aceite.md); uma revisão no computador não substitui o teste no telão.
 
 Se estes procedimentos mudarem, atualize os guias compartilhados e suas referências neste arquivo, no `CODEX.md` e no `ANTIGRAVITY.md`, evitando cópias divergentes das regras de produção.

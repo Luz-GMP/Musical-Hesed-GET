@@ -1,0 +1,15 @@
+{
+  "sourceLocal": "acompanhamento/MM02-highlights/B04-v02/aprovacao.json",
+  "kind": "Registro historico de aprovacao/entrega; caminhos normalizados para o workspace local.",
+  "record": {
+    "version": 2,
+    "status": "approved",
+    "by": "Victor",
+    "evidence": "Então já pode prosseguir para o próximo. Eu mesmo vou salvar na pasta.",
+    "sha256": "b111073f7bd2844d22bb0a0822a2a11f1d9309655f8ee971feca6bccf8bd8158",
+    "archiveResponsibility": "Victor fará o salvamento na pasta de aprovados; cópia não executada pelo agente.",
+    "internalProjectCopy": "projetos/Remotion/MM02-B04-v02/renders/MM02-B04-v02-aprovado-1080p.mp4",
+    "internalCopyHashVerified": true,
+    "harness": "PASS"
+  }
+}

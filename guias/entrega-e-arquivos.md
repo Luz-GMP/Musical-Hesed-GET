@@ -1,5 +1,7 @@
 # Entrega e organização de arquivos
 
+Para montar e ensaiar, siga o [Roteiro de montagem do telão](cena-a-cena/pdf/HESED-roteiro-de-montagem.pdf). Leia cada deixa na ordem do palco: fala ou ação, entrada da música, imagem a sustentar e sinal de saída.
+
 ## Onde fica o quê
 
 | Tipo | Onde | Por quê |
@@ -23,13 +25,20 @@ HESED_Telão/
 │   └── emergencia/       still de emergência
 ├── MM-02_Victor/
 ├── ...
-├── MM-16_Conform_Lucas/
+├── MM-16_Filme_Victor/
 └── 99_Operação/          pasta final que vai para o computador do telão
 ```
+
+## Ordem de entrega da cena
+
+O responsável entrega diretamente à operação. Mantenha os nomes e links existentes. Em cada linha da lista de reprodução, anote **cena e ordem | arquivo e versão | fala/ação de entrada | imagem a manter | sinal de saída**. Exemplo da Cena 7: estábulo vazio até a fala da multidão, depois variante v09 com anjos. Liste o vídeo das gerações na entrada da música.
+
+Para cada vídeo, inclua o [mapa de marcadores e timecodes](timecodes-e-operacao.md) da versão entregue. Registre a deixa do GO, a imagem de espera, o estado de saída e as ações de luz e telão no tempo conferido do MP4. Identifique o master de áudio usado e os pontos ainda pendentes de ensaio.
 
 ## O que entregar em cada peça
 
 - [ ] Arquivo final renderizado para o telão
+- [ ] Tabela de marcadores com início, saída e eventos de sincronismo, conferida no MP4 da mesma versão
 - [ ] Arquivo editável / projeto
 - [ ] Assets necessários para alterações posteriores
 - [ ] Still de emergência (imagem que substitui o vídeo se ele falhar)
@@ -78,7 +87,7 @@ Exemplos:
 HESED_C03_MM-06_retorno-temporal_v01.mp4
 HESED_C03_MM-06_loop-bebe_v01.mp4
 HESED_C05_MM-11_luz-do-mundo_v03.mp4
-HESED_C09_MM-16C_nascimento-vida_v02.mp4
+HESED_C09_MM-16_filme_v02.mp4
 HESED_C03_criacao-base_3840x2160_v01.png
 ```
 
@@ -89,10 +98,11 @@ Para esses formatos de entrega: cena sempre com dois dígitos, descrição em mi
 | Item | Valor |
 | --- | --- |
 | Imagens-base | 3840×2160 (definido na Bíblia de Produção) |
-| Resolução de vídeo | **a definir (P-01)** |
-| Frame rate | **a definir (P-01)** |
+| Resolução de vídeo | **Entrega local final:1920×1080 progressivo (D-54)**; homologação/matriz física LED ainda P-01 |
+| Frame rate | Manter o FPS aprovado de cada peça (ex.: MM01/24, vinheta/30, highlights/60); compatibilidade LED ainda P-01 |
 | Codec / container | **a definir (P-01)** |
 | Áudio embutido? | **a definir** (depende de como a operação roda as músicas) |
 | Loops em arquivo separado? | **a definir (P-12)** |
 
 Quando a P-01 for respondida, atualize esta tabela e registre em [decisoes.md](../docs/decisoes.md).
+

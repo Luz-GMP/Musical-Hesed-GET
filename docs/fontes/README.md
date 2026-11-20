@@ -1,5 +1,7 @@
 # Fontes recebidas · HESED
 
+Para montar e ensaiar, siga o [Roteiro de montagem do telão](../../guias/cena-a-cena/pdf/HESED-roteiro-de-montagem.pdf). Leia cada deixa na ordem do palco: fala ou ação, entrada da música, imagem a sustentar e sinal de saída.
+
 ## Bíblia de Produção
 
 [HESED_Biblia_de_Producao_v0_1.md](HESED_Biblia_de_Producao_v0_1.md) — cópia integral, sem alterações, do anexo `Bíblia da Produção Hesed v01.md` recebido nesta conversa em 16/10/2026.

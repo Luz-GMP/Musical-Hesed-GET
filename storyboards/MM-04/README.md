@@ -1,12 +1,18 @@
 # Storyboard · MM-04 · Criação perfeita (loop)
 
+**Uso no espetáculo.** [Cena 3](../../guias/cena-a-cena/cena-03.md) reúne a fala de entrada, o que o palco faz e até quando sustentar esta imagem. [Roteiro de montagem do telão](../../guias/cena-a-cena/pdf/HESED-roteiro-de-montagem.pdf), página 4.
+
+**Distribuição vigente · 19/11/2026.** Victor fecha as Cenas 1, 2 e 9. Isaac fecha as Cenas 3, 4 e 5. Eduardo (Dudu) fecha as Cenas 6, 7 e 8. Cada pessoa prepara e entrega suas cenas diretamente à operação. A MM-16 é integralmente de Victor. As músicas em ajuste por Isaac seguem a partir das versões existentes. [Guia de execução por pessoa](../../guias/cena-a-cena/quem-faz-as-musicas.md)
+
+**Para executar agora.** Isaac prepara o jardim e o retorno à mesa antes da queda. [Falas e deixas da Cena 3](../../guias/cena-a-cena/cena-03.md).
+
 | | |
 | --- | --- |
-| **Responsável** | Melissa |
+| **Responsável** | Isaac |
 | **Cena** | 3 · Bloco II |
 | **Versão / situação** | v01 · 16/10/2026 · proposta para revisão |
-| **Recebe de** | Sala MM-03 (Victor), conforme a Cena 3; frame de ligação não recebido |
-| **Entrega para** | MM-05 (Lucas): imagem-base, paleta e estado de saída da criação |
+| Recebe de | Ver primeiro e último quadro no guia vigente da cena. |
+| Entrega para | Ver primeiro e último quadro no guia vigente da cena. |
 | **Gatilho** | Religiosidade: “Não tinha dor, sofrimento, pecado, nada disso.” |
 | **Música** | Há Muito Tempo Atrás (Crianças Diante do Trono), com dança |
 | **Saída** | “Deu errado quando o ser humano escolheu viver longe de Deus.” |
@@ -15,7 +21,7 @@
 
 ## Conceito em uma frase
 
-Uma paisagem natural luminosa, harmônica e viva, sustentada com movimentos discretos até a queda, que será construída por Lucas sobre o mesmo mundo no MM-05.
+Uma paisagem natural luminosa, harmônica e viva, sustentada com movimentos discretos até a queda, que será construída por Victor sobre o mesmo mundo no MM-05.
 
 ## Prancha v01
 
@@ -39,13 +45,13 @@ Os quadros são estados de **uma única paisagem-base animável**, não quatro c
 ## Primeiro e último frame
 
 - **Primeiro frame:** a sala MM-03 dá lugar à paisagem natural no gatilho; método de transição e frame de Victor ainda a alinhar. Q01 estabelece o ambiente.
-- **Último estado:** paisagem ainda íntegra e luminosa; fornecer a Lucas a mesma base, paleta, enquadramento e estado corrente. O escurecimento e as silhuetas da queda pertencem ao MM-05.
+- **Último estado:** paisagem ainda íntegra e luminosa; fornecer a Victor a mesma base, paleta, enquadramento e estado corrente. O escurecimento e as silhuetas da queda pertencem ao MM-05.
 - **Paleta proposta:** branco quente e dourado suave na luz, azul suave no céu e verde natural de apoio. Brilho com textura, a testar com palco/dança.
 - **Loop:** Q01 → Q02 → Q03 → Q04 → Q01. Na edição, derivar os enquadramentos de uma base única e testar repetição; a prancha não comprova loop sem emenda.
 
 ## Fontes e revisão
 
-Consultados o guia de construção, o caderno, a página de Melissa, MM-05, briefing v1.0 (inclusive DOCX original), roteiro/Cena 3 (inclusive PDF original), decisões, mapa de cenas, dependências, status, pendências e guias de produção/entrega/aceite.
+Consultados o guia de construção, o caderno, a página de Victor, MM-05, briefing v1.0 (inclusive DOCX original), roteiro/Cena 3 (inclusive PDF original), decisões, mapa de cenas, dependências, status, pendências e guias de produção/entrega/aceite.
 
 A prancha segue a estrutura documentada das referências do Dudu (IDs, descrição, movimento, efeitos, paleta e gatilhos). Os arquivos visuais dessas referências não estavam disponíveis neste checkout ou neste chat. Os materiais de Eduardo foram excluídos do escopo desta criação, conforme o pedido; seus registros anteriores foram preservados.
 
@@ -56,5 +62,5 @@ A prancha segue a estrutura documentada das referências do Dudu (IDs, descriç�
 ## Próximos passos
 
 - Revisar a proposta visual e escolher a base piloto.
-- Alinhar imagem-base/paleta e passagem para MM-05 com Lucas; compartilhar no grupo quando houver definição.
+- Alinhar imagem-base/paleta e passagem para MM-05 com Victor; compartilhar no grupo quando houver definição.
 - Produzir o alpha em loop e testar com a dança e no telão real.

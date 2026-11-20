@@ -1,5 +1,9 @@
 # Storyboards
 
+Para montar e ensaiar, siga o [Roteiro de montagem do telão](../guias/cena-a-cena/pdf/HESED-roteiro-de-montagem.pdf). Leia cada deixa na ordem do palco: fala ou ação, entrada da música, imagem a sustentar e sinal de saída.
+
+**Distribuição vigente · 19/11/2026.** Victor fecha as Cenas 1, 2 e 9. Isaac fecha as Cenas 3, 4 e 5. Eduardo (Dudu) fecha as Cenas 6, 7 e 8. Cada pessoa prepara e entrega suas cenas diretamente à operação. A MM-16 é integralmente de Victor. As músicas em ajuste por Isaac seguem a partir das versões existentes. [Guia de execução por pessoa](../guias/cena-a-cena/quem-faz-as-musicas.md)
+
 Uma pasta por peça. Cada pasta já tem um `README.md` com a ficha do storyboard: é ele que aparece quando você abre a pasta no site.
 
 Storyboard é a etapa 🎨 do [fluxo de trabalho](../guias/fluxo-de-trabalho.md). Não precisa ser bonito: foto de desenho no papel, print do Canva ou frame tirado de uma referência servem. O objetivo é a equipe (e o vizinho de costura) entender a sequência antes do alpha.
@@ -35,10 +39,8 @@ Mudou um quadro em revisão? O histórico Git guarda a anterior. Preserve a imag
 
 | Peça | Responsável |
 | --- | --- |
-| [MM-01](MM-01/) · [MM-02](MM-02/) · [MM-03](MM-03/) | Victor |
-| [MM-04](MM-04/) · [MM-09](MM-09/) · [MM-14](MM-14/) · [MM-16A](MM-16A/) | Melissa |
-| [MM-06](MM-06/) · [MM-08](MM-08/) · [MM-11](MM-11/) · [MM-16C](MM-16C/) | Isaac |
-| [MM-07](MM-07/) · [MM-10](MM-10/) · [MM-13](MM-13/) · [MM-16D](MM-16D/) | Eduardo |
-| [MM-05](MM-05/) · [MM-12](MM-12/) · [MM-15](MM-15/) · [MM-16B](MM-16B/) | Lucas |
+| MM-01 a MM-03 e MM-16 | Victor |
+| MM-04 a MM-11 e MM-13 | Isaac |
+| MM-12, MM-14 e MM-15 | Eduardo |
 
-O MM-16 (conform do Lucas) não tem pasta própria: ele é montado a partir dos storyboards dos módulos 16A a 16D.
+Victor produz a MM-16 inteira, incluindo seleção ou criação das imagens, eventual gravação, edição, finalização e entrega direta à operação. A–D identificam referências de acervo. O filme independe de qualquer material a preparar, separar ou enviar pelos demais. Pastas de acervo: [A](MM-16A/), [B](MM-16B/), [C](MM-16C/), [D](MM-16D/).

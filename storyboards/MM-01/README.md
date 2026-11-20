@@ -1,18 +1,31 @@
 # Storyboard · MM-01 · Exterior/entrada da prisão
 
+**Uso no espetáculo.** [Cena 1](../../guias/cena-a-cena/cena-01.md) reúne a fala de entrada, o que o palco faz e até quando sustentar esta imagem. [Roteiro de montagem do telão](../../guias/cena-a-cena/pdf/HESED-roteiro-de-montagem.pdf), página 2.
+
+**Distribuição vigente · 19/11/2026.** Victor fecha as Cenas 1, 2 e 9. Isaac fecha as Cenas 3, 4 e 5. Eduardo (Dudu) fecha as Cenas 6, 7 e 8. Cada pessoa prepara e entrega suas cenas diretamente à operação. A MM-16 é integralmente de Victor. As músicas em ajuste por Isaac seguem a partir das versões existentes. [Guia de execução por pessoa](../../guias/cena-a-cena/quem-faz-as-musicas.md)
+
+**Para executar agora.** Abertura de Victor. Preparar corredor, luz e exterior antes da conversa. [Falas e deixas da Cena 1](../../guias/cena-a-cena/cena-01.md).
+
+## Atualização de produção conciliada · 16/11/2026
+
+Consultar [estado local verificado de Victor](../../docs/producao-victor/README.md) e [plano atual das nove cenas](../../docs/plano-ajustes-2026-11-16.md) antes dos registros de origem abaixo. A abertura agora inclui corredor interno V13/costas aprovados e desvanecimento; exterior V06 permanece como destino/continuidade. A prévia V04 tem13s/24fps e ainda aguarda revisão própria.
+
+Os registros anteriores abaixo preservam a origem, sem prevalecer sobre as orientações posteriores expressas.
+
+
 | | |
 | --- | --- |
 | **Responsável** | Victor |
 | **Cena** | 1 · Pós-libertação |
 | **Versão oficial** | **V06**, aprovada pelo usuário em 21/10/2026 (D-40/D-41) |
 | **Etapa** | Referência visual canônica; animação será retomada a partir deste conjunto |
-| **Recebe de** | Posição cênica final de Goel; foto/frame/planta não fornecidos |
+| Recebe de | Ver primeiro e último quadro no guia vigente da cena. |
 | **Interrupção/retorno** | MM-02, flashback; retorno ao mesmo ambiente MM-01 |
 | **Saída** | Encerramento da Cena 1, transição à casa MM-03; operação a definir |
 | **Controle** | Fala variável; sem duração medida |
 | **Drive** | A definir (P-13); nenhum upload realizado |
 
-## V06 · única referência visual oficial
+## V06 · referência oficial do exterior, preservada
 
 ![MM-01 — storyboard V06 oficial](<STB MM01.jpg>)
 
@@ -36,7 +49,7 @@ Ambiente noturno sombrio, com neblina distribuída por todos os planos e ilumina
 
 Quatro SUVs de porte integral ficam no pátio, em dois pares com escala coerente. A guarita contém dois guardas. Depois do pátio, o segundo perímetro é um muro alto de concreto com concertina e portão duplo de aço, alinhado à entrada central da penitenciária. O muro e o edifício obedecem ao mesmo ponto de fuga. Reenquadramentos futuros devem preservar essa geografia e não criar aberturas laterais, grades em quina ou portões adicionais.
 
-## Palco, gatilhos e continuidade
+## Palco, gatilhos e continuidade — registro anterior à abertura interna
 
 Jesus e dez detentas estão **no palco**; a projeção não os duplica. Na abertura da cortina retomam a posição final de Goel. Jesus sai pelo corredor central, detentas congeladas até sua saída, depois se levantam e discutem; Religiosidade permanece sentada. Figuração de segurança projetada foi autorizada pelo usuário. Sem estrutura física de cadeia, correntes ou cruz física na abertura, conforme Bíblia §§2.2/3.
 
@@ -55,3 +68,4 @@ Há outro congelamento durante a discussão para MM-02. Ao terminar o vídeo, vo
 ## Limites técnicos
 
 A aprovação é da referência visual. A base de animação em camadas, o vídeo final, o teste no LED e o aceite técnico ainda precisam ser produzidos. A prancha documental é 4K e 16:9; isso não define a matriz física do painel, fps ou codec final (P-01). Viaturas e insígnias permanecem referências artísticas e não comprovam padronagem oficial da Polícia Penal.
+

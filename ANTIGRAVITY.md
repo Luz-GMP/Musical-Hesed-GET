@@ -1,5 +1,20 @@
 # AntiGravity · HESED Produção Audiovisual
 
+**Execução no HESED.** Abra o [Roteiro de montagem do telão](guias/cena-a-cena/pdf/HESED-roteiro-de-montagem.pdf) e a ficha da cena antes de preparar a peça. Identifique a fala anterior, quem atua no palco, quando a música entra, qual imagem permanece e o sinal de saída. Atribua a música ao responsável daquela cena. Rotule propostas e escolhas de ensaio ao lado da deixa. Quando a direção alterar um sinal, corrija primeiro a linha da cena, depois a mesma passagem no PDF e no mapa HTML.
+
+**Marcadores obrigatórios em cada vídeo.** Antes de editar, siga o [guia de timecodes e operação](guias/timecodes-e-operacao.md). Marque início, saída e eventos de sincronismo na sequência final, ou na configuração de montagem se a edição for por código. Entregue a tabela de marcadores junto ao MP4 da mesma versão e confira os tempos no arquivo exportado. Registre na ficha a deixa real de palco e os pontos ainda a definir.
+
+Filas de execução dos responsáveis: [Victor · cenas 1, 2 e 9](equipe/victor.md) · [Isaac · cenas 3, 4 e 5](equipe/isaac.md) · [Eduardo (Dudu) · cenas 6, 7 e 8](equipe/eduardo.md)
+
+**Distribuição vigente · 19/11/2026.** Victor fecha as Cenas 1, 2 e 9. Isaac fecha as Cenas 3, 4 e 5. Eduardo (Dudu) fecha as Cenas 6, 7 e 8. Cada pessoa prepara e entrega suas cenas diretamente à operação. A MM-16 é integralmente de Victor. As músicas em ajuste por Isaac seguem a partir das versões existentes. [Guia de execução por pessoa](guias/cena-a-cena/quem-faz-as-musicas.md)
+
+Para produção audiovisual, carregue `ai-filmmaker` em `.agents/skills/ai-filmmaker/SKILL.md`. Para a MM-07, use a [instrução para o Antigravity](storyboards/MM-07/instrucao-antigravity.md).
+
+## Atualização conciliada ·16/11/2026
+
+Consultar [produção local de Victor](docs/producao-victor/README.md), [plano das nove cenas](docs/plano-ajustes-2026-11-16.md), STATUS e decisõesD-52–D-57 antes de produzir. A abertura internaMM01 e cinco highlightsMM02 já têm aprovações próprias; não regerar aprovados nem declarar prévias posteriores como aceitas. Publicação documental autorizada na main; projetos pesados permanecem fora do Git.
+
+
 Este arquivo orienta o AntiGravity a trabalhar com o mesmo contexto e as mesmas diretrizes de Claude e Codex. Leia primeiro o [AGENTS.md](AGENTS.md) e o [CLAUDE.md](CLAUDE.md), que mantém o contexto comum, a hierarquia das fontes e os princípios audiovisuais. Este documento complementa essa base; não cria uma versão paralela das regras de produção.
 
 Ao iniciar uma sessão no AntiGravity, solicite a leitura desses arquivos e deste documento. Não presuma carregamento automático apenas pelo nome `ANTIGRAVITY.md`.
@@ -27,7 +42,7 @@ O [guia de construção](storyboards/guia-de-construcao.md) e o [caderno de brie
 - Preserve os IDs `MM-XX-QNN`, a identidade dos personagens, o cenário, a direção da luz e as costuras entre produtores. Não renumere os quadros para alterar a montagem.
 - Diferencie a prancha anotada da imagem-base individual limpa, sem títulos, timecodes ou colagem. Descreva animação e efeitos separadamente do instante da imagem.
 - Informe os documentos/IDs consultados e registre o prompt efetivamente enviado, referências reais, localização disponível, versão, tamanho e feedback no quadro. Não declare arquivos inexistentes, aprovações não confirmadas ou geração bem-sucedida após uma falha.
-- Tempos e formas de onda das pranchas não comprovam sincronização. Playbacks dependem do master definitivo; MM-10 acompanha uma fala variável; MM-16D depende da divisão do filme final por Lucas. 3840×2160 é a referência das imagens-base, não a especificação final dos vídeos.
+- Tempos e formas de onda das pranchas não comprovam sincronização. Playbacks dependem do master definitivo; MM-10 acompanha uma fala variável; a seleção da prancha MM-16D cabe exclusivamente a Victor. 3840×2160 é a referência das imagens-base, não a especificação final dos vídeos.
 
 ## Execução, registro e entrega
 
@@ -68,3 +83,4 @@ Para a MM-02 e os próximos vídeos produzidos com Victor, consultar o [procedim
 **Atualização D-36:** consultar o guia v02 e o anexo atualizado preservado em docs/fontes. Registrar motor (HTML/JS + Playwright + FFmpeg e/ou Remotion), FPS de origem/saída e configuração no storyboard. Após revisão no escopo, gerar, abrir, inspecionar e corrigir frames por cena antes do render completo; incluir estados críticos e pequenos previews quando necessário. Efeitos sonoros procedurais são recurso conforme direção. Preservar taxas racionais, sincronismo pela locução real e regras do telão/P-01; snippets e instalação de ferramentas não são validados pela mera presença no anexo.
 
 **Método vigente D-37:** [guia v03](guias/edicao-de-video-com-agentes.md) e [revisão do pacote](guias/revisao-ai-filmmaker-2026-10-20.md). Produzir/apresentar uma cena por vez, com prévia em movimento e áudio, número/versão e pendências; só avançar após aprovação explícita da versão sem pendências. Duplo QA: auditor DOM e dois frames (entrada/repouso) com prancha e inspeção visual; corrigir e reinspecionar. Aprovação técnica não substitui a de Victor; mudanças perceptíveis em cenas aprovadas exigem nova revisão. Render integral só com todas aprovadas. Motor HTML admite GSAP/cenas declarativas; música usa onsets revisados e narração pode vir de VoiceStudio existente, ElevenLabs escolhido ou arquivo. Não presumir localhost acessível, beats exatos ou zero erros pelo DOM. Fontes e scripts originais preservados, sem execução na incorporação. MM-02: acompanhar [cena atual B01](storyboards/MM-02/producao-por-cena.md).
+

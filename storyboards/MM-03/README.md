@@ -1,5 +1,23 @@
 # MM-03 · Casa da Religiosidade · V03 oficial
 
+**Uso no espetáculo.** [Cena 2](../../guias/cena-a-cena/cena-02.md) reúne a fala de entrada, o que o palco faz e até quando sustentar esta imagem. [Roteiro de montagem do telão](../../guias/cena-a-cena/pdf/HESED-roteiro-de-montagem.pdf), página 3.
+
+**Distribuição vigente · 19/11/2026.** Victor fecha as Cenas 1, 2 e 9. Isaac fecha as Cenas 3, 4 e 5. Eduardo (Dudu) fecha as Cenas 6, 7 e 8. Cada pessoa prepara e entrega suas cenas diretamente à operação. A MM-16 é integralmente de Victor. As músicas em ajuste por Isaac seguem a partir das versões existentes. [Guia de execução por pessoa](../../guias/cena-a-cena/quem-faz-as-musicas.md)
+
+**Para executar agora.** Victor indica a cozinha noturna V03-01, iluminada à direita da plateia ([cozinha-noturna-v03-01/MM03-Q01.png](cozinha-noturna-v03-01/MM03-Q01.png)). [Falas e deixas da Cena 2](../../guias/cena-a-cena/cena-02.md).
+
+## Recorte vigente · Cozinha noturna à direita com preto à esquerda (V03-01)
+
+- **Arquivo vigente:** [cozinha-noturna-v03-01/MM03-Q01.png](cozinha-noturna-v03-01/MM03-Q01.png) (SHA-256 `5e0410305c47383834fcedd747d3a4598452a313b0782fca94ba55ea9e0e733f`).
+- **Uso:** abertura da casa na Cena 2 (Victor), passagem para a Cena 3 (Isaac) e retorno à cozinha ao final de *Santo pra Sempre* na Cena 7 / abertura da Cena 8 (Eduardo). Todas as entradas da casa usam a versão noturna com luzes internas acesas (`V03-01`).
+
+## Atualização de produção conciliada · 16/11/2026
+
+Consultar [estado local verificado de Victor](../../docs/producao-victor/README.md) e [plano atual das nove cenas](../../docs/plano-ajustes-2026-11-16.md) antes dos registros de origem abaixo. Cozinha à direita vista pela plateia e preto à esquerda confirmados por Victor; preparar estado derivado e cues sem regerar a casa V03 aprovada.
+
+Os registros anteriores abaixo preservam a origem, sem prevalecer sobre as orientações posteriores expressas.
+
+
 A única composição oficial é a imagem reenviada pelo usuário e registrada em D-13: relógio à esquerda, bandejinha/chaves sobre renda delicada pendendo pela frente ao centro, menorá à direita. Sem foto ou Bíblia. Pia à esquerda sob o armário aéreo e cooktop à direita.
 
 ## Imagens atuais
@@ -36,3 +54,4 @@ Na fala, o usuário repetiu “02” no último estado; foi adotada e comunicada
 - Uma imagem-base com movimento ambiental discreto pode bastar; os detalhes desta prancha são leituras do mesmo espaço, não novos ambientes ou ações para preencher uma grade. Não fixar duração de fala.
 - Mantêm-se entrada após transição da Cena 2, passagem ao MM-04 em “Não tinha dor” e retorno na Cena 4 antes do MM-08. Sem frame técnico de ligação recebido; manter o mesmo ambiente nos retornos.
 - Antes de nova geração, consultar o guia/caderno e a V03 oficial registrada em D-13. Esta diretriz de escopo preserva a anotação remota; os objetos, enquadramentos e iluminação já definidos pelo usuário estão documentados acima.
+

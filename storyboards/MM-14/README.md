@@ -1,5 +1,21 @@
 # Storyboard · MM-14 · Resumo dos pecados
 
+**Uso no espetáculo.** [Cena 8](../../guias/cena-a-cena/cena-08.md) reúne a fala de entrada, o que o palco faz e até quando sustentar esta imagem. [Roteiro de montagem do telão](../../guias/cena-a-cena/pdf/HESED-roteiro-de-montagem.pdf), página 9.
+
+**Distribuição vigente · 19/11/2026.** Victor fecha as Cenas 1, 2 e 9. Isaac fecha as Cenas 3, 4 e 5. Eduardo (Dudu) fecha as Cenas 6, 7 e 8. Cada pessoa prepara e entrega suas cenas diretamente à operação. A MM-16 é integralmente de Victor. As músicas em ajuste por Isaac seguem a partir das versões existentes. [Guia de execução por pessoa](../../guias/cena-a-cena/quem-faz-as-musicas.md)
+
+**Para executar agora.** Eduardo sustenta uma única panorâmica vazia da casa, à noite e com as luzes acesas ([MM14-Q11 V03-01](casa-sem-personagens-noturna-v03-01/MM14-Q11.png)), enquanto as atrizes representam as seis ações no palco. Depois vêm o bebê e os atos de Jesus. [Falas e deixas da Cena 8](../../guias/cena-a-cena/cena-08.md).
+
+## Panorâmica vigente · Casa noturna sem personagens (V03-01)
+
+- **Arquivo vigente:** [casa-sem-personagens-noturna-v03-01/MM14-Q11.png](casa-sem-personagens-noturna-v03-01/MM14-Q11.png) (PNG 910×357, SHA-256 `5540698e4b12243bfa44ecd8b015cb81736ea0e3916b5c74b79660351ca34f14`).
+- **Direção (17/11/2026):** todas as cenas na casa são noturnas com luzes internas acesas (`V03-01`) e sem personagens projetados durante os pecados; as seis ações acontecem no palco.
+- **Acervo antigo preservado:** os seis quadros `MM14-Q05.png` a `MM14-Q10.png` e a prancha `STB MM14.png` abaixo ficam fora da seleção vigente.
+
+## Acervo anterior à decisão da panorâmica
+
+Os estudos abaixo registram o desenvolvimento e suas aprovações de outubro. A instrução de projeção em vigor está acima.
+
 **v04 · seis quadros · 24/10/2026 · proposta para revisão (D-48/D-49/D-50).** Todas as personagens agora aparecem desfocadas de corpo inteiro nos seis quadros, aproximadamente como a Religiosidade ao fundo do quadro 4/v03. A ação acontece no palco; o telão reforça o distanciamento. Casa, objetos e textos conservam nitidez. A imagem coletiva na prisão serve somente à roupa, corpo e altura: a montagem ocorre na casa V03, com mãos e pés livres, sem algemas ou correntes.
 
 ![MM-14 v04 — personagens desfocadas](<STB MM14.png>)
@@ -8,12 +24,12 @@
 
 | Campo | Definição |
 | --- | --- |
-| Responsável | Melissa |
+| Responsável | Eduardo |
 | Cena / função | 8 · Bloco IV · montagem curta simbólica dos pecados |
 | Controle | Fala variável; sem música própria, segundos ou forma de onda |
 | Entrada proposta | “Cada uma de nós estava vivendo a sua vida da forma que queria”; ênfase em “nos atolamos em nossos pecados e nos aprisionamos” |
-| Recebe de | Frame/fornecedor de entrada não recebido; casa MM-03/V03 é referência ambiental. Retornos/cues seguem P-15 |
-| Entrega para | MM-15/Lucas: contraste aprisionamento → restauração, ritmo e tratamento de cor |
+| Recebe de | Ver primeiro e último quadro no guia vigente da cena. |
+| Entrega para | Ver primeiro e último quadro no guia vigente da cena. |
 | Saída | “Ele curou, ensinou e perdoou as pessoas” |
 | Situação | Direção da prancha v04 aprovada (D-51); seis bases individuais para revisão; alpha e teste LED pendentes |
 
@@ -54,7 +70,7 @@ Não prolongar a fala para acomodar seis quadros. A duração e os cortes serão
 - **Elementos:** casa V03, duas portas à esquerda, aparador central e copa à direita; relógio/bandejinha sobre renda/menorá preservados. Sem mesa ou sofá novos no LED. Salmo 91 e menorá são continuidade doméstica, sem associação à culpa.
 - **Personagens desfocadas:** retrato 1 = Ladra ruiva; retrato 2 = Religiosidade de cabelos longos escuros; retrato 3 = Autossuficiência loira. Referências de identidade preservadas sob desfoque de rosto/cabelo/corpo/mãos/roupas/pés; roupas escuras, biotipo e altura conforme imagem coletiva. O reconhecimento facial detalhado deixa de ser prioridade nesta revisão. Sem cenário prisional ou contenção. A conversa atual permanece no palco; os quadros representam a condição anterior recapitulada, sem filmagem de elenco realizada.
 - **Movimento/efeitos:** aproximações leves, cortes simples e máscaras de sombra; animação e loop final ainda não executados ou testados.
-- **Costura:** alinhar com Lucas o último estado, cor e velocidade antes da produção de MM-15; primeiro frame de MM-15 não fornecido.
+- **Costura:** alinhar com Victor o último estado, cor e velocidade antes da produção de MM-15; primeiro frame de MM-15 não fornecido.
 
 ## Registro e revisão
 
@@ -62,7 +78,7 @@ Editada por `image_gen.imagegen` usando a prancha v03 local como referência ún
 
 Inspeção pelo Codex: pessoas inteiras desfocadas nos seis quadros, inclusive figuras parciais, mãos e botas; casa, objetos e textos com foco preservado. Poses, distanciamento, roupas escuras, seis IDs e gradação de luz mantidos, sem algemas/correntes. Pequenas variações gerativas de fundo/texto não equivalem a preservação pixel a pixel. Intensidade artística do desfoque segue para revisão; leitura em escala real depende de ensaio. Não houve animação ou teste de telão.
 
-Bases individuais produzidas conforme D-51 acima; sem alpha, envio ao Drive ou teste LED. P-01/P-13/P-15 continuam abertas. Avisar Melissa e Lucas sobre a nova proposta para alinhar a passagem; nenhuma mensagem enviada pelo assistente.
+Bases individuais produzidas conforme D-51 acima; sem alpha, envio ao Drive ou teste LED. P-01/P-13/P-15 continuam abertas. Avisar Victor sobre a nova proposta para alinhar a passagem; nenhuma mensagem enviada pelo assistente.
 
 ## Histórico
 

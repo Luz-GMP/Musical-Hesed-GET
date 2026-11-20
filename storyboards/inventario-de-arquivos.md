@@ -1,5 +1,7 @@
 # Inventário de storyboards e quadros
 
+Para montar e ensaiar, siga o [Roteiro de montagem do telão](../guias/cena-a-cena/pdf/HESED-roteiro-de-montagem.pdf). Leia cada deixa na ordem do palco: fala ou ação, entrada da música, imagem a sustentar e sinal de saída.
+
 Conferência atualizada em 24/10/2026 após integrar MM-12 (D-44–D-47) e MM-14 (D-48–D-51), preservando D-40/D-41. Abrange **73 imagens: 21 pranchas completas (incluindo históricos de MM-12/MM-14), 51 quadros individuais e 1 prancha de conferência**. MM-12 mantém suas bases e versões publicadas; MM-14 mantém a prancha v04 aprovada, históricos e seis bases com desfoque/translucidez para revisão.
 
 As duas pranchas da MM-04, em JPG e PNG, foram mantidas. As quatro pranchas da MM-03 são a composição oficial e suas três variações de luz. O nome novo não muda versão artística ou aprovação; consulte as fichas de cada peça. O inventário descreve o acervo local; a publicação remota depende do push.

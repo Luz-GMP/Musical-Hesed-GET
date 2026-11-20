@@ -1,0 +1,634 @@
+{
+  "date": "2026-11-16",
+  "remoteBase": "83c9448b7ec8767c50385650bb553d70853d7169",
+  "purpose": "Conciliacao documental; nao e backup dos arquivos pesados no GitHub.",
+  "inventory": {
+    "files": 6745,
+    "bytes": 24272401069,
+    "totals": {
+      "acompanhamento": {
+        "files": 755,
+        "bytes": 552746406
+      },
+      "Adobe Premiere Pro Auto-Save": {
+        "files": 2,
+        "bytes": 113625
+      },
+      "AGENTS.md": {
+        "files": 1,
+        "bytes": 3143
+      },
+      "Cia Luz - Marvel Style.png": {
+        "files": 1,
+        "bytes": 1442986
+      },
+      "Cia Luz.png": {
+        "files": 1,
+        "bytes": 1707473
+      },
+      "entradas": {
+        "files": 114,
+        "bytes": 280926564
+      },
+      "entregas": {
+        "files": 110,
+        "bytes": 1237379929
+      },
+      "Imagem do ChatGPT 31 de out. de 2026, 13_10_56.png": {
+        "files": 1,
+        "bytes": 2425985
+      },
+      "MMs Victor": {
+        "files": 187,
+        "bytes": 8109558956
+      },
+      "projetos": {
+        "files": 5427,
+        "bytes": 13931026685
+      },
+      "referencias": {
+        "files": 144,
+        "bytes": 155058892
+      },
+      "Sem título.prproj": {
+        "files": 1,
+        "bytes": 5222
+      },
+      "Take 1.prproj": {
+        "files": 1,
+        "bytes": 5203
+      }
+    },
+    "excluded": [
+      ".cache",
+      "acompanhamento/conciliacao-2026-11-16",
+      "acompanhamento/MM02-highlights/B02-v03/__pycache__",
+      "entradas/MM02/B01B-v06-5abeb63/node_modules",
+      "entradas/MM02/B01B-v06-5abeb63/__pycache__",
+      "projetos/Remotion/MM01-abertura-desvanecimento-v02/node_modules",
+      "projetos/Remotion/MM01-abertura-desvanecimento-v03/node_modules",
+      "projetos/Remotion/MM01-abertura-desvanecimento-v04/node_modules",
+      "projetos/Remotion/MM01-abertura-teletransporte-v01/.cache",
+      "projetos/Remotion/MM02-B01B-v07/__pycache__",
+      "projetos/Remotion/MM02-B02-v01/node_modules",
+      "projetos/Remotion/MM02-B02-v02/node_modules",
+      "projetos/Remotion/MM02-B02-v03/node_modules",
+      "projetos/Remotion/MM02-B02-v03/__pycache__",
+      "projetos/Remotion/MM02-B02-v05/node_modules",
+      "projetos/Remotion/MM02-B02-v06/node_modules",
+      "projetos/Remotion/MM02-B02-v07/node_modules",
+      "projetos/Remotion/MM02-B02-v07-1080p/node_modules",
+      "projetos/Remotion/MM02-B02-v07-1080p/__pycache__",
+      "projetos/Remotion/MM02-B03-v02/__pycache__",
+      "projetos/Remotion/MM02-B03-v03/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/anyio/abc/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/anyio/streams/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/anyio/_backends/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/anyio/_core/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/anyio/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/av/audio/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/av/codec/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/av/container/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/av/filter/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/av/sidedata/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/av/subtitles/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/av/video/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/av/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/av-19.0.2.dist-info/licenses/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/click/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/colorama/tests/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/colorama/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/ctranslate2/converters/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/ctranslate2/models/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/ctranslate2/specs/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/ctranslate2/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/faster_whisper/assets/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/faster_whisper/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/filelock/_soft_rw/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/filelock/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/flatbuffers/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/fsspec/implementations/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/fsspec/tests/abstract/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/fsspec/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/google/protobuf/compiler/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/google/protobuf/internal/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/google/protobuf/pyext/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/google/protobuf/testdata/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/google/protobuf/util/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/google/protobuf/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/h11/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/hf_xet/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/httpcore2/_async/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/httpcore2/_backends/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/httpcore2/_sync/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/httpcore2/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/httpx2/websockets/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/httpx2/_transports/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/httpx2/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/huggingface_hub/cli/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/huggingface_hub/inference/_generated/types/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/huggingface_hub/inference/_generated/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/huggingface_hub/inference/_mcp/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/huggingface_hub/inference/_providers/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/huggingface_hub/inference/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/huggingface_hub/serialization/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/huggingface_hub/utils/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/huggingface_hub/_hot_reload/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/huggingface_hub/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/idna/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/numpy/char/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/numpy/core/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/numpy/ctypeslib/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/numpy/doc/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/numpy/f2py/tests/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/numpy/f2py/_backends/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/numpy/f2py/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/numpy/fft/tests/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/numpy/fft/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/numpy/lib/tests/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/numpy/lib/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/numpy/linalg/tests/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/numpy/linalg/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/numpy/ma/tests/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/numpy/ma/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/numpy/matrixlib/tests/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/numpy/matrixlib/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/numpy/polynomial/tests/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/numpy/polynomial/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/numpy/random/tests/data/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/numpy/random/tests/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/numpy/random/_examples/cffi/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/numpy/random/_examples/numba/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/numpy/random/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/numpy/rec/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/numpy/strings/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/numpy/testing/tests/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/numpy/testing/_private/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/numpy/testing/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/numpy/tests/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/numpy/typing/tests/data/pass/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/numpy/typing/tests/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/numpy/typing/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/numpy/_core/tests/examples/cython/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/numpy/_core/tests/examples/limited_api/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/numpy/_core/tests/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/numpy/_core/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/numpy/_pyinstaller/tests/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/numpy/_pyinstaller/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/numpy/_typing/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/numpy/_utils/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/numpy/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/onnxruntime/backend/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/onnxruntime/capi/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/onnxruntime/datasets/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/onnxruntime/quantization/CalTableFlatBuffers/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/onnxruntime/quantization/execution_providers/qnn/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/onnxruntime/quantization/fusions/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/onnxruntime/quantization/neural_compressor/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/onnxruntime/quantization/operators/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/onnxruntime/quantization/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/onnxruntime/tools/mobile_helpers/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/onnxruntime/tools/ort_format_model/ort_flatbuffers_py/fbs/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/onnxruntime/tools/ort_format_model/ort_flatbuffers_py/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/onnxruntime/tools/ort_format_model/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/onnxruntime/tools/qdq_helpers/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/onnxruntime/tools/qnn/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/onnxruntime/tools/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/onnxruntime/transformers/models/bart/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/onnxruntime/transformers/models/bert/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/onnxruntime/transformers/models/gpt2/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/onnxruntime/transformers/models/llama/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/onnxruntime/transformers/models/longformer/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/onnxruntime/transformers/models/phi2/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/onnxruntime/transformers/models/sam2/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/onnxruntime/transformers/models/stable_diffusion/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/onnxruntime/transformers/models/t5/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/onnxruntime/transformers/models/whisper/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/onnxruntime/transformers/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/onnxruntime/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/packaging/licenses/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/packaging/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/tokenizers/decoders/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/tokenizers/implementations/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/tokenizers/models/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/tokenizers/normalizers/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/tokenizers/pre_tokenizers/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/tokenizers/processors/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/tokenizers/tools/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/tokenizers/trainers/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/tokenizers/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/tqdm/contrib/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/tqdm/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/truststore/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/yaml/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/_yaml/__pycache__",
+      "projetos/Remotion/modelos-asr/python-deps/__pycache__"
+    ]
+  },
+  "projectVersions": [
+    "projetos/EffectCraft",
+    "projetos/FilmCraft",
+    "projetos/MM01-corredor-costas-v01",
+    "projetos/MM01-corredor-rostos-v01",
+    "projetos/Remotion/MM01-abertura-desvanecimento-v02",
+    "projetos/Remotion/MM01-abertura-desvanecimento-v03",
+    "projetos/Remotion/MM01-abertura-desvanecimento-v04",
+    "projetos/Remotion/MM01-abertura-teletransporte-v01",
+    "projetos/Remotion/MM02-B01B-v07",
+    "projetos/Remotion/MM02-B02-audio-v04",
+    "projetos/Remotion/MM02-B02-v01",
+    "projetos/Remotion/MM02-B02-v02",
+    "projetos/Remotion/MM02-B02-v03",
+    "projetos/Remotion/MM02-B02-v05",
+    "projetos/Remotion/MM02-B02-v06",
+    "projetos/Remotion/MM02-B02-v07",
+    "projetos/Remotion/MM02-B02-v07-1080p",
+    "projetos/Remotion/MM02-B03-freeze-Idolatria-v01",
+    "projetos/Remotion/MM02-B03-legenda-CASADO-v01",
+    "projetos/Remotion/MM02-B03-v01",
+    "projetos/Remotion/MM02-B03-v02",
+    "projetos/Remotion/MM02-B03-v03",
+    "projetos/Remotion/MM02-B04-v01",
+    "projetos/Remotion/MM02-B04-v02",
+    "projetos/Remotion/MM02-B05-v01",
+    "projetos/Remotion/MM02-B05-v02",
+    "projetos/Remotion/MM02-B05-v03",
+    "projetos/Remotion/MM02-B06-v01",
+    "projetos/Remotion/MM02-B06-v02",
+    "projetos/Remotion/MM02-B06-v03",
+    "projetos/Remotion/modelos-asr",
+    "projetos/banner-graca-horizontal-provisorio-v01",
+    "projetos/banner-graca-horizontal-provisorio-v02",
+    "projetos/banner-graca-v01",
+    "projetos/banner-graca-v05",
+    "projetos/banner-graca-v07",
+    "projetos/banner-graca-v08",
+    "projetos/banner-graca-v09",
+    "projetos/banner-graca-v10"
+  ],
+  "verifiedDeliverables": [
+    {
+      "id": "MM01-frontal",
+      "path": "entregas/MM01/corredor-canonico-v13/MM01-corredor-frontal-canonico-v13.png",
+      "status": "aprovado_visual",
+      "bytes": 2075855,
+      "sha256": "dab152c61872be374bea664fa3ec26244fd2a277f6aa00f71b38d620cda983ac",
+      "expectedHashMatched": true
+    },
+    {
+      "id": "MM01-costas",
+      "path": "entregas/MM01/corredor-costas-v01/MM01-corredor-costas-canonico-v01.png",
+      "status": "aprovado_visual",
+      "bytes": 2179765,
+      "sha256": "873d57015bbaf296928fa6c277adcb186e68a8aaa597befb34a9e837ea2cde51",
+      "expectedHashMatched": true
+    },
+    {
+      "id": "MM01-editavel",
+      "path": "entregas/MM01/corredor-canonico-v13/MM01-corredor-frontal-canonico-v13.ora",
+      "status": "editavel_da_imagem_aprovada",
+      "bytes": 5823209,
+      "sha256": "2407956a6fe057e758d5d0f98af7415a581d7c940ca68eb63cf3abbb8b1f8771",
+      "expectedHashMatched": true
+    },
+    {
+      "id": "MM01-abertura-v04",
+      "path": "entregas/MM01/abertura-desvanecimento-v04/MM01-abertura-desvanecimento-v04-previa-1080p24.mp4",
+      "status": "previa_revisao_pendente",
+      "bytes": 17658980,
+      "sha256": "152a6a36abc4bf0a0f79a58660cea73e9a2078c72b2971e94944c979be021a0e",
+      "expectedHashMatched": true,
+      "fps": 24,
+      "frames": 312,
+      "seconds": 13
+    },
+    {
+      "id": "MM02-B01B-v07",
+      "path": "entregas/MM02/B01B/v07/MM02-B01B-v07-previa-1080p30.mp4",
+      "status": "previa_revisao_pendente",
+      "bytes": 34413832,
+      "sha256": "918174c934ba112c353a5ee1ab78c999e0c833a87559b35d04b09a9ea9a18f1f",
+      "expectedHashMatched": true,
+      "fps": 30,
+      "frames": 540,
+      "seconds": 18
+    },
+    {
+      "id": "MM02-B02",
+      "path": "MMs Victor/MM02 - Hesed/MM02 -Aprovados/MM02-B02-Mentira-e-Ladra-v07-aprovado-1080p.mp4",
+      "status": "aprovado_bloco",
+      "bytes": 82425134,
+      "sha256": "d7c75a1bd0f5b447d7e09958b25757172e99dfaf74b483596b77ab2f82e1ce9e",
+      "expectedHashMatched": true,
+      "fps": 60,
+      "frames": 2711,
+      "seconds": 45.183333,
+      "dimensions": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "id": "MM02-B03",
+      "path": "MMs Victor/MM02 - Hesed/MM02 -Aprovados/MM02-B03-Adulterio-e-Idolatria-v03-aprovado-1080p.mp4",
+      "status": "aprovado_bloco",
+      "bytes": 75342210,
+      "sha256": "317d44289197738eda3c194f864e6461788e63d6d5c5b6420bb3ac497cef327e",
+      "expectedHashMatched": true,
+      "fps": 60,
+      "frames": 2661,
+      "seconds": 44.35,
+      "dimensions": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "id": "MM02-B04",
+      "path": "MMs Victor/MM02 - Hesed/MM02 -Aprovados/MM02-B04-Odio-e-Desobediencia-v02-aprovado-1080p.mp4",
+      "status": "aprovado_bloco",
+      "bytes": 48812072,
+      "sha256": "b111073f7bd2844d22bb0a0822a2a11f1d9309655f8ee971feca6bccf8bd8158",
+      "expectedHashMatched": true,
+      "fps": 60,
+      "frames": null,
+      "seconds": null,
+      "dimensions": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "id": "MM02-B05",
+      "path": "MMs Victor/MM02 - Hesed/MM02 -Aprovados/MM02-B05-Inveja-e-Autosuficiencia-v02-aprovado-1080p.mp4",
+      "status": "aprovado_bloco",
+      "bytes": 67375282,
+      "sha256": "c916276a23e4c3d4171babe7ba3299a9daa04e8820e34b20c94f94ec2f953d86",
+      "expectedHashMatched": true,
+      "fps": 60,
+      "frames": 2376,
+      "seconds": 39.6,
+      "dimensions": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "id": "MM02-B06",
+      "path": "MMs Victor/MM02 - Hesed/MM02 -Aprovados/MM02-B06-Profanaçao-e-Religiosidade-v03-aprovado-1080p.mp4",
+      "status": "aprovado_bloco",
+      "bytes": 45886423,
+      "sha256": "faa77204d7ab6fff064d53b6ed22f9534c9105358d60eed7542483362cf9db84",
+      "expectedHashMatched": true,
+      "fps": 60,
+      "frames": 2111,
+      "seconds": 35.183333,
+      "dimensions": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "id": "MM02-B03-legenda-CASADO",
+      "path": "MMs Victor/MM02 - Hesed/MM02 -Aprovados/MM02-B03-ele-e-CASADO-alpha-v01.mov",
+      "status": "sobreposicao_revisao_pendente",
+      "bytes": 78871149,
+      "sha256": "6d6ebf5d809d26835ad5c8166e35df988ebe5bc251c5b0b78b35a8231d45768a",
+      "expectedHashMatched": null
+    },
+    {
+      "id": "MM02-B03-freeze-D",
+      "path": "MMs Victor/MM02 - Hesed/MM02 -Aprovados/MM02-B03-Idolatria-freeze-D-v01-1080p.mp4",
+      "status": "derivado_revisao_pendente",
+      "bytes": 1179083,
+      "sha256": "ec4177ad2b259c989f754d61143d792feaf5a0f0f050e7dde2e939c789430cfc",
+      "expectedHashMatched": null
+    },
+    {
+      "id": "GRACA-v10",
+      "path": "entregas/banner-graca/v10/graca-banner-v10.png",
+      "status": "revisao_artistica_pendente",
+      "bytes": 9608685,
+      "sha256": "5e0b4c827a3cb3e95de66b7e26148d485b5e10908b6f25a5fb892c62900bf049",
+      "expectedHashMatched": true
+    },
+    {
+      "id": "GRACA-v10",
+      "path": "entregas/banner-graca/v10/graca-banner-v10-compartilhamento-1080x1440.jpg",
+      "status": "revisao_artistica_pendente",
+      "bytes": 835644,
+      "sha256": "8fcadd24bc0d90670c41081cb8f4defd693c5e232cc30f04a5bae75dedf6f187",
+      "expectedHashMatched": true
+    },
+    {
+      "id": "GRACA-v10",
+      "path": "projetos/banner-graca-v10/GRACA-banner-v10.pcraft",
+      "status": "revisao_artistica_pendente",
+      "bytes": 84794021,
+      "sha256": "397e4bbd30dae6ef3e326c850c109e4bc6879cb7e5398323afe76916c0439bee",
+      "expectedHashMatched": true
+    },
+    {
+      "id": "GRACA-horizontal-provisorio-v02",
+      "path": "entregas/banner-graca/horizontal-provisorio-v02/graca-divulgacao-provisoria-16x9-v02.png",
+      "status": "divulgacao_provisoria_revisao_pendente",
+      "bytes": 3290965,
+      "sha256": "e5d4c5b867624e710afc0ace82d284802eaf0fedd3ef44b1e35f943240ab7bc7",
+      "expectedHashMatched": true
+    },
+    {
+      "id": "GRACA-horizontal-provisorio-v02",
+      "path": "entregas/banner-graca/horizontal-provisorio-v02/graca-divulgacao-provisoria-16x9-v02.jpg",
+      "status": "divulgacao_provisoria_revisao_pendente",
+      "bytes": 1112741,
+      "sha256": "5a8b3b6fae65e2c958b465385e9ab477ac2a315d183288367dd89cde955d2571",
+      "expectedHashMatched": true
+    },
+    {
+      "id": "GRACA-horizontal-provisorio-v02",
+      "path": "projetos/banner-graca-horizontal-provisorio-v02/GRACA-banner-horizontal-provisorio-v02.pcraft",
+      "status": "divulgacao_provisoria_revisao_pendente",
+      "bytes": 49913068,
+      "sha256": "e8d43dfdf6eee09b0a3f9e50b61f9bf42b9e782cbb9c574ba7458b586d469f5e",
+      "expectedHashMatched": true
+    },
+    {
+      "id": "MM01-retrato-recuperado",
+      "path": "entregas/MM01/retratos-individuais-recuperados-v01/01-Idolatria.png",
+      "status": "copia_de_fonte_preservada",
+      "bytes": 1715258,
+      "sha256": "ed6ec2e6e29b87ee67c63de6a8423822bcfca9de5283005d36627a5443ece7ad",
+      "expectedHashMatched": null
+    },
+    {
+      "id": "MM01-retrato-recuperado",
+      "path": "entregas/MM01/retratos-individuais-recuperados-v01/02-Ladra.png",
+      "status": "copia_de_fonte_preservada",
+      "bytes": 1519072,
+      "sha256": "c049561da738fafc23c759e7689a96dafdccba25558d8e03c085f0120ea9b5ce",
+      "expectedHashMatched": null
+    },
+    {
+      "id": "MM01-retrato-recuperado",
+      "path": "entregas/MM01/retratos-individuais-recuperados-v01/03-Profanação.png",
+      "status": "copia_de_fonte_preservada",
+      "bytes": 1555199,
+      "sha256": "e6deced9265180bf20d494f8fc72d56af817b1d99006e6fa7d473ec0f35a9767",
+      "expectedHashMatched": null
+    },
+    {
+      "id": "MM01-retrato-recuperado",
+      "path": "entregas/MM01/retratos-individuais-recuperados-v01/04-Mentira.png",
+      "status": "copia_de_fonte_preservada",
+      "bytes": 1673088,
+      "sha256": "60e81e899c9635a3f6c40a164cdb11328a77318a34d4445c60b4c5bea8878ea7",
+      "expectedHashMatched": null
+    },
+    {
+      "id": "MM01-retrato-recuperado",
+      "path": "entregas/MM01/retratos-individuais-recuperados-v01/05-Ódio.png",
+      "status": "copia_de_fonte_preservada",
+      "bytes": 1812248,
+      "sha256": "31deb176730d4c575202999743b9c7d07efe0314da55da15da27a006bd9365c6",
+      "expectedHashMatched": null
+    },
+    {
+      "id": "MM01-retrato-recuperado",
+      "path": "entregas/MM01/retratos-individuais-recuperados-v01/06-Religiosidade.png",
+      "status": "copia_de_fonte_preservada",
+      "bytes": 1609901,
+      "sha256": "02a36cbd63027f3501685f5c973151786da603a9b59d8153abbdaf03358e8c09",
+      "expectedHashMatched": null
+    },
+    {
+      "id": "MM01-retrato-recuperado",
+      "path": "entregas/MM01/retratos-individuais-recuperados-v01/07-Inveja.png",
+      "status": "copia_de_fonte_preservada",
+      "bytes": 1721244,
+      "sha256": "409a557f58b6cebbc67b2e20f612cab22645224e72bb6adf54936b7d67277c64",
+      "expectedHashMatched": null
+    },
+    {
+      "id": "MM01-retrato-recuperado",
+      "path": "entregas/MM01/retratos-individuais-recuperados-v01/08-Autossuficiência.png",
+      "status": "copia_de_fonte_preservada",
+      "bytes": 1796276,
+      "sha256": "d2af0728e9a9f720f172fe98f95af2e9a549c2a98520b189ce00374970a0a5fd",
+      "expectedHashMatched": null
+    },
+    {
+      "id": "MM01-retrato-recuperado",
+      "path": "entregas/MM01/retratos-individuais-recuperados-v01/09-Adultério.png",
+      "status": "copia_de_fonte_preservada",
+      "bytes": 2041108,
+      "sha256": "11994c633f47c698a596f2ad9ec1f9dccc6f6f6e9fecaef10cfd0160c9f3e3b1",
+      "expectedHashMatched": null
+    },
+    {
+      "id": "MM01-retrato-recuperado",
+      "path": "entregas/MM01/retratos-individuais-recuperados-v01/10-Desobediência.png",
+      "status": "copia_de_fonte_preservada",
+      "bytes": 1526104,
+      "sha256": "6150fa9ef9c510a34c11144601049b0f7fce261e352cc1abad920abd29a79078",
+      "expectedHashMatched": null
+    },
+    {
+      "id": "MM02-narracao",
+      "path": "MMs Victor/MM02 - Hesed/Narração/Fala 1 - Pra vc q ñ está entendendo-esv2-speech-100p.wav",
+      "status": "fonte_recebida_nao_igual_a_montagem_aprovada",
+      "bytes": 1151456,
+      "sha256": "9cca17806f0afd0258d6794e00047897e99ec5d1a187d0ea5061e70118c22b91",
+      "expectedHashMatched": null
+    },
+    {
+      "id": "MM02-narracao",
+      "path": "MMs Victor/MM02 - Hesed/Narração/Fala 10 - Aí Jesus morreu-esv2-speech-100p.wav",
+      "status": "fonte_recebida_nao_igual_a_montagem_aprovada",
+      "bytes": 306656,
+      "sha256": "94fb77e5bcd5ed4f6ca19bfb1a1a53454489ab57d5b2d41db0270cc6d3c1ce3d",
+      "expectedHashMatched": null
+    },
+    {
+      "id": "MM02-narracao",
+      "path": "MMs Victor/MM02 - Hesed/Narração/Fala 11 - Fim da história... não gente! voces acham que eu ia fazer-esv2-speech-100p.wav",
+      "status": "fonte_recebida_nao_igual_a_montagem_aprovada",
+      "bytes": 1449056,
+      "sha256": "72f9d5cd41fcea23d4735330e56b36635815adab1ab30e9b3e2e8d9686a21203",
+      "expectedHashMatched": null
+    },
+    {
+      "id": "MM02-narracao",
+      "path": "MMs Victor/MM02 - Hesed/Narração/Fala 12 - As detentas ficaram sem entender nada-esv2-speech-100p.wav",
+      "status": "fonte_recebida_nao_igual_a_montagem_aprovada",
+      "bytes": 1715936,
+      "sha256": "29565a9550ed484f6476c3e06ffc8c7e7674866c1765e81fa0cfba9790a450d0",
+      "expectedHashMatched": null
+    },
+    {
+      "id": "MM02-narracao",
+      "path": "MMs Victor/MM02 - Hesed/Narração/Fala 2 - Como vcs podem ver-esv2-speech-100p.wav",
+      "status": "fonte_recebida_nao_igual_a_montagem_aprovada",
+      "bytes": 976736,
+      "sha256": "9b824c8ec8b937d7394691b39c28b6397d0436661446500b2005a704e05dac88",
+      "expectedHashMatched": null
+    },
+    {
+      "id": "MM02-narracao",
+      "path": "MMs Victor/MM02 - Hesed/Narração/Fala 3 - Enfim Cada uma cuidando de sua lembrança-esv2-speech-100p.wav",
+      "status": "fonte_recebida_nao_igual_a_montagem_aprovada",
+      "bytes": 2349536,
+      "sha256": "b14b3767b75cfa9c90d1a7d80d16abfaa38c40521d98fd730449fd38ee6031d6",
+      "expectedHashMatched": null
+    },
+    {
+      "id": "MM02-narracao",
+      "path": "MMs Victor/MM02 - Hesed/Narração/Fala 4 - Uma escolhia aqui, a outra ali-esv2-speech-100p.wav",
+      "status": "fonte_recebida_nao_igual_a_montagem_aprovada",
+      "bytes": 1149536,
+      "sha256": "de96067f6eeedec64121824a61db710437c2b446e2862dbe5d48a63266c56d1f",
+      "expectedHashMatched": null
+    },
+    {
+      "id": "MM02-narracao",
+      "path": "MMs Victor/MM02 - Hesed/Narração/Fala 5 - Parabéns! Conseguiu o que ninguém pediu-esv2-speech-100p.wav",
+      "status": "fonte_recebida_nao_igual_a_montagem_aprovada",
+      "bytes": 2268896,
+      "sha256": "a6041c117d6a1d45d54b9daa98ef93243b57d3b1fad9f7a4d0e8502b15c33815",
+      "expectedHashMatched": null
+    },
+    {
+      "id": "MM02-narracao",
+      "path": "MMs Victor/MM02 - Hesed/Narração/Fala 6 - E aí chegou o grande dia... o dia do julgamento-esv2-speech-100p.wav",
+      "status": "fonte_recebida_nao_igual_a_montagem_aprovada",
+      "bytes": 3082976,
+      "sha256": "8cb0010f0787d2ced5da6e02a579440a785f72cb0ce342551e7622738adfc1c5",
+      "expectedHashMatched": null
+    },
+    {
+      "id": "MM02-narracao",
+      "path": "MMs Victor/MM02 - Hesed/Narração/Fala 7 - Depois disso você imagina a situação-esv2-speech-100p.wav",
+      "status": "fonte_recebida_nao_igual_a_montagem_aprovada",
+      "bytes": 951776,
+      "sha256": "44fafc5025aaafe04eef9aa81c063a7ac5236d72c1156d6f661aa44840905fe6",
+      "expectedHashMatched": null
+    },
+    {
+      "id": "MM02-narracao",
+      "path": "MMs Victor/MM02 - Hesed/Narração/Fala 8 - A galera ficou desesperada-esv2-speech-100p.wav",
+      "status": "fonte_recebida_nao_igual_a_montagem_aprovada",
+      "bytes": 750176,
+      "sha256": "afbdd2c76330f04736e29a6e003958c02c221e6006de873ce2d4aa1b8c16dc56",
+      "expectedHashMatched": null
+    },
+    {
+      "id": "MM02-narracao",
+      "path": "MMs Victor/MM02 - Hesed/Narração/Fala 9 - Aí Jesus chegou na área, resolveu assumir-esv2-speech-100p.wav",
+      "status": "fonte_recebida_nao_igual_a_montagem_aprovada",
+      "bytes": 2207456,
+      "sha256": "26fbbb58afdc3fd2c22692fe99e414b3cb77fc4cce417d2daeed822f47c66118",
+      "expectedHashMatched": null
+    }
+  ],
+  "validationScope": "Existencia, tamanho e SHA256 atuais; comparacao com hashes historicos quando disponiveis. Sem novo render, escuta, decodificacao ou teste LED nesta conciliacao.",
+  "binaryBackup": "Arquivos permanecem no workspace local. Destino compartilhado de midia/backup ainda depende de P-13."
+}

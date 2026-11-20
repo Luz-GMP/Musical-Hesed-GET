@@ -1,0 +1,21 @@
+# Instrução para o Antigravity · MM-07 · Nasceu em Belém
+
+**Uso no espetáculo.** [Cena 3](../../guias/cena-a-cena/cena-03.md) reúne a fala de entrada, o que o palco faz e até quando sustentar esta imagem. [Roteiro de montagem do telão](../../guias/cena-a-cena/pdf/HESED-roteiro-de-montagem.pdf), página 4.
+
+**Arquivo histórico.** Victor encerrou essa tentativa em 18/11. Para executar hoje, Isaac segue o [guia da Cena 3](../../guias/cena-a-cena/cena-03.md) e trabalha a passagem do bebê para o céu de estrelas.
+
+Abra a raiz do HESED e envie o texto abaixo ao agente. A primeira entrega solicitada é **um piloto**, com revisão de Victor antes de produzir os demais planos.
+
+---
+
+Carregue a skill `ai-filmmaker` de `.agents/skills/ai-filmmaker/SKILL.md` e aplique suas referências de direção audiovisual, continuidade e aprovação. Trabalhe na MM-07, **Nasceu em Belém**, para o telão do HESED.
+
+Leia `AGENTS.md`, o briefing e o storyboard da MM-07, o guia de construção e o caderno de quadros vigentes. Se disponível no workspace local, leia o registro `acompanhamento/decisoes/2026-11-17-mm07-previas-rejeitadas.md`. Os testes V01/V02 foram rejeitados porque as imagens continuavam estáticas e os efeitos distorciam a arte. Preserve os quadros originais e registre cada novo take em pasta própria, com versão e origem. Encontre os quadros MM07-Q01 a Q10 em `storyboards/MM-07/` no repo ou nas referências conciliadas do workspace. Confirme os arquivos reais antes de trabalhar.
+
+**Primeira entrega: um único take piloto da viagem, MM07-Q03.** Confirme se o Veo, ou o gerador de vídeo indicado por Victor, está disponível por uma conexão autorizada para este projeto. Informe o caminho disponível, o modelo e as condições de uso que afetem a execução. Se faltar acesso ou autorização de envio da imagem ao provedor, apresente o plano e o prompt prontos para execução, com a pendência específica. Use apenas a imagem necessária ao piloto quando a conexão e a autorização estiverem disponíveis. A faixa musical fica na montagem local.
+
+Use a arte Q03 como primeiro quadro. Dentro do enquadramento existente, faça a comitiva avançar alguns passos pelo caminho rumo a Belém, mantendo a direção do deslocamento. Se a imagem mostrar montaria, preserve quem está montado, quem caminha e o movimento natural do animal. Mantenha a câmera quase fixa para que o avanço seja percebido pela mudança de posição e pelos passos. Conserve identidade, proporções, figurino, montaria, horizonte, arquitetura, iluminação e paleta. Permita movimentos secundários discretos, como o tecido acompanhando a caminhada. Sem zoom para simular deslocamento, ondulação da imagem, esticamento, cintilação ou transformação entre artes. Caso use um quadro final, ele deve mostrar a posição de chegada no mesmo plano, com a mesma câmera e geografia. Use um take curto em 16:9 e registre a resolução, duração e cadência reais do arquivo.
+
+Revise o take inteiro em movimento. Compare início, centro e fim com a imagem-fonte. Verifique se a ação é legível e se rosto, mãos, anatomia, roupa, montaria e cenário permanecem coerentes. Se aparecerem deformações evidentes, ajuste uma variável de direção e revise a tentativa. Apresente a Victor apenas a prévia identificada como piloto, com imagem de origem, versão, motor, duração, o que conseguiu verificar e problemas observados. Registre a decisão de revisão. **Aguarde o aceite explícito desse take antes dos demais planos.**
+
+**Após a aprovação do piloto**, planeje os takes da faixa de Marcus Salles fornecida por Victor, **do ponto 00:36 do MP3 até o fim**. O storyboard serve de referência visual. Distribua os planos pelo sentido da letra e pela ação de cada trecho. Para cada take, anote trecho da música, entrada e saída medidas, quadro de origem, ação, movimento de câmera, continuidade e aprovação. Mantenha o relógio da música separado do relógio da edição. Use as imagens existentes como referências e preserve a continuidade entre takes, sem gerar imagens intermediárias independentes indiscriminadamente. Apresente prévias e aplique as aprovações registradas antes da montagem integral. Use o MP3 fornecido como referência de edição e confirme com Victor qual é o master de palco. Na entrega final, aplique o padrão do HESED de 1920×1080 progressivo com o FPS aprovado para esta peça e registre as verificações do arquivo real.

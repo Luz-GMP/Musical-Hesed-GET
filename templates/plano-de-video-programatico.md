@@ -1,5 +1,7 @@
 # Plano de produção por código · [MM / título]
 
+Para montar e ensaiar, siga o [Roteiro de montagem do telão](../guias/cena-a-cena/pdf/HESED-roteiro-de-montagem.pdf). Leia cada deixa na ordem do palco: fala ou ação, entrada da música, imagem a sustentar e sinal de saída.
+
 **Responsável/direção:** [nome] · **Versão/data:** [preencher]<br>
 **Situação:** [rascunho / em revisão / aprovado — pessoa e data]<br>
 **Procedimento:** [edição com agentes](../guias/edicao-de-video-com-agentes.md).
@@ -26,6 +28,11 @@ Para referências: distinguir observação visual de descrição do usuário/met
 | Bloco / ID de quadro quando existir | Tempo e fonte da medição | Voz / diálogo / SFX | Visual / texto selecionado | Movimento / transição / congelamento | Assets | Situação da direção |
 | --- | --- | --- | --- | --- | --- | --- |
 | A preencher | A definir sem áudio/material medido | | | | | |
+
+## Marcadores da montagem
+
+- Registre início, saída e eventos de sincronismo na configuração editável. Os mesmos frames ou tempos da montagem alimentam a tabela.
+- Na [ficha da peça](ficha-de-peca.md), indique versão do MP4, FPS, master, deixa do GO, imagem de espera, ações no telão e na luz e sinal de saída. Confira as marcas no MP4 final e recalcule após mudanças de edição. [Guia de timecodes](../guias/timecodes-e-operacao.md)
 
 ## Direção e implementação
 

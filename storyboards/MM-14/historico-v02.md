@@ -1,3 +1,5 @@
+**Responsabilidade vigente em 18/11/2026.** Por determinação de Victor, MM-04, MM-09, MM-14 e MM-16A passam integralmente para Victor, incluindo produção e passagens com os demais responsáveis. Menções a Melissa em fontes e registros anteriores indicam a distribuição de origem. A responsabilidade atual dessas peças é de Victor.
+
 # Storyboard · MM-14 · Resumo dos pecados
 
 **v02 · seis quadros · 24/10/2026 · proposta para revisão (D-48).** Refeito do zero após releitura do briefing, roteiro e Bíblia de Produção, com a casa V03 como referência visual. A v01 permanece recusada e não foi usada como referência artística.

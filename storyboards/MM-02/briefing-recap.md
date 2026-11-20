@@ -1,5 +1,7 @@
 # MM-02 · Briefing específico — Flashback de Goel (recap)
 
+**Uso no espetáculo.** [Cena 1](../../guias/cena-a-cena/cena-01.md) reúne a fala de entrada, o que o palco faz e até quando sustentar esta imagem. [Roteiro de montagem do telão](../../guias/cena-a-cena/pdf/HESED-roteiro-de-montagem.pdf), página 2.
+
 **Projeto:** HESED · Musical de Natal 2026  
 **Responsável:** Victor · **Cena:** 1, Pós-libertação · **Bloco:** I  
 **Versão documental:** v10 · **Sequência inicial revisada:** 21/10/2026 · Codex, a pedido de Victor<br>

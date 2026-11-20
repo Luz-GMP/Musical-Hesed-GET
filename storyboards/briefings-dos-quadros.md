@@ -1,5 +1,16 @@
 # Briefings dos quadros · HESED
 
+Para montar e ensaiar, siga o [Roteiro de montagem do telão](../guias/cena-a-cena/pdf/HESED-roteiro-de-montagem.pdf). Leia cada deixa na ordem do palco: fala ou ação, entrada da música, imagem a sustentar e sinal de saída.
+
+**Distribuição vigente · 19/11/2026.** Victor fecha as Cenas 1, 2 e 9. Isaac fecha as Cenas 3, 4 e 5. Eduardo (Dudu) fecha as Cenas 6, 7 e 8. Cada pessoa prepara e entrega suas cenas diretamente à operação. A MM-16 é integralmente de Victor. As músicas em ajuste por Isaac seguem a partir das versões existentes. [Guia de execução por pessoa](../guias/cena-a-cena/quem-faz-as-musicas.md)
+
+## Atualização conciliada ·16/11/2026 — ler antes dos contratos de origem
+
+As [duas imagens canônicas da abertura internaMM01](../assets/producao-victor/MM01/README.md), aprovadas em23/10, e o [estado de produção de Victor](../docs/producao-victor/README.md) complementam os contratos de origem abaixo. A abertura começa no corredor com detentas projetadas e passa por luz/desvanecimento ao exteriorV06 **sem detentas projetadas**, entregando o restante ao palco. Preservar os dois conjuntos, sem retirar a restrição de cenário físico daBíblia ou regerar aprovados. VídeoV04 é prévia em revisão, distinta das imagens aprovadas.
+
+O [feedback de16/11 e plano das nove cenas](../docs/plano-ajustes-2026-11-16.md) define cozinha àdireita/preto àesquerda, novos cues e reordenação deMM13/MM12; a propostaMM16 recuperada continua proposta. Mídias novas/derivadas precisam de consulta, versão e revisão próprias; este registro não aprova geração/alteração de imagens de outros produtores. Conteúdos/IDs anteriores permanecem preservados como origem, lidos com as atualizações posteriores expressas.
+
+
 **Padrão:** nas peças ligadas à música, seguir a estrutura completa das pranchas do Eduardo (Dudu), incluindo momentos musicais/impactos ligados aos IDs. Nas demais, usar estrutura proporcional com gatilhos de fala/operação. Em todas as pranchas, apresentar blocos de paleta com amostras e nomes, luz/atmosfera, elementos visuais, movimento/efeitos e continuidade, conforme o guia canônico. **Situação dos detalhamentos:** estudos de execução para revisão, não imagens finais nem aprovações de timecode.
 
 Este é um caderno vivo: a cada storyboard novo, acrescente a identificação da peça e o briefing de cada quadro; a cada imagem produzida, registre referência, versão e feedback no seu ID. O [guia de construção](guia-de-construcao.md) explica o método, a montagem das pranchas e a passagem para imagens individuais.
@@ -29,7 +40,7 @@ Aplicar o [padrão canônico de nomes](../guias/entrega-e-arquivos.md#imagens-de
 ### Campos comuns a todos os quadros deste caderno
 
 - **Estado inicial:** briefing de estudo; imagem-base individual não produzida neste trabalho; aprovação pendente.
-- **Tempo/duração:** a definir com master (P-02), ensaio de fala no MM-10 ou divisão do conform no MM-16D (P-06). Os números das pranchas não foram adotados como tempos reais.
+- **Tempo/duração:** a definir com master (P-02), ensaio de fala no MM-10 ou montagem integral de Victor na MM-16 (P-06). Os números das pranchas não foram adotados como tempos reais.
 - **Fonte visual:** quadro de mesmo número na prancha da respectiva peça enviada pelo usuário. As imagens anexadas não foram salvas como arquivos locais por este documento.
 - **Identidade e cenário:** referências individuais ainda não fornecidas; selecionar e registrar antes de produção em série. Características de composição descritas abaixo são propostas, sem identidade de elenco presumida.
 - **Entrega técnica:** referência documental de 3840×2160 para imagens-base; registrar tamanho efetivamente gerado e validar ampliação quando necessária. Formato de exibição e parâmetros finais de vídeo dependem de P-01.
@@ -61,7 +72,7 @@ Os prompts abaixo já repetem a instrução de imagem limpa; ao levá-los à fer
 
 **Função, gatilho e costuras:** Playback de Nasceu em Belém (Marcus Salles). Entra depois da fala da Ladra: “...desse jeito aí faz bem mais sentido mesmo”. Recebe o estado do bebê do MM-06 (Isaac); a costura do mesmo frame é proposta D-01. Não há destinatário de outra peça indicado na ficha; na Cena 4 retorna a sala MM-03 (Victor).
 
-**Pontos de conferência:** Belém à distância → céu → caminho/cidade → luz/nascimento. Preservar os 10 quadros da prancha como estudos. O roteiro indica continuar com o bebê durante a música: a abertura panorâmica e o desenvolvimento de viagem/sem hospedagem precisam ser conferidos com Dudu/Isaac e com o MM-12 de Lucas. Não interpretar a prancha como autorização para mudar essa continuidade.
+**Pontos de conferência:** Belém à distância → céu → caminho/cidade → luz/nascimento. Preservar os 10 quadros da prancha como estudos. O roteiro indica continuar com o bebê durante a música: a abertura panorâmica e o desenvolvimento de viagem/sem hospedagem precisam ser conferidos com Dudu/Isaac e com o MM-12 de Victor. Não interpretar a prancha como autorização para mudar essa continuidade.
 
 **Contrato visual proposto:** Mesma Belém de pedra clara e formas simples, mesmo horizonte e mesma estrela. Maria, José e bebê devem ter referências de identidade e figurino compartilhadas com MM-06/MM-12; ainda não foram entregues individualmente. Azul-noturno nos exteriores, âmbar discreto nos interiores e luz suave no nascimento.
 
@@ -142,7 +153,7 @@ Os prompts abaixo já repetem a instrução de imagem limpa; ao levá-los à fer
 - **Composição:** Plano aberto ao nível dos olhos, manjedoura no centro inferior e profundidade suficiente para inserir a família nas bases seguintes.
 - **Luz e cor:** Âmbar suave em madeira/palha com luz fria fraca na entrada; manter espaço para crescimento posterior.
 - **Animação / efeitos / transição:** Parallax curto entre palha, manjedoura e fundo; poeira discreta em camada.
-- **Continuidade e conferência:** Fixar posição da manjedoura, entrada e vigas para Q07/Q08; receber referências do estábulo de Lucas se disponíveis.
+- **Continuidade e conferência:** Fixar posição da manjedoura, entrada e vigas para Q07/Q08; receber referências do estábulo de Victor se disponíveis.
 - **Evitar:** Estábulo luxuoso, muitos animais cobrindo o foco, bebê já presente numa base definida como vazia.
 
 **Prompt da imagem:**
@@ -209,7 +220,7 @@ Os prompts abaixo já repetem a instrução de imagem limpa; ao levá-los à fer
 
 **Cena:** 5. **Responsável:** Eduardo (Dudu). **Ficha-resumo:** [MM-10/README.md](MM-10/README.md).
 
-**Função, gatilho e costuras:** Animação conceitual sob a fala “No princípio Ele já estava lá”, na exposição de João 1. Recebe o estado dos profetas do MM-09 (Melissa) e entrega universo/luz para MM-11 (Isaac), Luz do Mundo. Não é um playback autônomo.
+**Função, gatilho e costuras:** Animação conceitual sob a fala “No princípio Ele já estava lá”, na exposição de João 1. Recebe o estado dos profetas do MM-09 (Victor) e entrega universo/luz para MM-11 (Isaac), Luz do Mundo. Não é um playback autônomo.
 
 **Pontos de conferência:** Sair do histórico para eternidade, criação, vida e luz. A referência tem 12 quadros, preservados abaixo; a duração de 3–4 minutos e a timeline musical da prancha não têm validação para esta fala. Dimensionar pelos ensaios; quadros podem ser condensados. O briefing pede evitar ficção científica: tratar energia e cosmos com sobriedade. Figuração de Cristo permanece escolha artística a alinhar.
 
@@ -387,11 +398,11 @@ Os prompts abaixo já repetem a instrução de imagem limpa; ao levá-los à fer
 
 **Cena:** 7. **Responsável:** Eduardo (Dudu). **Ficha-resumo:** [MM-13/README.md](MM-13/README.md).
 
-**Função, gatilho e costuras:** Sequência do nascimento e anúncio aos pastores. Recebe noite/estábulo do MM-12 (Lucas). O roteiro traz o anjo e a multidão celestial e depois Santo pra Sempre; posição em relação a Ó Noite Santa depende de P-07. Não há destinatário seguinte indicado na ficha.
+**Função, gatilho e costuras:** Sequência do nascimento e anúncio aos pastores. Recebe noite/estábulo do MM-12 (Victor). O roteiro traz o anjo e a multidão celestial e depois Santo pra Sempre; posição em relação a Ó Noite Santa depende de P-07. Não há destinatário seguinte indicado na ficha.
 
 **Pontos de conferência:** Noite → estrela → campo → pastores → anúncio → céu se abrindo → anjos. A prancha é mantida com 12 IDs. Para acompanhar a ordem do roteiro, conferir a montagem Q05 → Q07 → Q06 → Q08: o anúncio vem antes da multidão. É um ponto de conferência, sem renumerar ou tratar esta alternativa como aprovada.
 
-**Contrato visual proposto:** Reutilizar a noite, o estábulo e a geografia recebidos de Lucas. Definir um pequeno grupo reconhecível de pastores, repetindo roupas/cajados. Mesma estrela e mesmo céu de plano a plano; anjo com identidade estável e representação alinhada com a direção.
+**Contrato visual proposto:** Reutilizar a noite, o estábulo e a geografia recebidos de Victor. Definir um pequeno grupo reconhecível de pastores, repetindo roupas/cajados. Mesma estrela e mesmo céu de plano a plano; anjo com identidade estável e representação alinhada com a direção.
 
 ### MM-13-Q01 · A noite tranquila
 
@@ -526,7 +537,7 @@ Os prompts abaixo já repetem a instrução de imagem limpa; ao levá-los à fer
 - **Composição:** Plano geral elevado com percurso legível até a cidade, sem transformar a sequência em novo passeio urbano.
 - **Luz e cor:** Janelas âmbar e céu azul coerentes com MM-12 e MM-07, se partilharem a mesma cidade.
 - **Animação / efeitos / transição:** Avanço lento em direção à cidade, com parallax entre colina e construções.
-- **Continuidade e conferência:** Conferir escala e desenho de Belém com Lucas; esta base pode reutilizar cenário existente.
+- **Continuidade e conferência:** Conferir escala e desenho de Belém com Victor; esta base pode reutilizar cenário existente.
 - **Evitar:** Cidade europeia medieval, ruas elétricas, arquitetura diferente da referência de MM-12.
 
 **Prompt da imagem:**
@@ -540,7 +551,7 @@ Os prompts abaixo já repetem a instrução de imagem limpa; ao levá-los à fer
 - **Composição:** Plano aberto com estrela e área do estábulo alinhadas visualmente; composição simples.
 - **Luz e cor:** Halo dourado delicado e azul profundo, menos carregado que Q08.
 - **Animação / efeitos / transição:** Aproximação lenta ou brilho sustentado, sem novo pico obrigatório.
-- **Continuidade e conferência:** Não mudar a localização do estábulo estabelecida por Lucas; manter estrela de Q02.
+- **Continuidade e conferência:** Não mudar a localização do estábulo estabelecida por Victor; manter estrela de Q02.
 - **Evitar:** Feixe de laser rígido, palácio como estábulo, cidade invisível por excesso de luz.
 
 **Prompt da imagem:**
@@ -563,11 +574,11 @@ Os prompts abaixo já repetem a instrução de imagem limpa; ao levá-los à fer
 
 ## MM-16D · Morte → ressurreição
 
-**Cena:** 9. **Responsável:** Eduardo (Dudu). **Ficha-resumo:** [MM-16D/README.md](MM-16D/README.md).
+**Cena:** 9. **Produção integral vigente:** Victor. A prancha original de Eduardo fica no acervo. **Ficha-resumo:** [MM-16D/README.md](MM-16D/README.md).
 
-**Função, gatilho e costuras:** Quarto módulo do filme final MM-16, durante Maravilhosa Graça (Samuel Mizrahy). Recebe nascimento/vida do MM-16C (Isaac) e entrega a Lucas para conform/master. Gatilho interno e duração são definidos no mapa do filme completo, não por um disparo autônomo.
+**Uso vigente:** Victor pode escolher estes quadros para a morte e ressurreição de Jesus na MM-16. Ele determina a posição na música e monta a obra inteira.
 
-**Pontos de conferência:** Morte → silêncio/escuridão → ressurreição → luz. Manter os 12 estudos da prancha como repertório conectado. A longa preparação da Paixão (Q01–Q07) pode precisar de condensação para caber no módulo; não presumir 3–4 minutos exclusivos. Combinar com Lucas/Isaac para não repetir vida/ministério e com direção a necessidade de atrizes no filme (P-05).
+**Pontos de conferência:** Morte → silêncio/escuridão → ressurreição → luz. Manter os 12 estudos da prancha como repertório conectado. A longa preparação da Paixão (Q01–Q07) pode precisar de condensação para caber no módulo; não presumir 3–4 minutos exclusivos. Combinar com Victor/Isaac para não repetir vida/ministério e com direção a necessidade de atrizes no filme (P-05).
 
 **Contrato visual proposto:** Mesma identidade de Jesus recebida de Isaac, figurino e direção de arte compartilhados no MM-16. Pedra, terra e tecidos naturais; âmbar contido → azul/sombra → branco quente e dourado. Retratar sofrimento com reverência, sem violência gráfica como foco.
 
@@ -676,7 +687,7 @@ Os prompts abaixo já repetem a instrução de imagem limpa; ao levá-los à fer
 - **Composição:** Plano geral baixo, cruz principal legível contra o céu; deixar respiro acima e ao redor.
 - **Luz e cor:** Contraluz âmbar enfraquecendo para azul/cinza; silhueta clara, sem detalhe gráfico.
 - **Animação / efeitos / transição:** Escurecimento gradual e nuvens em camadas, câmera quase imóvel.
-- **Continuidade e conferência:** Manter eixo de luz e linguagem da cruz; coordenar este momento com Lucas no mapa do MM-16.
+- **Continuidade e conferência:** Manter eixo de luz e linguagem da cruz; coordenar este momento com Victor no mapa do MM-16.
 - **Evitar:** Sangue em primeiro plano, espetáculo de relâmpagos, cruz sem anatomia legível.
 
 **Prompt da imagem:**
@@ -731,23 +742,23 @@ Os prompts abaixo já repetem a instrução de imagem limpa; ao levá-los à fer
 - **Imagem-base:** Paisagem ampla ao nascer da luz, horizonte aberto, caminhos e colinas; ausência de nova trama e espaço para o clímax de palco.
 - **Composição:** Grande plano geral com camadas de terreno e horizonte baixo; centro luminoso sem texto embutido.
 - **Luz e cor:** Dourado e branco quente no máximo relativo acordado, sem perder textura nem apagar palco.
-- **Animação / efeitos / transição:** Expansão suave da luz e sustentação; saída e margem de transição combinadas com Lucas.
-- **Continuidade e conferência:** Entregar frame, versão e margem visual para conform; conferir cor/contraste com os quatro módulos e efeitos de palco.
-- **Evitar:** Fim seco independente, letreiro final não solicitado, impor fade ou duração ao master de Lucas.
+- **Animação / efeitos / transição:** Expansão suave da luz e sustentação; saída e margem de transição combinadas com Victor.
+- **Continuidade e conferência:** Victor confere a continuidade da cor e a passagem às luzes de Natal na sua montagem.
+- **Evitar:** Fim seco independente, letreiro final não solicitado, impor fade ou duração ao master de Victor.
 
 **Prompt da imagem:**
 
-> Crie uma única imagem-base individual para MM-16D-Q12, HESED, Cena 9: Paisagem ampla ao nascer da luz, horizonte aberto, caminhos e colinas; ausência de nova trama e espaço para o clímax de palco. Grande plano geral com camadas de terreno e horizonte baixo; centro luminoso sem texto embutido. Iluminação e cor: dourado e branco quente no máximo relativo acordado, sem perder textura nem apagar palco. Estilo realista e cinematográfico, reverente, textura natural e leitura clara no telão. Preserve margem para reenquadramento. Sem texto, timecode, moldura, grade ou colagem. Evite: fim seco independente, letreiro final não solicitado, impor fade ou duração ao master de Lucas.
+> Crie uma única imagem-base individual para MM-16D-Q12, HESED, Cena 9: Paisagem ampla ao nascer da luz, horizonte aberto, caminhos e colinas; ausência de nova trama e espaço para o clímax de palco. Grande plano geral com camadas de terreno e horizonte baixo; centro luminoso sem texto embutido. Iluminação e cor: dourado e branco quente no máximo relativo acordado, sem perder textura nem apagar palco. Estilo realista e cinematográfico, reverente, textura natural e leitura clara no telão. Preserve margem para reenquadramento. Sem texto, timecode, moldura, grade ou colagem. Evite: fim seco independente, letreiro final não solicitado, impor fade ou duração ao master de Victor.
 
 ## MM-04 · Criação perfeita
 
-**Cena:** 3 · Bloco II. **Responsável:** Melissa. **Ficha-resumo:** [MM-04/README.md](MM-04/README.md).
+**Cena:** 3 · Bloco II. **Responsável:** Victor. **Ficha-resumo:** [MM-04/README.md](MM-04/README.md).
 
 **Situação:** proposta de storyboard v01, 16/10/2026, preparada pelo Codex a pedido do usuário. Sem aprovação artística ou técnica presumida. Dudu/Eduardo fora desta produção: o usuário informou que seus storyboards já foram feitos; os registros anteriores foram preservados.
 
-**Fontes conferidas:** briefing v1.0, seção 8/MM-04 e seção 11/MM-05, inclusive DOCX original; roteiro, Cena 3, inclusive PDF original; decisões (somente D-00 aprovada entre as aplicáveis), mapa de cenas, dependências, página de Melissa, fichas MM-04/MM-05, guia de construção e checklist de aceite.
+**Fontes conferidas:** briefing v1.0, seção 8/MM-04 e seção 11/MM-05, inclusive DOCX original; roteiro, Cena 3, inclusive PDF original; decisões (somente D-00 aprovada entre as aplicáveis), mapa de cenas, dependências, página de Victor, fichas MM-04/MM-05, guia de construção e checklist de aceite.
 
-**Função, gatilho e costuras:** mundo perfeito, harmônico, vivo e luminoso antes da queda. Entra em “Não tinha dor”, acompanha Há Muito Tempo Atrás (Crianças Diante do Trono) e a fala posterior de Adultério, até “Deu errado quando o ser humano escolheu viver longe de Deus”. Recebe narrativamente a sala MM-03 de Victor, sem frame de ligação disponibilizado; a ficha anterior não indicava fornecedor. Entrega imagem-base, paleta e estado de saída ao Lucas/MM-05. Não antecipa a queda.
+**Função, gatilho e costuras:** mundo perfeito, harmônico, vivo e luminoso antes da queda. Entra em “Não tinha dor”, acompanha Há Muito Tempo Atrás (Crianças Diante do Trono) e a fala posterior de Adultério, até “Deu errado quando o ser humano escolheu viver longe de Deus”. Recebe narrativamente a sala MM-03 de Victor, sem frame de ligação disponibilizado; a ficha anterior não indicava fornecedor. Entrega imagem-base, paleta e estado de saída ao Victor/MM-05. Não antecipa a queda.
 
 **Controle:** loop de ambientação com duração variável; não é playback com cortes cronometrados. Os quatro quadros são estados de uma mesma base, não quatro ambientes nem quatro bases obrigatórias. Ordem proposta: Q01 → Q02 → Q03 → Q04 → Q01, reversível e repetível; saída para MM-05 a partir do estado corrente, sem obrigar atores a esperar Q04. Não inventar timecodes ou duração musical.
 
@@ -803,11 +814,11 @@ Os prompts abaixo já repetem a instrução de imagem limpa; ao levá-los à fer
 ### MM-04-Q04 · Retorno e costura
 
 - **Situação e origem:** proposta v01, baseada nas fontes do MM-04 acima; aprovação pendente.
-- **Função narrativa e gatilho:** Fechar o ciclo visual e oferecer referência luminosa para Lucas/MM-05.
+- **Função narrativa e gatilho:** Fechar o ciclo visual e oferecer referência luminosa para Victor/MM-05.
 - **Imagem-base / instante:** Retorno ao mesmo plano geral luminoso de Q01, ainda íntegro.
 - **Composição:** Repetir o enquadramento de Q01 e suas posições, horizonte e escala.
 - **Luz e cor:** Recuperar a iluminação de Q01; a perda de brilho pertence ao MM-05.
-- **Continuidade:** Q04 compatível com Q01 para loop; entregar a base e o estado corrente para MM-05, a alinhar com Lucas.
+- **Continuidade:** Q04 compatível com Q01 para loop; entregar a base e o estado corrente para MM-05, a alinhar com Victor.
 - **Animação, efeitos e transição:** Concluir retorno lento; testar repetição Q04 → Q01. A troca para MM-05 obedece à fala, independentemente da fase do loop.
 - **Evitar:** paisagens diferentes, saturação verde dominante, fantasia, letreiros no telão, pessoas, fruto/serpente, queda antecipada, cortes fortes e brilho que concorra com o palco.
 - **Prompt da imagem individual (para etapa posterior):** Repetir exatamente a composição aberta de Q01: rio curvo, árvore de copa ampla à esquerda, margem gramada à direita e colinas baixas, mesma luz natural branca e dourada do alto à direita; mundo íntegro e luminoso. Imagem individual realista e cinematográfica, reverente, com profundidade e margem para movimento. Sem grade, colagem, texto, número, legenda, timecode, marca-d'água ou elementos modernos. Nas derivações, usar a base piloto verificada, em vez de inventar nova paisagem.
@@ -819,19 +830,19 @@ Os prompts abaixo já repetem a instrução de imagem limpa; ao levá-los à fer
 
 - **Data / executor:** 16/10/2026 · Codex, a pedido do usuário.
 - **Entrega:** uma prancha com quatro quadros de planejamento, não quatro bases individuais.
-- **Diretrizes/fontes e IDs consultados:** guia de construção atual; contrato MM-04 e Q01/Q02/Q03/Q04 deste caderno; briefing v1.0 seção MM-04/MM-05 e DOCX original; roteiro Cena 3 e PDF original; D-00; mapa de cenas; dependências; Melissa; fichas MM-04/MM-05 e checklist. D-01/D-02 continuam propostas e não alteram esta peça.
+- **Diretrizes/fontes e IDs consultados:** guia de construção atual; contrato MM-04 e Q01/Q02/Q03/Q04 deste caderno; briefing v1.0 seção MM-04/MM-05 e DOCX original; roteiro Cena 3 e PDF original; D-00; mapa de cenas; dependências; Victor; fichas MM-04/MM-05 e checklist. D-01/D-02 continuam propostas e não alteram esta peça.
 - **Referências realmente usadas na ferramenta:** somente descrição textual derivada dessas fontes. Sem imagens de referência anexadas; arquivos visuais do Dudu, frame de MM-03 e base aceita não fornecidos.
 - **Prompt efetivamente enviado:** íntegra em [MM-04/prompt-prancha-v01.txt](MM-04/prompt-prancha-v01.txt); aplicado à prancha inteira e aos quatro IDs. Ferramenta `image_gen.imagegen`, `transparent_background=false`; sem referências de imagens.
 - **Resultado real:** PNG gerado em `/workspace/generated_images/exec-4a38d99a-6857-4db3-93a5-50fbeede0728.png`, 1536×1024, 2.815.016 bytes; original mantido fora do repositório. Não é 4K e não foi enviado ao Drive.
 - **Arquivo leve no repositório:** [MM-04/STB MM04.jpg](<MM-04/STB MM04.jpg>), 1536×1024, 673.733 bytes, versão v01, conversão JPEG para consulta. Ficha-resumo atualizada com imagem existente.
 - **Feedback de revisão visual pelo Codex:** natureza luminosa, atmosfera harmônica, ausência de pessoas/queda e anotações fora das imagens coerentes com o estudo. O curso d'água ficou mais aberto do que o rio curvo proposto. Há variações de árvore, pedras, relevo e enquadramento entre os painéis; Q04 não repete exatamente Q01. Para o alpha, usar uma base única e derivar estados por reenquadramento/luz; não usar os recortes da prancha como bases definitivas. Loop e brilho no telão ainda não testados.
-- **Aprovação:** pendente da equipe/direção; paleta, geografia e integração com Lucas continuam propostas. Sem medição musical, alpha ou aceite técnico.
+- **Aprovação:** pendente da equipe/direção; paleta, geografia e integração com Victor continuam propostas. Sem medição musical, alpha ou aceite técnico.
 
 ## MM-09 · Profetas
 
-**Reinício do zero · D-27 · novo estudo v03 · Melissa · Cena 5 · 16/10/2026.** Usuário rejeitou v01/v02 por desalinhamento/confusão/repetição, pediu excluir versões anteriores e recomeçar. Imagens v01/v02 e `STB MM09.png` (mesma V01), bem como prompts antigos, excluídos da pasta. Nenhuma dessas imagens será enviada à ferramenta ou usada como referência visual. Histórico anterior no Git, não direção vigente. V03 é número de rastreio, não continuação estética das versões recusadas.
+**Reinício do zero · D-27 · novo estudo v03 · Victor · Cena 5 · 16/10/2026.** Usuário rejeitou v01/v02 por desalinhamento/confusão/repetição, pediu excluir versões anteriores e recomeçar. Imagens v01/v02 e `STB MM09.png` (mesma V01), bem como prompts antigos, excluídos da pasta. Nenhuma dessas imagens será enviada à ferramenta ou usada como referência visual. Histórico anterior no Git, não direção vigente. V03 é número de rastreio, não continuação estética das versões recusadas.
 
-**Fontes:** roteiro Cena 5 relido da indicação “Profetas pregando e anunciando a vinda do Messias no telão” até “No princípio Ele já estava lá”; briefing MM-09 (poucas composições, loop contemplativo, movimentos lentos), Bíblia §§3/5.2/9 (BIB-Q012/Q013), alinhamento, D-25 (formato), D-26 (leitura literal) e D-27 (reinício), guia, Melissa, mapa e dependências. Formato de quatro composições distintas é proposta; o usuário não definiu quantidade nova, nomes de profetas ou cenas exatas.
+**Fontes:** roteiro Cena 5 relido da indicação “Profetas pregando e anunciando a vinda do Messias no telão” até “No princípio Ele já estava lá”; briefing MM-09 (poucas composições, loop contemplativo, movimentos lentos), Bíblia §§3/5.2/9 (BIB-Q012/Q013), alinhamento, D-25 (formato), D-26 (leitura literal) e D-27 (reinício), guia, Victor, mapa e dependências. Formato de quatro composições distintas é proposta; o usuário não definiu quantidade nova, nomes de profetas ou cenas exatas.
 
 **Função e operação:** mostrar profetas anunciando e sustentar a fala sobre espera por gerações e crença/dúvida. Elenco/humor permanecem no palco; ouvintes projetados são figuração histórica, não cópia das detentas. Entra na explicação “séculos antes”; sustenta falas sem timecodes/música própria; sai em “No princípio Ele já estava lá” para MM-10 em qualquer estado. Repetição futura por variação/movimento discreto, não quadro final duplicando Q01 por obrigação. Não antecipar Cristo, cosmos, bebê/presépio ou vídeo da MM-10.
 
@@ -938,7 +949,7 @@ Os prompts abaixo já repetem a instrução de imagem limpa; ao levá-los à fer
 
 **Função visual:** montagem curta simbólica sob fala variável. **Palco:** Religiosidade e demais atrizes conduzem a conversa na casa física. **Telão:** gestos cotidianos sintetizam comportamento destrutivo e fechamento; figuras humanas opcionais pelo briefing, adotadas como proposta de estudo, sem duplicar a conversa nem exigir filmagem das dez atrizes.
 
-**Fontes consultadas antes da geração:** guia canônico; este caderno e quadros históricos MM-14-Q01–Q04; briefing MM-14/MM-15; roteiro Cena 8; Bíblia v0.1 §§3/5.1/5.2/7.1; alinhamento das fontes; decisões D-03/D-13/D-25/D-28; mapa Cena 8; dependências; Melissa; fichas MM-03/MM-14/MM-15 e padrão de entrega. A transcrição original não está disponível.
+**Fontes consultadas antes da geração:** guia canônico; este caderno e quadros históricos MM-14-Q01–Q04; briefing MM-14/MM-15; roteiro Cena 8; Bíblia v0.1 §§3/5.1/5.2/7.1; alinhamento das fontes; decisões D-03/D-13/D-25/D-28; mapa Cena 8; dependências; Victor; fichas MM-03/MM-14/MM-15 e padrão de entrega. A transcrição original não está disponível.
 
 **Referência visual real:** [casa V03](<MM-03/STB MM03.jpg>), inspecionada e fornecida à ferramenta. Não reutilizar a v01 de MM-14. Casa modesta de cimento queimado, portas à esquerda, aparador central com relógio à esquerda, bandejinha sobre renda ao centro e menorá à direita; copa de tijolinho à direita, pia sob aéreo à esquerda da bancada e cooktop à direita. Sem mesa/sofá adicionais no LED, Bíblia, espelho ou porta-retrato. O Salmo 91 e a menorá pertencem à continuidade doméstica, sem associá-los à culpa.
 
@@ -946,7 +957,7 @@ Os prompts abaixo já repetem a instrução de imagem limpa; ao levá-los à fer
 
 **Arco e IDs:** Q01–Q04 da v01 ficam retirados de uso nesta revisão, preservados como histórico. Seis novos estados na ordem **Q05 → Q06 → Q07 → Q08 → Q09 → Q10**; rótulos editoriais 01–06 indicam a ordem da nova prancha e não renumeram IDs antigos.
 
-**Gatilhos e sustentação:** entrada proposta na recapitulação “Cada uma de nós estava vivendo...”, peso visual em “nos atolamos em nossos pecados e nos aprisionamos”. Nenhum fornecedor/frame de entrada definitivo recebido; casa MM-03 é referência ambiental, não cue de retorno automaticamente aprovado (P-15). Sustentar Q10 durante a menção intermediária ao bebê, saindo em “Ele curou, ensinou e perdoou as pessoas” para MM-15/Lucas. Ritmo e cues a validar no ensaio, sem segundos inventados ou música própria. Não aumentar a fala para acomodar seis quadros.
+**Gatilhos e sustentação:** entrada proposta na recapitulação “Cada uma de nós estava vivendo...”, peso visual em “nos atolamos em nossos pecados e nos aprisionamos”. Nenhum fornecedor/frame de entrada definitivo recebido; casa MM-03 é referência ambiental, não cue de retorno automaticamente aprovado (P-15). Sustentar Q10 durante a menção intermediária ao bebê, saindo em “Ele curou, ensinou e perdoou as pessoas” para MM-15/Victor. Ritmo e cues a validar no ensaio, sem segundos inventados ou música própria. Não aumentar a fala para acomodar seis quadros.
 
 **Direção comum:** realismo cinematográfico contemporâneo; azul-noturno/sombra, cinza-cimento/casa, âmbar contido/luz e dourado discreto/continuidade. Calor doméstico inicial perde espaço para sombra fria, mantendo leitura. Corte simples, aproximações leves e máscaras de sombra; sem agressão, literalidade prolongada, prisão física, correntes, horror, nudez ou restauração antecipada. Comparação, recusa e ocultação comunicam ação; tristeza, pobreza e solidão por si sós não simbolizam culpa.
 
@@ -1026,7 +1037,7 @@ Os prompts abaixo já repetem a instrução de imagem limpa; ao levá-los à fer
 - **Função narrativa e gatilho:** Ênfase em “nos aprisionamos sem nem mesmo perceber”; sustentar sob a fala intermediária até “Ele curou, ensinou e perdoou”.
 - **Imagem-base e composição:** Plano geral da mesma casa, as três mulheres separadas e voltadas para direções distintas; sombras arquitetônicas alongadas sugerem estreitamento.
 - **Luz e cor:** Azul-noturno e cinza, calor residual; detalhes da casa legíveis, sem grades/correntes.
-- **Continuidade:** casa V03 e figuração do contrato comum; entrega contraste de aprisionamento para Lucas/MM-15, cujo primeiro frame não foi fornecido.
+- **Continuidade:** casa V03 e figuração do contrato comum; entrega contraste de aprisionamento para Victor/MM-15, cujo primeiro frame não foi fornecido.
 - **Animação e transição:** Sustentação com movimento ambiental cíclico discreto a testar; saída para MM-15 pelo gatilho.
 - **Evitar:** desvios do contrato; não ampliar este instante numa encenação prolongada ou projetar as atrizes da conversa.
 - **Prompt da imagem:** trecho correspondente de [prompt-prancha-v02.txt](MM-14/prompt-prancha-v02.txt), com contrato comum; bases individuais exigem prompt limpo e piloto verificado.
@@ -1052,13 +1063,13 @@ Os prompts abaixo já repetem a instrução de imagem limpa; ao levá-los à fer
 
 > **Feedback posterior do usuário · 16/10/2026:** MM-14 v01 não aprovada por não corresponder ao roteiro/ambientação da casa. Reformular somente após estabelecer MM-03, conforme D-03. Q01–Q04 e geração abaixo são histórico, sem referência aceita de casa, elenco ou próxima versão.
 
-**Cena:** 8 · Bloco IV. **Responsável:** Melissa. **Situação:** proposta v01 de 16/10/2026, sem aprovação presumida. **Fontes:** briefing v1.0/MM-14 e MM-15; roteiro Cena 8; D-00; mapa de cenas; dependências; página de Melissa; fichas MM-14/MM-15 e guia canônico de construção.
+**Cena:** 8 · Bloco IV. **Responsável:** Victor. **Situação:** proposta v01 de 16/10/2026, sem aprovação presumida. **Fontes:** briefing v1.0/MM-14 e MM-15; roteiro Cena 8; D-00; mapa de cenas; dependências; página de Victor; fichas MM-14/MM-15 e guia canônico de construção.
 
-**Função, gatilho e costuras:** sintetizar comportamento destrutivo e aprisionamento antes da restauração. A página de Melissa indica a entrada na recapitulação “Cada uma de nós estava vivendo a sua vida da forma que queria...”; o mapa destaca “nos atolamos em nossos pecados e nos aprisionamos”. Proposta: iniciar discretamente na recapitulação e intensificar o fechamento na frase de aprisionamento; validar cue no ensaio. Saída em “Ele curou, ensinou e perdoou as pessoas”, entrada do MM-15/Lucas. Sem fornecedor/frame de entrada definido; alinhar com Lucas ritmo de corte e tratamento de cor.
+**Função, gatilho e costuras:** sintetizar comportamento destrutivo e aprisionamento antes da restauração. A página de Victor indica a entrada na recapitulação “Cada uma de nós estava vivendo a sua vida da forma que queria...”; o mapa destaca “nos atolamos em nossos pecados e nos aprisionamos”. Proposta: iniciar discretamente na recapitulação e intensificar o fechamento na frase de aprisionamento; validar cue no ensaio. Saída em “Ele curou, ensinou e perdoou as pessoas”, entrada do MM-15/Victor. Sem fornecedor/frame de entrada definido; alinhar com Victor ritmo de corte e tratamento de cor.
 
 **Controle e arco:** montagem curta Q01 → Q02 → Q03 → Q04; não é loop integral ou playback musical. Os quadros resumem apego, raiva, ocultação e isolamento, sem catálogo literal de pecados. Cortes simples a ajustar à fala, sem tempos inventados. Sustentar Q04 durante a fala intermediária que menciona o nascimento de Jesus, sem introduzir outro bloco de imagens ou antecipar restauração. O último estado pode ter movimento cíclico discreto para cobrir duração variável; não medir duração pela prancha.
 
-**Contrato visual proposto:** registro contemporâneo realista/cinematográfico do mundo presente, conforme briefing; sala doméstica modesta, parede cinza texturizada, mesa de madeira e janela lateral à direita. Luz fria azul-acinzentada da direita, pequena presença de calor residual, sombras legíveis; sem preto absoluto ou vermelho saturado. Uma mulher adulta genérica, cerca de 30 anos, pele morena, cabelo castanho-escuro cacheado na altura dos ombros, jaqueta azul-escura lisa e blusa bege, sem marcas; não representa atriz ou personagem específica. Identidade/figurino são propostas para piloto, não referência aprovada. Compor mãos naturais, sem gestos complexos. Na série futura, definir piloto e usar a mesma referência. Objetos contemporâneos discretos são coerentes com este registro, não com os quadros bíblicos anteriores. A restauração/luz acolhedora entra com Lucas no MM-15.
+**Contrato visual proposto:** registro contemporâneo realista/cinematográfico do mundo presente, conforme briefing; sala doméstica modesta, parede cinza texturizada, mesa de madeira e janela lateral à direita. Luz fria azul-acinzentada da direita, pequena presença de calor residual, sombras legíveis; sem preto absoluto ou vermelho saturado. Uma mulher adulta genérica, cerca de 30 anos, pele morena, cabelo castanho-escuro cacheado na altura dos ombros, jaqueta azul-escura lisa e blusa bege, sem marcas; não representa atriz ou personagem específica. Identidade/figurino são propostas para piloto, não referência aprovada. Compor mãos naturais, sem gestos complexos. Na série futura, definir piloto e usar a mesma referência. Objetos contemporâneos discretos são coerentes com este registro, não com os quadros bíblicos anteriores. A restauração/luz acolhedora entra com Victor no MM-15.
 
 **Referências disponíveis:** documentos textuais; sem imagens de elenco, piloto aceito, arquivo de entrada ou primeiro frame de MM-15. Sem referências visuais externas usadas. Não há necessidade de representar atrizes ou resolver P-05 do filme final nesta peça. P-01/P-13 e teste no telão permanecem pendentes para entrega final.
 
@@ -1115,7 +1126,7 @@ Os prompts abaixo já repetem a instrução de imagem limpa; ao levá-los à fer
 - **Composição:** Plano geral da mesma sala, figura pequena à esquerda e espaço vazio à direita; mãos relaxadas no colo.
 - **Luz e cor:** janela à direita, azul-acinzentado contido, sombras com detalhe e calor residual mínimo; sem antecipar restauração.
 - **Continuidade:** mesma mulher, jaqueta, blusa e sala do contrato; enquadramentos diferentes mantêm o eixo da luz. Conferir piloto antes da produção em série.
-- **Animação e transição:** Sustentação com movimento ambiente discreto e repetível para fala variável; passagem a combinar com Lucas/MM-15 pelo gatilho, preservando contraste aprisionamento → restauração.
+- **Animação e transição:** Sustentação com movimento ambiente discreto e repetível para fala variável; passagem a combinar com Victor/MM-15 pelo gatilho, preservando contraste aprisionamento → restauração.
 - **Evitar:** caricatura, violência explícita, sexualização, elenco presumido, prisão literal, excesso de objetos, gestos simultâneos, texto identificando pecados no telão e clímax de luz antes de MM-15.
 - **Prompt da imagem individual (etapa posterior):** A mesma mulher sentada sozinha, ombros recolhidos; sombras alongadas dos montantes da janela sobre parede e chão sugerem confinamento. Sem grades reais ou correntes. Plano geral da mesma sala, figura pequena à esquerda e espaço vazio à direita; mãos relaxadas no colo. Mesma mulher adulta de pele morena, cabelo escuro cacheado até os ombros, jaqueta azul-escura lisa e blusa bege; mesma sala simples cinza, mesa de madeira e luz fria natural da direita. Realismo cinematográfico, tom sóbrio, sombras legíveis, anatomia natural e margem de movimento; sem colagem, grade, título, número, timecode, marca-d'água ou texto. Usar piloto de personagem/ambiente verificado quando disponível.
 - **Referências usadas:** fontes documentais do contrato; nenhuma referência fotográfica fornecida.
@@ -1125,13 +1136,13 @@ Os prompts abaixo já repetem a instrução de imagem limpa; ao levá-los à fer
 ### Registro de geração · MM-14-Q01 a MM-14-Q04 · prancha v01
 
 - **Data / executor:** 16/10/2026 · Codex, a pedido do usuário.
-- **Diretrizes/fontes e IDs consultados:** guia de construção; contrato MM-14 e Q01/Q02/Q03/Q04 escritos antes da geração; briefing MM-14/MM-15; roteiro Cena 8; D-00; mapa de cenas; dependências; Melissa; fichas MM-14/MM-15. Entrada na recapitulação é proposta, com ênfase no aprisionamento e cue a validar no ensaio.
+- **Diretrizes/fontes e IDs consultados:** guia de construção; contrato MM-14 e Q01/Q02/Q03/Q04 escritos antes da geração; briefing MM-14/MM-15; roteiro Cena 8; D-00; mapa de cenas; dependências; Victor; fichas MM-14/MM-15. Entrada na recapitulação é proposta, com ênfase no aprisionamento e cue a validar no ensaio.
 - **Referências realmente usadas:** somente texto derivado dos documentos; nenhuma foto de atriz, personagem ou ambiente aceita. Identidade genérica e figurino são propostas de estudo.
 - **Prompt efetivamente enviado:** íntegra em [MM-14/prompt-prancha-v01.txt](MM-14/prompt-prancha-v01.txt), para os quatro IDs. Ferramenta `image_gen.imagegen`, `transparent_background=false`, sem imagens de referência.
 - **Original:** `/workspace/generated_images/exec-6ca88fdd-fed6-4eff-9a40-b8370df4d387.png`, PNG 1536×1024, 1,997,473 bytes; preservado fora do repositório, sem envio ao Drive.
 - **Arquivo leve:** [MM-14/STB MM14.jpg](<MM-14/historico/v01/STB MM14.jpg>), 1536×1024, 392,575 bytes, v01. Prancha de planejamento, não base 4K nem vídeo.
 - **Feedback:** Revisão visual pelo Codex: personagem/figurino reconhecíveis entre planos, mãos separadas em Q02, reflexo plausível em Q03, luz fria da direita e isolamento em Q04. O gesto com o colar em Q01 pode ser lido como aflição ou lembrança em vez de apego ao status; Q03 sugere fechamento, mas não comunica mentira de forma inequívoca. Essas metáforas precisam de revisão com a direção, sem associar sofrimento emocional por si só a pecado. Há pequenas variações de cenário; fixar piloto antes das bases individuais. Conferir leitura das sombras e brilho no telão.
-- **Aprovação:** pendente da equipe/direção. Sem alpha, sincronização medida ou ensaio no telão; restauração e passagem para MM-15 a alinhar com Lucas. Outros storyboards preservados.
+- **Aprovação:** pendente da equipe/direção. Sem alpha, sincronização medida ou ensaio no telão; restauração e passagem para MM-15 a alinhar com Victor. Outros storyboards preservados.
 
 ## MM-03 · Casa da Religiosidade
 
@@ -1269,13 +1280,13 @@ Referência única V03, aprovada pelo usuário ao reenviar a imagem com renda; v
 
 ## MM-05 · Queda — silhuetas de luz
 
-**V03 oficial · seis quadros · Lucas · Cena 3 · D-24 · 16/10/2026.** Usuário aprovou expressamente a V03 e pediu excluir as outras. [Imagem aceita](<MM-05/STB MM05.jpg>) preservada sem alteração; versões anteriores e prompts correspondentes removidos da pasta. Não regenerar a imagem nem substituir por propostas anteriores. Histórico anterior disponível no Git.
+**V03 oficial · seis quadros · Victor · Cena 3 · D-24 · 16/10/2026.** Usuário aprovou expressamente a V03 e pediu excluir as outras. [Imagem aceita](<MM-05/STB MM05.jpg>) preservada sem alteração; versões anteriores e prompts correspondentes removidos da pasta. Não regenerar a imagem nem substituir por propostas anteriores. Histórico anterior disponível no Git.
 
-**Fontes:** pedido de aprovação D-24, diretrizes D-22/D-23, briefing v1.0 §11/MM-05, roteiro Cena 3, Bíblia §§3/5.2/7.1/9, mapa/dependências e página de Lucas. Transcrição original ainda ausente (P-14).
+**Fontes:** pedido de aprovação D-24, diretrizes D-22/D-23, briefing v1.0 §11/MM-05, roteiro Cena 3, Bíblia §§3/5.2/7.1/9, mapa/dependências e página de Victor. Transcrição original ainda ausente (P-14).
 
 **Contrato visual aceito:** mesma paisagem da criação MM-04 (árvore à esquerda, água central, margens/pedras/colinas) e dois adultos recorrentes. Corpos irradiam luz intensa no começo; emissão diminui revelando forma física; fundo ganha sombra/peso. Corpo oculto por desfoque, rostos/mãos/gestos legíveis, sem exposição de detalhes íntimos. Q02 entrega, Q03 mordida, Q05 percepção, Q06 desespero com mãos na cabeça, troncos encurvados e olhares mútuos, no ambiente mais sombrio. Aparência/posição/desfoque da V03 aceita são a referência; não restituir roupas ou usar personagens das versões excluídas por inferência.
 
-**Função e controle:** transformação simbólica no telão; detentas e mesa permanecem no palco, sem duplicar elenco. Recebe de Melissa/MM-04 na fala “escolheu viver longe de Deus”; mantém estado final sob lista de pecados, promessa e diálogo; entrega a Isaac/MM-06 em “Enviando alguém pra nos salvar”. Não antecipar cruz/Jesus/bebê ou montar cada pecado. Controle por fala variável, sem tempos medidos; loop/câmera fixa futura não produzidos.
+**Função e controle:** transformação simbólica no telão; detentas e mesa permanecem no palco, sem duplicar elenco. Recebe de Victor/MM-04 na fala “escolheu viver longe de Deus”; mantém estado final sob lista de pecados, promessa e diálogo; entrega a Isaac/MM-06 em “Enviando alguém pra nos salvar”. Não antecipar cruz/Jesus/bebê ou montar cada pecado. Controle por fala variável, sem tempos medidos; loop/câmera fixa futura não produzidos.
 
 | ID estável | Estado aceito da V03 | Continuidade/animação futura |
 | --- | --- | --- |
@@ -1297,13 +1308,13 @@ Referência única V03, aprovada pelo usuário ao reenviar a imagem com renda; v
 
 ## MM-12 · Viagem, cidade e estábulo
 
-**Prancha v03 consolidada aprovada em 24/10/2026 (D-47); bases individuais v01 autorizadas, geradas e em revisão.** Responsável: Lucas. Cenas 6–7. [Ficha-resumo](MM-12/README.md).
+**Prancha v03 consolidada aprovada em 24/10/2026 (D-47); bases individuais v01 autorizadas, geradas e em revisão.** Responsável: Victor. Cenas 6–7. [Ficha-resumo](MM-12/README.md).
 
 **Direção vigente D-46 (24/10/2026):** Q03/Q04/Q05 da v03 aprovados expressamente pelo usuário; preservar os pixels desses painéis. Restaurar exatamente Q06 da v02, incluindo parede do estábulo, por reutilização do quadro existente. O usuário rejeitou a reconstrução de Q06 da v03. D-45 continua aplicável às casas/caminho, mas sua reconstrução do abrigo foi substituída. Sem nova interpretação de Q06.
 
 **Contrato visual proposto:** sequência narrativa espacial controlada por falas variáveis. Palco contém Maria/José, presépio e nascimento; telão situa ambientes. Pessoas são opcionais pelo briefing; neste estudo não são previstas. Não duplicar bebê/manjedoura no fundo. Seis estados: estrada → Belém → cidade → noite → sem hospedagem → abrigo. Sem música própria, segundos ou forma de onda. Q03/Q04 podem ser a mesma base em dois estados de luz.
 
-**Diretrizes/fontes e IDs consultados:** guia de construção, briefing MM-12, roteiro Cenas 6–7, mapa/dependências, equipe/Lucas, decisões e alinhamento, Bíblia v0.1 §§2.1, 3/Cenas 6–7, 4.1, 5.1–5.2, 9/BIB-Q015–Q018; MM-12-Q01–Q06. MM-07-Q01 e MM-13-Q01 inspecionados como referências de escala/paleta; diferem em geografia/luar, sem emenda canônica comum recebida. Não copiar rios, torres ou figuração automaticamente.
+**Diretrizes/fontes e IDs consultados:** guia de construção, briefing MM-12, roteiro Cenas 6–7, mapa/dependências, equipe/Victor, decisões e alinhamento, Bíblia v0.1 §§2.1, 3/Cenas 6–7, 4.1, 5.1–5.2, 9/BIB-Q015–Q018; MM-12-Q01–Q06. MM-07-Q01 e MM-13-Q01 inspecionados como referências de escala/paleta; diferem em geografia/luar, sem emenda canônica comum recebida. Não copiar rios, torres ou figuração automaticamente.
 
 **Continuidade / limites:** primeiro frame anterior não fornecido; P-09/P-15 seguem abertas. Entregar a Eduardo noite, horizonte e posição do abrigo; cue exato a combinar. P-07 permanece aberta sobre música/MM-13; P-01/P-12/P-13 permanecem técnicas/operacionais. Não exigir master para planejar esta peça de fala. Bases individuais referem 3840×2160, sem presumir saída final do telão. Prancha é estudo, não seis bases finais.
 
@@ -1489,13 +1500,13 @@ D-47 autoriza esta derivação em imagem individual, mantendo a parede e a abert
 
 ## MM-15 · Vida e atos de Jesus
 
-**Data/versão:** 24/10/2026 · v01 · proposta de storyboard para revisão, autorizada pelo usuário após o plano textual. **Responsável:** Lucas. **Cena:** 8 / Bloco IV.
+**Data/versão:** 24/10/2026 · v01 · proposta de storyboard para revisão, autorizada pelo usuário após o plano textual. **Responsável:** Victor. **Cena:** 8 / Bloco IV.
 
-**Consulta prévia:** guia canônico de construção; briefing v1.0/MM-15; roteiro Cena 8; Bíblia v0.1 §§3/5/7/9; alinhamento das fontes; decisões D-25/D-48–D-51; ficha e base MM-14-Q10 atualizadas da main 2015612; mapa, dependências e página de Lucas. MM-14-Q10 foi inspecionada visualmente. Sua direção aprovada não aprova automaticamente as bases nem a MM-15.
+**Consulta prévia:** guia canônico de construção; briefing v1.0/MM-15; roteiro Cena 8; Bíblia v0.1 §§3/5/7/9; alinhamento das fontes; decisões D-25/D-48–D-51; ficha e base MM-14-Q10 atualizadas da main 2015612; mapa, dependências e página de Victor. MM-14-Q10 foi inspecionada visualmente. Sua direção aprovada não aprova automaticamente as bases nem a MM-15.
 
 **Função visual:** montagem narrativa curta de ações humanas. **Palco:** Religiosidade narra e as personagens respondem na casa. **Telão:** ilustra o ministério narrado em ambiente bíblico, sem duplicar a conversa atual. **Personagens no telão:** necessárias para cura, ensino, perdão e acolhimento conforme briefing. Desfoque/translucidez D-50/D-51 são específicos da MM-14; não estendê-los automaticamente ao Jesus e aos sujeitos desta montagem.
 
-**Costura/controle:** recebe MM-14/Melissa no estado frio Q10, três pessoas afastadas e calor residual. Entra em “Enquanto Ele estava na terra, Ele curou, ensinou e perdoou as pessoas”; mudança visual no início de “Ele curou”, a ensaiar. Contrastar isolamento com proximidade humana e calor. Não transportar as detentas nem a casa para a história bíblica. Destinatário/arquivo seguinte não atribuído: diálogo conduz a Brilha Tua Luz, com P-08/P-15 abertas. Sustentação de Q04 sob diálogo é proposta, não cue aprovado. Sem música própria, master, timecodes ou forma de onda; duração medida no ensaio.
+**Costura/controle:** recebe MM-14/Victor no estado frio Q10, três pessoas afastadas e calor residual. Entra em “Enquanto Ele estava na terra, Ele curou, ensinou e perdoou as pessoas”; mudança visual no início de “Ele curou”, a ensaiar. Contrastar isolamento com proximidade humana e calor. Não transportar as detentas nem a casa para a história bíblica. Destinatário/arquivo seguinte não atribuído: diálogo conduz a Brilha Tua Luz, com P-08/P-15 abertas. Sustentação de Q04 sob diálogo é proposta, não cue aprovado. Sem música própria, master, timecodes ou forma de onda; duração medida no ensaio.
 
 **Contrato visual proposto:** ilustração cinematográfica realista e reverente, ambientes bíblicos simples de pedra clara, terra e vegetação discreta. Jesus adulto de aparência levantina, pele oliva, cabelos escuros ondulados até os ombros, barba curta, túnica de linho cru e manto bege; mesma identidade nos quatro quadros. Esta aparência é estudo artístico sem equivalência aprovada com ator ou outras MMs. Poucos figurantes adultos com roupas terrosas. Referência de identidade entre peças ainda não recebida. Não especificar milagres, personagens bíblicos ou passagens que o texto não nomeia.
 
@@ -1583,3 +1594,5 @@ Usuário solicita cada imagem correspondente aos quatro quadros antes da publica
 **MM-15-Q03 · base v01:** [MM15-Q03.png](MM-15/MM15-Q03.png), PNG 1672×941, 2588389 bytes. Original `/workspace/generated_images/exec-96acd5a0-cee8-476d-b9dd-35e5a7bc95bd.png`. Referências enviadas: prancha MM-15 v01 + Q01 piloto. Prompt efetivo: [Q03](MM-15/prompt-individual-Q03.txt). Inspeção: imagem limpa, mulher com tecido vinho terroso à esquerda e cabeça baixa, Jesus à direita à sua altura com mão aberta natural; identidade/figurino coerentes e gesto legível, sem acusadores. Expansão ambiental inclui água ao fundo, sem geografia canônica presumida. Tamanho nativo preservado, não 4K; aprovação, animação e teste LED pendentes.
 
 **MM-15-Q04 · base v01:** [MM15-Q04.png](MM-15/MM15-Q04.png), PNG 1672×941, 2519545 bytes. Original `/workspace/generated_images/exec-decd1513-7db8-433b-ae49-e67a50926cf0.png`. Referências enviadas: prancha MM-15 v01 + Q01 piloto. Prompt efetivo: [Q04](MM-15/prompt-individual-Q04.txt). Inspeção: imagem limpa, Jesus centro-direita com mão no ombro do homem de costas, grupo integrado e expressões acolhedoras; rosto e vestes coerentes com piloto. Mais calor e proximidade, sem aura ou efeitos mágicos. Tamanho nativo preservado, não 4K; aprovação, animação e teste LED pendentes.
+
+

@@ -1,124 +1,103 @@
 # Mapa de cenas
 
-Cruzamento do roteiro com o briefing: o que está no palco, o que está no telão e quando cada peça dispara. As colunas "Gatilho" usam a fala ou o momento exato do roteiro. Onde roteiro e briefing não batem, há uma nota ⚠️ com o código da pendência correspondente.
+Para montar e ensaiar, siga o [Roteiro de montagem do telão](../guias/cena-a-cena/pdf/HESED-roteiro-de-montagem.pdf). Leia cada deixa na ordem do palco: fala ou ação, entrada da música, imagem a sustentar e sinal de saída.
 
-Progressão macro do espetáculo: **cotidiano → criação → queda → promessa → luz → nascimento → graça → celebração.**
+**Atualização conciliada:**16/11/2026, a pedido de Victor. O [feedback recebido da produção](fontes/feedback-producao-2026-11-16.md) e o [plano detalhado das nove cenas](plano-ajustes-2026-11-16.md) atualizam os gatilhos expressos abaixo. O roteiro/briefing originais foram preservados. Informações omitidas pelo feedback continuam no planejamento de origem; não significam cancelamento.
 
----
+Referências e aprovações não são execução final. Onde há arquivo, quadro ou responsável por confirmar, não criar decisão por inferência. Tempos de palco são variáveis; os gatilhos abaixo não são timecodes de ensaio.
 
-## Bloco I
+## Cena1 · Abertura, exterior e recap
 
-### Cena 1 · Pós-libertação (exterior da prisão no telão; sem cadeia física)
+**Quem fecha:** Victor.
 
-| Ordem | Gatilho | Telão | Música | Responsável |
-| --- | --- | --- | --- | --- |
-| 1 | Abertura da cortina | **MM-01** exterior/entrada da prisão | - | Victor |
-| 2 | Cena congela no meio da discussão ("ENTRA VÍDEO") | **MM-02** flashback de Goel com narração ("vamos voltar um pouquinho na história"). Ao terminar, a cena volta instantaneamente | - | Victor |
-| 3 | "Bora trocar ideia em outro lugar" | ⚠️ sem peça atribuída (P-08) | Quebrando as Correntes | - |
-| 4 | Cortina fechada, retirada de cenário | ? | Fundo tipo elevador/telemarketing | - |
-
-> **Direção consolidada (D-14):** Bíblia v0.1 §§2.2/3/16 substitui a estrutura física da cadeia pelo exterior/entrada/corredor exterior no telão; sem correntes nem cruz física na abertura. O roteiro mantém Jesus saindo pelo corredor central enquanto as detentas aguardam congeladas; depois se levantam. Distinguir esse congelamento do segundo, durante a discussão para MM-02. Ao terminar MM-02, retomar a mesma ambientação de MM-01. A omissão de Quebrando as Correntes na lista musical da Bíblia não confirma retirada (P-08/P-15). Ver [alinhamento das fontes](alinhamento-das-fontes.md).
-
-### Cena 2 · Transição (sala da casa da Religiosidade)
-
-| Ordem | Gatilho | Telão | Música | Responsável |
-| --- | --- | --- | --- | --- |
-| 1 | Após a transição | **MM-03** fundo da sala (permanece até a Cena 3) | - | Victor |
-
----
-
-## Bloco II
-
-### Cena 3 · O princípio, a queda e o plano de redenção
-
-| Ordem | Gatilho | Telão | Música | Responsável |
-| --- | --- | --- | --- | --- |
-| 1 | "Não tinha dor" | **MM-04** criação perfeita (loop) | Há Muito Tempo Atrás (dança) | Melissa |
-| 2 | "Deu errado quando o ser humano escolheu viver longe de Deus" | **MM-05** queda, silhuetas de luz. Luz do palco fica mais pesada | - | Lucas |
-| 3 | "Enviando alguém pra nos salvar" | **MM-06** regressão: cruz → milagres → infância → bebê | - | Isaac |
-| 4 | Diálogo "vibe de herói", "gente boa", "Belém do Pará" | **MM-06** segue no **loop do bebê** ⚠️ duração variável, ver nota | - | Isaac |
-| 5 | Após "faz bem mais sentido mesmo" (Ladra) | **MM-07** playback | Nasceu em Belém | Eduardo |
-
-> ⚠️ **Nota MM-06/MM-07:** o briefing diz que o MM-07 entra "imediatamente após a regressão terminar no bebê", mas no roteiro há um bloco de diálogo entre os dois. O MM-06 precisa terminar num loop do bebê que segure esse diálogo, e o MM-07 precisa começar desse mesmo frame. Registrado como decisão proposta D-01.
-
-### Cena 4 · O plano (volta à sala)
-
-| Ordem | Gatilho | Telão | Música | Responsável |
-| --- | --- | --- | --- | --- |
-| 1 | Início da cena | **MM-03** sala (retorno) | - | Victor |
-| 2 | "É receber perdão e ter a dívida paga mesmo sendo culpado" | **MM-08** montagem de arquivo de Goel, detentas sendo libertas | Maravilhosa Graça (Julia Vitória) | Isaac |
-
-> ⚠️ MM-02 (Victor) e MM-08 (Isaac) usam o mesmo arquivo de Goel. Combinar a divisão dos takes para o público não ver as mesmas imagens duas vezes (P-04).
-
----
-
-## Bloco III
-
-### Cena 5 · Jesus, a luz do mundo
-
-| Ordem | Gatilho | Telão | Música | Responsável |
-| --- | --- | --- | --- | --- |
-| 1 | "Séculos antes de Jesus nascer, houveram vários profetas" | **MM-09** profetas (loop) | - | Melissa |
-| 2 | "No princípio Ele já estava lá" | **MM-10** Cristo eterno / universo / criação | - | Eduardo |
-| 3 | "...ele nos trouxe pra Luz" | **MM-11** playback. Personagens do presépio entram e compõem a cena durante a música | Luz do Mundo | Isaac |
-| 4 | Diálogo sobre Maria, o anjo, José, manjedoura | ⚠️ sem peça atribuída (P-09) | - | - |
-| 5 | "...Não tô gostando do seu tom não, papo reto" | ? | Ó Noite Santa | ⚠️ P-07 |
-
-> ⚠️ O roteiro diz que "o telão vai acompanhando a narração da história" durante Luz do Mundo; o briefing pede um playback abstrato de luz. Confirmar com a direção (P-10).
-
-### Cena 6 · A gravidez (recenseamento, viagem, sem hospedagem)
-
-| Ordem | Gatilho | Telão | Música | Responsável |
-| --- | --- | --- | --- | --- |
-| 1 | "Foi decretado que todo mundo precisava voltar pra sua cidade" | **MM-12** viagem → Belém → cidade → noite → sem hospedagem → estábulo | - | Lucas |
-
-### Cena 7 · O nascimento
-
-| Ordem | Gatilho | Telão | Música | Responsável |
-| --- | --- | --- | --- | --- |
-| 1 | "Maria deu à luz ali mesmo" | **MM-12** termina no estábulo e entrega o espaço | - | Lucas |
-| 2 | Anúncio aos pastores, multidão de anjos | **MM-13** noite → estrela → campo → pastores → céu se abrindo → anjos | Santo pra Sempre (e/ou Ó Noite Santa, P-07) | Eduardo |
-
-> ⚠️ A ordem do roteiro nas Cenas 5 a 7 é não linear: a manjedoura é citada e Ó Noite Santa toca **antes** da viagem e do recenseamento da Cena 6. O briefing já admite que a posição musical do MM-13 depende do roteiro técnico fechado.
-
----
-
-## Bloco IV
-
-### Cena 8 · Resumo da história
-
-| Ordem | Gatilho | Telão | Música | Responsável |
-| --- | --- | --- | --- | --- |
-| 1 | "Nos atolamos em nossos pecados e nos aprisionamos" | **MM-14** resumo dos pecados | - | Melissa |
-| 2 | "Ele curou, ensinou e perdoou as pessoas" | **MM-15** vida e atos de Jesus (contraste com MM-14) | - | Lucas |
-| 3 | "ELE NASCEU, E ISSO MUDA TUDO" | ⚠️ sem peça atribuída (P-08) | Brilha Tua Luz | - |
-| 4 | Cortina fecha, troca de cenário e roupa | ? | - | - |
-
-### Cena 9 · Graça (filme final)
-
-| Ordem | Gatilho | Telão | Música | Responsável |
-| --- | --- | --- | --- | --- |
-| 1 | Abertura | **MM-16A** cegueira → visão | Maravilhosa Graça (Samuel Mizrahy) | Melissa |
-| 2 | | **MM-16B** prisão → liberdade | ↓ | Lucas |
-| 3 | | **MM-16C** nascimento → vida | ↓ | Isaac |
-| 4 | | **MM-16D** morte → ressurreição → luz, clímax e efeitos de palco | ↓ | Eduardo |
-| - | | **MM-16** conform/master (um único filme) | | Lucas |
-
-> ⚠️ O roteiro descreve "detentas vendadas e agora enxergando". Se isso significa usar as atrizes, é preciso agendar gravação (P-05). Essa versão de Maravilhosa Graça é diferente da Cena 4; a duração dela define quanto tempo cada módulo tem (P-06).
-
----
-
-## Músicas na ordem
-
-| # | Cena | Música | Peça no telão |
+| Gatilho / ordem | Telão / palco | Som / luz | Produção e limites |
 | --- | --- | --- | --- |
-| 1 | 1 | Quebrando as Correntes (Wagner Oliveira) | ⚠️ nenhuma |
-| 2 | 1→2 | Fundo sonoro de transição | ? |
-| 3 | 3 | Há Muito Tempo Atrás (Crianças Diante do Trono) | MM-04 |
-| 4 | 3 | Nasceu em Belém (Marcus Salles) | MM-07 |
-| 5 | 4 | Maravilhosa Graça (Julia Vitória) | MM-08 |
-| 6 | 5 | Luz do Mundo (Fernandinho) | MM-11 |
-| 7 | 5 | Ó Noite Santa (Pedras Vivas) | ? (P-07) |
-| 8 | 7 | Santo pra Sempre | MM-13 |
-| 9 | 8 | Brilha Tua Luz (Aline Barros e Isaias Saad) | ⚠️ nenhuma |
-| 10 | 9 | Maravilhosa Graça (Samuel Mizrahy) | MM-16 |
+| Abertura | Prisioneiras no corredor/teletransporte; costas→frontal→luz/desvanecimento→exterior apagado sem detentas projetadas | Canto dos anjos na entrada da luz branca | Victor/MM-01; imagens canônicas aprovadas, préviaV04 de13s/24fps em revisão. Definir início da luz versus branco pleno. |
+| Exterior / saída de Jesus | Jesus sai andando no palco; começa conversa | Cues ao vivo | Sustentar exterior V06; não duplicar as personagens projetadas após a passagem ao palco. |
+| Discussão congela | Entra recap MM-02, referido como vídeo “todo mundo odeia o Chris” | B01A→B01B→B02–B06→B07–B14 | Victor; cinco highlights aprovados, filme integral pendente. Não confundir com o congelamento inicial da saída de Jesus. |
+| Fim do recap | Descongela e retoma conversa no mesmo exterior | Retorno imediato | Sem nova abertura/cauda/black adicionados por iniciativa do editor. |
+| Quebrando as Correntes | Número mantido; conteúdo LED ainda por definir | Referência “vibe jhony jhony” | Victor compara os fundos com a produção usando o MP3 local de 3min44s. |
+| Fecha cortina | Retirada/transição | Fundo elevador/telemarketing | Arquivo e operação a confirmar. |
+
+## Cena2 · Casa da Mari
+
+**Quem fecha:** Victor.
+
+Chegada à mesa: **cozinha à direita, preto à esquerda, vista pela plateia**, confirmado por Victor. Referência MM-03/V03 preservada; enquadramento/máscara e cue de mudança a validar. Não gerar nova casa por causa deste estado de operação.
+
+## Cena3 · Criação, queda, promessa e Nasceu em Belém
+
+**Quem fecha:** Isaac.
+
+| Gatilho | Telão / palco | Som / luz | Responsável de origem / conferência |
+| --- | --- | --- | --- |
+| Explicação da criação | Referência MM-04/criação; o roteiro antigo marca “Não tinha dor” para mudança visual | Música entra **durante** “Deus criou tudo perfeito”, crescendo; mesa amarela, foco branco inicial em Alana | Isaac/MM-04. Conciliar entrada de som e mudança visual; a frase não encerra toda a Cena3. |
+| “Então Deus falou haja luz” | Continuidade do número | Expansão verde clara; retirar foco de Alana | Marcar no áudio/interpretação real. |
+| Fim da música | Volta cozinha direita/preto esquerda | Volta luz na mesa | Operação MM-03. |
+| “Deu errado quando o ser humano escolheu viver longe de Deus” | MM-05/queda | Luz mais pesada conforme roteiro | Isaac; V03 aprovada preservada. Não cancelada pelo feedback resumido. |
+| “Enviando alguém pra nos salvar” | MM-06/regressão→bebê e sustentação do diálogo | Fala variável | Isaac; costura ao MM-07 ainda depende do planejamento e material real. |
+| Nasceu em Belém | Vídeo das estrelas, conforme feedback | Laranja e azul | Conferir MM-07/Isaac e sua entrada a partir de MM-06; não cancelar costura do bebê sem confirmação. |
+
+## Cena4 · Graça / arquivo da Páscoa
+
+**Quem fecha:** Isaac.
+
+Casa em cozinha direita/preto esquerda. Durante **Maravilhosa Graça desta cena**, vídeo com cortes da Páscoa/MM-08 e luz roxo claro. Responsável original Isaac; combinar a lista de takes com Victor/MM-02 (P-04). Não confundir com a versão musical do filme final/Cena9.
+
+## Cena5 · Profetas, Luz do Mundo e Noite Santa
+
+**Quem fecha:** Isaac.
+
+| Gatilho | Telão / palco | Som / luz | Conferência |
+| --- | --- | --- | --- |
+| Profetas / imaginação de Mari | MM-09, entrada com referência “as visões da raven” | Efeito ainda não detalhado | Isaac; não implica usar trecho da série ou mudar o tom bíblico. |
+| Explicação de Cristo eterno | MM-10/universo conforme roteiro de origem | Fala | Isaac; omitido no feedback não significa retirado. |
+| Luz do Mundo | Vídeo do “mundinho” | Luz toda branca | Isaac/MM-11; identificar arquivo e versão (P-10/P-18). |
+| Fim da música | Retorno cozinha/preto; **agora** entram personagens | Maria/anjo embaixo junto ao teclado; depois José/anjo junto à bateria, com focos | Atualiza a entrada antiga durante a música. Não converter posições dos instrumentos sem planta. |
+| Noite Santa | **MM-13**, antes de MM-12 | Luz leve, considerando figurino roxo escuro | Isaac/Eduardo: rever a seleção e a costura; cor/cue definitivo ainda pendentes. |
+
+## Cena6 · Viagem, Belém e abrigo
+
+**Quem fecha:** Eduardo.
+
+MM-12/Eduardo: caminho→Belém→chegada→abrigo. O feedback também menciona “anjos louvando” aqui; a Cena7 dá um cue explícito para a multidão. **Conferir a segmentação, sem antecipar os anjos por decisão do editor** (P-17). Preservar a prancha e Q01–Q06 remotos aprovados/revisados conforme D-44–D-47.
+
+## Cena7 · Nascimento e Santo pra Sempre
+
+**Quem fecha:** Eduardo.
+
+| Gatilho | Telão / palco | Luz / operação |
+| --- | --- | --- |
+| Início / diálogo | Sustentar **MM12-Q06**, estábulo vazio | Fala variável; loop/pausa a definir. |
+| “uma multidão de anjos apareceu” | Entrar variante com vários anjos baseada/incluída sobre Q06 | A baseQ06 disponível não contém anjos. Identificar variante ou planejar nova, preservando original (P-17). |
+| Santo pra Sempre | Eduardo produz gerações louvando. Maria, José e manjedoura junto à bateria. | Definir luz após ver o vídeo. |
+| Fim da música | Sai manjedoura; retorna cozinha direita/preto esquerda | Cue pelo fim musical. |
+
+## Cena8 · Recapitulação, afirmação e Brilha Tua Luz
+
+**Quem fecha:** Eduardo.
+
+1. Entra a sequência chamada MM15 no feedback: refresh/rebobinar dos pecados→nascimento com imagens já usadas→ensinou/curou/etc. O material de pecados era MM14/Eduardo e vida/atosMM15/Eduardo; integrar sem apagar a autoria ou considerar módulos cancelados.
+2. Em “ele já nos libertou”, voltar à sala. Usar a mesma panorâmica noturna iluminada Q11.
+3. Em “Ele nasceu, e isso muda tudo”, texto em destaque e Jesus bebê, com reaproveitamento de fonte aceita e revisão de legibilidade.
+4. Eduardo prepara o vídeo próprio de Brilha Tua Luz. Conceito e versão de palco seguem para revisão.
+5. O roteiro mantém fechamento de cortina para troca; cue final da operação a conferir.
+
+## Cena9 · Filme final único e luzes de Natal
+
+**Quem fecha:** Victor.
+
+Victor produz a MM-16 inteira, incluindo seleção ou criação das imagens, eventual gravação, edição, finalização e entrega direta à operação. A–D identificam referências de acervo. O filme independe de qualquer material a preparar, separar ou enviar pelos demais.
+
+O feedback pede seleção “Q07 em diante”, sem as seis primeiras; identificar a prancha antes de cortar, pois MM16D-Q07 é apenas uma hipótese (P-16). **A dança sai deste número**, o trecho falado da música ganha ênfase audiovisual e as luzes de Natal recebem impacto no último refrão. Não cancelar outras danças ou excluir arquivos por causa desse corte de seleção.
+
+Master musical, roteiro detalhado, plano do filme, cues e ensaio pendentes. Não adotar duração comercial/estimativa antiga como áudio definitivo.
+
+## Costuras e pendências comuns
+
+- MM01→MM02→mesmo exterior/palco: guia e estado em [produção de Victor](producao-victor/README.md).
+- MM04→MM05 e MM06→MM07: preservar os mundos e os frames de passagem de origem.
+- MM09→MM10→MM11: manter continuidade; “mundinho” não identifica sozinho o arquivo.
+- MM13 em Noite Santa→MM12/estábulo→anjos/gerações: atualizar a operação e confirmar responsáveis das novas unidades.
+- MM14→MM15: recapitulação integrada sem apagar os trabalhos remotos existentes.
+- [Pendências](pendencias.md): masters, P-01/P-12 (operação LED), P-04 (Goel), P-13 (backup compartilhado), P-16/Q07, P-17/anjos e P-18/materiais/cues. O feedback atual não é a transcrição da reunião antiga P-14.

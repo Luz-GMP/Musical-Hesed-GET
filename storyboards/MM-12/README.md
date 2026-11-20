@@ -1,15 +1,21 @@
 # Storyboard · MM-12 · Viagem, cidade e estábulo
 
+**Uso no espetáculo.** [Cena 6](../../guias/cena-a-cena/cena-06.md) reúne a fala de entrada, o que o palco faz e até quando sustentar esta imagem. [Roteiro de montagem do telão](../../guias/cena-a-cena/pdf/HESED-roteiro-de-montagem.pdf), página 7.
+
+**Distribuição vigente · 19/11/2026.** Victor fecha as Cenas 1, 2 e 9. Isaac fecha as Cenas 3, 4 e 5. Eduardo (Dudu) fecha as Cenas 6, 7 e 8. Cada pessoa prepara e entrega suas cenas diretamente à operação. A MM-16 é integralmente de Victor. As músicas em ajuste por Isaac seguem a partir das versões existentes. [Guia de execução por pessoa](../../guias/cena-a-cena/quem-faz-as-musicas.md)
+
+**Para executar agora.** Eduardo assume a viagem e sustenta o Q06 vazio até a fala da multidão na cena seguinte. [Falas e deixas da Cena 6](../../guias/cena-a-cena/cena-06.md).
+
 **HESED 2026 · v03 consolidada · 24/10/2026 · Codex, a pedido do usuário.** Prancha consolidada aprovada pelo usuário em 24/10/2026 (D-47); seis imagens individuais v01 geradas, ainda para revisão. Sem aceite técnico LED. Estilo realista e cinematográfico, reverente.
 
 | Campo | Definição |
 | --- | --- |
-| Responsável | Lucas |
+| Responsável | Eduardo |
 | Cena / bloco | 6–7 · Bloco III |
 | Objetivo | Tornar legível a viagem até o abrigo simples, apoiando falas e montagem física do presépio. |
 | Entrada | Religiosidade: “Naquela época, foi decretado que todo mundo precisava voltar pra sua cidade de origem por causa de um recenseamento.” |
-| Recebe de | Frame/peça imediatamente anterior não definidos. Não assumir costura direta com MM-11 ou retorno confirmado à casa: P-09/P-15. |
-| Entrega para | MM-13 · Eduardo: noite, horizonte, paleta e localização do estábulo. |
+| Recebe de | Ver primeiro e último quadro no guia vigente da cena. |
+| Entrega para | Ver primeiro e último quadro no guia vigente da cena. |
 | Controle / música | Falas de duração variável, avanço pelo operador. Sem música própria atribuída ou tempos medidos. |
 | Drive / saída | P-13; matriz/fps/codec P-01; configuração de loops P-12. |
 
@@ -92,8 +98,9 @@ Dissoluções, aproximação lenta só na entrada e variação ambiental cíclic
 
 ## Fontes e registro
 
-Consultados: [guia](../guia-de-construcao.md), [caderno](../briefings-dos-quadros.md#mm-12--viagem-cidade-e-estábulo), [briefing MM-12](../../docs/briefing.md), [roteiro Cenas 6–7](../../docs/roteiro.md#cena-6-a-gravidez), [mapa](../../docs/mapa-de-cenas.md), [dependências](../../docs/dependencias.md), [Lucas](../../equipe/lucas.md), [decisões](../../docs/decisoes.md), [alinhamento](../../docs/alinhamento-das-fontes.md), [Bíblia v0.1](../../docs/fontes/HESED_Biblia_de_Producao_v0_1.md) §§2.1, 3/Cenas 6–7, 4.1, 5.1–5.2, 9/BIB-Q015–Q018. Cues BIB não são IDs de quadros. Transcrição original não recebida (P-14).
+Consultados: [guia](../guia-de-construcao.md), [caderno](../briefings-dos-quadros.md#mm-12--viagem-cidade-e-estábulo), [briefing MM-12](../../docs/briefing.md), [roteiro Cenas 6–7](../../docs/roteiro.md#cena-6-a-gravidez), [mapa](../../docs/mapa-de-cenas.md), [dependências](../../docs/dependencias.md), [Victor](../../equipe/eduardo.md), [decisões](../../docs/decisoes.md), [alinhamento](../../docs/alinhamento-das-fontes.md), [Bíblia v0.1](../../docs/fontes/HESED_Biblia_de_Producao_v0_1.md) §§2.1, 3/Cenas 6–7, 4.1, 5.1–5.2, 9/BIB-Q015–Q018. Cues BIB não são IDs de quadros. Transcrição original não recebida (P-14).
 
 Histórico preservado em [v01](<versoes/v01/STB MM12.png>), [v02](<versoes/v02/STB MM12.png>) e [v03 anterior à restauração](<versoes/v03/STB MM12.png>). A v02 continua rejeitada quanto às ruas, mas seu Q06 foi selecionado expressamente para restauração. Q03/Q04/Q05 da v03 aprovados em D-46 e preservados integralmente.
 
 Restauração em 24/10/2026 por composição do painel existente, sem geração nova: retângulo 534 × 276 px na posição x=1118, y=466, incluindo sua moldura. Comparação ImageMagick AE=0 entre Q06 restaurado e v02; AE=0 em toda a região exterior ao retângulo entre prancha consolidada e v03. Isso comprova a preservação dos demais painéis, títulos e rodapé. Cabeçalho impresso v03 mantido. PNG 1672 × 941 px; aprovação não equivale a animação ou teste LED.
+

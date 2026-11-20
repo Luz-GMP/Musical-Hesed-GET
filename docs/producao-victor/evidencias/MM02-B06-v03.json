@@ -1,0 +1,16 @@
+{
+  "sourceLocal": "acompanhamento/MM02-highlights/B06-v03/aprovacao.json",
+  "kind": "Registro historico de aprovacao/entrega; caminhos normalizados para o workspace local.",
+  "record": {
+    "version": 3,
+    "state": "approved",
+    "by": "Victor",
+    "date": "2026-10-23",
+    "evidence": "Muito bom, aprovado, já salvei o arquivo. Qual que é o próximo passo agora pra gente prosseguir?",
+    "savedBy": "Victor",
+    "savedPath": "MMs Victor/MM02 - Hesed/MM02 -Aprovados/MM02-B05-Profanaçao-e-Religiosidade-v03-aprovado-1080p.mp4",
+    "sha256": "faa77204d7ab6fff064d53b6ed22f9534c9105358d60eed7542483362cf9db84",
+    "matchesV03": true,
+    "note": "Nome do usuário contém B05, mas o conteúdo é B06 Profanação e Religiosidade. Nome preservado."
+  }
+}

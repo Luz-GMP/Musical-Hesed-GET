@@ -1,0 +1,6 @@
+node_modules
+out
+saida
+*.mp4
+.DS_Store
+.whisper

@@ -1,16 +1,16 @@
 # Plano de produção por código · MM-07 · Nasceu em Belém
 
-**Responsável/direção:** Eduardo · **Versão/data:** v01 · 24/10/2026
-**Situação:** em preparação; revisão de plano e configuração pendentes
+**Responsável/direção:** Isaac · **Versão/data:** v02 · 20/11/2026
+**Situação:** em preparação; piloto Q03 aguardando conexão autorizada e revisão
 **Procedimento:** [edição com agentes](../../guias/edicao-de-video-com-agentes.md), D-37.
 
 ## Contexto e fontes
 
-- **Peça, cena, função, gatilho:** MM-07, Cena 3/Bloco II, playback visual de *Nasceu em Belém* (Marcus Salles). Entra após a fala da Ladra: “...desse jeito aí faz bem mais sentido mesmo”.
-- **Recebe de / entrega para:** recebe o frame/loop final do bebê do MM-06; D-01 é proposta ainda aberta. A saída retorna à sala MM-03 na Cena 4, com cue de operação ainda não fechado.
-- **Fontes consultadas:** [CLAUDE.md](../../CLAUDE.md), [CODEX.md](../../CODEX.md), [guia de construção](../guia-de-construcao.md), [caderno de quadros](../briefings-dos-quadros.md#mm-07--nasceu-em-belém), [Bíblia v0.1](../../docs/fontes/HESED_Biblia_de_Producao_v0_1.md), [alinhamento](../../docs/alinhamento-das-fontes.md), [briefing](../../docs/briefing.md), [roteiro](../../docs/roteiro.md), [mapa](../../docs/mapa-de-cenas.md), [Eduardo](../../equipe/eduardo.md), [decisões](../../docs/decisoes.md), [pendências](../../docs/pendencias.md), [dependências](../../docs/dependencias.md), [MM-12](../MM-12/README.md), [guia operacional](../../guias/edicao-de-video-com-agentes.md) e [revisão da skill](../../guias/revisao-ai-filmmaker-2026-10-20.md).
-- **Escopo autorizado agora:** consolidar o plano, auditar os assets existentes e preparar a primeira unidade de prévia. Não declarar sincronização, aprovação ou render final sem master, configuração e QA.
-- **Unidade atual:** C01 — abertura/costura MM-06 → MM-07. Produzir uma unidade por vez; os demais quadros ficam como estrutura de montagem, sem antecipar aprovação.
+- **Peça, cena, função, gatilho:** MM-07, Cena 3, playback visual de *Nasceu em Belém* (Marcus Salles). Entra depois da conversa sobre Belém da Judeia; a deixa exata deve ser ensaiada.
+- **Recebe de / entrega para:** recebe a última imagem do bebê do MM-06 e compara com o primeiro céu; D-01 continua aberta. Entrega a passagem para a operação e depois retorna à casa conforme o guia da Cena 3.
+- **Fontes consultadas:** [CLAUDE.md](../../CLAUDE.md), [CODEX.md](../../CODEX.md), [guia de construção](../guia-de-construcao.md), [caderno de quadros](../briefings-dos-quadros.md#mm-07--nasceu-em-belém), [Bíblia v0.1](../../docs/fontes/HESED_Biblia_de_Producao_v0_1.md), [alinhamento](../../docs/alinhamento-das-fontes.md), [briefing](../../docs/briefing.md), [roteiro](../../docs/roteiro.md), [guia vigente da Cena 3](../../guias/cena-a-cena/cena-03.md), [mapa](../../docs/mapa-de-cenas.md), [Isaac](../../equipe/isaac.md), [decisões](../../docs/decisoes.md), [pendências](../../docs/pendencias.md), [dependências](../../docs/dependencias.md), [MM-12](../MM-12/README.md), [instrução do piloto](instrucao-antigravity.md), [guia operacional](../../guias/edicao-de-video-com-agentes.md) e [revisão da skill](../../guias/revisao-ai-filmmaker-2026-10-20.md).
+- **Escopo autorizado agora:** preparar um único take piloto da viagem MM07-Q03, revisar o movimento inteiro e aguardar aceite explícito antes de outros takes. Não declarar sincronização, aprovação ou render final sem motor autorizado, master/configuração e QA.
+- **Unidade atual:** piloto MM07-Q03. O céu estrelado e os demais quadros ficam como seleção posterior; não antecipar montagem integral.
 - **Destino/especificação:** telão do HESED; resolução, proporção operacional, FPS, codec, áudio embutido e tratamento de loops pendentes em P-01/P-12. A referência 3840×2160 é das imagens-base, não do vídeo final.
 
 ## Materiais e referências
@@ -23,7 +23,8 @@
 | A04 | [MM-06/README.md](../MM-06/README.md) | Sem frame, loop ou vídeo anexado | Costura de entrada e identidade do bebê | Ausente; solicitar a Isaac |
 | A05 | Arquivo master de *Nasceu em Belém* | Nenhum áudio encontrado no repo | Medir duração, forma, onsets e frases | Ausente · P-02 |
 | A06 | Resolução/FPS/codec do telão | Nenhum parâmetro confirmado | Configuração de saída e QA | Ausente · P-01 |
-| A07 | [preview-mm07-q01-parallax-v02.html](preview-mm07-q01-parallax-v02.html) | Estudo interativo, 15 s, sem áudio; JS determinístico com `renderAtTime(t)` | Piloto MM07-Q01: base preservada com três máscaras de profundidade | V02 produzida; auditoria estrutural local conferida em 20/11; não aprovada |
+| A07 | [preview-mm07-q01-parallax-v02.html](preview-mm07-q01-parallax-v02.html) | Estudo interativo, 15 s, sem áudio; JS determinístico com `renderAtTime(t)` | Histórico Q01: base preservada com três máscaras de profundidade | V01/V02 rejeitadas; não usar como take atual |
+| A08 | [instrucao-antigravity.md](instrucao-antigravity.md) | Instrução vigente do piloto Q03 | Q03 como primeiro quadro; avanço da comitiva, câmera quase fixa, take curto 16:9 | Plano/prompt preparados; gerador autorizado ausente |
 
 O repositório não contém áudio, vídeo, projeto de edição, FFmpeg, Playwright ou plugin de composição instalado nesta sessão. As referências `PhotoCraft`, `VectorCraft`, `FilmCraft` e `EffectCraft` foram verificadas como não instaladas; não foram chamadas nem substituídas silenciosamente. A prévia HTML usa apenas a base local e não constitui render final.
 
@@ -31,28 +32,26 @@ O repositório não contém áudio, vídeo, projeto de edição, FFmpeg, Playwri
 
 | Bloco / quadro | Tempo e fonte | Visual / movimento | Transição | Situação |
 | --- | --- | --- | --- | --- |
-| **Abertura · MM07-Q01** | Estudo visual de 15 s conforme rótulo da prancha; master e frame MM-06 pendentes | Céu/fundo, montanhas intermediárias e terreno em parallax independente; V02 nítida, com primeiro plano em deslocamento maior e câmera em push-in/deriva diagonal contínuos. | Costura sem apagar o bebê de forma brusca; Q01 ou Q07/Q08 são alternativas de abertura, não decisão | Prévia v02 produzida; revisão pendente |
-| **C02 · expectativa / estrela** (Q01–Q02) | A definir com master | Belém distante, céu e estrela; zoom/parallax/halo discretos | Dissolução e elevação de câmera | Estrutura de montagem |
-| **C03 · aproximação humana** (Q03–Q05) | A definir com master; não usar os tempos impressos como medição | Viagem, rua e busca por acolhimento; pessoas projetadas apenas onde o quadro exigir e sem competir com o palco | Avanços lentos/dissoluções; sem animar marcha ou porta sem validação | Estrutura de montagem; conferir com MM-12 |
-| **C04 · abrigo / nascimento** (Q06–Q08) | A definir com master | Espaço humilde → família/bebê → expansão de luz; reservar o maior brilho para Q08 sem estourar textura | Parallax curto, aproximação e partículas em camadas | Estrutura de montagem; conferir com MM-06/MM-12 |
-| **C05 · impacto / saída** (Q09–Q10) | A definir com master | Pastores como breve retorno exterior; Belém/estrela sustentam esperança | Recuperação visual e saída para MM-03 a combinar | Estrutura de montagem; não confundir com MM-13 |
+| **Piloto · MM07-Q03** | Take curto; duração, resolução e cadência a registrar no arquivo real | Maria sobre o jumento e José avançam alguns passos rumo a Belém, mantendo identidade, proporções, figurino, montaria, horizonte, arquitetura, luz e paleta | Câmera quase fixa; sem zoom, ondulação, esticamento, cintilação ou transformação entre artes | Plano pronto; gerador autorizado ausente |
+| **Seleção posterior · céu estrelado** (Q01–Q02) | A definir após comparação com o último frame do MM-06 e escolha da produção | Céu com duas intensidades de estrela; pode sustentar o recorte de 30–45 s conforme o guia da Cena 3 | Dissolução/variação de brilho somente após teste e aprovação | Acervo para revisão; não produzir agora |
+| **Acervo posterior · Q04–Q10** | A definir com direção e faixa | Cidade, abrigo, nascimento, pastores e encerramento permanecem estudos do storyboard | Não antecipar nem duplicar MM-12/MM-13 | Não iniciar antes do aceite do piloto |
 
 ## Direção e implementação
 
 - **Paleta/luz:** azul-noturno, azul profundo, sombra azul e terra/pedra nos exteriores; âmbar de lamparina nos pontos quentes; dourado e branco suave no nascimento. Início frio/quieto, calor humano gradual, clímax íntimo e recuperação esperançosa.
-- **Elementos e continuidade:** cidade/horizonte/estrela coerentes entre Q01/Q02/Q09/Q10; Maria, José, jumento, bebê, manjedoura e figurinos coerentes entre as bases. Os arquivos atuais ainda mostram variações de geografia, escala e continuidade que precisam de decisão/ajuste antes do alpha.
-- **Motor candidato:** HTML/JS com relógio determinístico, Playwright e FFmpeg, por permitir movimento sutil, cenas declarativas, captura por frame e QA; não executar até confirmar disponibilidade e configuração. Remotion é alternativa se a operação real exigir.
+- **Elementos e continuidade:** para o piloto, preservar Q03 integralmente e comparar início/centro/fim com a arte-fonte. O céu do MM-07 deve ser comparado com o último bebê do MM-06; Q04–Q10 também mostram variações de geografia e não estão aprovados para montagem.
+- **Motor candidato:** gerador de vídeo autorizado (Veo ou outro indicado por Victor), usando Q03 como primeiro quadro; se a conexão/autorização não existir, manter apenas plano e prompt. A faixa musical fica na montagem local.
 - **FPS e relógio:** fonte e saída a definir com P-01; usar `t = frame / fps`, preservar taxa racional e registrar arredondamento. Não usar os rótulos de tempo da prancha como FPS/medição.
-- **Música:** master não recebido; não gerar `beats.json`, forma de onda ou sincronização inventada. Depois do recebimento: medir master, gerar candidatos, revisar por escuta e ligar apenas os eventos selecionados a Q01–Q10.
+- **Música:** nenhum MP3/master está no repo. Após o aceite do piloto, receber a faixa de Victor e planejar os takes do ponto 00:36 até o fim; manter relógio da música separado do relógio da edição e não inventar onsets.
 - **Áudio/SFX:** nenhum previsto até a direção ouvir o master. Qualquer efeito procedural será camada separada, versionada e revisada com a prévia.
 - **Texto:** não previsto como lyric video; eventuais frases serão pontos específicos autorizados pela direção.
-- **Prévia isolada:** MM07-Q01 v02 está em [preview-mm07-q01-parallax-v02.html](preview-mm07-q01-parallax-v02.html), 15 s de estudo, silenciosa e sem sincronização. A duração final depende do master. V01 é preservada no histórico, mas foi substituída para revisão por estar pouco perceptível e desfocada.
+- **Prévia isolada:** não há prévia atual do piloto Q03. [preview-mm07-q01-parallax-v02.html](preview-mm07-q01-parallax-v02.html) é apenas histórico rejeitado, silencioso e sem sincronização.
 
 ## Inspeção visual antes do render completo
 
 | Unidade | Entrada/repouso | QA DOM + visual | Correção | Resultado |
 | --- | --- | --- | --- | --- |
-| MM07-Q01 | v02 HTML, t=0 e t=15 s declarados; arquivo real disponível | Auditoria estrutural local conferida: IDs/camadas, `renderAtTime`, controles, 16:9, ausência de `blur()` e valores de movimento em t=0/7,5/15 s. Inspeção visual/movimento no navegador e auditoria DOM real continuam pendentes por falta de Playwright/navegador acessível nesta sessão | A definir após revisão do usuário, disponibilidade do navegador/motor e recebimento do master/frame MM-06 | Prévia para revisão |
+| MM07-Q03 | Imagem-fonte 1376×768 disponível; take ainda não produzido | Inspeção de movimento, deformações, identidade, mãos, anatomia, roupa, montaria, cenário e comparação início/centro/fim ainda pendentes | Produzir somente após conexão/autorização do gerador; corrigir uma variável por tentativa | Não produzido |
 | C02–C05 | A definir com master | Não executado | A definir | Não iniciar antes da aprovação progressiva |
 
 O QA deverá cobrir pelo menos entrada e repouso de cada unidade, continuidade de cidade/estrela/bebê/manjedoura, contraste, clipping, legibilidade a distância, movimento real e reprodução com áudio. Dois frames não substituem assistir à prévia em movimento.
@@ -61,14 +60,14 @@ O QA deverá cobrir pelo menos entrada e repouso de cada unidade, continuidade d
 
 | Unidade | Versão apresentada | Estado | Pendências | Aprovação de Victor |
 | --- | --- | --- | --- | --- |
-| MM07-Q01 | `preview-mm07-q01-parallax-v02.html` · 15 s · sem áudio | Em revisão | D-01, frame MM-06, master P-02, P-01/P-12; QA visual/movimento e aprovação pendentes | Não recebida |
+| MM07-Q03 | Take piloto ainda não produzido | Em preparação | Gerador autorizado, revisão de movimento e aceite explícito; depois faixa de Victor a partir de 00:36 | Não recebida |
 
 A aprovação do storyboard e desta ficha não equivale à aprovação do vídeo. Render integral somente após todas as unidades aprovadas, QA concluído e especificação do telão fechada.
 
 ## Verificação e entrega
 
-- **Preview revisado:** [preview-mm07-q01-parallax-v02.html](preview-mm07-q01-parallax-v02.html), 15 s silenciosos de estudo; auditoria estrutural local conferida em 20/11/2026. Reprodução/movimento no navegador e áudio ainda não verificados.
+- **Preview revisado:** não há take atual. O HTML Q01 V02 foi preservado como histórico rejeitado; sua auditoria estrutural não substitui revisão em movimento.
 - **Render final/metadados:** não executado; falta motor, master e especificação.
 - **Costuras:** roteiro e documentos consultados; continuidade visual com MM-06/MM-12 ainda precisa de material e decisão.
 - **Projeto/assets/backups:** manter vídeo, áudio, projeto e renders fora do Git, na pasta de mídia definida (P-13); cópias leves atuais ficam no repositório.
-- **Próximos passos:** revisar explicitamente a V02; receber master e loop do MM-06; confirmar a abertura e saída; confirmar P-01/P-12; conectar os plugins solicitados ou indicar o motor disponível; então fazer o duplo QA de C01 e apresentar a prévia com áudio para aprovação. Não avançar para C02–C05 antes dessa aprovação.
+- **Próximos passos:** conectar/confirmação de uso do Veo ou gerador indicado por Victor; produzir somente o take Q03 com a imagem-fonte; revisar o take inteiro em movimento; apresentar o piloto identificado para aceite explícito; só então planejar os demais takes com a faixa de 00:36 ao fim. Não renderizar a montagem integral antes das aprovações.

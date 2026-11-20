@@ -1,0 +1,89 @@
+{
+  "sourceLocal": "entregas/MM01/corredor-costas-v01/aprovacao.json",
+  "kind": "Registro historico de aprovacao/entrega; caminhos normalizados para o workspace local.",
+  "record": {
+    "version": "costas-v01",
+    "status": "canonical_approved",
+    "approver": "Victor",
+    "date": "2026-10-23",
+    "quote": "É isso aí ficou perfeito, pode salvar a imagem já ficou muito bom.",
+    "file": "entregas\\MM01\\corredor-costas-v01\\MM01-corredor-costas-canonico-v01.png",
+    "sha256": "873d57015bbaf296928fa6c277adcb186e68a8aaa597befb34a9e837ea2cde51",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "scope": "Imagem pelas costas após o refinamento das alturas; salvar exatamente a imagem apresentada, sem novo ajuste.",
+    "sources": [
+      {
+        "role": "Referência canônica frontal V13",
+        "path": "entregas\\MM01\\corredor-canonico-v13\\MM01-corredor-frontal-canonico-v13.png",
+        "sha256": "dab152c61872be374bea664fa3ec26244fd2a277f6aa00f71b38d620cda983ac"
+      },
+      {
+        "role": "Referência fornecida para câmera/porta/ambiente",
+        "path": "projetos\\MM01-corredor-rostos-v01\\fontes\\referencia-costas.png",
+        "sha256": "e7f1ccc5333a34c23688543c7db9e5ef1dd191ae51785ade5e01a2ff76bc1697"
+      }
+    ],
+    "left_to_right": [
+      {
+        "posicao_costas": 1,
+        "personagem": "Desobediencia"
+      },
+      {
+        "posicao_costas": 2,
+        "personagem": "Adultério"
+      },
+      {
+        "posicao_costas": 3,
+        "personagem": "Autosuficiencia"
+      },
+      {
+        "posicao_costas": 4,
+        "personagem": "Inveja"
+      },
+      {
+        "posicao_costas": 5,
+        "personagem": "Religiosidade"
+      },
+      {
+        "posicao_costas": 6,
+        "personagem": "Ódio"
+      },
+      {
+        "posicao_costas": 7,
+        "personagem": "Mentira"
+      },
+      {
+        "posicao_costas": 8,
+        "personagem": "Profanação"
+      },
+      {
+        "posicao_costas": 9,
+        "personagem": "Ladra"
+      },
+      {
+        "posicao_costas": 10,
+        "personagem": "Idolatria"
+      }
+    ],
+    "process": {
+      "tool": "image_gen.imagegen integrado",
+      "prompts": [
+        "projetos/MM01-corredor-costas-v01/prompt-v01.txt",
+        "projetos/MM01-corredor-costas-v01/prompt-ajuste-alturas.txt"
+      ],
+      "initial_generation": "intermediário de projeto; não aprovado como entrega",
+      "selected_generation": "Origem externa ao workspace; identificador integral preservado apenas no registro local.",
+      "saved_byte_identical_to_selected": true
+    },
+    "checks": {
+      "png_decoded": true,
+      "byte_identical_to_approved_generation": true,
+      "frontal_canonical_hash_unchanged": true,
+      "visual_inspection": "Dez personagens, ordem espelhada, cabelos/biotipos individuais, porta à frente, algemas de tornozelo, mãos à frente encobertas e refinamento de Ladra/Religiosidade conferidos; aprovação artística explícita do usuário."
+    },
+    "limits": "Imagem estática canônica na resolução nativa 1672×941; não é master de vídeo 1920×1080. Sem vídeo, áudio, sincronia ou teste no telão."
+  }
+}

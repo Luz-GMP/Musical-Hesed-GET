@@ -1,5 +1,7 @@
 # MM-02 · Plano de preparação — B01B, vinheta Cia Luz
 
+**Uso no espetáculo.** [Cena 1](../../guias/cena-a-cena/cena-01.md) reúne a fala de entrada, o que o palco faz e até quando sustentar esta imagem. [Roteiro de montagem do telão](../../guias/cena-a-cena/pdf/HESED-roteiro-de-montagem.pdf), página 2.
+
 **Data:** 21/10/2026 · **Direção:** Victor · **Base:** D-38 e [briefing v10, §4.1](briefing-recap.md).<br>
 **Estado:** prévia visual silenciosa V06 aprovada por Victor em 21/10/2026 (D-43); trilha e SFX serão inseridos pessoalmente por Victor.
 

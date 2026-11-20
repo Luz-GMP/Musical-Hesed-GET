@@ -1,0 +1,15 @@
+{
+  "sourceLocal": "acompanhamento/MM02-highlights/B05-v03/aprovacao.json",
+  "kind": "Registro historico de aprovacao/entrega; caminhos normalizados para o workspace local.",
+  "record": {
+    "version": 3,
+    "state": "approved",
+    "by": "Victor",
+    "date": "2026-10-23",
+    "savedBy": "Victor",
+    "savedPath": "MMs Victor/MM02 - Hesed/MM02 -Aprovados/MM02-B05-Inveja-e-Autosuficiencia-v02-aprovado-1080p.mp4",
+    "sha256": "c916276a23e4c3d4171babe7ba3299a9daa04e8820e34b20c94f94ec2f953d86",
+    "matchesV03": true,
+    "note": "Nome fornecido pelo usuário contém v02/Inveja; conteúdo verificado corresponde exatamente à V03 Cobiça. Nome preservado."
+  }
+}

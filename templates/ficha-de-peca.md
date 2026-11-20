@@ -1,15 +1,17 @@
 # MM-XX · [Nome da peça]
 
+Para montar e ensaiar, siga o [Roteiro de montagem do telão](../guias/cena-a-cena/pdf/HESED-roteiro-de-montagem.pdf). Leia cada deixa na ordem do palco: fala ou ação, entrada da música, imagem a sustentar e sinal de saída.
+
 | | |
 | --- | --- |
 | **Responsável** | |
 | **Cena / bloco** | |
 | **Gatilho (fala exata)** | |
 | **Termina em** | |
-| **Música** | |
+| **Música e momento em que entra** | Fala ou ação anterior, versão de palco e o que o público vê durante o número |
 | **Tipo** | still animado / loop / montagem / sequência / animação / playback |
-| **Recebe de** | MM-XX (pessoa): o quê |
-| **Entrega para** | MM-XX (pessoa): o quê |
+| **Imagem anterior** | Arquivo ou estado do palco |
+| **Próxima imagem / deixa para a operação** | Arquivo, fala ou ação |
 | **Pasta no Drive** | |
 
 ## Conceito em uma frase
@@ -27,6 +29,21 @@ Salve a prancha como `STB MM09.jpg` e cada quadro individual como `MM09-Q01.png`
 ## Mapa da música (se playback)
 | Tempo | Momento | Resposta visual |
 | --- | --- | --- |
+
+## Timecodes e operação
+
+Preencha para cada versão de vídeo conforme o [guia de timecodes](../guias/timecodes-e-operacao.md). Os tempos são relativos ao primeiro quadro do MP4 entregue.
+
+- MP4, versão e FPS:
+- Master de áudio e versão ou indicação de música ao vivo:
+- Deixa de palco para o GO e imagem de espera:
+- Sinal de saída e imagem ou luz a sustentar:
+
+| Marcador | Tempo no MP4 | Referência | Telão | Luz e transição | Situação |
+| --- | --- | --- | --- | --- | --- |
+| INÍCIO | 00:00:00.000 | Primeiro quadro | | | A conferir no MP4 |
+| [Evento de sincronismo] | A definir | [trecho, quadro ou deixa] | | | |
+| SAÍDA | A definir | [último quadro útil ou passagem] | | | |
 
 ## Versões
 | Versão | Data | O que mudou | Feedback |

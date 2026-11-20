@@ -1,56 +1,35 @@
-# Victor
+# Victor · Cenas 1, 2 e 9
 
-**Perfil do conjunto:** parte introdutória / recap.
-**Bloco:** I · **Peças:** MM-01, MM-02, MM-03
+**Monte sua sequência de palco.** [Roteiro de montagem do telão](../guias/cena-a-cena/pdf/HESED-roteiro-de-montagem.pdf) · [Cena 1](../guias/cena-a-cena/cena-01.md), [Cena 2](../guias/cena-a-cena/cena-02.md), [Cena 9](../guias/cena-a-cena/cena-09.md). Em cada cena, parta do arquivo que você já tem e percorra falas, músicas e saídas em ordem.
 
-> O briefing deixa o detalhamento destas peças **reservado ao próprio responsável**. Esta página traz o que o roteiro já indica; Victor completa e ajusta.
+**Primeiro passo.** Separe as versões de abertura, retrospectiva e retorno ao exterior. Identifique a cozinha V03-01 para Isaac. Você já pode esboçar o filme final em paralelo.
 
-**Costuras:** divide o arquivo de Goel com Isaac (MM-08).
+### 1. Prisão e libertação
 
----
+Organize a MM-01, a MM-02 e Quebrando as Correntes. O primeiro branco chama o canto dos anjos. Depois da saída de Jesus, o segundo congelamento chama a retrospectiva. Reponha o mesmo exterior quando as atrizes voltarem à conversa. Preserve os cinco trechos já aprovados. Compare exterior contínuo e corredor de 00:13 a 00:47. A cortina fechada chama o som de elevador.
 
-## MM-01 · Exterior/entrada da prisão
+Abra [Cena 1](../guias/cena-a-cena/cena-01.md) para conferir as falas e imagens. As referências são [MM-01](../storyboards/MM-01/README.md) · [MM-02](../storyboards/MM-02/README.md).
 
-| | |
-| --- | --- |
-| **Cena** | 1 · Bloco I |
-| **Gatilho** | Abertura da cortina |
-| **Palco** | Sem estrutura física de cadeia, correntes ou cruz na abertura (Bíblia §§2.2/3/16; D-14); detentas na posição do fim de Goel, Jesus sai pelo corredor central |
+- [ ] Registrar versão, link e deixa da cena na [linha de acompanhamento](../STATUS.md#fila-das-nove-cenas). Exterior após a retrospectiva. Cortina e elevador após a saída.
 
-**Nota do roteiro e direção:** MM-01 é o exterior/entrada da prisão no telão. Na abertura, detentas congeladas aguardam Jesus sair; depois se levantam e debatem. Novo congelamento aciona MM-02; ao terminar o recap, retoma-se o mesmo ambiente. Loop/still a desenvolver com movimento discreto, sem aprovação de duração. Consultar a Bíblia e o [alinhamento](../docs/alinhamento-das-fontes.md) antes do storyboard.
+### 2. Chegada à mesa
 
-## MM-02 · Flashback de Goel (recap)
+Na chegada à mesa, chame a MM-03 V03-01. É noite, com as luzes internas acesas, cozinha à direita da plateia e preto à esquerda. Indique a Isaac o arquivo exato para a abertura da Cena 3.
 
-| | |
-| --- | --- |
-| **Cena** | 1 · Bloco I |
-| **Gatilho** | A cena congela no meio da discussão ("ENTRA VÍDEO") |
-| **Termina** | Fim do vídeo; a cena volta instantaneamente |
+Abra [Cena 2](../guias/cena-a-cena/cena-02.md) para conferir as falas e imagens. As referências são [MM-03](../storyboards/MM-03/README.md).
 
-**Indicado pelo roteiro:** narração "Pra você que não tá entendendo o que tá acontecendo, vamos voltar um pouquinho na história"; cenas dos diálogos, detentas presas, Ladra tacando a Juliette no juiz, juiz declarando todas culpadas, Jesus morrendo e voltando; fecha com "Aí Jesus voltou vivão, e aconteceu isso aí que vocês tão vendo agora". Tom leve, de recap.
+- [ ] Registrar versão, link e deixa da cena na [linha de acompanhamento](../STATUS.md#fila-das-nove-cenas). Identificar a cozinha V03-01 para Isaac.
 
-**Base específica atual · D-29 (19/10/2026):** [briefing do recap](../storyboards/MM-02/briefing-recap.md), com o texto enviado por Victor preservado integralmente como canônico e organizado para revisão. Detalha a indicação resumida acima; storyboard e vídeo ficam para as próximas etapas. Recebe da MM-01 e retorna à mesma ambientação/discussão da Cena 1.
+### 9. Filme final
 
-**Sequência atual · D-38/D-43 (21/10/2026):** take inicial completo do narrador (B01A), depois vinheta Cia Luz (B01B), cinco highlights e retorno do narrador. A fala termina antes da vinheta. O visual silencioso V06 da B01B foi aprovado; Victor fará pessoalmente a trilha e os efeitos e colocará depois o vídeo final no repositório. O MP4 silencioso não deve ser publicado por agentes.
+Faça a MM-16 inteira para Maravilhosa Graça de Samuel Mizrahy. Escolha os planos, organize eventual gravação, confira qual é o Q07 pedido e marque a parte falada na versão de palco. A operação chama o filme depois da troca de cenário e figurino. Combine o acendimento das luzes de Natal no último refrão.
 
-**Atenção:** o MM-08 do Isaac (Cena 4) usa o mesmo arquivo em tom contemplativo. Combinar quais takes ficam com cada um (P-04). Também é preciso definir quem grava a narração.
+Abra [Cena 9](../guias/cena-a-cena/cena-09.md) para conferir as falas e imagens. As referências são [MM-16D](../storyboards/MM-16D/README.md) (prancha D do acervo de Victor).
 
-## MM-03 · Sala da casa
+- [ ] Registrar versão, link e deixa da cena na [linha de acompanhamento](../STATUS.md#fila-das-nove-cenas). Identificar a entrada após a troca, a parte falada e as luzes de Natal no último refrão.
 
-| | |
-| --- | --- |
-| **Cena** | 2 (volta na 3 e na 4) |
-| **Gatilho** | Após a transição de cortina |
+## Entregar à operação
 
-**Nota do roteiro:** fundo da sala da Religiosidade no telão; as atrizes comem numa mesa no canto do altar. Aparece na Cena 2, no começo da 3 (até "Não tinha dor") e volta no começo da 4. Loop com movimento sutil.
+Na ordem do palco, indique o arquivo e a versão, a fala ou ação que chama a entrada, o que se mantém no telão e o sinal de saída. Marque prévia ou aprovado e registre o link do Drive quando disponível. Se a entrada depender de ensaio, indique qual sinal falta testar.
 
-## Pendências gerais do Bloco I
-
-- Quebrando as Correntes (fim da Cena 1) não tem peça atribuída (P-08).
-- O fundo sonoro de transição com cortina fechada: telão apagado ou com algo?
-
-- [ ] Detalhar briefing das três peças
-- [ ] Dividir takes de Goel com Isaac (P-04)
-- [ ] Alphas
-- [ ] Teste no telão
-- [ ] Finais + editáveis + backup
+[Referência complementar de tempos para a primeira montagem](../guias/cena-a-cena/quem-faz-as-musicas.md) · [Passagens entre responsáveis](../docs/dependencias.md) · [Guia ilustrado em PDF](../guias/cena-a-cena/pdf/HESED-guia-de-cena.pdf)

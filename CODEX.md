@@ -1,5 +1,20 @@
 # Codex · HESED Produção Audiovisual
 
+**Execução no HESED.** Abra o [Roteiro de montagem do telão](guias/cena-a-cena/pdf/HESED-roteiro-de-montagem.pdf) e a ficha da cena antes de preparar a peça. Identifique a fala anterior, quem atua no palco, quando a música entra, qual imagem permanece e o sinal de saída. Atribua a música ao responsável daquela cena. Rotule propostas e escolhas de ensaio ao lado da deixa. Quando a direção alterar um sinal, corrija primeiro a linha da cena, depois a mesma passagem no PDF e no mapa HTML.
+
+**Marcadores obrigatórios em cada vídeo.** Antes de editar, siga o [guia de timecodes e operação](guias/timecodes-e-operacao.md). Marque início, saída e eventos de sincronismo na sequência final, ou na configuração de montagem se a edição for por código. Entregue a tabela de marcadores junto ao MP4 da mesma versão e confira os tempos no arquivo exportado. Registre na ficha a deixa real de palco e os pontos ainda a definir.
+
+Filas de execução dos responsáveis: [Victor · cenas 1, 2 e 9](equipe/victor.md) · [Isaac · cenas 3, 4 e 5](equipe/isaac.md) · [Eduardo (Dudu) · cenas 6, 7 e 8](equipe/eduardo.md)
+
+**Distribuição vigente · 19/11/2026.** Victor fecha as Cenas 1, 2 e 9. Isaac fecha as Cenas 3, 4 e 5. Eduardo (Dudu) fecha as Cenas 6, 7 e 8. Cada pessoa prepara e entrega suas cenas diretamente à operação. A MM-16 é integralmente de Victor. As músicas em ajuste por Isaac seguem a partir das versões existentes. [Guia de execução por pessoa](guias/cena-a-cena/quem-faz-as-musicas.md)
+
+Para produção audiovisual do HESED, selecione `$ai-filmmaker` da pasta `.agents/skills/ai-filmmaker/`. Se o catálogo mostrar uma cópia pessoal com o mesmo nome, leia a [entrada do projeto](.agents/skills/ai-filmmaker/SKILL.md).
+
+## Atualização conciliada em 16/11/2026
+
+Antes de trabalhar em MM-01/MM-02 ou nos gatilhos do espetáculo, ler [produção local de Victor](docs/producao-victor/README.md), [plano das nove cenas](docs/plano-ajustes-2026-11-16.md), [decisões D-52–D-57](docs/decisoes.md) e [STATUS.md](STATUS.md). Esses registros incorporam a abertura interna/teletransporte de MM01, os cinco highlights MM02 aprovados e o feedback posterior da produção. O corredor V13/costas e o exterior V06 têm funções diferentes e são preservados; a vinheta V07 e a abertura V04 ainda são prévias. Não regerar aprovados, inferir aceite técnico LED ou seguir isoladamente descrições antigas de produção não iniciada. Vídeos/áudios/editáveis pesados continuam fora do Git; consultar o manifesto e P-13.
+
+
 Este arquivo complementa o [CLAUDE.md](CLAUDE.md), que mantém o contexto comum do projeto, a hierarquia das fontes e os princípios audiovisuais. Leia os dois. O [AGENTS.md](AGENTS.md) é o ponto de entrada das instruções para o Codex; este arquivo é carregado por essa orientação.
 
 ## Começo de cada trabalho
