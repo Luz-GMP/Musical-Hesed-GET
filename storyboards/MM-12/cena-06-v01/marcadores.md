@@ -18,6 +18,19 @@
 | MM12-Q06 | A definir | “...onde os animais ficavam” / “um estábulo mesmo?” | Entrar e sustentar MM12-Q06 vazio | Calor contido no abrigo; sem glória antecipada | Proposta; manter na Cena 7 |
 | SAÍDA | A definir | Antes do cue explícito da Cena 7 | Manter MM12-Q06 até a próxima deixa | Passagem para anúncio a combinar | P-17; ensaio pendente |
 
+## Perfil de transições da revisão
+
+As transições abaixo adaptam a linguagem de edição observada na referência externa sem importar seu conteúdo:
+
+| Entrada | Tratamento | Função |
+| --- | --- | --- |
+| Q01 | Dissolução quente com aproximação | Abrir o caminho sem corte agressivo |
+| Q02 | Crossfade de textura e push-in | Conectar a viagem à chegada |
+| Q03 | Dissolução com leve inclinação | Dar sensação de deslocamento sem alterar a imagem |
+| Q04 | Dissolução azul | Assentar a passagem para a noite |
+| Q05 | Revelação por sombra | Reforçar a porta fechada e a ausência de acolhimento |
+| Q06 | Entrada silenciosa e hold | Preparar a permanência do estábulo na Cena 7 |
+
 ## Offset da sequência de revisão de 20 s por quadro
 
 Estes offsets organizam a prévia e não substituem os timecodes de palco:

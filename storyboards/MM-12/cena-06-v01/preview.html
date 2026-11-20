@@ -12,7 +12,7 @@
     h1 { margin:0 0 4px; font-size:18px; font-weight:600; letter-spacing:.02em; }
     .sub { margin:0 0 16px; color:#a9b4c2; }
     .stage { position:relative; width:100%; aspect-ratio:16/9; overflow:hidden; background:#101b29; border:1px solid #30445d; box-shadow:0 18px 60px #0008; isolation:isolate; }
-    .scene { position:absolute; inset:0; opacity:0; transition:opacity 900ms ease; background:#101b29; }
+    .scene { position:absolute; inset:0; opacity:0; transition:opacity 900ms ease; background:#101b29; transform-origin:50% 50%; will-change:opacity,transform,filter; }
     .scene.active { opacity:1; }
     .layer { position:absolute; inset:-7%; width:114%; height:114%; object-fit:cover; pointer-events:none; user-select:none; will-change:transform; }
     .far { opacity:.28; filter:blur(13px) saturate(.85); transform:scale(1.11); mix-blend-mode:screen; }
@@ -49,12 +49,12 @@
 </main>
 <script>
   const cues = [
-    { id:'Q01', title:'O caminho', cue:'“Naquela época...”', image:'../MM12-Q01.jpg', motion:'Entrada suave; deriva da estrada para o horizonte.' },
-    { id:'Q02', title:'Belém ao longe', cue:'“José... precisou ir até Belém”', image:'../MM12-Q02.jpg', motion:'Aproximação lenta para o povoado no terço direito.' },
-    { id:'Q03', title:'A chegada', cue:'“E quando eles chegaram lá...”', image:'../MM12-Q03.jpg', motion:'Dissolução; câmera desliza em direção à fachada.' },
-    { id:'Q04', title:'A noite', cue:'“...não tinha lugar pra ficar”', image:'../MM12-Q04.jpg', motion:'Deriva azul-noturna; lamparinas mantêm calor contido.' },
-    { id:'Q05', title:'Sem acolhimento', cue:'“Nenhuma hospedagem disponível”', image:'../MM12-Q05.jpg', motion:'Reenquadramento discreto para a porta fechada.' },
-    { id:'Q06', title:'Um abrigo simples', cue:'“...onde os animais ficavam”', image:'../MM12-Q06.jpg', motion:'Repouso quente; mantém o estábulo para a Cena 7.' }
+    { id:'Q01', title:'O caminho', cue:'“Naquela época...”', image:'../MM12-Q01.jpg', motion:'Entrada suave; deriva da estrada para o horizonte.', transition:'warm-dissolve' },
+    { id:'Q02', title:'Belém ao longe', cue:'“José... precisou ir até Belém”', image:'../MM12-Q02.jpg', motion:'Aproximação lenta para o povoado no terço direito.', transition:'texture-crossfade' },
+    { id:'Q03', title:'A chegada', cue:'“E quando eles chegaram lá...”', image:'../MM12-Q03.jpg', motion:'Dissolução com leve inclinação; câmera desliza em direção à fachada.', transition:'tilted-dissolve' },
+    { id:'Q04', title:'A noite', cue:'“...não tinha lugar pra ficar”', image:'../MM12-Q04.jpg', motion:'Deriva azul-noturna; lamparinas mantêm calor contido.', transition:'blue-dissolve' },
+    { id:'Q05', title:'Sem acolhimento', cue:'“Nenhuma hospedagem disponível”', image:'../MM12-Q05.jpg', motion:'Reenquadramento discreto para a porta fechada.', transition:'shadow-reveal' },
+    { id:'Q06', title:'Um abrigo simples', cue:'“...onde os animais ficavam”', image:'../MM12-Q06.jpg', motion:'Repouso quente; mantém o estábulo para a Cena 7.', transition:'quiet-hold' }
   ];
   const stage = document.querySelector('#stage');
   const status = document.querySelector('#status');
@@ -76,7 +76,7 @@
     el.getAnimations().forEach(animation => animation.cancel());
     el.querySelectorAll('*').forEach(node => node.getAnimations().forEach(animation => animation.cancel()));
   }
-  function render(){
+  function render(transitionName='warm-dissolve'){
     scenes.forEach((el, i) => {
       cancelAnimations(el);
       el.classList.toggle('active', i === index);
@@ -84,6 +84,33 @@
     const active = scenes[index];
     const start = index * 20;
     status.textContent = `${cues[index].id} · ${cues[index].title} · ${clock(start)}–${clock(start + 20)} · ${index+1}/${cues.length}`;
+    const transitions = {
+      'warm-dissolve': [
+        {opacity:0, transform:'scale(1.06)', filter:'brightness(1.35) saturate(.82) blur(4px)'},
+        {opacity:1, transform:'scale(1)', filter:'brightness(1) saturate(1) blur(0)'}
+      ],
+      'texture-crossfade': [
+        {opacity:0, transform:'translateX(2.8%) scale(1.05)', filter:'contrast(1.15) saturate(1.28) blur(3px)'},
+        {opacity:1, transform:'translateX(0) scale(1)', filter:'contrast(1) saturate(1) blur(0)'}
+      ],
+      'tilted-dissolve': [
+        {opacity:0, transform:'rotate(1.4deg) scale(1.08)', filter:'brightness(.72) blur(3px)'},
+        {opacity:1, transform:'rotate(0deg) scale(1)', filter:'brightness(1) blur(0)'}
+      ],
+      'blue-dissolve': [
+        {opacity:0, transform:'scale(1.035)', filter:'hue-rotate(-12deg) brightness(.68) blur(2px)'},
+        {opacity:1, transform:'scale(1)', filter:'hue-rotate(0deg) brightness(1) blur(0)'}
+      ],
+      'shadow-reveal': [
+        {opacity:0, transform:'translateY(1.5%) scale(1.025)', filter:'brightness(.42) contrast(1.22) blur(2px)'},
+        {opacity:1, transform:'translateY(0) scale(1)', filter:'brightness(1) contrast(1) blur(0)'}
+      ],
+      'quiet-hold': [
+        {opacity:0, transform:'scale(1.02)', filter:'brightness(.78) saturate(.88) blur(2px)'},
+        {opacity:1, transform:'scale(1)', filter:'brightness(1) saturate(1) blur(0)'}
+      ]
+    };
+    active.animate(transitions[transitionName] || transitions['warm-dissolve'], {duration:1500,easing:'cubic-bezier(.22,.61,.36,1)',fill:'both'});
     active.querySelectorAll('.layer').forEach((layer, i) => {
       const x = [-1.8, 0, 2.4][i] * (index % 2 ? -1 : 1);
       const y = [0.8, 0, -0.6][i];
@@ -101,8 +128,8 @@
     active.querySelector('.caption').animate([{opacity:0,transform:'translateY(10px)'},{opacity:1,transform:'translateY(0)'}],{duration:1800,delay:4300,easing:'ease-out',fill:'both'});
   }
   function stop(){ playing=false; clearTimeout(timer); timer=null; document.querySelector('#play').textContent='▶ Reproduzir'; }
-  function next(){ index=(index+1)%cues.length; render(); }
-  function prev(){ index=(index+cues.length-1)%cues.length; render(); }
+  function next(){ index=(index+1)%cues.length; render(cues[index].transition); }
+  function prev(){ index=(index+cues.length-1)%cues.length; render(cues[index].transition); }
   function scheduleNext(){ clearTimeout(timer); timer=setTimeout(()=>{ next(); if(playing) scheduleNext(); }, CUE_DURATION_MS); }
   function play(){ if(playing) return; playing=true; document.querySelector('#play').textContent='Ⅱ Pausar'; scheduleNext(); }
   document.querySelector('#play').onclick=()=> playing ? stop() : play();
