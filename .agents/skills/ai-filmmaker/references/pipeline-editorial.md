@@ -78,7 +78,7 @@ rascunho e exigem a autorização aplicável.
 | Fonte estudada | Aprendizado incorporado agora | Integração adiada |
 | --- | --- | --- |
 | [OpenChatCut](https://github.com/0xsline/OpenChatCut) | projeto local editável, comandos sobre rascunho, revisão antes de aplicar e uma timeline compartilhada | aplicativo, MCP e runtime próprios; nenhuma parte AGPL foi copiada |
-| [Herk Edit Kit](https://github.com/nateherkai/herk-edit-kit) | transcrição normalizada, EDL revisada, ledger com hash, fixtures sintéticas e limites explícitos do QA | HyperFrames, cards, assets de marca e serviços opcionais |
+| [Herk Edit Kit](https://github.com/nateherkai/herk-edit-kit) | transcrição normalizada, EDL revisada, ledger com hash, fixtures sintéticas e limites explícitos do QA | Cards, assets de marca e serviços opcionais. Para o motor local já integrado, consulte [HyperFrames](hyperframes.md). |
 | [StoryToolkitAI](https://github.com/octimot/StoryToolkitAI) | projetos ligando arquivos, busca rastreável, metadados de timecode/FPS e exportação interoperável | aplicativo, modelos locais, embeddings e integração com DaVinci Resolve; nenhum código GPL foi copiado |
 | [BackgroundRemover](https://github.com/nadermx/backgroundremover) | contrato futuro para gerar matte/alpha e conferir bordas, transparência e consistência temporal | CLI, PyTorch, modelos U2Net e download de pesos |
 | [LatentSync](https://github.com/bytedance/LatentSync) | contrato futuro de lip-sync com checagem de hardware, comparação antes/depois e validação de identidade e sincronia | ambiente Python/CUDA, checkpoints e inferência |

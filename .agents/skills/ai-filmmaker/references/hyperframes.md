@@ -1,0 +1,12 @@
+# Render local com HyperFrames
+
+O motor usa a CLI oficial do pacote npm `hyperframes`. Versão validada no Windows: **0.9.72**, com Node 22 ou superior, Chrome headless e FFmpeg/FFprobe. A instalação compartilhada fica em `~/Documents/Codex/tools/hyperframes`. Para provisionar outro ambiente, use `npm install --prefix "<diretório das ferramentas>/hyperframes" --save-exact hyperframes@0.9.72`. `AI_FILMMAKER_TOOLS_DIR` permite mudar a raiz, `AI_FILMMAKER_HYPERFRAMES_CLI` aponta para o arquivo JS da CLI e `HYPERFRAMES_BROWSER_PATH` escolhe o navegador. O adaptador acompanha a skill em `scripts/hyperframes.mjs`. A distribuição npm inclui os guias oficiais de autoria e da CLI nas pastas `node_modules/hyperframes/dist/skills/hyperframes` e `hyperframes-cli`.
+
+## Da composição à prévia
+
+1. Coloque cada composição numa pasta do projeto com seu próprio `index.html`. Guarde nessa pasta as imagens, fontes, vídeos, som e bibliotecas locais usados pela cena. Declare dimensões, FPS e duração no elemento principal com `data-composition-id`, `data-width`, `data-height`, `data-fps` e `data-duration`. Mantenha os recortes e as legendas em elementos separados. Registre uma timeline pausada em `window.__timelines[id]` e anime em função do tempo. Use o manual de autoria fornecido na mesma versão da CLI para os contratos de áudio, vídeo e subcomposições.
+2. No manifesto AI Filmmaker, use a geometria de entrega e o FPS do projeto. Na cena autorizada, configure `"preview": {"engine":"hyperframes","source":"cenas/olho/index.html"}`. O padrão renderiza a cena completa. Para um trecho inicial, acrescente `"frames":25`. O recorte da CLI 0.9.72 aceita 24, 25, 30 ou 60 fps. FPS fracionário de vídeo deve usar o valor numérico da razão NTSC no manifesto.
+3. No plugin, chame `doctor`, `validate_project` e `render_preview`. A prévia roda lint, cria um MP4 novo e lê o resultado com FFprobe. O servidor verifica quadros, taxa, duração de vídeo e dimensões contra a cena. Na skill independente, execute `node "<skill>/scripts/hyperframes.mjs" doctor` e `node "<skill>/scripts/hyperframes.mjs" render "<cena>/index.html" "<novo-arquivo>.mp4" 25`. Para entrega, aplique o fluxo de master e marcadores do projeto.
+4. Confira o primeiro e o último quadro, movimento relativo das camadas, presença e sincronismo do áudio e leitura do texto. A validação do motor e o aceite artístico são verificações separadas.
+
+[Documentação do HyperFrames](https://github.com/heygen-com/hyperframes)

@@ -5,7 +5,7 @@ description: Planeja, produz e edita vídeos em MP4 a partir de roteiros, grava�
 
 # AI Filmmaker
 
-**Execução no HESED.** Abra o [Roteiro de montagem do telão](../../../guias/cena-a-cena/pdf/HESED-roteiro-de-montagem.pdf) e a ficha da cena antes de preparar a peça. Identifique a fala anterior, quem atua no palco, quando a música entra, qual imagem permanece e o sinal de saída. Atribua a música ao responsável daquela cena. Rotule propostas e escolhas de ensaio ao lado da deixa.
+**Execução no HESED.** Abra o Roteiro de montagem do telão em `guias/cena-a-cena/pdf/HESED-roteiro-de-montagem.pdf` na raiz do HESED e a ficha da cena antes de preparar a peça. Identifique a fala anterior, quem atua no palco, quando a música entra, qual imagem permanece e o sinal de saída. Atribua a música ao responsável daquela cena. Rotule propostas e escolhas de ensaio ao lado da deixa.
 
 No HESED, comece pela [aplicação no projeto](references/hesed.md). Ela reúne as decisões locais,
 o ponto de partida da MM-07 e a regra de continuidade entre storyboard, aprovações e execução.
@@ -18,6 +18,10 @@ separadamente para facilitar evolução e testes; não precisa ser instalado ou 
 conteúdo e primeiro plano por função e profundidade, mesmo quando compartilham o mesmo render.
 Posição, movimento, luz e contraste devem preservar essa hierarquia; use parallax quando contribuir
 para a intenção e a leitura, sem exigir movimento em todas as camadas.
+
+## Motor HyperFrames
+
+Para colagens, recortes animados e grafismos em HTML, siga o [fluxo de composição e render com HyperFrames](references/hyperframes.md). A skill e o plugin usam o mesmo adaptador local.
 
 ## Entrada e fluxo
 
