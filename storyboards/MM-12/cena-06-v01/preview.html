@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>HESED · Cena 6 · MM-12 · Parallax v01</title>
+  <style>
+    :root { color-scheme: dark; --gold:#d3a15b; --ink:#0c1420; --blue:#142b49; }
+    * { box-sizing: border-box; }
+    body { margin:0; min-height:100vh; background:#070b12; color:#e8dfcf; font:14px/1.45 system-ui,Segoe UI,sans-serif; display:grid; place-items:center; }
+    main { width:min(100vw, 1280px); padding:20px; }
+    h1 { margin:0 0 4px; font-size:18px; font-weight:600; letter-spacing:.02em; }
+    .sub { margin:0 0 16px; color:#a9b4c2; }
+    .stage { position:relative; width:100%; aspect-ratio:16/9; overflow:hidden; background:#101b29; border:1px solid #30445d; box-shadow:0 18px 60px #0008; isolation:isolate; }
+    .scene { position:absolute; inset:0; opacity:0; transition:opacity 900ms ease; background:#101b29; }
+    .scene.active { opacity:1; }
+    .layer { position:absolute; inset:-7%; width:114%; height:114%; object-fit:cover; pointer-events:none; user-select:none; will-change:transform; }
+    .far { opacity:.28; filter:blur(13px) saturate(.85); transform:scale(1.11); mix-blend-mode:screen; }
+    .mid { filter:saturate(.95) contrast(1.02); }
+    .near { opacity:.26; filter:saturate(1.06) contrast(1.08); mix-blend-mode:soft-light; transform:scale(1.17); mask-image:linear-gradient(160deg, transparent 0 20%, #000 48% 78%, transparent 100%); }
+    .grade { position:absolute; inset:0; background:linear-gradient(180deg,#0b1930aa 0%,transparent 42%,#080f19b8 100%), radial-gradient(ellipse at 70% 40%,transparent 20%,#07101dcc 100%); pointer-events:none; }
+    .bloom { position:absolute; width:48%; height:58%; right:-10%; top:4%; border-radius:50%; background:radial-gradient(circle,#f2c27c33 0%,#e0a85f0e 35%,transparent 70%); filter:blur(18px); mix-blend-mode:screen; pointer-events:none; }
+    .grain { position:absolute; inset:0; opacity:.06; background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='140' height='140' viewBox='0 0 140 140'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='.45'/%3E%3C/svg%3E"); mix-blend-mode:soft-light; pointer-events:none; }
+    .caption { position:absolute; left:28px; bottom:24px; text-shadow:0 2px 10px #000; pointer-events:none; }
+    .caption b { display:block; color:#f3d39d; font-size:clamp(16px,2.4vw,28px); font-weight:500; }
+    .caption span { color:#d5dbe3; font-size:clamp(11px,1.3vw,16px); }
+    .controls { display:flex; align-items:center; gap:8px; flex-wrap:wrap; padding-top:12px; }
+    button { border:1px solid #435b76; background:#142b49; color:#e8dfcf; border-radius:5px; padding:7px 11px; cursor:pointer; }
+    button:hover { border-color:var(--gold); }
+    .status { margin-left:auto; color:#a9b4c2; }
+    .legend { display:flex; gap:12px; flex-wrap:wrap; margin-top:10px; color:#8f9aaa; font-size:12px; }
+    .legend code { color:#d3a15b; }
+    @media (max-width:700px){ main{padding:10px}.status{width:100%;margin-left:0} }
+  </style>
+</head>
+<body>
+<main>
+  <h1>Cena 6 · MM-12 · Viagem, cidade e estábulo · Parallax v01</h1>
+  <p class="sub">Prévia visual de revisão — 8 s por quadro apenas para demonstração. O avanço real continua sendo por deixa de palco.</p>
+  <section class="stage" id="stage" aria-label="Prévia visual da Cena 6"></section>
+  <div class="controls">
+    <button id="prev" type="button">← Anterior</button>
+    <button id="play" type="button">▶ Reproduzir</button>
+    <button id="next" type="button">Próximo →</button>
+    <button id="reset" type="button">Reiniciar</button>
+    <span class="status" id="status"></span>
+  </div>
+  <div class="legend"><span><code>Espaço</code> play/pausa</span><span><code>←/→</code> troca de quadro</span><span><code>R</code> reinicia</span><span>Sem áudio nesta versão</span></div>
+</main>
+<script>
+  const cues = [
+    { id:'Q01', title:'O caminho', cue:'“Naquela época...”', image:'../MM12-Q01.jpg', motion:'Entrada suave; deriva da estrada para o horizonte.' },
+    { id:'Q02', title:'Belém ao longe', cue:'“José... precisou ir até Belém”', image:'../MM12-Q02.jpg', motion:'Aproximação lenta para o povoado no terço direito.' },
+    { id:'Q03', title:'A chegada', cue:'“E quando eles chegaram lá...”', image:'../MM12-Q03.jpg', motion:'Dissolução; câmera desliza em direção à fachada.' },
+    { id:'Q04', title:'A noite', cue:'“...não tinha lugar pra ficar”', image:'../MM12-Q04.jpg', motion:'Deriva azul-noturna; lamparinas mantêm calor contido.' },
+    { id:'Q05', title:'Sem acolhimento', cue:'“Nenhuma hospedagem disponível”', image:'../MM12-Q05.jpg', motion:'Reenquadramento discreto para a porta fechada.' },
+    { id:'Q06', title:'Um abrigo simples', cue:'“...onde os animais ficavam”', image:'../MM12-Q06.jpg', motion:'Repouso quente; mantém o estábulo para a Cena 7.' }
+  ];
+  const stage = document.querySelector('#stage');
+  const status = document.querySelector('#status');
+  const scenes = cues.map((cue, i) => {
+    const el = document.createElement('article');
+    el.className = 'scene';
+    el.innerHTML = `<img class="layer far" alt="" src="${cue.image}"><img class="layer mid" alt="${cue.title}" src="${cue.image}"><img class="layer near" alt="" src="${cue.image}"><div class="grade"></div><div class="bloom"></div><div class="grain"></div><div class="caption"><b>${cue.title}</b><span>${cue.cue}</span></div>`;
+    stage.appendChild(el);
+    return el;
+  });
+  let index = 0, playing = false, timer = null, startedAt = 0;
+  function render(){
+    scenes.forEach((el, i) => el.classList.toggle('active', i === index));
+    status.textContent = `${cues[index].id} · ${cues[index].title} · ${index+1}/${cues.length}`;
+    scenes[index].querySelectorAll('.layer').forEach((layer, i) => {
+      const x = [-1.8, 0, 2.4][i] * (index % 2 ? -1 : 1);
+      const y = [0.8, 0, -0.6][i];
+      layer.animate([{transform:`translate(${x-0.7}%,${y+0.3}%) scale(${[1.11,1.05,1.17][i]})`},{transform:`translate(${x+0.7}%,${y-0.3}%) scale(${[1.14,1.08,1.2][i]})`}],{duration:7600,easing:'ease-in-out',fill:'forwards'});
+    });
+  }
+  function stop(){ playing=false; clearInterval(timer); timer=null; document.querySelector('#play').textContent='▶ Reproduzir'; }
+  function next(){ index=(index+1)%cues.length; render(); }
+  function prev(){ index=(index+cues.length-1)%cues.length; render(); }
+  function play(){ if(playing) return; playing=true; document.querySelector('#play').textContent='Ⅱ Pausar'; timer=setInterval(next,8000); }
+  document.querySelector('#play').onclick=()=> playing ? stop() : play();
+  document.querySelector('#next').onclick=()=>{stop();next();};
+  document.querySelector('#prev').onclick=()=>{stop();prev();};
+  document.querySelector('#reset').onclick=()=>{stop();index=0;render();};
+  document.addEventListener('keydown', e=>{ if(e.key===' '){e.preventDefault();playing?stop():play();} else if(e.key==='ArrowRight'){stop();next();} else if(e.key==='ArrowLeft'){stop();prev();} else if(e.key.toLowerCase()==='r'){stop();index=0;render();} });
+  render();
+</script>
+</body>
+</html>
