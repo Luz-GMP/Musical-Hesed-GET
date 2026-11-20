@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>HESED · Cena 6 · MM-12 · Parallax v01</title>
+  <title>HESED · Cena 6 · MM-12 · Parallax v01 · 20 s por quadro</title>
   <style>
     :root { color-scheme: dark; --gold:#d3a15b; --ink:#0c1420; --blue:#142b49; }
     * { box-sizing: border-box; }
@@ -36,7 +36,7 @@
 <body>
 <main>
   <h1>Cena 6 · MM-12 · Viagem, cidade e estábulo · Parallax v01</h1>
-  <p class="sub">Prévia visual de revisão — 8 s por quadro apenas para demonstração. O avanço real continua sendo por deixa de palco.</p>
+  <p class="sub">Prévia visual de revisão — 20 s por quadro. Cada imagem se monta por camadas: fundo, conteúdo e primeiro plano de luz/atmosfera.</p>
   <section class="stage" id="stage" aria-label="Prévia visual da Cena 6"></section>
   <div class="controls">
     <button id="prev" type="button">← Anterior</button>
@@ -45,7 +45,7 @@
     <button id="reset" type="button">Reiniciar</button>
     <span class="status" id="status"></span>
   </div>
-  <div class="legend"><span><code>Espaço</code> play/pausa</span><span><code>←/→</code> troca de quadro</span><span><code>R</code> reinicia</span><span>Sem áudio nesta versão</span></div>
+  <div class="legend"><span><code>Espaço</code> play/pausa</span><span><code>←/→</code> troca de quadro</span><span><code>R</code> reinicia</span><span>Montagem: fundo → conteúdo → luz/atmosfera</span><span>Sem áudio nesta versão</span></div>
 </main>
 <script>
   const cues = [
@@ -65,20 +65,46 @@
     stage.appendChild(el);
     return el;
   });
-  let index = 0, playing = false, timer = null, startedAt = 0;
+  const CUE_DURATION_MS = 20000;
+  let index = 0, playing = false, timer = null;
+  function clock(seconds){
+    const mm = String(Math.floor(seconds / 60)).padStart(2,'0');
+    const ss = String(seconds % 60).padStart(2,'0');
+    return `${mm}:${ss}`;
+  }
+  function cancelAnimations(el){
+    el.getAnimations().forEach(animation => animation.cancel());
+    el.querySelectorAll('*').forEach(node => node.getAnimations().forEach(animation => animation.cancel()));
+  }
   function render(){
-    scenes.forEach((el, i) => el.classList.toggle('active', i === index));
-    status.textContent = `${cues[index].id} · ${cues[index].title} · ${index+1}/${cues.length}`;
-    scenes[index].querySelectorAll('.layer').forEach((layer, i) => {
+    scenes.forEach((el, i) => {
+      cancelAnimations(el);
+      el.classList.toggle('active', i === index);
+    });
+    const active = scenes[index];
+    const start = index * 20;
+    status.textContent = `${cues[index].id} · ${cues[index].title} · ${clock(start)}–${clock(start + 20)} · ${index+1}/${cues.length}`;
+    active.querySelectorAll('.layer').forEach((layer, i) => {
       const x = [-1.8, 0, 2.4][i] * (index % 2 ? -1 : 1);
       const y = [0.8, 0, -0.6][i];
-      layer.animate([{transform:`translate(${x-0.7}%,${y+0.3}%) scale(${[1.11,1.05,1.17][i]})`},{transform:`translate(${x+0.7}%,${y-0.3}%) scale(${[1.14,1.08,1.2][i]})`}],{duration:7600,easing:'ease-in-out',fill:'forwards'});
+      const targetOpacity = [0.28, 1, 0.26][i];
+      const scale = [1.14, 1.08, 1.20][i];
+      const delay = [0, 1250, 3150][i];
+      layer.animate([
+        {opacity:0, transform:`translate(${x-1.1}%,${y+0.5}%) scale(${scale-0.08})`},
+        {opacity:targetOpacity, transform:`translate(${x+1.1}%,${y-0.5}%) scale(${scale})`}
+      ], {duration:[4200,3900,3000][i], delay, easing:'cubic-bezier(.22,.61,.36,1)', fill:'both'});
     });
+    active.querySelector('.grade').animate([{opacity:0},{opacity:1}],{duration:2200,delay:1300,easing:'ease-out',fill:'both'});
+    active.querySelector('.bloom').animate([{opacity:0},{opacity:1}],{duration:2600,delay:3600,easing:'ease-in-out',fill:'both'});
+    active.querySelector('.grain').animate([{opacity:0},{opacity:.06}],{duration:1800,delay:4200,easing:'ease-out',fill:'both'});
+    active.querySelector('.caption').animate([{opacity:0,transform:'translateY(10px)'},{opacity:1,transform:'translateY(0)'}],{duration:1800,delay:4300,easing:'ease-out',fill:'both'});
   }
-  function stop(){ playing=false; clearInterval(timer); timer=null; document.querySelector('#play').textContent='▶ Reproduzir'; }
+  function stop(){ playing=false; clearTimeout(timer); timer=null; document.querySelector('#play').textContent='▶ Reproduzir'; }
   function next(){ index=(index+1)%cues.length; render(); }
   function prev(){ index=(index+cues.length-1)%cues.length; render(); }
-  function play(){ if(playing) return; playing=true; document.querySelector('#play').textContent='Ⅱ Pausar'; timer=setInterval(next,8000); }
+  function scheduleNext(){ clearTimeout(timer); timer=setTimeout(()=>{ next(); if(playing) scheduleNext(); }, CUE_DURATION_MS); }
+  function play(){ if(playing) return; playing=true; document.querySelector('#play').textContent='Ⅱ Pausar'; scheduleNext(); }
   document.querySelector('#play').onclick=()=> playing ? stop() : play();
   document.querySelector('#next').onclick=()=>{stop();next();};
   document.querySelector('#prev').onclick=()=>{stop();prev();};

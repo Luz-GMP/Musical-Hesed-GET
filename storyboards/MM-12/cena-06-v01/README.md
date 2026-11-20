@@ -1,6 +1,6 @@
 # Cena 6 · MM-12 · Parallax v01
 
-Prévia visual de revisão para a Cena 6 do HESED. A montagem usa as seis bases existentes da MM-12 e acrescenta movimento sutil de câmera, profundidade simulada entre camadas, mudança de atmosfera e pulsação de luz. Não há personagens, anjos ou bebê no telão.
+Prévia visual de revisão para a Cena 6 do HESED. A montagem usa as seis bases existentes da MM-12 e acrescenta seis blocos de 20 s (total de 2 min), com a cena se formando por camadas: fundo distante, conteúdo intermediário e primeiro plano de luz/atmosfera. Não há personagens, anjos ou bebê no telão.
 
 ## Arquivos
 
@@ -10,7 +10,7 @@ Prévia visual de revisão para a Cena 6 do HESED. A montagem usa as seis bases 
 
 ## Limites desta versão
 
-- 8 s por quadro é apenas um intervalo automático de demonstração.
+- Cada quadro ocupa 20 s na sequência de revisão; a entrada das camadas acontece nos primeiros segundos de cada bloco.
 - A operação real avança por fala; Q06 deve permanecer para abrir a Cena 7.
 - Não há áudio nesta prévia.
 - Não é MP4 final, não tem QA de exportação e não foi testada no LED.
