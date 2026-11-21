@@ -24,6 +24,8 @@
 *.tiff
 *.exr
 storyboards/MM-13/estabulo-anjos-v16/layers-v01/*.png
+storyboards/MM-17/animacoes-individuais-v01/**/*.png
+*RenderLog.txt
 *.zip
 *.rar
 Adobe Premiere Pro Auto-Save/

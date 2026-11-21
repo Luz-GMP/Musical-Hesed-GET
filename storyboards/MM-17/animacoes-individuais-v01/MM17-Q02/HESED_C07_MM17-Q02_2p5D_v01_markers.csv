@@ -1,0 +1,4 @@
+Arquivo,Marcador,Tempo no MP4,Timecode 24 fps,Quadro,Evento,Deixa ou sincronismo
+HESED_C07_MM17-Q02_2p5D_v01.mp4,INÍCIO,00:00:00.000,00:00:00:00,0,"Retoma os que louvam hoje após a v16.","Ponto real de retomada a alinhar ao master P-02."
+HESED_C07_MM17-Q02_2p5D_v01.mp4,MOVIMENTO,00:00:03.000,00:00:03:00,72,"Meio do drift suave em direção à luz no horizonte.","Evento visual do estudo; sem batida musical medida."
+HESED_C07_MM17-Q02_2p5D_v01.mp4,SAÍDA,00:00:05.958,00:00:05:23,143,"Último quadro útil do arquivo individual.","Saída para Q03 depende do encaixe aprovado e do master P-02."

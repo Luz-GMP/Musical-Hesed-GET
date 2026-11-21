@@ -1,0 +1,4 @@
+Arquivo,Marcador,Tempo no MP4,Timecode 24 fps,Quadro,Evento,Deixa ou sincronismo
+HESED_C07_MM17-Q03_2p5D_v01.mp4,INÍCIO,00:00:00.000,00:00:00:00,0,"Abre os que virão depois da retomada Q02.","Tempo real a alinhar ao master P-02."
+HESED_C07_MM17-Q03_2p5D_v01.mp4,IMPACTO VISUAL,00:00:03.000,00:00:03:00,72,"Expansão vertical suave da luz no horizonte.","Efeito visual da composição; sem sync musical."
+HESED_C07_MM17-Q03_2p5D_v01.mp4,SAÍDA,00:00:05.958,00:00:05:23,143,"Último quadro útil do arquivo individual.","GO para cozinha depende do fim real da música e do ensaio."

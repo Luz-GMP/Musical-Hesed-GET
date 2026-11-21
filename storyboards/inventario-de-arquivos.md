@@ -77,6 +77,8 @@ Os 12 quadros da MM-13 foram recebidos no commit remoto `a91406a` durante esta c
 
 O estudo 2.5D de `MM13-Q06 v16` está documentado em [layers-v01](MM-13/estabulo-anjos-v16/layers-v01/LEIA-ME-2p5d.md). PNGs de camada, projeto EffectCraft e MP4 são materiais locais de produção/revisão e não entram na contagem de storyboards publicados enquanto P-13 não definir o destino compartilhado.
 
+As animações 2.5D individuais de Q01–Q03 da proposta MM-17, seus recortes PNG, projetos EffectCraft e MP4s estão documentados em [animacoes-individuais-v01](MM-17/animacoes-individuais-v01/README.md). São arquivos locais de produção/revisão, fora do Git conforme P-13; não formam um vídeo completo da Cena 7.
+
 Padrão para novos arquivos: [guia de entrega](../guias/entrega-e-arquivos.md#padrão-de-nomes). Prompts, originais documentais e registros históricos não foram renomeados.
 
 ## MM-12 · imagens individuais v01 · 24/10/2026

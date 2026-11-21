@@ -14,13 +14,13 @@ Abra [Cena 6](../guias/cena-a-cena/cena-06.md) para conferir as falas e imagens.
 
 ### 7. Anúncio e gerações
 
-Segure o estábulo vazio na primeira menção a um anjo. Na fala “uma multidão de anjos apareceu”, entre com a imagem aprovada v09. Em Santo pra Sempre, abra com o primeiro grupo geracional, insira a v16 durante a adoração dos anjos e retorne às gerações (D-61). O alpha visual v03 está pronto para revisão, sem áudio; ajuste os pontos musicais ao master P-02 e ensaie a saída após a música e a retirada da manjedoura.
+Segure o estábulo vazio na primeira menção a um anjo. Na fala “uma multidão de anjos apareceu”, entre com a imagem aprovada v09. Em Santo pra Sempre, abra com o primeiro grupo geracional, insira a v16 durante a adoração dos anjos e retorne às gerações (D-61). As animações 2.5D v01 de Q01, Q02, Q03 e o insert v16 estão separados para revisão, sem áudio. Ajuste os pontos musicais ao master P-02 e ensaie a saída após a música e a retirada da manjedoura.
 
-**Storyboard v03 e alpha visual para revisão:** [Gerações em louvor](../storyboards/MM-17/README.md) · [marcadores do alpha v03](../storyboards/MM-17/alpha-v03/HESED_C07_MM-17_santo-pra-sempre_alpha-v03_marcadores.md) · [camadas 2.5D da v16](../storyboards/MM-13/estabulo-anjos-v16/layers-v01/LEIA-ME-2p5d.md). O MP4 silencioso está local como `storyboards/MM-17/alpha-v03/HESED_C07_MM-17_santo-pra-sempre_alpha-v03.mp4`; P-13 ainda precisa definir seu destino compartilhado. `MM-17` continua como identificador proposto; a direção ainda precisa revisar as imagens geracionais e a estrutura de camadas. A v16 está autorizada apenas no trecho de adoração dos anjos e não substitui a v09 da fala.
+**Storyboard e animações individuais para revisão:** [Gerações em louvor](../storyboards/MM-17/README.md) · [Q01–Q03 independentes](../storyboards/MM-17/animacoes-individuais-v01/README.md) · [camadas e render individual da v16](../storyboards/MM-13/estabulo-anjos-v16/layers-v01/LEIA-ME-2p5d.md). Os quatro MP4s silenciosos e seus projetos estão locais conforme P-13. `MM-17` continua identificador proposto; a direção ainda precisa registrar a seleção das imagens geracionais. A v16 permanece autorizada apenas na adoração dos anjos e não substitui a v09 da fala.
 
 Abra [Cena 7](../guias/cena-a-cena/cena-07.md) para conferir as falas e imagens. As referências são [MM-12](../storyboards/MM-12/README.md) · [MM-13](../storyboards/MM-13/README.md) (MM-13 identifica a origem da variante com anjos).
 
-- [ ] Apresentar o alpha v03 e a estrutura 2.5D à direção; anotar a seleção dos grupos geracionais e qualquer ajuste de separação. Após receber o master, marcar o ponto real da v16 e a saída; ensaiar o retorno à cozinha e a luz.
+- [ ] Apresentar Q01, Q02, Q03 e o insert v16 como animações separadas; anotar a seleção dos grupos geracionais e qualquer ajuste de separação. Após receber o master, marcar a entrada/retomada real e a saída; ensaiar o retorno à cozinha e a luz.
 - [ ] Registrar a versão aprovada, o link compartilhado e a deixa real na [linha de acompanhamento](../STATUS.md#fila-das-nove-cenas). Manter a v09 na fala da multidão.
 
 ### 8. Recapitulação e Brilha Tua Luz

@@ -20,6 +20,7 @@
 - **Preservado:** estábulo, montanhas, enquadramento 16:9, terreno, brilho quente da lanterna e paleta noturna azul-prateada; a v09 aprovada não foi atualizada.
 - **Situação:** estudo gerado em 20/11/2026; em 21/11/2026 a direção autorizou seu uso somente no trecho de adoração dos anjos da Cena 7 (D-61). Continua separada e não substitui a v09 aprovada para a fala da multidão. A posição musical aguarda o master (P-02).
 - **Estudo de animação:** [decomposição 2.5D v01](estabulo-anjos-v16/layers-v01/LEIA-ME-2p5d.md). A placa limpa, vila/árvores, estábulo/lanterna, muro/terreno, ânforas e grupo de anjos foram separados em planos; a estrutura do estábulo e a lanterna continuam juntas, assim como o grupo de anjos. As imagens de camada são reconstruções locais, sem alterar a arte-fonte. O insert silencioso v01 foi integrado ao alpha v03 de revisão de MM-17; os tempos continuam provisórios até o master P-02.
+- **Render individual aprovado:** a composição v01 da v16 foi renderizada de novo como insert autônomo v02, silencioso, com marcadores de início, evento visual e saída. O arquivo, a tabela CSV/Markdown e a configuração estão na pasta `layers-v01`; seu uso continua restrito à adoração dos anjos por D-61.
 
 | | |
 | --- | --- |

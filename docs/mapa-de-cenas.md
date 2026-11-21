@@ -70,7 +70,7 @@ MM-12/Eduardo: caminho→Belém→chegada→abrigo. O feedback também menciona 
 | --- | --- | --- |
 | Início / diálogo | Sustentar **MM12-Q06**, estábulo vazio | Fala variável; loop/pausa a definir. |
 | “uma multidão de anjos apareceu” | Entrar variante com vários anjos baseada/incluída sobre Q06 | A baseQ06 disponível não contém anjos. Identificar variante ou planejar nova, preservando original (P-17). |
-| Santo pra Sempre | Eduardo produz gerações louvando. Alpha visual v03, silencioso, demonstra a v16 em 2.5D no slot 00:00:06–00:00:12. Maria, José e manjedoura junto à bateria. | Rever os grupos geracionais e definir luz; marcar v16 e saída no master P-02. |
+| Santo pra Sempre | Eduardo prepara animações 2.5D individuais e silenciosas para Q01, Q02, Q03 e v16. Maria, José e manjedoura junto à bateria. | Rever os grupos geracionais e definir luz; marcar entrada da v16, retomada Q02 e saída no master P-02. |
 | Fim da música | Sai manjedoura; retorna cozinha direita/preto esquerda | Cue pelo fim musical. |
 
 ## Cena8 · Recapitulação, afirmação e Brilha Tua Luz

@@ -2,7 +2,7 @@
 
 **HESED 2026 · Cena 7 · Eduardo (Dudu) · v03 · 21/11/2026**
 
-> **Situação:** a direção autorizou a sequência principal com `MM13-Q06 v16` durante o trecho de adoração dos anjos (D-61). O alpha visual v03 já contém um insert 2.5D silencioso de 6 s, ainda sem sincronismo ao master (P-02). `MM-17` continua como identificador proposto para a sequência de *Santo pra Sempre*; o briefing atual da Cena 7 ainda não atribui um código MM próprio. Os IDs e nomes dos quadros geracionais continuam sujeitos à seleção da direção.
+> **Entrega atual (21/11/2026):** animações 2.5D independentes para Q01, Q02 e Q03, mais o insert v16 renderizado separadamente, estão em [animações individuais v01](animacoes-individuais-v01/README.md). Os quatro clipes são silenciosos e aguardam o master P-02. O alpha visual v03 descrito abaixo é um estudo de montagem anterior; não faz parte da entrega atual solicitada. `MM-17` continua como identificador proposto e a direção ainda precisa registrar a seleção final das imagens geracionais.
 
 **Objetivo.** Sair da revelação dos anjos na fala, acompanhar *Santo pra Sempre* com imagens humanas de gerações que esperaram, louvam hoje e virão, e devolver o telão à cozinha noturna da Cena 8.
 
@@ -80,7 +80,9 @@ O vídeo demonstra o encadeamento e as transições; os 6 s por imagem são apen
 
 `MM12-Q06` e `MM13-Q06 v09` permanecem sem alteração. A v16 entra somente no trecho de adoração dos anjos e volta às gerações em seguida (D-61). O alpha contém uma transição linear com borda gráfica de papel/tinta entre os quadros; não acrescenta filtros às imagens aprovadas.
 
-## Alpha visual v03 · insert 2.5D da v16
+## Alpha visual v03 · estudo de montagem anterior
+
+Este artefato local veio de uma etapa anterior e não é a entrega pedida agora. A solicitação vigente é receber Q01, Q02, Q03 e a v16 como arquivos animados independentes; veja [animações individuais v01](animacoes-individuais-v01/README.md).
 
 O v03 preserva os quatro trechos de 6 s do alpha visual e troca somente o still no slot v16, entre 00:00:06 e 00:00:12, pelo insert animado em camadas. Os outros quadros e as transições de papel/tinta permanecem como na montagem anterior. O tempo do insert é demonstração de montagem, não sincronismo musical aprovado.
 

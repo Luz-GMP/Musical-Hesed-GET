@@ -1,13 +1,13 @@
 # MM13-Q06 v16 · decomposição 2.5D · estudo v01
 
-**Estado:** insert 2.5D renderizado e integrado à sequência visual alpha v03 para revisão. Esta exportação é silenciosa e ainda não está sincronizada ao master da música.
+**Estado:** composição v01 aprovada pelo usuário para renderização individual. O insert autônomo v02 está renderizado com marcadores; a exportação é silenciosa e ainda não está sincronizada ao master da música. O MP4 v01 permanece como render anterior usado no alpha visual de revisão.
 
 **Fonte:** `../MM13-Q06.png` (1672 × 941), quadro MM-13-Q06 v16. A imagem aprovada permanece intacta.
 
 **Projeto animável:** `HESED_MM13_Q06_2p5d_study_v01.ecproj`
-**Insert:** `HESED_MM13_Q06_v16_2p5D_v01.mp4` (6 s, 144 quadros).
+**Insert atual:** `HESED_MM13_Q06_v16_2p5D_v02.mp4` (6 s, 144 quadros) · [marcadores](HESED_MM13_Q06_v16_2p5D_v02_marcadores.md) · [CSV](HESED_MM13_Q06_v16_2p5D_v02_markers.csv).
 **Prova estática:** `MM13-Q06_2p5d_preview_v01.png`, quadro em 00:00:03:00.
-**Sequência de revisão:** `../../../MM-17/alpha-v03/HESED_C07_MM-17_santo-pra-sempre_alpha-v03.mp4` (24 s, 576 quadros; 1920 × 1080, 24 fps). A v16 ocupa 00:00:06–00:00:12, conforme a sequência visual anterior; esses tempos não são sincronismo musical aprovado.
+**Animações da Cena 7:** [arquivos individuais Q01–Q03](../../../MM-17/animacoes-individuais-v01/README.md). A montagem alfa v03 permanece registrada como estudo anterior, sem determinar os tempos musicais.
 
 ## Pilha atual · topo para base
 
@@ -26,14 +26,14 @@
 - Parallax por profundidade com movimento eased de posição e escala ao longo de 6 s; deslocamentos de poucos pixels, do fundo para o primeiro plano.
 - A vila entra primeiro; as ânforas aparecem em seguida; o grupo de anjos e os feixes de luz entram por fade. O estábulo preserva sua presença desde o início.
 - Linguagem editorial contida: caminhos vetoriais de luz e entradas limpas, sem logotipo, título ou texto acrescentado ao quadro.
-- O movimento é pensado para a passagem v16 existente (6–12 s da sequência visual), sem afirmar sincronismo musical; o alpha atual não tem áudio/master.
+- O movimento é pensado para o insert v16 individual de 6 s, sem afirmar sincronismo musical; o master P-02 ainda não está disponível.
 
 ## Limites e revisão necessária
 
-Os PNGs foram reconstruídos a partir da referência com geração de imagem, não obtidos por máscaras pixel a pixel. A placa de fundo reinterpreta alguns contornos de montanha e neve; a silhueta do grupo de anjos e o detalhamento das bordas também têm variações. Na prévia de 3 s não há buracos conspícuos, mas a separação permite apenas parallax curto e deve ser aprovada antes do render final. O original continua sendo a referência visual de autoridade.
+Os PNGs foram reconstruídos a partir da referência com geração de imagem, não obtidos por máscaras pixel a pixel. A placa de fundo reinterpreta alguns contornos de montanha e neve; a silhueta do grupo de anjos e o detalhamento das bordas também têm variações. Na prévia de 3 s não há buracos conspícuos. O usuário aprovou a composição para o render individual v02; a separação permite apenas parallax curto e o original continua sendo a referência visual de autoridade.
 
 Confirmação do que está separado: placa de fundo, plano da vila/árvores, estábulo/lanterna, primeiro plano muro/terreno, par de ânforas e grupo de anjos. Confirmação do que ainda está agrupado: anjos entre si, lanterna com estábulo, ânforas entre si e elementos menores da vila/vegetação.
 
 ## Próxima etapa
 
-Revisar as separações e o alpha v03 com a direção, escolher os quadros geracionais e, quando o master chegar, alinhar a deixa real e a saída. O material continua como alpha silencioso de revisão; não define a operação do telão.
+Revisar as separações desta composição e das animações individuais Q01–Q03 com a direção; escolher os quadros geracionais e, quando o master chegar, alinhar a entrada real da v16, a retomada Q02 e a saída. Estes materiais continuam como estudos silenciosos; não definem a operação do telão.
