@@ -19,6 +19,8 @@ O nascimento acontece num lugar simples. Mari conta o anúncio aos pastores. O m
 
 **Antes de entregar.** Mostre à direção as gerações e a referência de anjos sugerida pela produção. Escolham onde ela cabe antes de fechar a luz da música.
 
+**Proposta de montagem v01:** [storyboard de gerações em louvor](../../storyboards/MM-17/README.md). Os quadros e o ID MM-17 continuam como proposta; a imagem v16 de anjos não entra sem aprovação da direção.
+
 ## Como preparar e passar adiante
 
 1. Separar a p. 90 e a p. 91 e simular a leitura das duas falas sobre os anjos. A troca ocorre na segunda.

@@ -16,6 +16,8 @@ Abra [Cena 6](../guias/cena-a-cena/cena-06.md) para conferir as falas e imagens.
 
 Segure o estábulo vazio na primeira menção a um anjo. Na fala “uma multidão de anjos apareceu”, entre com a imagem aprovada v09. Mais tarde, em Santo pra Sempre, entram as gerações louvando. Mostre a seleção à direção antes de fechar a luz. Ao fim da música, sai a manjedoura e volta a cozinha.
 
+**Proposta v01 para revisão:** [Gerações em louvor · storyboard e configuração](../storyboards/MM-17/README.md). `MM-17` é apenas um identificador sugerido para esta sequência; aguarda confirmação antes de nomear imagens ou produzir o alpha.
+
 Abra [Cena 7](../guias/cena-a-cena/cena-07.md) para conferir as falas e imagens. As referências são [MM-12](../storyboards/MM-12/README.md) · [MM-13](../storyboards/MM-13/README.md) (MM-13 identifica a origem da variante com anjos).
 
 - [ ] Registrar versão, link e deixa da cena na [linha de acompanhamento](../STATUS.md#fila-das-nove-cenas). Guardar a variante com anjos para a fala da multidão. Voltar à cozinha após as gerações.

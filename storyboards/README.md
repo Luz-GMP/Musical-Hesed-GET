@@ -42,5 +42,6 @@ Mudou um quadro em revisão? O histórico Git guarda a anterior. Preserve a imag
 | MM-01 a MM-03 e MM-16 | Victor |
 | MM-04 a MM-11 e MM-13 | Isaac |
 | MM-12, MM-14 e MM-15 | Eduardo |
+| [Cena 7 · proposta de gerações em louvor](MM-17/README.md) · sugestão de ID MM-17, pendente de confirmação | Eduardo (proposta) |
 
 Victor produz a MM-16 inteira, incluindo seleção ou criação das imagens, eventual gravação, edição, finalização e entrega direta à operação. A–D identificam referências de acervo. O filme independe de qualquer material a preparar, separar ou enviar pelos demais. Pastas de acervo: [A](MM-16A/), [B](MM-16B/), [C](MM-16C/), [D](MM-16D/).
