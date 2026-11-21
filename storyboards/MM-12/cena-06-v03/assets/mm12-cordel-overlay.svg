@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1080">
+  <title>MM12 Cordel Overlay</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path d="M90 78 L1830 78 L1760 160 L160 160 Z" fill="none" stroke="#d3a15b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M240 880 L420 720 L520 810 L680 620" fill="none" stroke="#e8dfcf" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M1480 620 L1600 790 L1700 690 L1840 870" fill="none" stroke="#d3a15b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

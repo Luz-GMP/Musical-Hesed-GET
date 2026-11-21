@@ -1,0 +1,19 @@
+{
+  "schema": "ai-filmmaker.project/v1",
+  "project": {"id":"hesed-cena-06-mm12-parallax-v02","title":"HESED · Cena 6 · MM-12 · Reconstrução parallax v02"},
+  "workflow": {"phase":"scene-review","currentScene":"scene-06"},
+  "delivery": {"width":1920,"height":1080,"fps":30,"status":"draft"},
+  "timeline": {"musicMode":"none","controlMode":"manual-cues","previewMode":"auto-demo","totalDurationSec":106,"durationRangeSec":[15,20],"transitionProfile":"cordel-inspired-editorial-language","markersPath":"cena-06-v02/marcadores.md","previewPath":"cena-06-v02/preview.html"},
+  "reference": {"url":"https://www.youtube.com/watch?v=9IMiOxcIZT4","role":"editing-language-only","contentUse":"none","observedLanguage":["illustrated scenes emerging in layers","pan and zoom across a composed image","diagonal and page-like reveals","ink/sepia contrast and graphic silhouettes","motivated dissolves between tableaux"],"appliedTo":"reveal choreography, transition shape, camera drift and depth treatment only"},
+  "assets": [
+    {"id":"mm12-q01","path":"MM12-Q01.jpg","kind":"image","status":"ready","provenance":"project-reference","rights":"provided-by-project","sha256":"5a2fa7e28a08bdb690e8c0e201a1596155600e6a2abc61ca52f641c318979638"},
+    {"id":"mm12-q02","path":"MM12-Q02.jpg","kind":"image","status":"ready","provenance":"project-reference","rights":"provided-by-project","sha256":"2042e02c8f78e2b0d97b45432532196f8090ec9fd148f130b070898c4e9f6724"},
+    {"id":"mm12-q03","path":"MM12-Q03.jpg","kind":"image","status":"ready","provenance":"project-reference","rights":"provided-by-project","sha256":"d9374a38ffdf8d56351af746864508e4bb21465d99ff3842aff3670da6fb59e6"},
+    {"id":"mm12-q04","path":"MM12-Q04.jpg","kind":"image","status":"ready","provenance":"project-reference","rights":"provided-by-project","sha256":"4788a90258c6781ee8964e5bc3805a800d8acb14b16dc73a317c91bb8dfc8419"},
+    {"id":"mm12-q05","path":"MM12-Q05.jpg","kind":"image","status":"ready","provenance":"project-reference","rights":"provided-by-project","sha256":"4598c712db8910d0101acfd5eefc355af812f7eab31197e2735f627cf28f45d5"},
+    {"id":"mm12-q06","path":"MM12-Q06.jpg","kind":"image","status":"ready","provenance":"project-reference","rights":"provided-by-project","sha256":"105d9ee6b9de7104efb6ea4e8e13eb39bdf8e86b949a882433883d2007c44058"}
+  ],
+  "scenes": [{"id":"scene-06","version":2,"status":"review","durationSec":106,"durationStatus":"provisional-15-to-20s-per-visual-cue"}],
+  "audio": {"voice":[],"music":[],"ambience":[],"sfx":[]},
+  "approvals": []
+}
