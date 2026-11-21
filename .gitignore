@@ -13,12 +13,17 @@
 *.prproj
 *.aep
 *.aepx
+*.ecproj
+*.fcproj
+*.pcraft
+*.ora
 *.drp
 *.psd
 *.psb
 *.tif
 *.tiff
 *.exr
+storyboards/MM-13/estabulo-anjos-v16/layers-v01/*.png
 *.zip
 *.rar
 Adobe Premiere Pro Auto-Save/

@@ -17,9 +17,9 @@ O nascimento acontece num lugar simples. Mari conta o anúncio aos pastores. O m
 | Mari fala das gerações que esperaram o Redentor | Começa **Santo pra Sempre**. Maria, José e a manjedoura ficam junto à caixa de som do lado da bateria. | Abra com `MM-17-Q01` (os que esperaram). No trecho de adoração dos anjos, insira `MM13-Q06 v16` por um momento e retorne às gerações com `MM-17-Q02` (as que louvam hoje) e `MM-17-Q03` (as que virão). A direção autorizou a v16 para esse uso (D-61); posição e tempo exatos ainda serão medidos no master (P-02). Teste 20–45 s por grupo, ajustando ao master; defina a luz após ver o vídeo. |
 | Termina Santo pra Sempre | A manjedoura sai. O elenco volta à conversa. | Volte à cozinha noturna à direita, com preto à esquerda. Deixe essa imagem até o pedido de recapitulação da próxima cena. |
 
-**Antes de entregar.** Apresente o alpha visual v02 e recolha a seleção das imagens geracionais. Mantenha a v16 na adoração dos anjos conforme D-61; alinhe seu ponto e a saída ao master (P-02) e confirme a luz no ensaio.
+**Antes de entregar.** Apresente o alpha visual v03 e recolha a seleção das imagens geracionais. Mantenha a v16 na adoração dos anjos conforme D-61; revise a estrutura 2.5D, alinhe seu ponto e a saída ao master (P-02) e confirme a luz no ensaio.
 
-**Proposta de montagem v02:** [storyboard de gerações em louvor](../../storyboards/MM-17/README.md). A direção autorizou a inclusão da `MM13-Q06 v16` na sequência de *Santo pra Sempre* (D-61), sem substituir a v09 da fala. Os tempos musicais e os grupos geracionais ainda precisam de ajuste ao master e revisão visual.
+**Alpha visual v03:** [storyboard de gerações em louvor](../../storyboards/MM-17/README.md) · [marcadores](../../storyboards/MM-17/alpha-v03/HESED_C07_MM-17_santo-pra-sempre_alpha-v03_marcadores.md) · [camadas 2.5D](../../storyboards/MM-13/estabulo-anjos-v16/layers-v01/LEIA-ME-2p5d.md). O insert v16 ocupa 6 s no alpha para demonstrar a passagem; esse tempo não substitui a marcação musical no master. A direção autorizou o uso da v16 somente na adoração dos anjos (D-61), sem substituir a v09 da fala. Os grupos geracionais e os tempos musicais ainda precisam de revisão.
 
 ## Como preparar e passar adiante
 

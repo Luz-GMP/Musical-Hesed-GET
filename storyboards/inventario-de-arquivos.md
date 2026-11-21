@@ -75,6 +75,8 @@ A prancha MM-12 vigente é a v03 consolidada (D-46): Q03/Q04/Q05 da v03 aprovado
 
 Os 12 quadros da MM-13 foram recebidos no commit remoto `a91406a` durante esta conferência e incorporados antes da conclusão. Nove deles precisavam do zero à esquerda.
 
+O estudo 2.5D de `MM13-Q06 v16` está documentado em [layers-v01](MM-13/estabulo-anjos-v16/layers-v01/LEIA-ME-2p5d.md). PNGs de camada, projeto EffectCraft e MP4 são materiais locais de produção/revisão e não entram na contagem de storyboards publicados enquanto P-13 não definir o destino compartilhado.
+
 Padrão para novos arquivos: [guia de entrega](../guias/entrega-e-arquivos.md#padrão-de-nomes). Prompts, originais documentais e registros históricos não foram renomeados.
 
 ## MM-12 · imagens individuais v01 · 24/10/2026

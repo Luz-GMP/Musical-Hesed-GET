@@ -4,7 +4,7 @@ Para registrar o andamento, use a **cena e a deixa** do [Roteiro de montagem do 
 
 **Distribuição vigente · 19/11/2026.** Victor fecha as Cenas 1, 2 e 9. Isaac fecha as Cenas 3, 4 e 5. Eduardo (Dudu) fecha as Cenas 6, 7 e 8. Cada pessoa prepara e entrega suas cenas diretamente à operação. A MM-16 é integralmente de Victor. As músicas em ajuste por Isaac seguem a partir das versões existentes. [Guia de execução por pessoa](guias/cena-a-cena/quem-faz-as-musicas.md)
 
-**Distribuição atualizada:** 19/11/2026. **Última conciliação das versões abaixo:** 16/11/2026 · por Codex, a pedido de Victor (conciliação local/remota de MM-01/MM-02 e feedback de produção; sem novo aceite técnico). **Atualização de andamento:** 21/11/2026 · Codex (sequência da Cena 7 v02 com insert v16 autorizado por D-61; alpha visual silencioso para revisão, sem sincronismo ao master).
+**Distribuição atualizada:** 19/11/2026. **Última conciliação das versões abaixo:** 16/11/2026 · por Codex, a pedido de Victor (conciliação local/remota de MM-01/MM-02 e feedback de produção; sem novo aceite técnico). **Atualização de andamento:** 21/11/2026 · Codex (sequência visual da Cena 7 v03 com insert 2.5D v16 autorizado por D-61; alpha silencioso para revisão, sem sincronismo ao master; v02 preservado).
 
 Cada pessoa atualiza **a própria linha** quando muda de etapa. Na dúvida sobre as etapas, veja [guias/fluxo-de-trabalho.md](guias/fluxo-de-trabalho.md).
 
@@ -47,7 +47,7 @@ Escolha sua ficha. [Victor · cenas 1, 2 e 9](equipe/victor.md) · [Isaac · cen
 | [Cena 4](guias/cena-a-cena/cena-04.md) · Graça e Páscoa | Isaac | Marcar a entrada dos cortes de Goel na fala do perdão e devolver a imagem à conversa. | A registrar |
 | [Cena 5](guias/cena-a-cena/cena-05.md) · Da visão de Mari a Ó Noite Santa | Isaac | Voltar à cozinha após o mundinho. Mostrar o último céu a Eduardo. | A registrar |
 | [Cena 6](guias/cena-a-cena/cena-06.md) · Caminho até o abrigo | Eduardo | Segurar o mesmo estábulo vazio da MM-12 ao entrar na Cena 7. | A registrar |
-| [Cena 7](guias/cena-a-cena/cena-07.md) · Anúncio e gerações | Eduardo | Revisar as imagens geracionais do alpha v02; alinhar a v16 e a saída ao master P-02 e ensaiar o retorno à cozinha/luz. | [Storyboard e alpha v02](storyboards/MM-17/README.md); v16 autorizada neste uso (D-61); MM-17 continua ID proposto |
+| [Cena 7](guias/cena-a-cena/cena-07.md) · Anúncio e gerações | Eduardo | Revisar os grupos geracionais e o estudo 2.5D do alpha v03; alinhar a v16 e a saída ao master P-02 e ensaiar o retorno à cozinha/luz. | [Storyboard e alpha v03](storyboards/MM-17/README.md); v16 autorizada neste uso (D-61); MM-17 continua ID proposto |
 | [Cena 8](guias/cena-a-cena/cena-08.md) · Recapitulação e Brilha Tua Luz | Eduardo | Marcar a cortina após Brilha Tua Luz para a troca antes da MM-16. | A registrar |
 | [Cena 9](guias/cena-a-cena/cena-09.md) · Filme final | Victor | Identificar a entrada após a troca, a parte falada e as luzes de Natal no último refrão. | A registrar |
 

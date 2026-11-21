@@ -1,8 +1,8 @@
 # Proposta de storyboard · MM-17 · Gerações em louvor
 
-**HESED 2026 · Cena 7 · Eduardo (Dudu) · v02 · 21/11/2026**
+**HESED 2026 · Cena 7 · Eduardo (Dudu) · v03 · 21/11/2026**
 
-> **Situação:** a direção autorizou a sequência principal com `MM13-Q06 v16` durante o trecho de adoração dos anjos (D-61). `MM-17` continua como identificador proposto para a sequência de *Santo pra Sempre*; o briefing atual da Cena 7 ainda não atribui um código MM próprio. Os IDs e nomes dos quadros geracionais continuam sujeitos à seleção da direção. A posição e o tempo da v16 serão alinhados ao master (P-02).
+> **Situação:** a direção autorizou a sequência principal com `MM13-Q06 v16` durante o trecho de adoração dos anjos (D-61). O alpha visual v03 já contém um insert 2.5D silencioso de 6 s, ainda sem sincronismo ao master (P-02). `MM-17` continua como identificador proposto para a sequência de *Santo pra Sempre*; o briefing atual da Cena 7 ainda não atribui um código MM próprio. Os IDs e nomes dos quadros geracionais continuam sujeitos à seleção da direção.
 
 **Objetivo.** Sair da revelação dos anjos na fala, acompanhar *Santo pra Sempre* com imagens humanas de gerações que esperaram, louvam hoje e virão, e devolver o telão à cozinha noturna da Cena 8.
 
@@ -60,7 +60,7 @@ A sequência principal preserva a função da imagem humana e inclui um insert s
 
 Não há timecodes fixos, forma de onda ou BPM neste estudo. A tabela final deverá acompanhar o MP4 da mesma versão e ser conferida no arquivo exportado, conforme D-60. O master não está disponível; nenhum efeito sonoro ou áudio substituto está proposto.
 
-## Alpha visual v02 · para revisão
+## Alpha visual v02 · base anterior
 
 O vídeo demonstra o encadeamento e as transições; os 6 s por imagem são apenas ritmo de revisão, não a duração aprovada de cada grupo nem o sincronismo da música.
 
@@ -79,6 +79,27 @@ O vídeo demonstra o encadeamento e as transições; os 6 s por imagem são apen
 | SAÍDA — fim do alpha | `00:00:24:00` | Último quadro do arquivo | Não define o fim da música, a retirada da manjedoura nem a saída real. |
 
 `MM12-Q06` e `MM13-Q06 v09` permanecem sem alteração. A v16 entra somente no trecho de adoração dos anjos e volta às gerações em seguida (D-61). O alpha contém uma transição linear com borda gráfica de papel/tinta entre os quadros; não acrescenta filtros às imagens aprovadas.
+
+## Alpha visual v03 · insert 2.5D da v16
+
+O v03 preserva os quatro trechos de 6 s do alpha visual e troca somente o still no slot v16, entre 00:00:06 e 00:00:12, pelo insert animado em camadas. Os outros quadros e as transições de papel/tinta permanecem como na montagem anterior. O tempo do insert é demonstração de montagem, não sincronismo musical aprovado.
+
+| Arquivo | Conteúdo |
+|---|---|
+| [MP4 local](alpha-v03/HESED_C07_MM-17_santo-pra-sempre_alpha-v03.mp4) | 1920×1080, 24 fps, 576 quadros / 24 s, sem áudio; alpha visual de revisão. |
+| [Tabela de marcadores](alpha-v03/HESED_C07_MM-17_santo-pra-sempre_alpha-v03_marcadores.md) · [CSV FilmCraft](alpha-v03/HESED_C07_MM-17_santo-pra-sempre_alpha-v03_markers.csv) | Início, três eventos visuais e saída conferidos para o MP4 v03; todos os pontos musicais são provisórios até P-02. |
+| [Prévia estática 2.5D](../MM-13/estabulo-anjos-v16/layers-v01/MM13-Q06_2p5d_preview_v01.png) · [estrutura das camadas](../MM-13/estabulo-anjos-v16/layers-v01/LEIA-ME-2p5d.md) | Placa limpa e seis PNGs em planos; anjos como grupo, lanterna com o estábulo e ânforas como par. |
+| Projetos locais | `alpha-v03/HESED_C07_MM-17_santo-pra-sempre_alpha-v03.fcproj` · `../MM-13/estabulo-anjos-v16/layers-v01/HESED_MM13_Q06_2p5d_study_v01.ecproj` · [insert 2.5D](../MM-13/estabulo-anjos-v16/layers-v01/HESED_MM13_Q06_v16_2p5D_v01.mp4). Permanecem locais conforme P-13. |
+
+| Marcador no MP4 v03 | Timecode | Quadro / evento | Relação com a música |
+|---|---|---|---|
+| INÍCIO — alpha visual | `00:00:00:00` | `MM-17-Q01` · os que esperaram | O GO real continua sendo o início de *Santo pra Sempre*. |
+| SYNC 01 — `MM13-Q06 v16` | `00:00:06:00` | Entrada do insert 2.5D de anjos em adoração | Posição provisória; alinhar ao master (P-02). |
+| SYNC 02 — gerações Q02 | `00:00:12:00` | Retorno à geração contemporânea | Posição provisória; alinhar ao master. |
+| SYNC 03 — gerações Q03 | `00:00:18:00` | Entrada da geração futura | Posição provisória; alinhar ao master. |
+| SAÍDA — fim do alpha | `00:00:24:00` | Último quadro do arquivo | Não define o fim da música, retirada da manjedoura nem saída real. |
+
+O estudo 2.5D usa parallax discreto, fades do grupo de anjos e feixes vetoriais de luz como elemento editorial. A placa limpa e os recortes são reconstruções geradas a partir da referência; o arquivo original da v16 não foi alterado. A separação não individualiza cada anjo nem a lanterna do estábulo. A estrutura completa e os limites estão no [guia de camadas](../MM-13/estabulo-anjos-v16/layers-v01/LEIA-ME-2p5d.md).
 
 ## Imagens e ferramentas
 
