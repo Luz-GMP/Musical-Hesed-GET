@@ -1612,13 +1612,15 @@ Usuário solicita cada imagem correspondente aos quatro quadros antes da publica
 
 ## Proposta de identificação · MM-17 · Cena 7 · Santo pra Sempre
 
-**Situação:** estudo textual v01, 21/11/2026. `MM-17` é um identificador sugerido para a sequência de gerações da Cena 7; o briefing atual ainda não atribui um MM próprio a esse trecho. Os IDs abaixo são propostos e só viram oficiais depois da confirmação da direção. As imagens ainda não foram geradas; os prompts são planejados, não enviados. A montagem pode ser revisada em [storyboards/MM-17/README.md](MM-17/README.md).
+**Situação:** estudo textual v02, 21/11/2026. D-61 autoriza a sequência principal a incluir a imagem existente `MM13-Q06 v16` no trecho de adoração dos anjos, seguida pela retomada das gerações. `MM-17` é um identificador sugerido para a sequência de gerações da Cena 7; o briefing atual ainda não atribui um MM próprio a esse trecho. Os IDs abaixo continuam propostos. A posição/tempo da v16 depende do master. A montagem pode ser revisada em [storyboards/MM-17/README.md](MM-17/README.md).
 
 **Contrato visual comum:** fotografia cinematográfica reverente em 16:9; três momentos humanos representam os que esperaram, os que louvam hoje e os que virão. Não duplicar Maria, José ou a manjedoura do palco. A referência de *Cordel Encantado* orienta somente transições de recorte/papel/tinta, conforme o storyboard. Não aplicar esse tratamento por cima das imagens-base. Sem letras, texto, molduras ou logotipos.
 
+**Insert existente na sequência:** [MM13-Q06 v16](MM-13/estabulo-anjos-v16/MM13-Q06.png) está autorizado por D-61 somente para o trecho de adoração dos anjos. Usar a imagem aprovada sem retoque, por duração curta a definir após ouvir o master; retornar em seguida ao Q02 humano. A v16 não substitui a v09 da fala “uma multidão de anjos apareceu”.
+
 ### MM-17-Q01 · Os que esperaram
 
-- **Situação e origem:** proposta v01; identidade MM-17 e quadro pendentes de confirmação.
+- **Situação e origem:** imagem-base gerada para o alpha visual v02; seleção e identificação MM-17 ainda dependem da direção.
 - **Função narrativa e gatilho:** abrir a passagem da fala sobre as gerações para a entrada de *Santo pra Sempre*; representar os que esperaram.
 - **Imagem-base:** comunidade antiga com idosos, adultos e crianças em adoração discreta, orientados para uma luz distante. A cena sugere continuidade familiar, não uma figura bíblica específica.
 - **Composição:** plano geral horizontal; figuras em primeiro e segundo planos com rostos legíveis e espaço negativo para a paisagem. Não reproduzir o estábulo aprovado.
@@ -1626,14 +1628,15 @@ Usuário solicita cada imagem correspondente aos quatro quadros antes da publica
 - **Continuidade:** linha de horizonte e posição do ponto de luz devem ser preservadas para os quadros Q02 e Q03.
 - **Animação e transição:** imagem-base imóvel; movimento será feito na composição por parallax mínimo. Entrada por recorte de papel que parte do céu da MM13-Q06 v09 sem alterar sua base.
 - **Evitar:** anjos, presépio, cruz, texto, instrumentos, palácio ou fantasia medieval europeia; evitar pessoas em pose de palco.
-- **Prompt planejado (não enviado):** “Crie uma única imagem-base cinematográfica horizontal 16:9 para um storyboard reverente do HESED: uma comunidade antiga de famílias de várias idades, idosos, adultos e crianças, em adoração silenciosa e contida ao ar livre à noite, vista em plano geral, voltada para uma luz âmbar pequena no horizonte. Roupas simples e históricas, paisagem sóbria azul-noturna com sombras profundas, rostos e silhuetas distinguíveis, composição com profundidade e espaço negativo. Fotografia natural, realista e cinematográfica, luz suave, sem teatralidade. Não mostre o estábulo, Maria, José, bebê, anjos, cruz, instrumentos, palco, microfones, texto, legenda, moldura ou logotipo. Uma imagem única, limpa, sem colagem.”
+- **Prompt do briefing original (não executado):** “Crie uma única imagem-base cinematográfica horizontal 16:9 para um storyboard reverente do HESED: uma comunidade antiga de famílias de várias idades, idosos, adultos e crianças, em adoração silenciosa e contida ao ar livre à noite, vista em plano geral, voltada para uma luz âmbar pequena no horizonte. Roupas simples e históricas, paisagem sóbria azul-noturna com sombras profundas, rostos e silhuetas distinguíveis, composição com profundidade e espaço negativo. Fotografia natural, realista e cinematográfica, luz suave, sem teatralidade. Não mostre o estábulo, Maria, José, bebê, anjos, cruz, instrumentos, palco, microfones, texto, legenda, moldura ou logotipo. Uma imagem única, limpa, sem colagem.”
+- **Prompt realmente usado:** [registro de prompts e metadados do alpha v02](MM-17/alpha-v02/prompts-e-metadados.md#mm17-q01--os-que-esperaram).
 - **Referências usadas:** MM12-Q06 e MM13-Q06 v09 somente para paleta/noite e ponto de luz; vídeo fornecido pelo usuário somente para gramática de transição. Não imitar composição da novela.
-- **Tempo:** faixa de estudo de 20–45 s por grupo indicada na Cena 7; duração a ajustar ao master.
-- **Arquivo/versão/feedback:** não gerado; sem arquivo ou feedback visual.
+- **Tempo:** o alpha v02 usa 6 s como ritmo visual de revisão; a faixa de estudo de 20–45 s por grupo indicada na Cena 7 continua a ajustar ao master e à escolha da direção.
+- **Arquivo/versão/feedback:** [MM17-Q01.png](MM-17/alpha-v02/assets/MM17-Q01.png), 1672×941 px, 2.082.359 bytes, SHA-256 `950acbf8590f43d679f3ea2d64948810fe20383f182dbe0fb0b5c0a746b1199d`. Revisão visual da direção pendente.
 
 ### MM-17-Q02 · Os que louvam hoje
 
-- **Situação e origem:** proposta v01; identidade MM-17 e quadro pendentes de confirmação.
+- **Situação e origem:** imagem-base gerada para o alpha visual v02; seleção e identificação MM-17 ainda dependem da direção.
 - **Função narrativa e gatilho:** dar rosto ao presente entre os demais grupos de gerações.
 - **Imagem-base:** comunidade contemporânea diversa em idades e tons de pele, reunida em adoração com gestos espontâneos e serenos; expressões de reverência e esperança.
 - **Composição:** plano geral/médio amplo; grupo distribuído em profundidade, sem indivíduo dominante e sem repetir a composição de uma congregação em palco.
@@ -1641,14 +1644,15 @@ Usuário solicita cada imagem correspondente aos quatro quadros antes da publica
 - **Continuidade:** repetir horizonte, direção do olhar e ponto de luz do Q01; manter espaço para que o olhar caminhe ao Q03.
 - **Animação e transição:** manter a base limpa; animar somente deriva de câmera/parallax discreto. Transição por recorte de papel na borda, com match cut na linha de luz.
 - **Evitar:** marca de igreja, arquitetura de templo identificável, cruz, microfones, projetores, palco, texto, lyric video ou gestos exagerados.
-- **Prompt planejado (não enviado):** “Crie uma única imagem-base cinematográfica horizontal 16:9 para um storyboard reverente do HESED: uma comunidade contemporânea brasileira, diversa em idades e tons de pele, reunida em adoração natural e serena ao ar livre no início da noite. Pessoas em profundidade, algumas com mãos erguidas de forma espontânea, outras com olhar voltado à luz no horizonte; sem um líder ou rosto central. Preserve composição aberta, horizonte e pequeno ponto de luz âmbar alinhados com um quadro anterior; noite azul profunda, âmbar suave em rostos e mãos, detalhes legíveis. Fotografia realista e natural, sem palco, templo identificável, cruz, instrumentos, microfones, texto, legenda, moldura, logotipo ou colagem.”
+- **Prompt do briefing original (não executado):** “Crie uma única imagem-base cinematográfica horizontal 16:9 para um storyboard reverente do HESED: uma comunidade contemporânea brasileira, diversa em idades e tons de pele, reunida em adoração natural e serena ao ar livre no início da noite. Pessoas em profundidade, algumas com mãos erguidas de forma espontânea, outras com olhar voltado à luz no horizonte; sem um líder ou rosto central. Preserve composição aberta, horizonte e pequeno ponto de luz âmbar alinhados com um quadro anterior; noite azul profunda, âmbar suave em rostos e mãos, detalhes legíveis. Fotografia realista e natural, sem palco, templo identificável, cruz, instrumentos, microfones, texto, legenda, moldura, logotipo ou colagem.”
+- **Prompt realmente usado:** [registro de prompts e metadados do alpha v02](MM-17/alpha-v02/prompts-e-metadados.md#mm17-q02--os-que-louvam-hoje).
 - **Referências usadas:** quadro planejado Q01; MM12-Q06 somente para equilíbrio azul/âmbar. Sem fotografia de elenco recebida.
 - **Tempo:** evento musical a escolher após ouvir o master; não há sincronismo definido.
-- **Arquivo/versão/feedback:** não gerado; sem arquivo ou feedback visual.
+- **Arquivo/versão/feedback:** [MM17-Q02.png](MM-17/alpha-v02/assets/MM17-Q02.png), 1672×941 px, 2.059.251 bytes, SHA-256 `6196c3739e7d33436952d5f18b4fcfa25eb738c29751d899f7f3fe8a2a05a9ad`. Revisão visual da direção pendente.
 
 ### MM-17-Q03 · Os que virão
 
-- **Situação e origem:** proposta v01; identidade MM-17 e quadro pendentes de confirmação.
+- **Situação e origem:** imagem-base gerada para o alpha visual v02; seleção e identificação MM-17 ainda dependem da direção.
 - **Função narrativa e gatilho:** concluir a sequência humana com continuidade para as próximas gerações e resposta coletiva.
 - **Imagem-base:** crianças, adolescentes e adultos caminhando juntos em paisagem aberta, olhando para a mesma luz; futuro sugerido pela presença das idades, sem tecnologia ou cenário futurista.
 - **Composição:** plano geral de trás ou três quartos, silhuetas em camadas e caminho visual até o horizonte. Manter cada figura separável e não bloquear a leitura à distância.
@@ -1656,7 +1660,8 @@ Usuário solicita cada imagem correspondente aos quatro quadros antes da publica
 - **Continuidade:** mesmo horizonte, sentido de deslocamento e ponto de luz dos Q01/Q02; esse estado abre espaço para a saída à cozinha.
 - **Animação e transição:** expansão vertical de luz em ritmo natural, sem estrobo ou explosão. A saída usa máscara de tinta que se desfaz para o quadro da cozinha; não morphar paisagem em interior.
 - **Evitar:** telas/dispositivos, cidade tecnológica, roupas de fantasia, excesso de figuras repetidas, céu branco estourado, texto ou símbolos não aprovados.
-- **Prompt planejado (não enviado):** “Crie uma única imagem-base cinematográfica horizontal 16:9 para um storyboard reverente do HESED: crianças, adolescentes, adultos e idosos de mãos dadas ou próximos, em uma paisagem aberta à noite, vistos de trás ou em três quartos, voltados para uma luz suave no horizonte. A composição sugere que novas gerações continuam juntas a caminhada, sem qualquer tecnologia ou cenário futurista. Preserve um horizonte amplo e um ponto de luz na mesma posição visual dos quadros anteriores; use azul-noturno, âmbar discreto e branco quente controlado, com silhuetas distinguíveis e espaço negativo. Fotografia realista, natural, esperançosa e cinematográfica. Sem cruz, anjos, presépio, templo, palco, dispositivos, texto, legenda, moldura, logotipo ou colagem.”
-- **Referências usadas:** quadros planejados Q01/Q02; MM12-Q06 e MM13-Q06 v09 somente para continuidade tonal. Sem base de geração recebida.
+- **Prompt do briefing original (não executado):** “Crie uma única imagem-base cinematográfica horizontal 16:9 para um storyboard reverente do HESED: crianças, adolescentes, adultos e idosos de mãos dadas ou próximos, em uma paisagem aberta à noite, vistos de trás ou em três quartos, voltados para uma luz suave no horizonte. A composição sugere que novas gerações continuam juntas a caminhada, sem qualquer tecnologia ou cenário futurista. Preserve um horizonte amplo e um ponto de luz na mesma posição visual dos quadros anteriores; use azul-noturno, âmbar discreto e branco quente controlado, com silhuetas distinguíveis e espaço negativo. Fotografia realista, natural, esperançosa e cinematográfica. Sem cruz, anjos, presépio, templo, palco, dispositivos, texto, legenda, moldura, logotipo ou colagem.”
+- **Prompt realmente usado:** [registro de prompts e metadados do alpha v02](MM-17/alpha-v02/prompts-e-metadados.md#mm17-q03--os-que-virão).
+- **Referências usadas:** quadros planejados Q01/Q02; MM12-Q06 e MM13-Q06 v09 somente para continuidade tonal.
 - **Tempo:** reservar ao crescimento musical real; duração a medir com o master.
-- **Arquivo/versão/feedback:** não gerado; sem arquivo ou feedback visual.
+- **Arquivo/versão/feedback:** [MM17-Q03.png](MM-17/alpha-v02/assets/MM17-Q03.png), 1672×941 px, 2.144.404 bytes, SHA-256 `413a4d3928a44fb4a89388d61ea26c01826c2450dbf2da3391978666b26c2cba`. Revisão visual da direção pendente.

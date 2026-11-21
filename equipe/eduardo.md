@@ -14,13 +14,14 @@ Abra [Cena 6](../guias/cena-a-cena/cena-06.md) para conferir as falas e imagens.
 
 ### 7. Anúncio e gerações
 
-Segure o estábulo vazio na primeira menção a um anjo. Na fala “uma multidão de anjos apareceu”, entre com a imagem aprovada v09. Mais tarde, em Santo pra Sempre, entram as gerações louvando. Mostre a seleção à direção antes de fechar a luz. Ao fim da música, sai a manjedoura e volta a cozinha.
+Segure o estábulo vazio na primeira menção a um anjo. Na fala “uma multidão de anjos apareceu”, entre com a imagem aprovada v09. Em Santo pra Sempre, abra com o primeiro grupo geracional, insira a v16 durante a adoração dos anjos e retorne às gerações (D-61). O alpha visual v02 está pronto para revisão, sem áudio; ajuste os pontos musicais ao master P-02 e ensaie a saída após a música e a retirada da manjedoura.
 
-**Proposta v01 para revisão:** [Gerações em louvor · storyboard e configuração](../storyboards/MM-17/README.md). `MM-17` é apenas um identificador sugerido para esta sequência; aguarda confirmação antes de nomear imagens ou produzir o alpha.
+**Storyboard v02 e alpha visual para revisão:** [Gerações em louvor](../storyboards/MM-17/README.md) · [marcadores do alpha](../storyboards/MM-17/alpha-v02/HESED_C07_MM-17_santo-pra-sempre_alpha_v02_marcadores.md). O MP4 silencioso está local como `storyboards/MM-17/alpha-v02/HESED_C07_MM-17_santo-pra-sempre_alpha_v02.mp4`; P-13 ainda precisa definir seu destino compartilhado. `MM-17` continua como identificador proposto; a direção ainda precisa revisar as imagens geracionais. A v16 está autorizada apenas no trecho de adoração dos anjos e não substitui a v09 da fala.
 
 Abra [Cena 7](../guias/cena-a-cena/cena-07.md) para conferir as falas e imagens. As referências são [MM-12](../storyboards/MM-12/README.md) · [MM-13](../storyboards/MM-13/README.md) (MM-13 identifica a origem da variante com anjos).
 
-- [ ] Registrar versão, link e deixa da cena na [linha de acompanhamento](../STATUS.md#fila-das-nove-cenas). Guardar a variante com anjos para a fala da multidão. Voltar à cozinha após as gerações.
+- [ ] Apresentar o alpha v02 à direção e anotar a seleção dos grupos geracionais. Após receber o master, marcar o ponto real da v16 e a saída; ensaiar o retorno à cozinha e a luz.
+- [ ] Registrar a versão aprovada, o link compartilhado e a deixa real na [linha de acompanhamento](../STATUS.md#fila-das-nove-cenas). Manter a v09 na fala da multidão.
 
 ### 8. Recapitulação e Brilha Tua Luz
 

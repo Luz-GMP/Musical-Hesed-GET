@@ -2,7 +2,7 @@
 
 Para montar e ensaiar, siga o [Roteiro de montagem do telão](../guias/cena-a-cena/pdf/HESED-roteiro-de-montagem.pdf). Leia cada deixa na ordem do palco: fala ou ação, entrada da música, imagem a sustentar e sinal de saída.
 
-Conferência atualizada em 24/10/2026 após integrar MM-12 (D-44–D-47) e MM-14 (D-48–D-51), preservando D-40/D-41. Abrange **73 imagens: 21 pranchas completas (incluindo históricos de MM-12/MM-14), 51 quadros individuais e 1 prancha de conferência**. MM-12 mantém suas bases e versões publicadas; MM-14 mantém a prancha v04 aprovada, históricos e seis bases com desfoque/translucidez para revisão.
+Conferência atualizada em 21/11/2026. O acervo rastreado contém **97 arquivos de imagem: 22 pranchas completas (incluindo históricos de MM-12/MM-14), 74 quadros individuais e 1 prancha de conferência**. A contagem inclui três bases geradas para o alpha v02 de MM-17, ainda aguardando seleção da direção. MM-12 mantém suas bases e versões publicadas; MM-14 mantém a prancha v04 aprovada, históricos e seis bases com desfoque/translucidez para revisão.
 
 As duas pranchas da MM-04, em JPG e PNG, foram mantidas. As quatro pranchas da MM-03 são a composição oficial e suas três variações de luz. O nome novo não muda versão artística ou aprovação; consulte as fichas de cada peça. O inventário descreve o acervo local; a publicação remota depende do push.
 
@@ -107,3 +107,11 @@ Prancha aprovada em D-47; seis bases geradas para revisão, cada uma em 1672 × 
 - [MM15-Q02.png](MM-15/MM15-Q02.png): PNG 1672 × 941, 2615297 bytes, para revisão.
 - [MM15-Q03.png](MM-15/MM15-Q03.png): PNG 1672 × 941, 2588389 bytes, para revisão.
 - [MM15-Q04.png](MM-15/MM15-Q04.png): PNG 1672 × 941, 2519545 bytes, para revisão.
+
+## MM-17 · três bases do alpha visual v02 · 21/11/2026
+
+Identificador e seleção visual continuam propostos. Os três PNGs 1672 × 941 estão incluídos como estudos para revisão; prompts e hashes constam no [registro de geração](MM-17/alpha-v02/prompts-e-metadados.md). O MP4 e os projetos de edição permanecem locais, fora do Git, enquanto o destino compartilhado de mídia é definido em P-13.
+
+- [MM17-Q01.png](MM-17/alpha-v02/assets/MM17-Q01.png): os que esperaram; 2.082.359 bytes.
+- [MM17-Q02.png](MM-17/alpha-v02/assets/MM17-Q02.png): os que louvam hoje; 2.059.251 bytes.
+- [MM17-Q03.png](MM-17/alpha-v02/assets/MM17-Q03.png): os que virão; 2.144.404 bytes.

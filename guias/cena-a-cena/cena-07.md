@@ -14,17 +14,17 @@ O nascimento acontece num lugar simples. Mari conta o anúncio aos pastores. O m
 | --- | --- | --- |
 | “Maria deu à luz ali mesmo…” | Maria e José estão com a manjedoura. A narração menciona primeiro um anjo. | Continue com o mesmo estábulo vazio, MM12-Q06, inclusive nessa primeira menção. Deixe preparada a variante que mantém o prédio no lugar. |
 | “Uma multidão de anjos apareceu” | A fala de Mari revela a multidão. | Agora chame o estábulo com anjos, MM13-Q06 v09, imagem aprovada (p. 91 do storyboard). O outro Q06, na p. 121, mostra anjos no campo. |
-| Mari fala das gerações que esperaram o Redentor | Começa **Santo pra Sempre**. Maria, José e a manjedoura ficam junto à caixa de som do lado da bateria. | Mostre gerações louvando. Teste três imagens, uma por grupo, por 20–45 s cada. A sugestão de incluir outros anjos depende da escolha da direção. Definam a iluminação após ver o vídeo. |
+| Mari fala das gerações que esperaram o Redentor | Começa **Santo pra Sempre**. Maria, José e a manjedoura ficam junto à caixa de som do lado da bateria. | Abra com `MM-17-Q01` (os que esperaram). No trecho de adoração dos anjos, insira `MM13-Q06 v16` por um momento e retorne às gerações com `MM-17-Q02` (as que louvam hoje) e `MM-17-Q03` (as que virão). A direção autorizou a v16 para esse uso (D-61); posição e tempo exatos ainda serão medidos no master (P-02). Teste 20–45 s por grupo, ajustando ao master; defina a luz após ver o vídeo. |
 | Termina Santo pra Sempre | A manjedoura sai. O elenco volta à conversa. | Volte à cozinha noturna à direita, com preto à esquerda. Deixe essa imagem até o pedido de recapitulação da próxima cena. |
 
-**Antes de entregar.** Mostre à direção as gerações e a referência de anjos sugerida pela produção. Escolham onde ela cabe antes de fechar a luz da música.
+**Antes de entregar.** Apresente o alpha visual v02 e recolha a seleção das imagens geracionais. Mantenha a v16 na adoração dos anjos conforme D-61; alinhe seu ponto e a saída ao master (P-02) e confirme a luz no ensaio.
 
-**Proposta de montagem v01:** [storyboard de gerações em louvor](../../storyboards/MM-17/README.md). Os quadros e o ID MM-17 continuam como proposta; a imagem v16 de anjos não entra sem aprovação da direção.
+**Proposta de montagem v02:** [storyboard de gerações em louvor](../../storyboards/MM-17/README.md). A direção autorizou a inclusão da `MM13-Q06 v16` na sequência de *Santo pra Sempre* (D-61), sem substituir a v09 da fala. Os tempos musicais e os grupos geracionais ainda precisam de ajuste ao master e revisão visual.
 
 ## Como preparar e passar adiante
 
-1. Separar a p. 90 e a p. 91 e simular a leitura das duas falas sobre os anjos. A troca ocorre na segunda.
-2. Eduardo apresenta as gerações à direção e identifica as páginas dos anjos sugeridos antes de testar uma inserção.
+1. Separar a p. 90, a p. 91 e `MM13-Q06 v16`; simular as duas falas sobre os anjos. A troca para v09 ocorre apenas na segunda fala.
+2. No ensaio da música, colocar a v16 no trecho de adoração dos anjos e retornar às três imagens geracionais. Marcar o ponto exato após receber e ouvir o master.
 
 ## A letra e as imagens
 
@@ -39,8 +39,8 @@ O nascimento acontece num lugar simples. Mari conta o anúncio aos pastores. O m
 
 **Anjos e criação em louvor.** Há um trecho cantado sobre a adoração dos anjos. A sugestão da produção tem relação com essa parte.
 
-- **O que aparece hoje.** Há anjos no estábulo aprovado e no campo das pranchas antigas, pp. 120–123. São locais e aprovações diferentes.
-- **Como aplicar.** A integrante pode apontar as páginas a que se referiu. Testar no papel o uso só nessa passagem, sujeito à direção de anjos no estábulo.
+- **O que aparece hoje.** A `MM13-Q06 v09` atende à fala da multidão. A `MM13-Q06 v16` tem abertura do céu e anjos em adoração; D-61 autoriza seu uso apenas nesse trecho de *Santo pra Sempre*.
+- **Como aplicar.** Intercalar a v16 brevemente entre os quadros geracionais, sem deixar a música toda apenas com anjos. Definir sua duração e saída ao ouvir o master.
 
 **O povo responde.** O convite inclui pessoas perdoadas e livres. A celebração se torna coletiva.
 

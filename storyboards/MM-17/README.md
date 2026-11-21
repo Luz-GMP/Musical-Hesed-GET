@@ -1,8 +1,8 @@
 # Proposta de storyboard · MM-17 · Gerações em louvor
 
-**HESED 2026 · Cena 7 · Eduardo (Dudu) · v01 · 21/11/2026**
+**HESED 2026 · Cena 7 · Eduardo (Dudu) · v02 · 21/11/2026**
 
-> **Situação:** proposta para revisão da direção. `MM-17` é um identificador sugerido para a sequência de *Santo pra Sempre*; o briefing atual da Cena 7 ainda não atribui um código MM próprio. Os IDs e nomes de arquivos abaixo só se tornam oficiais depois da confirmação. Nenhuma imagem nova ou vídeo foi gerado.
+> **Situação:** a direção autorizou a sequência principal com `MM13-Q06 v16` durante o trecho de adoração dos anjos (D-61). `MM-17` continua como identificador proposto para a sequência de *Santo pra Sempre*; o briefing atual da Cena 7 ainda não atribui um código MM próprio. Os IDs e nomes dos quadros geracionais continuam sujeitos à seleção da direção. A posição e o tempo da v16 serão alinhados ao master (P-02).
 
 **Objetivo.** Sair da revelação dos anjos na fala, acompanhar *Santo pra Sempre* com imagens humanas de gerações que esperaram, louvam hoje e virão, e devolver o telão à cozinha noturna da Cena 8.
 
@@ -25,13 +25,14 @@
 | Pré-música | `MM12-Q06` · base existente | O mesmo estábulo vazio permanece na primeira menção a um anjo. | Hold estável; deixar a variante v09 preparada. | Até a fala “uma multidão de anjos apareceu”. Fala variável; GO manual. |
 | Anúncio | `MM13-Q06 v09` · aprovada | A multidão aparece acima do mesmo estábulo; a geometria do prédio permanece registrada. | Revelação curta por máscara de papel/tinta aplicada na edição; preservar a imagem-base aprovada sem retoque. | Somente na fala da multidão. Não antecipar para a primeira menção a um anjo. |
 | Entrada musical | `MM-17-Q01` · proposta | **Os que esperaram:** famílias e anciãos de uma comunidade antiga, em adoração contida, vistos em plano aberto e voltados para uma fonte de luz no horizonte. | Um recorte de papel atravessa o céu do estábulo e abre o primeiro grupo. A luz quente da lanterna orienta a passagem; sem transformar o estábulo. | GO na deixa real de início da música. Faixa de 20–45 s por grupo conforme a ficha da Cena 7; ajustar ao master. |
-| Progressão | `MM-17-Q02` · proposta | **Os que louvam hoje:** pessoas contemporâneas de várias idades e tons de pele, em comunidade, com gestos simples de louvor; sem palco, microfones ou identidade de igreja. | Match cut pela linha de luz no horizonte; a borda de papel se recolhe e deixa a fotografia respirar. Parallax discreto entre fundo, grupo e primeiro plano. | Evento musical a selecionar após ouvir o master. Duração a definir; não fixar compasso ou segundo agora. |
+| Louvor dos anjos | `MM13-Q06 v16` · uso autorizado por D-61 | Céu se abre com anjos em adoração, preservando a composição e o estábulo próprios desta variante. Esta imagem é um insert breve da sequência e não substitui a v09 da fala anterior. | A borda de papel abre o céu; dissolução de tinta suave devolve a atenção às pessoas. Preservar a imagem-base v16 sem retoque. | Trecho cantado de adoração dos anjos. Posição e duração exatas a marcar depois de receber o master (P-02). |
+| Progressão | `MM-17-Q02` · proposta | **Os que louvam hoje:** pessoas contemporâneas de várias idades e tons de pele, em comunidade, com gestos simples de louvor; sem palco, microfones ou identidade de igreja. | Match cut pela linha de luz no horizonte; a borda de papel se recolhe e deixa a fotografia respirar. Parallax discreto entre fundo, grupo e primeiro plano. | Retomar após a v16. Evento musical a selecionar após ouvir o master. Duração a definir; não fixar compasso ou segundo agora. |
 | Clímax / resposta coletiva | `MM-17-Q03` · proposta | **Os que virão:** crianças, jovens e adultos em uma paisagem aberta, em direção à luz. A composição sugere futuro pelas idades e continuidade, sem estética futurista. | O quadro se amplia verticalmente; a luz alcança o grupo em vez de estourar a tela. Uma passagem de tinta conecta ao estado final. | Reservar para o crescimento real da faixa, após análise do master. Duração a definir. |
 | Saída | `MM-03` · fundo existente a confirmar | Retorno à cozinha noturna à direita, preto à esquerda, igual ao início da Cena 8. | Mancha de tinta se abre até revelar o fundo já usado na Cena 8; sem morph entre a paisagem e a casa. | Após o fim da música e a retirada da manjedoura. Cue manual a ensaiar; manter o fundo até a próxima deixa. |
 
 ### Uso de anjos na música
 
-O storyboard-base **não** volta a mostrar anjos durante *Santo pra Sempre*: a imagem v09 resolve a fala anterior e as três imagens atendem à progressão humana descrita na ficha. Se a direção quiser um retorno dos anjos no trecho de louvor celestial, esse será um insert separado, com posição decidida após ouvir o master. A imagem `MM13-Q06 v16` é um estudo não aprovado e não está incluída na montagem proposta.
+A sequência principal preserva a função da imagem humana e inclui um insert separado de `MM13-Q06 v16` no trecho de adoração dos anjos, conforme D-61. A imagem v09 continua exclusiva da fala “uma multidão de anjos apareceu”. O insert v16 volta às gerações humanas em seguida; não permanece sobre a música toda. A sincronização exata depende do master.
 
 ## Paleta, luz e camadas
 
@@ -52,28 +53,43 @@ O storyboard-base **não** volta a mostrar anjos durante *Santo pra Sempre*: a i
 | Marcador | Tempo no MP4 | Referência | Imagem / ação | Situação |
 |---|---|---|---|---|
 | INÍCIO | A definir com o master | GO de Mari na entrada de *Santo pra Sempre* | Entrar em `MM-17-Q01`; v09 já foi usada na fala anterior. | Proposta; cue real a ensaiar. |
-| SINCRONISMO 01 | A definir com o master | Crescimento musical a escolher após audição | Passar a `MM-17-Q02`. | A medir no master. |
-| SINCRONISMO 02 | A definir com o master | Clímax/abertura musical real | Passar a `MM-17-Q03`; expansão vertical controlada. | A medir no master. |
+| SINCRONISMO 01 | A definir com o master | Trecho cantado de adoração dos anjos | Inserir `MM13-Q06 v16` por um momento. | Uso aprovado por D-61; posição e duração a medir no master. |
+| SINCRONISMO 02 | A definir com o master | Saída do trecho de anjos / retomada da resposta humana | Voltar a `MM-17-Q02`. | A medir no master. |
+| SINCRONISMO 03 | A definir com o master | Clímax/abertura musical real | Passar a `MM-17-Q03`; expansão vertical controlada. | A medir no master. |
 | SAÍDA | A definir com o master e o ensaio | Fim de *Santo pra Sempre* + retirada da manjedoura | Voltar ao fundo da cozinha que abre a Cena 8. | Cue real, luz e estado final pendentes. |
 
 Não há timecodes fixos, forma de onda ou BPM neste estudo. A tabela final deverá acompanhar o MP4 da mesma versão e ser conferida no arquivo exportado, conforme D-60. O master não está disponível; nenhum efeito sonoro ou áudio substituto está proposto.
 
-## Configuração proposta para alpha
+## Alpha visual v02 · para revisão
 
-- **Recursos solicitados:** PhotoCraft para preparar máscaras/recortes não destrutivos das bases novas; VectorCraft para desenhar o overlay de borda de papel/tinta; EffectCraft para compor máscaras, camadas, profundidade e luz; FilmCraft para montar a sequência, inserir marcadores e exportar a prévia; AI Filmmaker para manifesto, revisão cena a cena e QA.
-- **Execução:** ainda não iniciada; aguarda revisão explícita deste storyboard e o master de áudio. Produzir uma cena de cada vez, apresentar prévia audiovisual com número/versão e pendências e aguardar aprovação antes de avançar.
-- **Especificação:** 1920×1080 progressivo na entrega, FPS aprovado e informado por Victor/operação; duração conforme o master. Matriz do LED, codec e transições de luz continuam sujeitos a P-01/P-12.
-- **Risco de continuidade:** MM-12 v04 é proposta e MM13-Q06 v16 é estudo pendente; nenhum deles vira base canônica por esta proposta. A imagem aprovada v09 e o estábulo vazio permanecem intactos.
+O vídeo demonstra o encadeamento e as transições; os 6 s por imagem são apenas ritmo de revisão, não a duração aprovada de cada grupo nem o sincronismo da música.
 
-## Briefings planejados · imagens ainda não geradas
+| Arquivo | Conteúdo |
+|---|---|
+| MP4 local: `alpha-v02/HESED_C07_MM-17_santo-pra-sempre_alpha_v02.mp4` | 1920×1080 progressivo, 24 fps, 576 quadros; sem faixa de áudio. Fora do Git enquanto P-13 não define o destino compartilhado. |
+| [Tabela de marcadores](alpha-v02/HESED_C07_MM-17_santo-pra-sempre_alpha_v02_marcadores.md) · [CSV do FilmCraft](alpha-v02/HESED_C07_MM-17_santo-pra-sempre_alpha_v02_markers.csv) | Início, três eventos de imagem e saída do arquivo, com tempos verificados no MP4. |
+| Projetos locais: `HESED_C07_MM-17_santo-pra-sempre_alpha-v02.fcproj` · `HESED_C07_MM-17_transicao_papel_v02.ecproj` | Sequência de edição e composição da borda de papel/tinta. Permanecem junto aos arquivos de mídia locais. |
 
-Os contratos de imagem e prompts planejados estão no [caderno de briefings](../briefings-dos-quadros.md#proposta-de-identificacao-mm-17-cena-7-santo-pra-sempre). Antes da primeira geração, reconferir o guia canônico, os quadros vizinhos e o retorno visual da direção. `MM-17` e `MM-17-Q01–Q03` continuam identificadores propostos até confirmação.
+| Marcador no alpha | Timecode | Quadro / evento | Relação com a música |
+|---|---|---|---|
+| INÍCIO — alpha visual | `00:00:00:00` | `MM-17-Q01` · os que esperaram | O GO real continua sendo o início de *Santo pra Sempre*. |
+| SYNC 01 — `MM13-Q06 v16` | `00:00:06:00` | Insert de anjos em adoração | Ponto provisório de demonstração; alinhar ao master (P-02). |
+| SYNC 02 — gerações Q02 | `00:00:12:00` | Retorno à geração contemporânea | Ponto provisório de demonstração; alinhar ao master. |
+| SYNC 03 — gerações Q03 | `00:00:18:00` | Entrada da geração futura | Ponto provisório de demonstração; alinhar ao master. |
+| SAÍDA — fim do alpha | `00:00:24:00` | Último quadro do arquivo | Não define o fim da música, a retirada da manjedoura nem a saída real. |
+
+`MM12-Q06` e `MM13-Q06 v09` permanecem sem alteração. A v16 entra somente no trecho de adoração dos anjos e volta às gerações em seguida (D-61). O alpha contém uma transição linear com borda gráfica de papel/tinta entre os quadros; não acrescenta filtros às imagens aprovadas.
+
+## Imagens e ferramentas
+
+As bases `MM17-Q01–Q03.png` foram geradas para este alpha e estão registradas com prompts, dimensões e hashes no [caderno de briefings](../briefings-dos-quadros.md#proposta-de-identificacao-mm-17-cena-7-santo-pra-sempre). A seleção visual ainda aguarda a direção; `MM-17` permanece identificador proposto.
+
+O fluxo local `ai-filmmaker` foi aplicado para roteiro, marcadores e QA. ImageGen criou as bases; EffectCraft compôs a borda animada e FilmCraft montou/exportou o vídeo. PhotoCraft não ofereceu neste ambiente uma operação de abrir/importar PNG para editar essas bases, e VectorCraft não estava disponível como ferramenta chamável. Portanto, não foram usados nem declarados como tendo sido usados.
 
 ## Aprovações e pendências
 
-- Aprovação deste storyboard e da sugestão de ID MM-17: pendente.
-- Escolha das três imagens/grupos e decisão sobre eventual insert de anjos: pendentes (P-07).
-- Master, intérprete/versão, duração e onsets: pendentes (P-02).
-- Deixa real de entrada/saída, estado final da cozinha, luz e ensaio: pendentes (P-15/P-17).
-- VectorCraft não aparece como ferramenta chamável no inventário desta sessão; seu uso precisa ser confirmado quando a fase de produção começar.
-- Nenhuma imagem, sequência alpha, prévia audiovisual, MP4 ou teste no telão foi produzido.
+- D-61 autoriza a v16 somente no trecho de adoração dos anjos desta sequência. A v09 continua na fala “uma multidão de anjos apareceu”.
+- Revisão das imagens geracionais e aprovação deste storyboard/ID `MM-17`: pendentes (P-07).
+- Master, intérprete/versão, duração, início e sincronismos musicais: pendentes (P-02).
+- Deixa real de saída, estado final da cozinha, luz e ensaio: pendentes (P-15/P-17).
+- Esta exportação é alpha silencioso de revisão; não é a versão sincronizada para operação.
