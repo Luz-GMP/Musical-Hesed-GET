@@ -1,0 +1,1077 @@
+{
+  "fps": 25,
+  "duracao": 261.32,
+  "totalQuadros": 6533,
+  "faixa": "Maravilhosa-Graça_Samuel Mizrahy.mp3",
+  "duracaoFaixa": 254.338322,
+  "introducao": [
+    [
+      0,
+      "INÍCIO · Fio dourado na dobra de papel, matriz comum com Brilha Tua Luz"
+    ],
+    [
+      280,
+      "TELÃO · Começa a aproximação da câmera"
+    ],
+    [
+      8920,
+      "TELÃO · O fio de luz se estende pelo relevo, revelando a trama e o primeiro plano"
+    ],
+    [
+      17400,
+      "TELÃO · Dobra de tecido começa a cruzar à frente da lente"
+    ],
+    [
+      27800,
+      "TELÃO · Troca de fundo sob a cobertura integral do tecido"
+    ],
+    [
+      29320,
+      "TELÃO · O tecido libera o close dos olhos cinzentos e a luz se acomoda"
+    ],
+    [
+      34360,
+      "TELÃO · A introdução chega à mesma imagem do primeiro quadro da cura"
+    ]
+  ],
+  "recortes": [
+    {
+      "id": "bloco-1",
+      "inicio": 34400,
+      "fim": 67040,
+      "deslocamento": 0,
+      "arquivo": "trechos/bloco-1.mp4",
+      "titulo": "Cura, encontro, caminho e aproximação da cruz",
+      "fonte": "entregas/MM16/zoom-ate-a-cruz-v12/MM16-Zoom-ate-a-Cruz-v12.mp4"
+    },
+    {
+      "id": "bloco-2",
+      "inicio": 67040,
+      "fim": 77760,
+      "deslocamento": 40,
+      "arquivo": "trechos/bloco-2.mp4",
+      "titulo": "Cruz, sangue, luz e giro",
+      "fonte": "entregas/MM16/cruz-texto-e-giro-v16/MM16-Cruz-Texto-e-Giro-v16.mp4"
+    },
+    {
+      "id": "bloco-3",
+      "inicio": 77760,
+      "fim": 83240,
+      "deslocamento": 40,
+      "arquivo": "trechos/bloco-3.mp4",
+      "titulo": "Escrito de dívida",
+      "fonte": "entregas/MM16/escrito-de-divida-v17/MM16-Escrito-de-Divida-v17.mp4"
+    },
+    {
+      "id": "bloco-4",
+      "inicio": 83240,
+      "fim": 98720,
+      "deslocamento": 40,
+      "arquivo": "trechos/bloco-4.mp4",
+      "titulo": "Refrão na penitenciária",
+      "fonte": "entregas/MM16/refrão-na-penitenciaria-v21/MM16-Refrão-na-Penitenciaria-v21.mp4"
+    },
+    {
+      "id": "bloco-5",
+      "inicio": 98720,
+      "fim": 111920,
+      "deslocamento": 40,
+      "arquivo": "trechos/bloco-5.mp4",
+      "titulo": "Correntes e libertação",
+      "fonte": "entregas/MM16/correntes-e-libertacao-v26/MM16-Correntes-e-Libertacao-v26.mp4"
+    },
+    {
+      "id": "bloco-6",
+      "inicio": 111920,
+      "fim": 137160,
+      "deslocamento": 40,
+      "arquivo": "trechos/bloco-6.mp4",
+      "titulo": "Ressurreição e pré-refrão",
+      "fonte": "entregas/MM16/ressurreicao-e-pre-refrao-v28/MM16-Ressurreicao-e-Pre-Refrao-v28.mp4"
+    },
+    {
+      "id": "bloco-7",
+      "inicio": 137160,
+      "fim": 172840,
+      "deslocamento": 40,
+      "arquivo": "trechos/bloco-7.mp4",
+      "titulo": "Duas passagens do refrão cinético",
+      "fonte": "entregas/MM16/refrao-cinetico-v30/MM16-Refrao-Cinetico-v30.mp4"
+    },
+    {
+      "id": "bloco-8",
+      "inicio": 172840,
+      "fim": 213880,
+      "deslocamento": 40,
+      "arquivo": "trechos/bloco-8.mp4",
+      "titulo": "Declaração e transformação em papel",
+      "fonte": "entregas/MM16/transformacao-em-movimento-v38/MM16-Declaracao-e-Transformacao-v38.mp4"
+    },
+    {
+      "id": "bloco-9",
+      "inicio": 213880,
+      "fim": 261320,
+      "deslocamento": 40,
+      "arquivo": "trechos/bloco-9.mp4",
+      "titulo": "Encerramento v43 aprovado",
+      "fonte": "entregas/MM16/encerramento-v43/MM16-Encerramento-v43.mp4"
+    }
+  ],
+  "eventos": [
+    [
+      0,
+      "Abertura",
+      "INÍCIO · Fio dourado na dobra de papel, matriz comum com Brilha Tua Luz"
+    ],
+    [
+      280,
+      "Abertura",
+      "TELÃO · Começa a aproximação da câmera"
+    ],
+    [
+      8920,
+      "Abertura",
+      "TELÃO · O fio de luz se estende pelo relevo, revelando a trama e o primeiro plano"
+    ],
+    [
+      17400,
+      "Abertura",
+      "TELÃO · Dobra de tecido começa a cruzar à frente da lente"
+    ],
+    [
+      27800,
+      "Abertura",
+      "TELÃO · Troca de fundo sob a cobertura integral do tecido"
+    ],
+    [
+      29320,
+      "Abertura",
+      "TELÃO · O tecido libera o close dos olhos cinzentos e a luz se acomoda"
+    ],
+    [
+      34360,
+      "Abertura",
+      "TELÃO · A introdução chega à mesma imagem do primeiro quadro da cura"
+    ],
+    [
+      34400,
+      "Cura, encontro, caminho e aproximação da cruz",
+      "INÍCIO · Olhos cinzentos"
+    ],
+    [
+      35960,
+      "Cura, encontro, caminho e aproximação da cruz",
+      "Piscada completa"
+    ],
+    [
+      36360,
+      "Cura, encontro, caminho e aproximação da cruz",
+      "Olhar reaberto"
+    ],
+    [
+      36560,
+      "Cura, encontro, caminho e aproximação da cruz",
+      "Luz nasce nas duas pupilas"
+    ],
+    [
+      37200,
+      "Cura, encontro, caminho e aproximação da cruz",
+      "O halo alcança pálpebras e maçãs do rosto"
+    ],
+    [
+      37720,
+      "Cura, encontro, caminho e aproximação da cruz",
+      "Rosto inteiro iluminado, antes da troca"
+    ],
+    [
+      37920,
+      "Cura, encontro, caminho e aproximação da cruz",
+      "Auge do clarão · A arte única já está sob a luz"
+    ],
+    [
+      39000,
+      "Cura, encontro, caminho e aproximação da cruz",
+      "VISÃO · O brilho baixa e revela o olhar"
+    ],
+    [
+      39080,
+      "Cura, encontro, caminho e aproximação da cruz",
+      "O recuo começa no detalhe dos olhos"
+    ],
+    [
+      39800,
+      "Cura, encontro, caminho e aproximação da cruz",
+      "A câmera segue recuando no fim da frase"
+    ],
+    [
+      40440,
+      "Cura, encontro, caminho e aproximação da cruz",
+      "CURADO · O homem ergue o rosto e inspira"
+    ],
+    [
+      41560,
+      "Cura, encontro, caminho e aproximação da cruz",
+      "POR · A mão estendida aparece"
+    ],
+    [
+      41800,
+      "Cura, encontro, caminho e aproximação da cruz",
+      "CRISTO · O homem começa a se virar para a mão"
+    ],
+    [
+      42480,
+      "Cura, encontro, caminho e aproximação da cruz",
+      "JESUS · A figura aparece de costas"
+    ],
+    [
+      43160,
+      "Cura, encontro, caminho e aproximação da cruz",
+      "A câmera chega ao plano aberto"
+    ],
+    [
+      43720,
+      "Cura, encontro, caminho e aproximação da cruz",
+      "Quadro final da cura e início da passagem"
+    ],
+    [
+      45400,
+      "Cura, encontro, caminho e aproximação da cruz",
+      "A câmera sai da rua e abre a vista do cemitério"
+    ],
+    [
+      45880,
+      "Cura, encontro, caminho e aproximação da cruz",
+      "Plano aberto do homem perdido entre os monólitos"
+    ],
+    [
+      47360,
+      "Cura, encontro, caminho e aproximação da cruz",
+      "Fim da aproximação ao homem perdido"
+    ],
+    [
+      48080,
+      "Cura, encontro, caminho e aproximação da cruz",
+      "Jesus encontra o homem no cemitério"
+    ],
+    [
+      48120,
+      "Cura, encontro, caminho e aproximação da cruz",
+      "Jesus começa a indicar a direção com a mão aberta"
+    ],
+    [
+      48960,
+      "Cura, encontro, caminho e aproximação da cruz",
+      "A câmera vira à direita seguindo o gesto"
+    ],
+    [
+      50920,
+      "Cura, encontro, caminho e aproximação da cruz",
+      "O caminho ascendente e os picos nevados tomam o quadro"
+    ],
+    [
+      52600,
+      "Cura, encontro, caminho e aproximação da cruz",
+      "A câmera assenta no clarão com a cruz ao alto"
+    ],
+    [
+      52880,
+      "Cura, encontro, caminho e aproximação da cruz",
+      "Quadro compartilhado com a v09 · início da sobreposição da cruz"
+    ],
+    [
+      53280,
+      "Cura, encontro, caminho e aproximação da cruz",
+      "Cruz detalhada a 50% · início do zoom"
+    ],
+    [
+      53680,
+      "Cura, encontro, caminho e aproximação da cruz",
+      "Cruz detalhada assume a imagem"
+    ],
+    [
+      58000,
+      "Cura, encontro, caminho e aproximação da cruz",
+      "Começam o desfoque do fundo e o aprofundamento do azul"
+    ],
+    [
+      58440,
+      "Cura, encontro, caminho e aproximação da cruz",
+      "Avanço sobre o mesmo caminho do quadro aprovado"
+    ],
+    [
+      64040,
+      "Cura, encontro, caminho e aproximação da cruz",
+      "O pé da haste perde foco junto à terra"
+    ],
+    [
+      67000,
+      "Cura, encontro, caminho e aproximação da cruz",
+      "SAÍDA · cruz de frente · quadro de partida do próximo take"
+    ],
+    [
+      67000,
+      "Cruz, sangue, luz e giro",
+      "INÍCIO · Quadro final da v12"
+    ],
+    [
+      69240,
+      "Cruz, sangue, luz e giro",
+      "Fim do zoom · travessa de borda a borda"
+    ],
+    [
+      69240,
+      "Cruz, sangue, luz e giro",
+      "Primeiro filete · balanço de câmera continua"
+    ],
+    [
+      69560,
+      "Cruz, sangue, luz e giro",
+      "Gota na posição escolhida por Victor · o vermelho translúcido começa a descer"
+    ],
+    [
+      71000,
+      "Cruz, sangue, luz e giro",
+      "Vermelho ocupa todo o quadro · 4 s da prévia"
+    ],
+    [
+      71000,
+      "Cruz, sangue, luz e giro",
+      "Entrada da tipografia · NOVA"
+    ],
+    [
+      71320,
+      "Cruz, sangue, luz e giro",
+      "Câmera desce para CRIATURA"
+    ],
+    [
+      72360,
+      "Cruz, sangue, luz e giro",
+      "‘Sou’ · a luz se expande do centro · deixa vocal estimada"
+    ],
+    [
+      72800,
+      "Cruz, sangue, luz e giro",
+      "A câmera acompanha EM para o lado"
+    ],
+    [
+      73280,
+      "Cruz, sangue, luz e giro",
+      "Entrada de DEUS! em amarelo · completa a frase"
+    ],
+    [
+      76160,
+      "Cruz, sangue, luz e giro",
+      "O quadro luminoso e a tipografia começam o giro"
+    ],
+    [
+      77080,
+      "Cruz, sangue, luz e giro",
+      "O giro chega a 180° · o texto invertido começa a cair"
+    ],
+    [
+      77600,
+      "Cruz, sangue, luz e giro",
+      "A frase sai por baixo da tela"
+    ],
+    [
+      77720,
+      "Cruz, sangue, luz e giro",
+      "SAÍDA · Fundo luminoso após o giro"
+    ],
+    [
+      77720,
+      "Escrito de dívida",
+      "INÍCIO · Último quadro da v16"
+    ],
+    [
+      77760,
+      "Escrito de dívida",
+      "A folha desce sobre a luz"
+    ],
+    [
+      78120,
+      "Escrito de dívida",
+      "O prego fixa o papel · leitura do escrito"
+    ],
+    [
+      78680,
+      "Escrito de dívida",
+      "‘Pagou’ · impacto do carimbo PAGO · deixa estimada"
+    ],
+    [
+      81400,
+      "Escrito de dívida",
+      "Cauda de ‘redenção’ · começa o rasgo"
+    ],
+    [
+      81920,
+      "Escrito de dívida",
+      "As duas metades se desprendem"
+    ],
+    [
+      82960,
+      "Escrito de dívida",
+      "O documento sai e o fundo luminoso volta a ficar livre"
+    ],
+    [
+      83200,
+      "Escrito de dívida",
+      "SAÍDA · Fundo luminoso para o próximo take"
+    ],
+    [
+      83200,
+      "Refrão na penitenciária",
+      "INÍCIO · Último quadro da v17 · fade do centro para as bordas"
+    ],
+    [
+      84960,
+      "Refrão na penitenciária",
+      "Fachada apagada inteira revelada"
+    ],
+    [
+      85040,
+      "Refrão na penitenciária",
+      "Entrada de Jesus pela esquerda · luz localizada"
+    ],
+    [
+      86200,
+      "Refrão na penitenciária",
+      "Jesus em primeiro plano, da cintura para cima"
+    ],
+    [
+      87600,
+      "Refrão na penitenciária",
+      "Jesus completa a entrada na posição do segundo enquadramento · respiração, manto e câmera em movimento"
+    ],
+    [
+      88160,
+      "Refrão na penitenciária",
+      "‘Nova criatura’ · Jesus olha para a penitenciária enquanto a câmera avança"
+    ],
+    [
+      90200,
+      "Refrão na penitenciária",
+      "INÍCIO DA ESTEIRA · o pátio desliza para a esquerda"
+    ],
+    [
+      91040,
+      "Refrão na penitenciária",
+      "O interior das celas completa a entrada · dez detentas em quadro"
+    ],
+    [
+      91320,
+      "Refrão na penitenciária",
+      "A câmera passa do impulso da esteira para um movimento leve nas celas"
+    ],
+    [
+      91480,
+      "Refrão na penitenciária",
+      "Começa a entrada de Jesus por baixo do quadro"
+    ],
+    [
+      93200,
+      "Refrão na penitenciária",
+      "Jesus conclui a entrada no centro inferior · mantém a respiração e a oscilação do manto"
+    ],
+    [
+      94120,
+      "Refrão na penitenciária",
+      "‘Todo preço’ · sustentar o encontro"
+    ],
+    [
+      97600,
+      "Refrão na penitenciária",
+      "‘Redenção’ · sustentar o encontro"
+    ],
+    [
+      98680,
+      "Refrão na penitenciária",
+      "SAÍDA · Âncora para a estrofe da escravidão"
+    ],
+    [
+      98680,
+      "Correntes e libertação",
+      "INÍCIO · Quadro final da v21"
+    ],
+    [
+      99280,
+      "Correntes e libertação",
+      "Câmera segue pelo lado direito de Jesus"
+    ],
+    [
+      101040,
+      "Correntes e libertação",
+      "A grade chega ao primeiro plano"
+    ],
+    [
+      102200,
+      "Correntes e libertação",
+      "A câmera atravessa a grade"
+    ],
+    [
+      103080,
+      "Correntes e libertação",
+      "Inveja vendada e braços erguidos em quadro"
+    ],
+    [
+      104800,
+      "Correntes e libertação",
+      "‘Escravo’ · pulsos e elos sob tensão"
+    ],
+    [
+      107120,
+      "Correntes e libertação",
+      "‘Libertou’ · elos e venda começam a cair juntos"
+    ],
+    [
+      107480,
+      "Correntes e libertação",
+      "Olhos da Inveja livres · início do zoom"
+    ],
+    [
+      108320,
+      "Correntes e libertação",
+      "Venda pousa no pescoço · aproximação em curso"
+    ],
+    [
+      111880,
+      "Correntes e libertação",
+      "SAÍDA · Expressão neutra · ponto de partida para a esteira"
+    ],
+    [
+      111880,
+      "Ressurreição e pré-refrão",
+      "INÍCIO · último quadro da v26"
+    ],
+    [
+      112520,
+      "Ressurreição e pré-refrão",
+      "‘Eu estava morto’ · passagem em esteira para o caixão"
+    ],
+    [
+      113400,
+      "Ressurreição e pré-refrão",
+      "Plano aberto · caixão e mãos sobrepostas"
+    ],
+    [
+      116040,
+      "Ressurreição e pré-refrão",
+      "‘Me chamou’ · close do rosto, olhos fechados"
+    ],
+    [
+      117720,
+      "Ressurreição e pré-refrão",
+      "‘Me ressuscitou’ · começa a abertura dos olhos"
+    ],
+    [
+      118600,
+      "Ressurreição e pré-refrão",
+      "Pálpebras abertas preservam a posição das íris"
+    ],
+    [
+      118840,
+      "Ressurreição e pré-refrão",
+      "Olhos abertos · começa o sorriso de felicidade"
+    ],
+    [
+      119760,
+      "Ressurreição e pré-refrão",
+      "Sorriso visível · a câmera segue para uma íris"
+    ],
+    [
+      122000,
+      "Ressurreição e pré-refrão",
+      "Macro do olho enquadrado"
+    ],
+    [
+      122640,
+      "Ressurreição e pré-refrão",
+      "Primeira entrada · Maravilhosa surge em marfim com brilho"
+    ],
+    [
+      124040,
+      "Ressurreição e pré-refrão",
+      "Primeira entrada · Graça surge em amarelo com brilho"
+    ],
+    [
+      125680,
+      "Ressurreição e pré-refrão",
+      "Primeira passagem termina · câmera segue na íris"
+    ],
+    [
+      131240,
+      "Ressurreição e pré-refrão",
+      "Segunda entrada · Maravilhosa surge em marfim com brilho"
+    ],
+    [
+      132640,
+      "Ressurreição e pré-refrão",
+      "Segunda entrada · Graça surge em amarelo com brilho"
+    ],
+    [
+      134200,
+      "Ressurreição e pré-refrão",
+      "Saída do texto · a câmera acompanha a expansão do reflexo"
+    ],
+    [
+      137120,
+      "Ressurreição e pré-refrão",
+      "SAÍDA · quadro luminoso no limiar do refrão"
+    ],
+    [
+      137120,
+      "Duas passagens do refrão cinético",
+      "INÍCIO · quadro 631 da v28 e começo da pulsação"
+    ],
+    [
+      137200,
+      "Duas passagens do refrão cinético",
+      "1ª passagem · entrada de “Com seu sangue me comprou”"
+    ],
+    [
+      137760,
+      "Duas passagens do refrão cinético",
+      "Acento · sangue"
+    ],
+    [
+      138840,
+      "Duas passagens do refrão cinético",
+      "Acento · comprou"
+    ],
+    [
+      139000,
+      "Duas passagens do refrão cinético",
+      "TELÃO · início do balanço da frase"
+    ],
+    [
+      139600,
+      "Duas passagens do refrão cinético",
+      "1ª passagem · entrada de “Nova criatura sou em Deus”"
+    ],
+    [
+      139920,
+      "Duas passagens do refrão cinético",
+      "Acento · criatura"
+    ],
+    [
+      142160,
+      "Duas passagens do refrão cinético",
+      "Acento · Deus"
+    ],
+    [
+      142320,
+      "Duas passagens do refrão cinético",
+      "TELÃO · início do balanço da frase"
+    ],
+    [
+      145720,
+      "Duas passagens do refrão cinético",
+      "1ª passagem · entrada de “Todo preço já pagou pela minha redenção”"
+    ],
+    [
+      147240,
+      "Duas passagens do refrão cinético",
+      "Acento · pagou"
+    ],
+    [
+      148960,
+      "Duas passagens do refrão cinético",
+      "Acento · redenção"
+    ],
+    [
+      149120,
+      "Duas passagens do refrão cinético",
+      "TELÃO · início do balanço da frase"
+    ],
+    [
+      154320,
+      "Duas passagens do refrão cinético",
+      "2ª passagem · entrada de “Com seu sangue me comprou”"
+    ],
+    [
+      154920,
+      "Duas passagens do refrão cinético",
+      "Acento · sangue"
+    ],
+    [
+      156000,
+      "Duas passagens do refrão cinético",
+      "Acento · comprou"
+    ],
+    [
+      156160,
+      "Duas passagens do refrão cinético",
+      "TELÃO · início do balanço da frase"
+    ],
+    [
+      156920,
+      "Duas passagens do refrão cinético",
+      "2ª passagem · entrada de “Nova criatura sou em Deus”"
+    ],
+    [
+      157240,
+      "Duas passagens do refrão cinético",
+      "Acento · criatura"
+    ],
+    [
+      159240,
+      "Duas passagens do refrão cinético",
+      "Acento · Deus"
+    ],
+    [
+      159400,
+      "Duas passagens do refrão cinético",
+      "TELÃO · início do balanço da frase"
+    ],
+    [
+      162360,
+      "Duas passagens do refrão cinético",
+      "2ª passagem · entrada de “Todo preço já pagou pela minha redenção”"
+    ],
+    [
+      164960,
+      "Duas passagens do refrão cinético",
+      "Acento · pagou"
+    ],
+    [
+      166520,
+      "Duas passagens do refrão cinético",
+      "Acento · redenção"
+    ],
+    [
+      166680,
+      "Duas passagens do refrão cinético",
+      "TELÃO · início do balanço da frase"
+    ],
+    [
+      171840,
+      "Duas passagens do refrão cinético",
+      "SAÍDA DO TEXTO · último bloco começa a abrir espaço"
+    ],
+    [
+      172600,
+      "Duas passagens do refrão cinético",
+      "FUNDO · só a luz sobre o papel"
+    ],
+    [
+      172800,
+      "Duas passagens do refrão cinético",
+      "SAÍDA · último quadro antes da declaração"
+    ],
+    [
+      172800,
+      "Declaração e transformação em papel",
+      "INÍCIO · quadro 892 da v30"
+    ],
+    [
+      172800,
+      "Declaração e transformação em papel",
+      "GOEL · Detenta põe a venda, baixa as mãos e alcança a corrente"
+    ],
+    [
+      172880,
+      "Declaração e transformação em papel",
+      "FALA · Porque pela graça sois salvos,"
+    ],
+    [
+      175960,
+      "Declaração e transformação em papel",
+      "FALA · por meio da fé"
+    ],
+    [
+      177680,
+      "Declaração e transformação em papel",
+      "FALA · E isso não vem de vós,"
+    ],
+    [
+      179040,
+      "Declaração e transformação em papel",
+      "FALA · é dom de Deus"
+    ],
+    [
+      179800,
+      "Declaração e transformação em papel",
+      "FIM DA FALA · retomada para o canto"
+    ],
+    [
+      180640,
+      "Declaração e transformação em papel",
+      "GOEL · Close do gesto nos pulsos e da algema"
+    ],
+    [
+      182400,
+      "Declaração e transformação em papel",
+      "CANTO · Graça,"
+    ],
+    [
+      183440,
+      "Declaração e transformação em papel",
+      "CANTO · maravilhosa graça"
+    ],
+    [
+      183720,
+      "Declaração e transformação em papel",
+      "GOEL · Plano próximo do grupo já preso"
+    ],
+    [
+      185160,
+      "Declaração e transformação em papel",
+      "GOEL · Plano geral das celas"
+    ],
+    [
+      185560,
+      "Declaração e transformação em papel",
+      "CANTO · Graça redentora,"
+    ],
+    [
+      186840,
+      "Declaração e transformação em papel",
+      "GOEL · Jesus chega, alcança e ergue a cruz"
+    ],
+    [
+      187440,
+      "Declaração e transformação em papel",
+      "CANTO · graça salvadora"
+    ],
+    [
+      191480,
+      "Declaração e transformação em papel",
+      "GOEL · Continuação de Jesus com a cruz junto às celas"
+    ],
+    [
+      191600,
+      "Declaração e transformação em papel",
+      "CANTO · Maravilhosa graça,"
+    ],
+    [
+      193320,
+      "Declaração e transformação em papel",
+      "GOEL · Close vermelho da detenta reagindo a Jesus com a cruz"
+    ],
+    [
+      196440,
+      "Declaração e transformação em papel",
+      "GOEL · Jesus de braços abertos no plano vermelho da crucificação"
+    ],
+    [
+      198440,
+      "Declaração e transformação em papel",
+      "GOEL · Jesus é retirado da cruz"
+    ],
+    [
+      199800,
+      "Declaração e transformação em papel",
+      "CANTO · MARAVILHOSA em amarelo, vista frontal"
+    ],
+    [
+      200640,
+      "Declaração e transformação em papel",
+      "GOEL · Detentas em movimento junto às grades"
+    ],
+    [
+      201200,
+      "Declaração e transformação em papel",
+      "CANTO · GRAÇA em branco, na parte inferior do título"
+    ],
+    [
+      201840,
+      "Declaração e transformação em papel",
+      "GOEL · Jesus a partir do zoom, após ajustar o ângulo"
+    ],
+    [
+      201840,
+      "Declaração e transformação em papel",
+      "TELÃO · a aura ganha intensidade na entrada de Jesus"
+    ],
+    [
+      203640,
+      "Declaração e transformação em papel",
+      "TELÃO · título frontal começa a desaparecer"
+    ],
+    [
+      203800,
+      "Declaração e transformação em papel",
+      "GOEL · Começa o crossfade do close de Jesus para o plano frontal do grupo"
+    ],
+    [
+      204400,
+      "Declaração e transformação em papel",
+      "GOEL · crossfade completo, plano frontal do grupo"
+    ],
+    [
+      205720,
+      "Declaração e transformação em papel",
+      "CANTO · ataque estimado de «Com seu» no MP3 de referência"
+    ],
+    [
+      205800,
+      "Declaração e transformação em papel",
+      "TELÃO · começa a revelação gradual do papel sobre a filmagem"
+    ],
+    [
+      207600,
+      "Declaração e transformação em papel",
+      "TELÃO · Jesus em papel começa a respirar e balançar no lugar"
+    ],
+    [
+      208080,
+      "Declaração e transformação em papel",
+      "CANTO · entrada estimada de «Nova criatura sou em Deus»"
+    ],
+    [
+      209800,
+      "Declaração e transformação em papel",
+      "TELÃO · as dez mulheres e a cela já estão em papel, com movimento 2.5D"
+    ],
+    [
+      210800,
+      "Declaração e transformação em papel",
+      "CANTO · ataque estimado de «Deus» com a cena em papel"
+    ],
+    [
+      212640,
+      "Declaração e transformação em papel",
+      "CANTO · fim estimado da sustentação de «Deus»"
+    ],
+    [
+      213840,
+      "Declaração e transformação em papel",
+      "SAÍDA · quadro em papel antes de «Todo o preço…»"
+    ],
+    [
+      213840,
+      "Encerramento v43 aprovado",
+      "INÍCIO · quadro 1026 da v38, emenda do plano-sequência"
+    ],
+    [
+      214040,
+      "Encerramento v43 aprovado",
+      "TELÃO · a camada das dez detentas e da plataforma cai por trás de Jesus"
+    ],
+    [
+      214160,
+      "Encerramento v43 aprovado",
+      "TELÃO · começa o fade da direita para a esquerda com o painel limpo"
+    ],
+    [
+      215120,
+      "Encerramento v43 aprovado",
+      "TELÃO · painel totalmente revelado, antes da nova letra"
+    ],
+    [
+      215280,
+      "Encerramento v43 aprovado",
+      "LETRA · Todo o preço já pagou"
+    ],
+    [
+      216920,
+      "Encerramento v43 aprovado",
+      "LETRA · Pela minha redenção"
+    ],
+    [
+      222720,
+      "Encerramento v43 aprovado",
+      "LETRA · Com seu sangue me comprou"
+    ],
+    [
+      225000,
+      "Encerramento v43 aprovado",
+      "LETRA · Nova criatura sou em Deus"
+    ],
+    [
+      231280,
+      "Encerramento v43 aprovado",
+      "LETRA · Todo o preço já pagou"
+    ],
+    [
+      233680,
+      "Encerramento v43 aprovado",
+      "LETRA · Pela minha redenção"
+    ],
+    [
+      239000,
+      "Encerramento v43 aprovado",
+      "TELÃO · começa a aproximação da câmera"
+    ],
+    [
+      242680,
+      "Encerramento v43 aprovado",
+      "TELÃO · MARAVILHOSA entra à esquerda, com aura, junto à segunda aproximação"
+    ],
+    [
+      243120,
+      "Encerramento v43 aprovado",
+      "TELÃO · início da piscada de um olho"
+    ],
+    [
+      243280,
+      "Encerramento v43 aprovado",
+      "TELÃO · pálpebra fechada, sem mudança na sobrancelha"
+    ],
+    [
+      243520,
+      "Encerramento v43 aprovado",
+      "TELÃO · sorriso"
+    ],
+    [
+      243760,
+      "Encerramento v43 aprovado",
+      "TELÃO · as mãos começam a subir"
+    ],
+    [
+      244040,
+      "Encerramento v43 aprovado",
+      "TELÃO · GRAÇA entra à direita, com aura"
+    ],
+    [
+      245600,
+      "Encerramento v43 aprovado",
+      "TELÃO · coração formado com as mãos"
+    ],
+    [
+      247000,
+      "Encerramento v43 aprovado",
+      "TELÃO · biquinho do beijo. As mãos mantêm o coração"
+    ],
+    [
+      247320,
+      "Encerramento v43 aprovado",
+      "TELÃO · começa o traço branco do coração"
+    ],
+    [
+      247960,
+      "Encerramento v43 aprovado",
+      "TELÃO · completa o contorno branco e começa a primeira batida"
+    ],
+    [
+      248040,
+      "Encerramento v43 aprovado",
+      "TELÃO · começa o preenchimento vermelho do coração"
+    ],
+    [
+      248280,
+      "Encerramento v43 aprovado",
+      "TELÃO · segunda batida, mais leve"
+    ],
+    [
+      249600,
+      "Encerramento v43 aprovado",
+      "TELÃO · coração preenchido, em crescimento"
+    ],
+    [
+      251280,
+      "Encerramento v43 aprovado",
+      "TELÃO · o coração cobre a tela. Início da sustentação de cinco segundos"
+    ],
+    [
+      256280,
+      "Encerramento v43 aprovado",
+      "TELÃO · começa o fade radial e geral para preto. Cinco segundos"
+    ],
+    [
+      261280,
+      "Encerramento v43 aprovado",
+      "SAÍDA · quadro preto integral. Fim do take"
+    ]
+  ]
+}

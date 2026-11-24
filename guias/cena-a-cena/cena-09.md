@@ -6,23 +6,25 @@
 
 **Quem prepara:** Victor · produção integral da MM-16
 
+**Integral v01 aprovada artisticamente em 24/11/2026.** A abertura parte do fio dourado que serve de referência à saída de *Brilha Tua Luz*. O tecido revela os olhos cinzentos em 00:34.400. O filme chega ao preto integral aos 04:21.280. A faixa de palco, o acendimento no último refrão e o master nativo seguem para conferência. [Entrega e validação](../../docs/producao-victor/mm16-integral-v01.md) · [Marcadores](../../entregas/MM16/integral-v01/MM16-Maravilhosa-Graca-Integral-v01-marcadores.md).
+
 A tela carrega o número inteiro. A experiência das detentas atravessa o filme, da cegueira até a liberdade, e ganha sentido na vida, morte e ressurreição de Jesus.
 
 ## Montagem na ordem do palco
 
 | Quando entra | Palco, som e luz | Imagem, material e saída |
 | --- | --- | --- |
-| A troca de roupa e cenário termina | Entra **Maravilhosa Graça**, na versão de Samuel Mizrahy. A dança saiu deste número. | Abra o filme ligando a experiência das detentas à de quem passa a enxergar e ser encontrado. Teste 8–12 planos, com 6–15 s por ação. A ordem final depende da faixa do palco. |
-| A letra fala do preço da liberdade | O público acompanha o que Jesus fez e a mudança que isso produz nas detentas. | Intercale a transformação delas com vida, morte e ressurreição. A prancha D traz caminhada (Q07), cruz, escuridão, túmulo vazio, ressurreição e vitória. Compare a p. 112 com o pedido “Q07 em diante” antes de excluir os seis primeiros. |
-| Chega a declaração falada | A plateia ouve a declaração enquanto vê apenas o filme. | Segure uma imagem legível pelo tempo da fala. Confira o roteiro detalhado e marque onde a voz começa e termina na versão do espetáculo. |
+| A troca de roupa e cenário termina | Entra **Maravilhosa Graça**, na versão de Samuel Mizrahy. A dança saiu deste número. | Dar o GO da integral v01. O fio dourado na dobra de papel abre o filme e o close da cura começa em 00:34.400. |
+| A letra fala do preço da liberdade | O público acompanha o que Jesus fez e a mudança que isso produz nas detentas. | A montagem aprovada usa colagem de papel e seleciona imagens do acervo Goel para as passagens de prisão, resgate e libertação. |
+| Chega a declaração falada | A plateia ouve a declaração enquanto vê apenas o filme. | A declaração aparece inteira em texto sobre as imagens de Goel. Conferir início e fim da voz no playback de palco. |
 | Entra o último refrão | As luzes de Natal acendem no grande momento final. | Reserve a mudança visual de maior impacto para este refrão. Combine e ensaie um único sinal com a iluminação para que a tela e as luzes cheguem juntas. |
 
-**Antes de entregar.** Confirme a qual prancha pertence o Q07 pedido e localize a parte falada na versão de palco antes de cortar a abertura.
+**Antes do ensaio.** Conferir a faixa de palco e alinhar o GO, o acendimento de Natal e a saída em preto à tabela de marcadores.
 
 ## Como preparar e passar adiante
 
-1. Victor confere a faixa, o detalhamento do trecho falado e a prancha indicada por Q07.
-2. Victor desenha a sequência pela letra, escolhe imagens ou gravações e monta o filme. Ele entrega a versão completa à operação.
+1. Victor confere o master em resolução nativa e entrega o filme e os marcadores à operação.
+2. A operação ensaia a abertura após a troca, o acendimento e a saída.
 
 ## A letra e as imagens
 

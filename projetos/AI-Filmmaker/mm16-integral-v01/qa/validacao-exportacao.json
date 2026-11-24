@@ -1,0 +1,77 @@
+{
+  "resolução": [
+    1920,
+    1080
+  ],
+  "fps": "25/1",
+  "quadros": 6533,
+  "duração": 261.32,
+  "marcadores": 191,
+  "emendas": {
+    "bloco-1": {
+      "ms": 34400,
+      "diferença em relação à fonte": 1.656,
+      "diferença em relação ao quadro anterior": 1.754
+    },
+    "bloco-2": {
+      "ms": 67040,
+      "diferença em relação à fonte": 1.37,
+      "diferença em relação ao quadro anterior": 4.211
+    },
+    "bloco-3": {
+      "ms": 77760,
+      "diferença em relação à fonte": 1.339,
+      "diferença em relação ao quadro anterior": 1.774
+    },
+    "bloco-4": {
+      "ms": 83240,
+      "diferença em relação à fonte": 1.289,
+      "diferença em relação ao quadro anterior": 1.276
+    },
+    "bloco-5": {
+      "ms": 98720,
+      "diferença em relação à fonte": 1.496,
+      "diferença em relação ao quadro anterior": 1.718
+    },
+    "bloco-6": {
+      "ms": 111920,
+      "diferença em relação à fonte": 1.385,
+      "diferença em relação ao quadro anterior": 5.388
+    },
+    "bloco-7": {
+      "ms": 137160,
+      "diferença em relação à fonte": 1.305,
+      "diferença em relação ao quadro anterior": 1.258
+    },
+    "bloco-8": {
+      "ms": 172840,
+      "diferença em relação à fonte": 1.401,
+      "diferença em relação ao quadro anterior": 2.169
+    },
+    "bloco-9": {
+      "ms": 213880,
+      "diferença em relação à fonte": 1.332,
+      "diferença em relação ao quadro anterior": 1.058
+    }
+  },
+  "diferença na oclusão completa": 0.12600694444444444,
+  "correlação de áudio com o MP3": {
+    "1": 0.99962,
+    "14": 0.99945,
+    "27.5": 0.99795,
+    "33.8": 0.99767,
+    "34.4": 0.99443,
+    "50": 0.99134,
+    "67.04": 0.99732,
+    "83.24": 0.99609,
+    "98.72": 0.99732,
+    "111.92": 0.99056,
+    "137.16": 0.9967,
+    "172.84": 0.99964,
+    "213.88": 0.99292,
+    "247": 0.99999
+  },
+  "janelas silenciosas verificadas": [
+    253
+  ]
+}

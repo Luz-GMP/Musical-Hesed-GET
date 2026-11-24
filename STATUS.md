@@ -29,7 +29,7 @@ Cada pessoa atualiza **a própria linha** quando muda de etapa. Na dúvida sobre
 | MM-13 | Noite, estrela e pastores | 5 | Isaac | ⬜ | referências da MM-13 | Preparar Ó Noite Santa na Cena 5 e indicar o último céu a Eduardo. A imagem de anjos v09 fica na Cena 7. | Luz a validar no ensaio |
 | MM-14 | Recapitulação na casa | 8 | Eduardo | 🎨 | Panorâmica noturna iluminada da casa | Sustentar a casa vazia para as seis ações feitas pelas atrizes. Em seguida, retomar o nascimento e passar aos atos da MM-15. | Deixas com o elenco |
 | MM-15 | Vida e atos de Jesus | 8 | Eduardo | 🎨 | prancha + quatro bases v01 · para revisão | Revisar bases Q01–Q04 e identidade; alinhar costura com MM-14 e saída sob diálogo | Saída P-08/P-15; matriz P-01 |
-| MM-16 | Filme único · Maravilhosa Graça de Samuel Mizrahy | 9 | Victor | ⬜ | Acervo visual D disponível | Preparar a faixa, conferir Q07, parte falada e acendimento final | P-05/P-06/P-16 |
+| MM-16 | Filme único · Maravilhosa Graça de Samuel Mizrahy | 9 | Victor | 🔗 | [Integral v01 aprovada artisticamente](docs/producao-victor/mm16-integral-v01.md) | Preparar o master nativo e ensaiar as deixas de palco. | P-01/P-02/P-06 |
 
 ## Feedback posterior da produção
 
@@ -49,7 +49,7 @@ Escolha sua ficha. [Victor · cenas 1, 2 e 9](equipe/victor.md) · [Isaac · cen
 | [Cena 6](guias/cena-a-cena/cena-06.md) · Caminho até o abrigo | Eduardo | Segurar o mesmo estábulo vazio da MM-12 ao entrar na Cena 7. | A registrar |
 | [Cena 7](guias/cena-a-cena/cena-07.md) · Anúncio e gerações | Eduardo | Revisar os grupos geracionais nas animações individuais Q01–Q03; alinhar entrada/retomada da v16 e saída ao master P-02; ensaiar o retorno à cozinha/luz. | [Storyboard e animações individuais v01](storyboards/MM-17/README.md); v16 autorizada neste uso (D-61); MM-17 continua ID proposto |
 | [Cena 8](guias/cena-a-cena/cena-08.md) · Recapitulação e Brilha Tua Luz | Eduardo | Marcar a cortina após Brilha Tua Luz para a troca antes da MM-16. | A registrar |
-| [Cena 9](guias/cena-a-cena/cena-09.md) · Filme final | Victor | Identificar a entrada após a troca, a parte falada e as luzes de Natal no último refrão. | A registrar |
+| [Cena 9](guias/cena-a-cena/cena-09.md) · Filme final | Victor | GO ao fim da troca de figurino e cenário. Ensaiar o acendimento de Natal e a saída em preto. | [Integral v01 aprovada](docs/producao-victor/mm16-integral-v01.md) e [191 marcadores](entregas/MM16/integral-v01/MM16-Maravilhosa-Graca-Integral-v01-marcadores.md) |
 
 ## Marcos
 

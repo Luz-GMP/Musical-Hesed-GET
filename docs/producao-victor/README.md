@@ -56,6 +56,10 @@ O editável V06 da vinheta foi recuperado de outro repositório, `Luz-GMP/Hesed-
 
 Preservar V03/D-13 e as variações existentes. O feedback de 16/11 define **cozinha na metade direita, preto à esquerda, vista pela plateia**, com retornos nas cenas e após as músicas descritas no [plano das nove cenas](../plano-ajustes-2026-11-16.md). Esse lado foi confirmado diretamente por Victor; enquadramento/máscara, cues e versão derivada ainda precisam de execução/revisão. Não gerar uma nova casa ou sobrescrever a imagem aprovada por causa desta atualização documental.
 
+## MM-16 · Maravilhosa Graça
+
+A [montagem integral v01](mm16-integral-v01.md) foi aprovada artisticamente em 24/11/2026. O registro inclui a mídia identificada por hash, a composição HyperFrames e os marcadores. A homologação de palco segue pendente.
+
 ## Banner GRAÇA e trabalho complementar
 
 Registro para não perder o trabalho paralelo, sem deslocar o foco de MM-01/MM-02:

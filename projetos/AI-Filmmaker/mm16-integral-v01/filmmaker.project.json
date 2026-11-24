@@ -1,0 +1,222 @@
+{
+  "schema": "ai-filmmaker.project/v1",
+  "project": {
+    "id": "mm16-integral-v01",
+    "title": "MM-16 · Maravilhosa Graça · Integral v01"
+  },
+  "workflow": {
+    "phase": "scene-review",
+    "currentScene": "scene-01"
+  },
+  "delivery": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 25,
+    "status": "draft"
+  },
+  "timeline": {
+    "musicMode": "global"
+  },
+  "assets": [
+    {
+      "id": "papel",
+      "path": "cena/papel-matriz.png",
+      "kind": "image",
+      "provenance": "ImageGen · matriz nova baseada na materialidade do retrato aprovado da cura.",
+      "status": "ready",
+      "rights": "material de trabalho do espetáculo",
+      "sha256": "071aea3e838933e26137edf9834956844ad9247c3d14fa5da83317f561700a2c"
+    },
+    {
+      "id": "olhos",
+      "path": "cena/olhos-ancora.png",
+      "kind": "image",
+      "provenance": "Primeiro quadro decodificado da montagem v12, em 00:34.400 da faixa.",
+      "status": "ready",
+      "rights": "material de trabalho do espetáculo",
+      "sha256": "5e074efa280650be0da108f43f5f8f6287adf892799600369bdd291930e18a93"
+    },
+    {
+      "id": "faixa",
+      "path": "cena/faixa.mp3",
+      "kind": "audio",
+      "provenance": "Cópia integral do MP3 local de Maravilhosa Graça, Samuel Mizrahy.",
+      "status": "ready",
+      "rights": "material de trabalho do espetáculo",
+      "sha256": "e4fae5fc96b72fb997dd732e7509792e2948881a469392921cda87e5bf3720e8"
+    },
+    {
+      "id": "bloco-1",
+      "path": "cena/trechos/bloco-1.mp4",
+      "kind": "video",
+      "provenance": "MM-16 · Cura, encontro, caminho e aproximação da cruz · entregas/MM16/zoom-ate-a-cruz-v12/MM16-Zoom-ate-a-Cruz-v12.mp4",
+      "status": "ready",
+      "rights": "material de trabalho do espetáculo",
+      "sha256": "fa6891fe59aca25cf0a6e9fbb6c9632dd93a0f86d83d0426e69457eed49e3eb0"
+    },
+    {
+      "id": "bloco-2",
+      "path": "cena/trechos/bloco-2.mp4",
+      "kind": "video",
+      "provenance": "MM-16 · Cruz, sangue, luz e giro · entregas/MM16/cruz-texto-e-giro-v16/MM16-Cruz-Texto-e-Giro-v16.mp4",
+      "status": "ready",
+      "rights": "material de trabalho do espetáculo",
+      "sha256": "06de127702b531a9b5bcf170c7a90645531bb935570a4fa9055bf88c5a78fff4"
+    },
+    {
+      "id": "bloco-3",
+      "path": "cena/trechos/bloco-3.mp4",
+      "kind": "video",
+      "provenance": "MM-16 · Escrito de dívida · entregas/MM16/escrito-de-divida-v17/MM16-Escrito-de-Divida-v17.mp4",
+      "status": "ready",
+      "rights": "material de trabalho do espetáculo",
+      "sha256": "86abbf1db440e0418ac8078b55fa6d7f54436869aa0f5a30559e3cb951f6be09"
+    },
+    {
+      "id": "bloco-4",
+      "path": "cena/trechos/bloco-4.mp4",
+      "kind": "video",
+      "provenance": "MM-16 · Refrão na penitenciária · entregas/MM16/refrão-na-penitenciaria-v21/MM16-Refrão-na-Penitenciaria-v21.mp4",
+      "status": "ready",
+      "rights": "material de trabalho do espetáculo",
+      "sha256": "255efb7b0945c43aad1686714e0e2dd74f865eba6675b7ea568aeefa00a4efda"
+    },
+    {
+      "id": "bloco-5",
+      "path": "cena/trechos/bloco-5.mp4",
+      "kind": "video",
+      "provenance": "MM-16 · Correntes e libertação · entregas/MM16/correntes-e-libertacao-v26/MM16-Correntes-e-Libertacao-v26.mp4",
+      "status": "ready",
+      "rights": "material de trabalho do espetáculo",
+      "sha256": "07b059e3a6006e225dcb46eaf469f706459c2bd293aec4c9b1b99dabc0b047c1"
+    },
+    {
+      "id": "bloco-6",
+      "path": "cena/trechos/bloco-6.mp4",
+      "kind": "video",
+      "provenance": "MM-16 · Ressurreição e pré-refrão · entregas/MM16/ressurreicao-e-pre-refrao-v28/MM16-Ressurreicao-e-Pre-Refrao-v28.mp4",
+      "status": "ready",
+      "rights": "material de trabalho do espetáculo",
+      "sha256": "1a64dd51eeb53e0a184b9091c52d83c79347f0278f3e6156175bb2bbfd2482af"
+    },
+    {
+      "id": "bloco-7",
+      "path": "cena/trechos/bloco-7.mp4",
+      "kind": "video",
+      "provenance": "MM-16 · Duas passagens do refrão cinético · entregas/MM16/refrao-cinetico-v30/MM16-Refrao-Cinetico-v30.mp4",
+      "status": "ready",
+      "rights": "material de trabalho do espetáculo",
+      "sha256": "12313c6d706437da27ae22bb2354c1df3ca1e138198a7662b950de10089e5e36"
+    },
+    {
+      "id": "bloco-8",
+      "path": "cena/trechos/bloco-8.mp4",
+      "kind": "video",
+      "provenance": "MM-16 · Declaração e transformação em papel · entregas/MM16/transformacao-em-movimento-v38/MM16-Declaracao-e-Transformacao-v38.mp4",
+      "status": "ready",
+      "rights": "material de trabalho do espetáculo",
+      "sha256": "6791a3cb91f286b00b5e83522f5aa06103ab81f40b6a610a29b33b7482e49010"
+    },
+    {
+      "id": "bloco-9",
+      "path": "cena/trechos/bloco-9.mp4",
+      "kind": "video",
+      "provenance": "MM-16 · Encerramento v43 aprovado · entregas/MM16/encerramento-v43/MM16-Encerramento-v43.mp4",
+      "status": "ready",
+      "rights": "material de trabalho do espetáculo",
+      "sha256": "3dfae78d543c6ac01997597a2350c58d6e4afb095b773f8d4e7740b106cd9c14"
+    }
+  ],
+  "capabilities": {
+    "semanticMediaIndex": {
+      "status": "not-planned"
+    },
+    "backgroundRemoval": {
+      "status": "not-planned"
+    },
+    "externalTimeline": {
+      "status": "not-planned"
+    },
+    "lipSync": {
+      "status": "not-planned"
+    }
+  },
+  "scenes": [
+    {
+      "id": "scene-01",
+      "version": 1,
+      "status": "review",
+      "durationSec": 261.32,
+      "layers": [
+        {
+          "id": "papel",
+          "assetId": "papel",
+          "role": "background"
+        },
+        {
+          "id": "olhos",
+          "assetId": "olhos",
+          "role": "content"
+        },
+        {
+          "id": "bloco-1",
+          "assetId": "bloco-1",
+          "role": "content"
+        },
+        {
+          "id": "bloco-2",
+          "assetId": "bloco-2",
+          "role": "content"
+        },
+        {
+          "id": "bloco-3",
+          "assetId": "bloco-3",
+          "role": "content"
+        },
+        {
+          "id": "bloco-4",
+          "assetId": "bloco-4",
+          "role": "content"
+        },
+        {
+          "id": "bloco-5",
+          "assetId": "bloco-5",
+          "role": "content"
+        },
+        {
+          "id": "bloco-6",
+          "assetId": "bloco-6",
+          "role": "content"
+        },
+        {
+          "id": "bloco-7",
+          "assetId": "bloco-7",
+          "role": "content"
+        },
+        {
+          "id": "bloco-8",
+          "assetId": "bloco-8",
+          "role": "content"
+        },
+        {
+          "id": "bloco-9",
+          "assetId": "bloco-9",
+          "role": "content"
+        }
+      ],
+      "audio": {
+        "music": [
+          "faixa"
+        ],
+        "voice": [],
+        "ambience": [],
+        "sfx": []
+      },
+      "approvals": [],
+      "preview": {
+        "engine": "hyperframes",
+        "source": "cena/index.html"
+      }
+    }
+  ]
+}

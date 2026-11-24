@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <title>MM-16 · Maravilhosa Graça</title>
+  <style>
+    html, body { margin: 0; overflow: hidden; background: #000; }
+    main { position: relative; width: 1920px; height: 1080px; overflow: hidden; }
+    canvas, video { position: absolute; inset: 0; width: 1920px; height: 1080px; }
+    video { object-fit: fill; }
+  </style>
+  <script src="gsap.min.js"></script>
+  <script>window.__timelines = {};</script>
+  <script src="introducao.js" defer></script>
+</head>
+<body>
+  <main data-composition-id="mm16" data-start="0" data-duration="261.32" data-width="1920" data-height="1080" data-fps="25">
+    <canvas id="filme" class="clip" data-start="0" data-duration="34.4" data-track-index="0" width="1920" height="1080" aria-label="Introdução em papel e luz"></canvas>
+    <img id="papel" hidden src="papel-matriz.png" alt="">
+    <img id="olhos" hidden src="olhos-ancora.png" alt="">
+    <video id="bloco-1" class="clip" src="trechos/bloco-1.mp4" data-start="34.40" data-duration="32.64" data-media-start="0.00" data-track-index="0" muted playsinline></video>
+    <video id="bloco-2" class="clip" src="trechos/bloco-2.mp4" data-start="67.04" data-duration="10.72" data-media-start="0.04" data-track-index="0" muted playsinline></video>
+    <video id="bloco-3" class="clip" src="trechos/bloco-3.mp4" data-start="77.76" data-duration="5.48" data-media-start="0.04" data-track-index="0" muted playsinline></video>
+    <video id="bloco-4" class="clip" src="trechos/bloco-4.mp4" data-start="83.24" data-duration="15.48" data-media-start="0.04" data-track-index="0" muted playsinline></video>
+    <video id="bloco-5" class="clip" src="trechos/bloco-5.mp4" data-start="98.72" data-duration="13.20" data-media-start="0.04" data-track-index="0" muted playsinline></video>
+    <video id="bloco-6" class="clip" src="trechos/bloco-6.mp4" data-start="111.92" data-duration="25.24" data-media-start="0.04" data-track-index="0" muted playsinline></video>
+    <video id="bloco-7" class="clip" src="trechos/bloco-7.mp4" data-start="137.16" data-duration="35.68" data-media-start="0.04" data-track-index="0" muted playsinline></video>
+    <video id="bloco-8" class="clip" src="trechos/bloco-8.mp4" data-start="172.84" data-duration="41.04" data-media-start="0.04" data-track-index="0" muted playsinline></video>
+    <video id="bloco-9" class="clip" src="trechos/bloco-9.mp4" data-start="213.88" data-duration="47.44" data-media-start="0.04" data-track-index="0" muted playsinline></video>
+    <audio id="faixa" class="clip" src="faixa.mp3" data-start="0" data-duration="254.338322" data-track-index="1" data-volume="1"></audio>
+  </main>
+</body>
+</html>
