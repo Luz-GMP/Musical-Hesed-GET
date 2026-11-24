@@ -1,12 +1,14 @@
 # HESED · Produção Audiovisual
 
+**Contagem de produção · 24/11/2026.** São **19 peças de telão**, incluindo **9 músicas**. Os retornos da casa e as partes A–D do filme final já estão incluídos. [Conferir os 19 nomes na ordem do palco](guias/cena-a-cena/inventario-do-telao.md).
+
 **Comece pelo [Roteiro de montagem do telão](guias/cena-a-cena/pdf/HESED-roteiro-de-montagem.pdf).** O índice do PDF leva à página de cada cena. Ali estão, juntas, a fala, a música, a luz, a imagem e a saída. Para navegar pelas nove cenas no computador, baixe o [mapa HTML](guias/cena-a-cena/mapa-do-telao.html) e abra o arquivo no navegador. [Download direto do mapa](https://github.com/Luz-GMP/Musical-Hesed-GET/raw/refs/heads/main/guias/cena-a-cena/mapa-do-telao.html).
 
-**Distribuição vigente · 19/11/2026.** Victor fecha as Cenas 1, 2 e 9. Isaac fecha as Cenas 3, 4 e 5. Eduardo (Dudu) fecha as Cenas 6, 7 e 8. Cada pessoa prepara e entrega suas cenas diretamente à operação. A MM-16 é integralmente de Victor. As músicas em ajuste por Isaac seguem a partir das versões existentes. [Guia de execução por pessoa](guias/cena-a-cena/quem-faz-as-musicas.md)
+**Responsáveis atuais.** Victor fecha as Cenas 1, 2 e 6 a 9, dando continuidade ao trabalho de Eduardo. Isaac fecha as Cenas 3 a 5.
 
 ## Abra sua fila de execução
 
-[Victor · cenas 1, 2 e 9](equipe/victor.md) · [Isaac · cenas 3, 4 e 5](equipe/isaac.md) · [Eduardo (Dudu) · cenas 6, 7 e 8](equipe/eduardo.md)
+[Victor · cenas 1, 2 e 6 a 9](equipe/victor.md) · [Isaac · cenas 3, 4 e 5](equipe/isaac.md) · [Eduardo · material de origem](equipe/eduardo.md)
 
 Cada ficha começa pelo material que já existe, segue a ordem do palco e termina nas deixas para a operação. Para enviar ou baixar: [guia por pessoa em PDF](guias/cena-a-cena/pdf/HESED-guia-definitivo-por-pessoa.pdf) e [guia ilustrado em PDF](guias/cena-a-cena/pdf/HESED-guia-de-cena.pdf).
 
@@ -61,9 +63,9 @@ Para começar no AntiGravity, peça: **“Leia AGENTS.md, CLAUDE.md e ANTIGRAVIT
 
 | Pessoa | Entregas | Arquivo |
 | --- | --- | --- |
-| Victor | Cenas 1, 2 e 9 | [Ficha](equipe/victor.md) |
+| Victor | Cenas 1, 2 e 6 a 9 | [Ficha](equipe/victor.md) |
 | Isaac | Cenas 3, 4 e 5 | [Ficha](equipe/isaac.md) |
-| Eduardo | Cenas 6, 7 e 8 | [Ficha](equipe/eduardo.md) |
+| Eduardo | Acervo das Cenas 6 a 8, em continuidade com Victor | [Ficha](equipe/eduardo.md) |
 
 ## Regras de convivência do repo
 

@@ -4,7 +4,7 @@
 
 [Voltar ao guia](README.md) · Storyboard geral v03, pp. 94–102.
 
-**Quem prepara:** Eduardo · MM-14, MM-15 e Brilha Tua Luz
+**Quem prepara:** Victor · MM-14, MM-15 e Brilha Tua Luz
 
 As detentas contam a própria história de novo, agora entendendo a liberdade que receberam. As ações antigas voltam no palco. Depois a tela lembra o nascimento e mostra como Jesus tratava as pessoas.
 
@@ -22,7 +22,7 @@ As detentas contam a própria história de novo, agora entendendo a liberdade qu
 
 ## Como preparar e passar adiante
 
-1. Eduardo confere em sequência a panorâmica, o nascimento já visto, o acolhimento e a frase com o bebê.
+1. Victor confere em sequência a panorâmica, o nascimento já visto, o acolhimento e a frase com o bebê.
 2. Mostrar à direção três imagens em sequência: nascimento já visto, quadro de acolhimento, frase com bebê. Em separado, apresentar um estudo simples para Brilha Tua Luz.
 
 ## A letra e as imagens

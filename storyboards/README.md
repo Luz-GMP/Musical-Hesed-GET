@@ -1,8 +1,10 @@
 # Storyboards
 
+**Contagem de produção · 24/11/2026.** São **19 peças de telão**, incluindo **9 músicas**. Os retornos da casa e as partes A–D do filme final já estão incluídos. [Conferir os 19 nomes na ordem do palco](../guias/cena-a-cena/inventario-do-telao.md).
+
 Para montar e ensaiar, siga o [Roteiro de montagem do telão](../guias/cena-a-cena/pdf/HESED-roteiro-de-montagem.pdf). Leia cada deixa na ordem do palco: fala ou ação, entrada da música, imagem a sustentar e sinal de saída.
 
-**Distribuição vigente · 19/11/2026.** Victor fecha as Cenas 1, 2 e 9. Isaac fecha as Cenas 3, 4 e 5. Eduardo (Dudu) fecha as Cenas 6, 7 e 8. Cada pessoa prepara e entrega suas cenas diretamente à operação. A MM-16 é integralmente de Victor. As músicas em ajuste por Isaac seguem a partir das versões existentes. [Guia de execução por pessoa](../guias/cena-a-cena/quem-faz-as-musicas.md)
+**Responsáveis atuais.** Victor fecha as Cenas 1, 2 e 6 a 9, dando continuidade ao trabalho de Eduardo. Isaac fecha as Cenas 3 a 5.
 
 Uma pasta por peça. Cada pasta já tem um `README.md` com a ficha do storyboard: é ele que aparece quando você abre a pasta no site.
 
@@ -35,13 +37,15 @@ Mudou um quadro em revisão? O histórico Git guarda a anterior. Preserve a imag
 - ✅ Esboços leves em **JPG ou PNG** (até ~2 MB cada) ou um **PDF** curto exportado do Canva.
 - ❌ Vídeo, animatic, projeto de edição, imagens-base em 4K: isso vai para o Drive (ver [entrega e arquivos](../guias/entrega-e-arquivos.md)). Se tiver um animatic, cole o link do Drive em "Notas e feedback".
 
-## Peças
+## Códigos para localizar as pranchas
 
 | Peça | Responsável |
 | --- | --- |
 | MM-01 a MM-03 e MM-16 | Victor |
 | MM-04 a MM-11 e MM-13 | Isaac |
-| MM-12, MM-14 e MM-15 | Eduardo |
-| [Cena 7 · proposta de gerações em louvor](MM-17/README.md) · sugestão de ID MM-17, pendente de confirmação | Eduardo (proposta) |
+| MM-12, MM-14 e MM-15 | Victor, a partir do material de Eduardo |
+| [Cena 7 · proposta de gerações em louvor](MM-17/README.md) · sugestão de ID MM-17, pendente de confirmação | Victor, a partir da proposta de Eduardo |
+
+Quebrando as Correntes e Brilha Tua Luz são localizadas pelo título. O inventário inclui também Santo pra Sempre, com o código MM-17 proposto.
 
 Victor produz a MM-16 inteira, incluindo seleção ou criação das imagens, eventual gravação, edição, finalização e entrega direta à operação. A–D identificam referências de acervo. O filme independe de qualquer material a preparar, separar ou enviar pelos demais. Pastas de acervo: [A](MM-16A/), [B](MM-16B/), [C](MM-16C/), [D](MM-16D/).

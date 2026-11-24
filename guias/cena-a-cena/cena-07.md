@@ -4,7 +4,7 @@
 
 [Voltar ao guia](README.md) · Storyboard geral v03, pp. 90–93.
 
-**Quem prepara:** Eduardo · estábulo, anúncio e Santo pra Sempre
+**Quem prepara:** Victor · estábulo, anúncio e Santo pra Sempre
 
 O nascimento acontece num lugar simples. Mari conta o anúncio aos pastores. O momento de ver a multidão é diferente do momento em que começa a música sobre as gerações.
 

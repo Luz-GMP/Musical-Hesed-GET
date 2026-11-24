@@ -1,4 +1,8 @@
-# Victor · Cenas 1, 2 e 9
+# Victor · Cenas 1, 2 e 6 a 9
+
+**Contagem de produção · 24/11/2026.** São **19 peças de telão**, incluindo **9 músicas**. Os retornos da casa e as partes A–D do filme final já estão incluídos. [Conferir os 19 nomes na ordem do palco](../guias/cena-a-cena/inventario-do-telao.md).
+
+**Fila completa.** 10 peças, incluindo as músicas. Victor retomou as Cenas 6–8 a partir das bases de Eduardo. Na Cena 8 estão em trabalho conjunto a MM-14 e a MM-15. Victor confirmou a conclusão da MM-16.
 
 **Monte sua sequência de palco.** [Roteiro de montagem do telão](../guias/cena-a-cena/pdf/HESED-roteiro-de-montagem.pdf) · [Cena 1](../guias/cena-a-cena/cena-01.md), [Cena 2](../guias/cena-a-cena/cena-02.md), [Cena 9](../guias/cena-a-cena/cena-09.md). Em cada cena, parta do arquivo que você já tem e percorra falas, músicas e saídas em ordem.
 

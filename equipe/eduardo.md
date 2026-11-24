@@ -1,4 +1,8 @@
-# Eduardo (Dudu) · Cenas 6, 7 e 8
+# Eduardo (Dudu) · acervo e passagem das Cenas 6 a 8
+
+**Contagem de produção · 24/11/2026.** São **19 peças de telão**, incluindo **9 músicas**. Os retornos da casa e as partes A–D do filme final já estão incluídos. [Conferir os 19 nomes na ordem do palco](../guias/cena-a-cena/inventario-do-telao.md).
+
+**Passagem para Victor.** O material e as anotações abaixo registram a fila preparada por Eduardo. Victor assumiu a continuação das três cenas.
 
 **Monte sua sequência de palco.** [Roteiro de montagem do telão](../guias/cena-a-cena/pdf/HESED-roteiro-de-montagem.pdf) · [Cena 6](../guias/cena-a-cena/cena-06.md), [Cena 7](../guias/cena-a-cena/cena-07.md), [Cena 8](../guias/cena-a-cena/cena-08.md). Em cada cena, parta do arquivo que você já tem e percorra falas, músicas e saídas em ordem.
 

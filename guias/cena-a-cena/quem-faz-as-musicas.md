@@ -1,10 +1,12 @@
 # HESED · Guia de execução por pessoa
 
+**Contagem de produção · 24/11/2026.** São **19 peças de telão**, incluindo **9 músicas**. Os retornos da casa e as partes A–D do filme final já estão incluídos. [Conferir os 19 nomes na ordem do palco](inventario-do-telao.md).
+
 **Para executar, abra o [Roteiro de montagem do telão](pdf/HESED-roteiro-de-montagem.pdf).** Use este guia para localizar seu bloco e consultar durações. As nove músicas já aparecem no ponto da cena em que entram, com o que vem antes e depois.
 
 19 de novembro de 2026 · Distribuição final das nove cenas
 
-Victor fecha as Cenas 1, 2 e 9. Isaac fecha as Cenas 3, 4 e 5. Eduardo (Dudu) fecha as Cenas 6, 7 e 8. A pessoa indicada fecha tudo o que vai ao telão naquela cena e entrega à operação os arquivos na ordem, com a deixa de entrada e de saída.
+Victor fecha as Cenas 1, 2 e 6 a 9. Isaac fecha as Cenas 3 a 5. A pessoa indicada fecha tudo o que vai ao telão naquela cena e entrega à operação os arquivos na ordem, com a deixa de entrada e de saída.
 
 ## Victor
 
@@ -18,11 +20,11 @@ Victor fecha as Cenas 1, 2 e 9. Isaac fecha as Cenas 3, 4 e 5. Eduardo (Dudu) fe
 
 - **Cena 3 · Criação, queda e Belém.** Comece pela versão que você já tem da regressão até o bebê (MM-06). Ligue o jardim da MM-04 à dança de Há Muito Tempo Atrás: a música cresce durante “Deus criou tudo perfeito”; em “haja luz”, o verde se expande no palco. Volte à cozinha antes da queda (MM-05 V03, seis quadros aprovados). Depois da regressão e do diálogo, passe do bebê para o céu estrelado de Nasceu em Belém (MM-07). As duas prévias rejeitadas ficam no histórico.
 - **Cena 4 · Graça e Páscoa.** Use sua seleção da MM-08 para Maravilhosa Graça de Julia Vitória. Quando os clipes de Goel que Victor está subindo ao Drive estiverem disponíveis, escolha ou complete três ou quatro momentos de culpa, sacrifício e liberdade. Anote clipe, início e fim. Entre na fala sobre o perdão da dívida, com luz roxo-claro.
-- **Cena 5 · Da visão de Mari à noite dos pastores.** Entre na imaginação de Mari na MM-09, passe dos profetas ao universo na MM-10 e ao mundinho em Luz do Mundo (MM-11). Volte à cozinha antes dos focos de Maria/anjo e José/anjo. Em Ó Noite Santa (MM-13), experimente campo → estrela → pastores → estrela. Mostre o último céu a Eduardo para a viagem da Cena 6.
+- **Cena 5 · Da visão de Mari à noite dos pastores.** Entre na imaginação de Mari na MM-09, passe dos profetas ao universo na MM-10 e ao mundinho em Luz do Mundo (MM-11). Volte à cozinha antes dos focos de Maria/anjo e José/anjo. Em Ó Noite Santa (MM-13), experimente campo → estrela → pastores → estrela. Mostre o último céu a Victor para a viagem da Cena 6.
 
 **Comece por aqui.** Abra o que já enviou e as músicas que está ajustando. Marque o que é faixa, corte ou vídeo e continue pela versão mais avançada. As músicas ainda sem título identificado podem ser relacionadas depois, sem atrasar o restante. Para o material herdado, consulte os quadros existentes de criação, queda, estrelas, profetas, universo e pastores.
 
-## Eduardo (Dudu)
+## Continuação de Victor a partir do material de Eduardo
 
 - **Cena 6 · Caminho até o abrigo.** Receba de Isaac a indicação do último céu. Use as bases existentes da MM-12 para passar por caminho, Belém, chegada, busca de abrigo e estábulo conforme as falas. Termine no Q06 vazio e mantenha esse mesmo quadro ao abrir a Cena 7.
 - **Cena 7 · Anúncio e gerações.** Segure o estábulo vazio na primeira menção a um anjo. Na fala “uma multidão de anjos apareceu”, entre com a imagem aprovada v09. Mais tarde, em Santo pra Sempre, entram as gerações louvando. Mostre a seleção à direção antes de fechar a luz. Ao fim da música, sai a manjedoura e volta a cozinha.
@@ -41,14 +43,14 @@ Os tempos abaixo são sugestões para a primeira revisão. A faixa local de Corr
 | [Cena 3](cena-03.md#montagem-na-ordem-do-palco) · Nasceu em Belém | Isaac | 1 céu com 2 intensidades de estrela. Teste um ciclo de 30–45 s para o recorte de cerca de 5 min | Preparar o retorno à casa da Cena 4. |
 | [Cena 4](cena-04.md#montagem-na-ordem-do-palco) · Maravilhosa Graça · Julia Vitória | Isaac | 3–4 momentos de Goel, 6–8 planos. Gesto de 6–12 s, reação de 12–25 s | Entregar à conversa que prepara os profetas. |
 | [Cena 5](cena-05.md#montagem-na-ordem-do-palco) · Luz do Mundo | Isaac | 1 vídeo do mundinho. Procurar 2–3 momentos de 20–40 s | Cozinha. Maria e anjo junto ao teclado, depois José e anjo junto à bateria. |
-| [Cena 5](cena-05.md#montagem-na-ordem-do-palco) · Ó Noite Santa | Isaac | 3 imagens em 4 entradas. Campo 25–45 s, estrela 30–60 s, pastores 15–30 s, estrela até o fim | Isaac mostra a Eduardo o último céu antes da viagem da Cena 6. |
-| [Cena 7](cena-07.md#montagem-na-ordem-do-palco) · Santo pra Sempre | Eduardo | 3 imagens de gerações, 20–45 s por grupo. Inserção de anjos depende de escolha da direção | Sai a manjedoura e volta a cozinha. |
-| [Cena 8](cena-08.md#montagem-na-ordem-do-palco) · Brilha Tua Luz | Eduardo | 3 momentos. Origem da luz 15–30 s, ambiente 25–45 s, alcance do elenco 25–60 s | Cortina para a retirada do cenário. |
+| [Cena 5](cena-05.md#montagem-na-ordem-do-palco) · Ó Noite Santa | Isaac | 3 imagens em 4 entradas. Campo 25–45 s, estrela 30–60 s, pastores 15–30 s, estrela até o fim | Isaac mostra a Victor o último céu antes da viagem da Cena 6. |
+| [Cena 7](cena-07.md#montagem-na-ordem-do-palco) · Santo pra Sempre | Victor | 3 imagens de gerações, 20–45 s por grupo. Inserção de anjos depende de escolha da direção | Sai a manjedoura e volta a cozinha. |
+| [Cena 8](cena-08.md#montagem-na-ordem-do-palco) · Brilha Tua Luz | Victor | 3 momentos. Origem da luz 15–30 s, ambiente 25–45 s, alcance do elenco 25–60 s | Cortina para a retirada do cenário. |
 | [Cena 9](cena-09.md#montagem-na-ordem-do-palco) · Maravilhosa Graça · Samuel Mizrahy | Victor | Seleção inicial de 8–12 planos. Testar 6–15 s por ação e sustentar a imagem durante a fala | Último refrão junto das luzes de Natal. |
 
 ## Passagens entre pessoas
 
-Na passagem 2 → 3, Victor indica a Isaac a cozinha noturna V03-01. Na 5 → 6, Isaac mostra o último céu de Ó Noite Santa a Eduardo. Na 8 → 9, Eduardo marca o fechamento da cortina e a operação dispara a MM-16 de Victor depois da troca de cenário e figurino.
+Na virada 2 → 3, Victor indica a Isaac a cozinha V03-01. Na 5 → 6, Isaac indica a Victor o último céu. As Cenas 6 a 9 ficam com Victor, incluindo a cortina após Brilha Tua Luz e o filme final após a troca.
 
 ## Entrega à operação
 

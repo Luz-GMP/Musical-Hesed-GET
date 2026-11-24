@@ -1,12 +1,14 @@
 # Codex · HESED Produção Audiovisual
 
+**Nomes e contagem.** Consulte o [inventário das 19 peças de telão](guias/cena-a-cena/inventario-do-telao.md). Identifique cada entrega por cena, nome e código existente. As nove músicas já estão incluídas. Um retorno de cenário é uma deixa.
+
 **Execução no HESED.** Abra o [Roteiro de montagem do telão](guias/cena-a-cena/pdf/HESED-roteiro-de-montagem.pdf) e a ficha da cena antes de preparar a peça. Identifique a fala anterior, quem atua no palco, quando a música entra, qual imagem permanece e o sinal de saída. Atribua a música ao responsável daquela cena. Rotule propostas e escolhas de ensaio ao lado da deixa. Quando a direção alterar um sinal, corrija primeiro a linha da cena, depois a mesma passagem no PDF e no mapa HTML.
 
 **Marcadores obrigatórios em cada vídeo.** Antes de editar, siga o [guia de timecodes e operação](guias/timecodes-e-operacao.md). Marque início, saída e eventos de sincronismo na sequência final, ou na configuração de montagem se a edição for por código. Entregue a tabela de marcadores junto ao MP4 da mesma versão e confira os tempos no arquivo exportado. Registre na ficha a deixa real de palco e os pontos ainda a definir.
 
-Filas de execução dos responsáveis: [Victor · cenas 1, 2 e 9](equipe/victor.md) · [Isaac · cenas 3, 4 e 5](equipe/isaac.md) · [Eduardo (Dudu) · cenas 6, 7 e 8](equipe/eduardo.md)
+Filas de execução dos responsáveis: [Victor · cenas 1, 2 e 6 a 9](equipe/victor.md) · [Isaac · cenas 3, 4 e 5](equipe/isaac.md) · [Eduardo · material de origem](equipe/eduardo.md)
 
-**Distribuição vigente · 19/11/2026.** Victor fecha as Cenas 1, 2 e 9. Isaac fecha as Cenas 3, 4 e 5. Eduardo (Dudu) fecha as Cenas 6, 7 e 8. Cada pessoa prepara e entrega suas cenas diretamente à operação. A MM-16 é integralmente de Victor. As músicas em ajuste por Isaac seguem a partir das versões existentes. [Guia de execução por pessoa](guias/cena-a-cena/quem-faz-as-musicas.md)
+**Distribuição atual · 24/11/2026.** Victor fecha as Cenas 1, 2 e 6 a 9. Isaac fecha as Cenas 3 a 5. Eduardo preparou bases das Cenas 6 a 8.
 
 Para produção audiovisual do HESED, selecione `$ai-filmmaker` da pasta `.agents/skills/ai-filmmaker/`. Se o catálogo mostrar uma cópia pessoal com o mesmo nome, leia a [entrada do projeto](.agents/skills/ai-filmmaker/SKILL.md).
 

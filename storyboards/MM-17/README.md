@@ -1,5 +1,9 @@
 # Proposta de storyboard · MM-17 · Gerações em louvor
 
+**Contagem de produção · 24/11/2026.** São **19 peças de telão**, incluindo **9 músicas**. Os retornos da casa e as partes A–D do filme final já estão incluídos. [Conferir os 19 nomes na ordem do palco](../../guias/cena-a-cena/inventario-do-telao.md).
+
+**Nome na fila:** Cena 7 · Santo pra Sempre (gerações louvando). Victor continua o material de Eduardo. O nome da pasta é provisório e identifica essa mesma peça.
+
 **HESED 2026 · Cena 7 · Eduardo (Dudu) · v03 · 21/11/2026**
 
 > **Entrega atual (21/11/2026):** animações 2.5D independentes para Q01, Q02 e Q03, mais o insert v16 renderizado separadamente, estão em [animações individuais v01](animacoes-individuais-v01/README.md). Os quatro clipes são silenciosos e aguardam o master P-02. O alpha visual v03 descrito abaixo é um estudo de montagem anterior; não faz parte da entrega atual solicitada. `MM-17` continua como identificador proposto e a direção ainda precisa registrar a seleção final das imagens geracionais.

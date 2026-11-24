@@ -1,12 +1,14 @@
 # HESED · Guia de execução das nove cenas
 
+**Contagem de produção · 24/11/2026.** São **19 peças de telão**, incluindo **9 músicas**. Os retornos da casa e as partes A–D do filme final já estão incluídos. [Conferir os 19 nomes na ordem do palco](inventario-do-telao.md).
+
 **Comece pelo [Roteiro de montagem do telão](pdf/HESED-roteiro-de-montagem.pdf).** O índice do PDF leva à página de cada cena. Ali estão, juntas, a fala, a música, a luz, a imagem e a saída. Para navegar pelas nove cenas no computador, baixe o [mapa HTML](mapa-do-telao.html) e abra o arquivo no navegador. [Download direto do mapa](https://github.com/Luz-GMP/Musical-Hesed-GET/raw/refs/heads/main/guias/cena-a-cena/mapa-do-telao.html).
 
-[Victor · cenas 1, 2 e 9](../../equipe/victor.md) · [Isaac · cenas 3, 4 e 5](../../equipe/isaac.md) · [Eduardo (Dudu) · cenas 6, 7 e 8](../../equipe/eduardo.md)
+[Victor · cenas 1, 2 e 6 a 9](../../equipe/victor.md) · [Isaac · cenas 3, 4 e 5](../../equipe/isaac.md) · [Eduardo · material de origem](../../equipe/eduardo.md)
 
 [Baixar o guia por pessoa](pdf/HESED-guia-definitivo-por-pessoa.pdf) · [Baixar o guia ilustrado](pdf/HESED-guia-de-cena.pdf)
 
-**Distribuição vigente · 19/11/2026.** Victor fecha as Cenas 1, 2 e 9. Isaac fecha as Cenas 3, 4 e 5. Eduardo (Dudu) fecha as Cenas 6, 7 e 8. Cada pessoa prepara e entrega suas cenas diretamente à operação. A MM-16 é integralmente de Victor. As músicas em ajuste por Isaac seguem a partir das versões existentes. [Guia de execução por pessoa](quem-faz-as-musicas.md)
+**Responsáveis atuais.** Victor fecha as Cenas 1, 2 e 6 a 9, dando continuidade ao trabalho de Eduardo. Isaac fecha as Cenas 3 a 5.
 
 **Edição de 19 de novembro de 2026 · Para elenco, produção, telão, luz e som.**
 
@@ -19,9 +21,9 @@ Acompanhe o espetáculo como a plateia vai vê-lo. Escolha a cena e comece pela 
 | 3 · Criação, queda e Belém | Isaac | [Falas, imagens e deixas](cena-03.md) |
 | 4 · Graça e Páscoa | Isaac | [Falas, imagens e deixas](cena-04.md) |
 | 5 · Profetas, mundo e noite | Isaac | [Falas, imagens e deixas](cena-05.md) |
-| 6 · Viagem até o abrigo | Eduardo | [Falas, imagens e deixas](cena-06.md) |
-| 7 · Anúncio e gerações | Eduardo | [Falas, imagens e deixas](cena-07.md) |
-| 8 · Recapitulação e Brilha Tua Luz | Eduardo | [Falas, imagens e deixas](cena-08.md) |
+| 6 · Viagem até o abrigo | Victor | [Falas, imagens e deixas](cena-06.md) |
+| 7 · Anúncio e gerações | Victor | [Falas, imagens e deixas](cena-07.md) |
+| 8 · Recapitulação e Brilha Tua Luz | Victor | [Falas, imagens e deixas](cena-08.md) |
 | 9 · Filme final | Victor | [Falas, imagens e deixas](cena-09.md) |
 
 ## Como usar na primeira vez
@@ -40,9 +42,9 @@ Acompanhe o espetáculo como a plateia vai vê-lo. Escolha a cena e comece pela 
 
 - **Victor.** Separe as versões de abertura, retrospectiva e retorno ao exterior. Identifique a cozinha V03-01 para Isaac. Você já pode esboçar o filme final em paralelo.
 - **Isaac.** Abra o que já enviou e as músicas que está ajustando. Marque o que é faixa, corte ou vídeo e continue pela versão mais avançada. As músicas ainda sem título identificado podem ser relacionadas depois, sem atrasar o restante. Para o material herdado, consulte os quadros existentes de criação, queda, estrelas, profetas, universo e pastores.
-- **Eduardo.** Confira as bases da MM-12 e coloque o estábulo vazio e a v09 lado a lado. Depois abra a panorâmica MM-14 e os quatro quadros da MM-15. Identifique o que já serve à Cena 8 antes de propor novas imagens.
+- **Victor, na continuidade das Cenas 6–8.** Confira as bases da MM-12 e coloque o estábulo vazio e a v09 lado a lado. Depois abra a panorâmica MM-14 e os quatro quadros da MM-15. Identifique o que já serve à Cena 8 antes de propor novas imagens.
 
-Na passagem 2 → 3, Victor indica a Isaac a cozinha noturna V03-01. Na 5 → 6, Isaac mostra o último céu de Ó Noite Santa a Eduardo. Na 8 → 9, Eduardo marca o fechamento da cortina e a operação dispara a MM-16 de Victor depois da troca de cenário e figurino.
+Na virada 2 → 3, Victor indica a Isaac a cozinha V03-01. Na 5 → 6, Isaac indica a Victor o último céu. As Cenas 6 a 9 ficam com Victor, incluindo a cortina após Brilha Tua Luz e o filme final após a troca.
 
 ## Índice de músicas para consulta
 
