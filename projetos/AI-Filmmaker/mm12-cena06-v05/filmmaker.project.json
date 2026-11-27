@@ -109,6 +109,222 @@
       "sha256": "8a36b8a915018bc2eb9bca5182c2200bf762667fdc3895d4960be9116ed0b5a1"
     },
     {
+      "id": "q02-l01",
+      "path": "cena/assets/layers-v05/MM12-Q02/MM12-Q02-L01-BG-cleanplate.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Etapa 1 · cleanplate v05 preservado",
+      "rights": "provided-by-project",
+      "sha256": "b72701f4135f9d27110b28c82fdd1cd91e84cbbfd46ab0ed957ede33257070b7"
+    },
+    {
+      "id": "q02-l02",
+      "path": "cena/assets/layers-v05/MM12-Q02/MM12-Q02-L02-MG-belem-estrada.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Etapa 2 · ImageGen · recriacao independente",
+      "rights": "provided-by-project",
+      "sha256": "200209ee290211eba0ee33d64270338e9207325c2e66a39565c16492d40a275f"
+    },
+    {
+      "id": "q02-l03",
+      "path": "cena/assets/layers-v05/MM12-Q02/MM12-Q02-L03-FG-esq-rochas.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Etapa 2 · ImageGen · recriacao independente",
+      "rights": "provided-by-project",
+      "sha256": "9a7d1e4e091bbb972f5619e8d37ee3ae94d9c2c24c007a496f6ab125c9834f63"
+    },
+    {
+      "id": "q02-l04",
+      "path": "cena/assets/layers-v05/MM12-Q02/MM12-Q02-L04-FG-dir-oliveiras.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Etapa 2 · ImageGen · recriacao independente",
+      "rights": "provided-by-project",
+      "sha256": "2b45e6bf13d00ce24cb85d9a492d042ab325f5b1457e24122805162f0e8cb132"
+    },
+    {
+      "id": "q07-l01",
+      "path": "cena/assets/layers-v05/MM12-Q07/MM12-Q07-L01-BG-cleanplate.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Etapa 2 · ImageGen · recriacao independente",
+      "rights": "provided-by-project",
+      "sha256": "85db53959fb46308b63ebe8f3288fb27e389a7f71be739c2464b37283d8f34b2"
+    },
+    {
+      "id": "q07-l02",
+      "path": "cena/assets/layers-v05/MM12-Q07/MM12-Q07-L02-MG-casario-entrada.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Etapa 2 · ImageGen · recriacao independente",
+      "rights": "provided-by-project",
+      "sha256": "a9361f59261034d9abe87a1141415cca4abb0c6fab8b16d146e733ef5270a156"
+    },
+    {
+      "id": "q07-l03",
+      "path": "cena/assets/layers-v05/MM12-Q07/MM12-Q07-L03-FG-esq-fachada-pedra.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Etapa 2 · ImageGen · recriacao independente",
+      "rights": "provided-by-project",
+      "sha256": "dade869826b28016823939051ba374f785fe67448ab07e0736422f02877e6b27"
+    },
+    {
+      "id": "q07-l04",
+      "path": "cena/assets/layers-v05/MM12-Q07/MM12-Q07-L04-FG-dir-muro-oliveira.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Etapa 2 · ImageGen · recriacao independente",
+      "rights": "provided-by-project",
+      "sha256": "9bf0ba227ba05a2d6a2d6b4b95e55e1c98b4582154faeaee0be67d54dc6d8d8a"
+    },
+    {
+      "id": "q03-l01",
+      "path": "cena/assets/layers-v05/MM12-Q03-Q04/MM12-Q03-L01-BG-ceu-crepusculo.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Etapa 2 · ImageGen · recriacao independente",
+      "rights": "provided-by-project",
+      "sha256": "2c30dc3c833a54b186de5764f45a145d2144f66f6756ab274f90dd431d41d87f"
+    },
+    {
+      "id": "q03-l02",
+      "path": "cena/assets/layers-v05/MM12-Q03-Q04/MM12-Q03-L02-MG-viela-fundo.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Etapa 2 · ImageGen · recriacao independente",
+      "rights": "provided-by-project",
+      "sha256": "4c878afdfaad4dd3ae0d78afd0a688dacc6118d680bfdcdd9ee6f7ef36ae66a1"
+    },
+    {
+      "id": "q03-l03",
+      "path": "cena/assets/layers-v05/MM12-Q03-Q04/MM12-Q03-L03-FG-dir-muro-oliveira.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Etapa 2 · ImageGen · recriacao independente",
+      "rights": "provided-by-project",
+      "sha256": "9e88587be32841ad3df5a915b896e58549856abd5a397f5c1bc19955e664ce80"
+    },
+    {
+      "id": "q03-l04",
+      "path": "cena/assets/layers-v05/MM12-Q03-Q04/MM12-Q03-L04-FG-esq-casa-porta.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Etapa 2 · ImageGen · recriacao independente",
+      "rights": "provided-by-project",
+      "sha256": "faf765166d66524dd5429052c20faba3e8847740cd8b19bb1ad486928a0aecf0"
+    },
+    {
+      "id": "q04-l01",
+      "path": "cena/assets/layers-v05/MM12-Q03-Q04/MM12-Q04-L01-BG-ceu-noite.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Etapa 2 · ImageGen · luz noturna na geometria Q03",
+      "rights": "provided-by-project",
+      "sha256": "7da1c919fdc86053b9dad051215af29afd7aeb0730920ffd53bede1d839c3f41"
+    },
+    {
+      "id": "q04-l02",
+      "path": "cena/assets/layers-v05/MM12-Q03-Q04/MM12-Q04-L02-MG-viela-fundo.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Etapa 2 · ImageGen · luz noturna na geometria Q03",
+      "rights": "provided-by-project",
+      "sha256": "afee81d9a82efd72d4ffaddf72694e43ed747c8731dd6ca03502f4a0ee1d6185"
+    },
+    {
+      "id": "q04-l03",
+      "path": "cena/assets/layers-v05/MM12-Q03-Q04/MM12-Q04-L03-FG-dir-muro-oliveira.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Etapa 2 · ImageGen · luz noturna na geometria Q03",
+      "rights": "provided-by-project",
+      "sha256": "9f602267a93b08e65eba4cb5361ed21491aaee27768635bb623d740ae93f8576"
+    },
+    {
+      "id": "q04-l04",
+      "path": "cena/assets/layers-v05/MM12-Q03-Q04/MM12-Q04-L04-FG-esq-casa-porta.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Etapa 2 · ImageGen · luz noturna na geometria Q03",
+      "rights": "provided-by-project",
+      "sha256": "f87160b350d3193d232b1b03d113c3b362b2ce0b2159c4fe3259583c55df276e"
+    },
+    {
+      "id": "q05-l01",
+      "path": "cena/assets/layers-v05/MM12-Q05/MM12-Q05-L01-BG-cleanplate.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Etapa 2 · ImageGen · recriacao independente",
+      "rights": "provided-by-project",
+      "sha256": "84e34a0df12f60262718ca5876dcbd169eef067b7eae43435bd38144a3269fe9"
+    },
+    {
+      "id": "q05-l02",
+      "path": "cena/assets/layers-v05/MM12-Q05/MM12-Q05-L02-MG-rua-mureta.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Etapa 2 · ImageGen · recriacao independente",
+      "rights": "provided-by-project",
+      "sha256": "a860352d923e2c8be1c9a9b4a4e1bc084f98cc2281cce2103a587430313d8cb5"
+    },
+    {
+      "id": "q05-l03",
+      "path": "cena/assets/layers-v05/MM12-Q05/MM12-Q05-L03-FG-esq-fachada-porta.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Etapa 2 · ImageGen · recriacao independente",
+      "rights": "provided-by-project",
+      "sha256": "c58a8762a69767bc158ed7b6626add05159c5f3aba2b35b89bb6644384ad1c9f"
+    },
+    {
+      "id": "q05-l04",
+      "path": "cena/assets/layers-v05/MM12-Q05/MM12-Q05-L04-OBJ-banco-jarros.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Etapa 2 · ImageGen · recriacao independente",
+      "rights": "provided-by-project",
+      "sha256": "c66398f5c07d1d833ed035d9ca50ad622494baa1b0b1be6511656adb585d7a3f"
+    },
+    {
+      "id": "q08-l01",
+      "path": "cena/assets/layers-v05/MM12-Q08/MM12-Q08-L01-BG-cleanplate.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Etapa 2 · ImageGen · recriacao independente",
+      "rights": "provided-by-project",
+      "sha256": "3aef91c633566a3afba1567cdddbfe4cf3d9c438b17c20e6c8e1745d9fb3b348"
+    },
+    {
+      "id": "q08-l02",
+      "path": "cena/assets/layers-v05/MM12-Q08/MM12-Q08-L02-MG-belem-ciprestes.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Etapa 2 · ImageGen · recriacao independente",
+      "rights": "provided-by-project",
+      "sha256": "188b0887e295279bec08b9c498ef9458d05035224133b9323826f74e3c20acd9"
+    },
+    {
+      "id": "q08-l03",
+      "path": "cena/assets/layers-v05/MM12-Q08/MM12-Q08-L03-FG-esq-esquina-viela.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Etapa 2 · ImageGen · recriacao independente",
+      "rights": "provided-by-project",
+      "sha256": "cb356440d00b9537ccb4e7f3bfa266cdab811400e6709e748aa37a0755238924"
+    },
+    {
+      "id": "q08-l04",
+      "path": "cena/assets/layers-v05/MM12-Q08/MM12-Q08-L04-FG-dir-muro-vegetacao.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Etapa 2 · ImageGen · recriacao independente",
+      "rights": "provided-by-project",
+      "sha256": "426136ad8a6a1d89bf0e0e807f19f601be24916db2a34cb35cc46abd37f80474"
+    },
+    {
       "id": "q06-l01",
       "path": "cena/assets/layers-v05/MM12-Q06/MM12-Q06-L01-BG-cleanplate.png",
       "kind": "image",
@@ -171,12 +387,30 @@
         { "id": "q01-mg", "assetId": "q01-l02", "role": "intermediate" },
         { "id": "q01-fg-dir", "assetId": "q01-l03", "role": "foreground" },
         { "id": "q01-fg-esq", "assetId": "q01-l04", "role": "foreground" },
-        { "id": "q02-base", "assetId": "q02-base", "role": "content" },
-        { "id": "q07-base", "assetId": "q07-base", "role": "content" },
-        { "id": "q03-base", "assetId": "q03-base", "role": "content" },
-        { "id": "q04-base", "assetId": "q04-base", "role": "content" },
-        { "id": "q05-base", "assetId": "q05-base", "role": "content" },
-        { "id": "q08-base", "assetId": "q08-base", "role": "content" },
+        { "id": "q02-l01", "assetId": "q02-l01", "role": "background" },
+        { "id": "q02-l02", "assetId": "q02-l02", "role": "intermediate" },
+        { "id": "q02-l03", "assetId": "q02-l03", "role": "foreground" },
+        { "id": "q02-l04", "assetId": "q02-l04", "role": "foreground" },
+        { "id": "q07-l01", "assetId": "q07-l01", "role": "background" },
+        { "id": "q07-l02", "assetId": "q07-l02", "role": "intermediate" },
+        { "id": "q07-l03", "assetId": "q07-l03", "role": "foreground" },
+        { "id": "q07-l04", "assetId": "q07-l04", "role": "foreground" },
+        { "id": "q03-l01", "assetId": "q03-l01", "role": "background" },
+        { "id": "q03-l02", "assetId": "q03-l02", "role": "intermediate" },
+        { "id": "q03-l03", "assetId": "q03-l03", "role": "foreground" },
+        { "id": "q03-l04", "assetId": "q03-l04", "role": "foreground" },
+        { "id": "q04-l01", "assetId": "q04-l01", "role": "background" },
+        { "id": "q04-l02", "assetId": "q04-l02", "role": "intermediate" },
+        { "id": "q04-l03", "assetId": "q04-l03", "role": "foreground" },
+        { "id": "q04-l04", "assetId": "q04-l04", "role": "foreground" },
+        { "id": "q05-l01", "assetId": "q05-l01", "role": "background" },
+        { "id": "q05-l02", "assetId": "q05-l02", "role": "intermediate" },
+        { "id": "q05-l03", "assetId": "q05-l03", "role": "foreground" },
+        { "id": "q05-l04", "assetId": "q05-l04", "role": "foreground" },
+        { "id": "q08-l01", "assetId": "q08-l01", "role": "background" },
+        { "id": "q08-l02", "assetId": "q08-l02", "role": "intermediate" },
+        { "id": "q08-l03", "assetId": "q08-l03", "role": "foreground" },
+        { "id": "q08-l04", "assetId": "q08-l04", "role": "foreground" },
         { "id": "q06-bg", "assetId": "q06-l01", "role": "background" },
         { "id": "q06-mg", "assetId": "q06-l02", "role": "intermediate" },
         { "id": "q06-fg-mureta", "assetId": "q06-l03", "role": "foreground" },

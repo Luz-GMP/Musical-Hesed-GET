@@ -6,7 +6,7 @@ Para registrar o andamento, use a **cena e a deixa** do [Roteiro de montagem do 
 
 **Responsáveis atuais.** Victor fecha as Cenas 1, 2 e 6 a 9, dando continuidade ao trabalho de Eduardo. Isaac fecha as Cenas 3 a 5.
 
-**Distribuição atualizada:** 19/11/2026. **Última conciliação das versões abaixo:** 16/11/2026 · por Codex, a pedido de Victor (conciliação local/remota de MM-01/MM-02 e feedback de produção; sem novo aceite técnico). **Atualização de andamento:** 21/11/2026 · Codex (Q01–Q03 e insert v16 em animações 2.5D individuais silenciosas; marcadores por arquivo; tempos musicais pendentes de P-02; sem montagem completa da Cena 7 nesta entrega). **MM-12:** 27/11/2026 · Codex (continuidade v05, mídia e montagem de revisão). **MM-06-Q04:** 27/11/2026 · Codex (composição v01 em avaliação por Isaac).
+**Distribuição atualizada:** 19/11/2026. **Última conciliação das versões abaixo:** 16/11/2026 · por Codex, a pedido de Victor (conciliação local/remota de MM-01/MM-02 e feedback de produção; sem novo aceite técnico). **Atualização de andamento:** 21/11/2026 · Codex (Q01–Q03 e insert v16 em animações 2.5D individuais silenciosas; marcadores por arquivo; tempos musicais pendentes de P-02; sem montagem completa da Cena 7 nesta entrega). **MM-12:** 27/11/2026 · Codex (Etapa 2 da v05 em revisão, oito pilhas 2.5D). **MM-06-Q04:** 27/11/2026 · Codex (composição v01 em avaliação por Isaac).
 
 Cada pessoa atualiza **a própria linha** quando muda de etapa. Na dúvida sobre as etapas, veja [guias/fluxo-de-trabalho.md](guias/fluxo-de-trabalho.md).
 
@@ -27,7 +27,7 @@ Cada pessoa atualiza **a própria linha** quando muda de etapa. Na dúvida sobre
 | MM-09 | Profetas (loop) | 5 | Isaac | 🎨 | novo estudo v03 | Revisar [nova proposta](<storyboards/MM-09/STB MM09.jpg>): anúncio, espera e crença/dúvida; versões antigas excluídas (D-27) | - |
 | MM-10 | Cristo eterno / universo | 5 | Isaac | ⬜ | - | - | - |
 | MM-11 | Luz do Mundo (playback) | 5 | Isaac | ⬜ | - | Mapear a faixa | P-02 (audio master) |
-| MM-12 | Viagem, cidade e estábulo | 6–7 | Victor | 🎨 | v05 · piloto aprovado, oito bases e montagem de revisão | [Retomar a Etapa 2](storyboards/MM-12/pacote-2p5d-codex-v05/continuidade-2026-11-27.md), completar planos e conferir costura com Isaac e v09 | P-01, P-12, P-13 e P-17 |
+| MM-12 | Viagem a Belém e chegada ao abrigo | 6–7 | Victor | 🔗 | v05 · oito pilhas 2.5D em revisão | [Revisar Etapa 2](storyboards/MM-12/pacote-2p5d-codex-v05/etapa-2-revisao.md), conferir o céu de Isaac e ensaiar a passagem para a Cena 7 | P-01, P-12, P-13 e P-17 |
 | MM-13 | Noite, estrela e pastores | 5 | Isaac | ⬜ | referências da MM-13 | Preparar Ó Noite Santa na Cena 5 e indicar o último céu a Victor. A imagem de anjos v09 fica na Cena 7. | Luz a validar no ensaio |
 | MM-14 | Recapitulação na casa | 8 | Victor | 🎨 | Panorâmica noturna iluminada da casa | Sustentar a casa vazia para as seis ações feitas pelas atrizes. Em seguida, retomar o nascimento e passar aos atos da MM-15. | Deixas com o elenco |
 | MM-15 | Vida e atos de Jesus | 8 | Victor | 🎨 | prancha + quatro bases v01 · para revisão | Revisar bases Q01–Q04 e identidade; alinhar costura com MM-14 e saída sob diálogo | Saída P-08/P-15; matriz P-01 |

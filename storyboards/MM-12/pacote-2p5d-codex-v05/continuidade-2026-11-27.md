@@ -2,6 +2,14 @@
 
 **27/11/2026 · Victor · Viagem a Belém e chegada ao abrigo.** O registro de execução de 26/11 documenta a aprovação do piloto Q01/Q06 e a conclusão das oito bases. A montagem de revisão está em andamento. As deixas de palco, o corte para a v09 e o teste no LED ainda dependem de ensaio.
 
+## Etapa 2 · prévia para revisão de Victor
+
+O commit `e585df0` publicou os 70 PNGs de retomada. A Etapa 2 acrescenta 23 planos e as provas de empilhamento ao [pacote usado pela montagem](../../../entregas/MM12/pacote-2p5d-v05/recriacao-por-camadas/). Consulte o [registro da Etapa 2](etapa-2-revisao.md) e o [manifesto de dimensões e hashes](manifesto-etapa-2.csv).
+
+Depois de atualizar a `main`, execute `./projetos/AI-Filmmaker/mm12-cena06-v05/preparar.ps1` e abra a [prévia da montagem](../../../projetos/AI-Filmmaker/mm12-cena06-v05/cena/preview.html). O script deve indicar oito pilhas 2.5D completas. A prévia de 01:52 usa offsets de montagem e é silenciosa. O botão **Manter o abrigo vazio** simula a sustentação da Cena 7. O botão **GO em “uma multidão de anjos apareceu”** testa a imagem aprovada da D-61 fora do relógio da MM-12.
+
+## Registro da retomada antes da Etapa 2
+
 ## O que está pronto
 
 | Material | Estado conferido |

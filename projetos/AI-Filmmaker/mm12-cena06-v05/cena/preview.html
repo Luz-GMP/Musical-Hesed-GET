@@ -14,6 +14,7 @@
     .viewer { flex: 1; display: flex; align-items: center; justify-content: center; padding: 14px; }
     .frame { position: relative; width: min(94vw, 1280px); aspect-ratio: 16 / 9; background: #000; border: 1px solid #2a3a52; box-shadow: 0 20px 50px #00000088; overflow: hidden; }
     canvas { width: 100%; height: 100%; display: block; }
+    .scene-seven { position: absolute; inset: 0; width: 100%; height: 100%; }
     .hud { position: absolute; left: 14px; bottom: 14px; background: #0b121ecc; border: 1px solid #d3a15b66; padding: 8px 12px; border-radius: 6px; font-size: 12px; pointer-events: none; }
     .hud b { color: #f0c988; display: block; margin-bottom: 2px; }
     .badge { display: inline-block; margin-left: 8px; padding: 1px 6px; border-radius: 4px; font-size: 11px; font-weight: 600; }
@@ -23,6 +24,7 @@
     .row { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; }
     button { background: #1c2a3f; color: #ece7de; border: 1px solid #324766; border-radius: 5px; padding: 6px 11px; font-size: 12px; cursor: pointer; }
     button:hover { background: #263955; border-color: #d3a15b; }
+    button:disabled { opacity: 0.5; cursor: default; }
     button.primary { background: #9b6c2c; border-color: #d3a15b; color: #fff; font-weight: 600; }
     input[type="range"] { flex: 1; accent-color: #d3a15b; }
     .tc { font-family: Consolas, monospace; font-size: 13px; color: #f0c988; min-width: 140px; text-align: right; }
@@ -38,6 +40,7 @@
   <div class="viewer">
     <div class="frame">
       <canvas id="stage" width="1920" height="1080"></canvas>
+      <img id="sceneSeven" class="scene-seven" src="../../../../storyboards/MM-13/estabulo-anjos-v09/MM13-Q06.png" alt="O abrigo com uma multidão de anjos" hidden>
       <div class="hud" id="hud">Carregando ativos 2.5D…</div>
     </div>
   </div>
@@ -48,6 +51,12 @@
       <span class="tc" id="tc">00:00.000 / 01:52.000</span>
     </div>
     <div class="row" id="cues"></div>
+    <div class="row">
+      <span class="meta">Ensaio da Cena 7</span>
+      <button id="holdBtn" disabled>Manter o abrigo vazio</button>
+      <button id="angelsBtn" disabled>GO em “uma multidão de anjos apareceu”</button>
+      <span id="sceneSevenStatus" class="meta" role="status"></span>
+    </div>
   </div>
   <script>
     const fmt = s => {
@@ -62,6 +71,10 @@
     const hud = document.getElementById('hud');
     const playBtn = document.getElementById('playBtn');
     const cuesEl = document.getElementById('cues');
+    const sceneSeven = document.getElementById('sceneSeven');
+    const holdBtn = document.getElementById('holdBtn');
+    const angelsBtn = document.getElementById('angelsBtn');
+    const sceneSevenStatus = document.getElementById('sceneSevenStatus');
 
     let engine = null;
     let playing = false;
@@ -71,13 +84,30 @@
     function updateUI(t) {
       if (!engine) return;
       engine.renderAt(t);
+      sceneSeven.hidden = true;
       scrubber.value = String(t);
       tc.textContent = `${fmt(t)} / ${fmt(engine.duration)}`;
       const info = engine.getActiveInfo(t);
       const badgeClass = info.mode === '2.5d-layers' ? 'layers' : 'fallback';
-      const badgeText = info.mode === '2.5d-layers' ? '2.5D REAL (camadas)' : 'BASE v05 (aguardando RGBA)';
+      const stack = window.MM12_V05_MANIFEST.scenes[info.sceneKey];
+      const badgeText = info.mode === '2.5d-layers'
+        ? `2.5D · ${stack.present}/${stack.total} planos`
+        : `BASE v05 · ${stack.present}/${stack.total} planos`;
       const holdText = info.isHold ? ' · REPOUSO NEUTRO 1,00' : '';
       hud.innerHTML = `<b>${info.segment.label}<span class="badge ${badgeClass}">${badgeText}</span></b><span>${info.segment.cue}${holdText}</span>`;
+      sceneSevenStatus.textContent = info.isHold ? 'Abrigo vazio durante a abertura e a primeira menção a um anjo.' : '';
+      updateAngelsButton();
+    }
+
+    function updateAngelsButton() {
+      angelsBtn.disabled = !engine?.getActiveInfo(currentTime).isHold || !sceneSeven.naturalWidth;
+    }
+
+    function pauseAt(t) {
+      playing = false;
+      playBtn.textContent = '▶ Reproduzir';
+      currentTime = t;
+      updateUI(t);
     }
 
     const jumps = [
@@ -89,21 +119,35 @@
       ['Q04 · Noite', 58],
       ['Q05 · Porta', 67],
       ['Q08 · Saída', 81],
-      ['Q06 · Abrigo 2.5D', 94],
-      ['Q06 · Hold 1,00', 105]
+      ['Q06 · Abrigo 2.5D', 94]
     ];
     jumps.forEach(([label, sec]) => {
       const b = document.createElement('button');
       b.textContent = label;
-      b.onclick = () => { playing = false; playBtn.textContent = '▶ Reproduzir'; currentTime = sec; updateUI(sec); };
+      b.onclick = () => pauseAt(sec);
       cuesEl.appendChild(b);
     });
 
-    scrubber.oninput = () => { playing = false; playBtn.textContent = '▶ Reproduzir'; currentTime = Number(scrubber.value); updateUI(currentTime); };
+    scrubber.oninput = () => pauseAt(Number(scrubber.value));
+    holdBtn.onclick = () => pauseAt(engine.duration);
+    angelsBtn.onclick = () => {
+      pauseAt(currentTime);
+      sceneSeven.hidden = false;
+      hud.textContent = 'Cena 7 · MM13-Q06 v09';
+      sceneSevenStatus.textContent = 'Variante v09 em exibição na fala da multidão.';
+    };
+    sceneSeven.addEventListener('load', updateAngelsButton);
+    sceneSeven.addEventListener('error', () => {
+      angelsBtn.title = 'Imagem MM13-Q06 v09 ausente';
+    });
     playBtn.onclick = () => {
       playing = !playing;
       playBtn.textContent = playing ? '⏸ Pausar' : '▶ Reproduzir';
-      if (playing) { lastTs = performance.now(); requestAnimationFrame(tick); }
+      if (playing) {
+        if (currentTime >= engine.duration) { currentTime = 0; updateUI(0); }
+        lastTs = performance.now();
+        requestAnimationFrame(tick);
+      }
     };
 
     function tick(now) {
@@ -112,9 +156,8 @@
       lastTs = now;
       currentTime += dt;
       if (currentTime >= engine.duration) {
-        currentTime = engine.duration;
-        playing = false;
-        playBtn.textContent = '▶ Reproduzir';
+        pauseAt(engine.duration);
+        return;
       }
       updateUI(currentTime);
       if (playing) requestAnimationFrame(tick);
@@ -122,7 +165,10 @@
 
     window.MM12PlanoSequencia.mount(canvas).then(e => {
       engine = e;
+      holdBtn.disabled = false;
       updateUI(0);
+    }).catch(error => {
+      hud.textContent = error.message;
     });
   </script>
 </body>

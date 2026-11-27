@@ -307,13 +307,10 @@
     ctx.restore();
   }
 
-  function drawStack(ctx, manifest, cache, sceneKey, profiles, baseMotion, p, t, extraPush, outSwipeDir, outSwipeProg, layerAlpha) {
+  function drawStack(ctx, manifest, cache, sceneKey, profiles, baseMotion, p, t, extraPush, outSwipeDir, outSwipeProg) {
     const info = manifest.scenes[sceneKey];
     if (!info) return;
     const useLayers = info.mode === '2.5d-layers' && info.layers && info.layers.length > 0;
-
-    ctx.save();
-    ctx.globalAlpha *= layerAlpha;
 
     if (useLayers) {
       info.layers.forEach((url, idx) => {
@@ -343,10 +340,9 @@
         drawLayerTransformed(ctx, img, scale, tx, ty, 0, extraPush);
       }
     }
-    ctx.restore();
   }
 
-  function renderSegment(ctx, manifest, cache, seg, t, alpha, outProg, inProg) {
+  function renderSegment(ctx, nightContext, manifest, cache, seg, t, alpha, outProg, inProg) {
     const dur = seg.end - seg.start;
     const local = t - seg.start;
 
@@ -378,13 +374,24 @@
     if (seg.id === 'Q03_Q04') {
       // Anoitecer continuo na mesma camera (Q03 -> Q04 sem corte!)
       const nightMix = smoother(clamp((t - seg.nightStart) / (seg.nightEnd - seg.nightStart)));
-      drawStack(ctx, manifest, cache, seg.primaryKey, seg.layerProfiles, seg.baseMotion, p, t, extraPush, outSwipeDir, smoother(outProg), 1);
-      if (nightMix > 0.001) {
-        drawStack(ctx, manifest, cache, seg.nightKey, seg.layerProfiles, seg.baseMotion, p, t, extraPush, outSwipeDir, smoother(outProg), nightMix);
+      const moment = [seg.layerProfiles, seg.baseMotion, p, t, extraPush, outSwipeDir, smoother(outProg)];
+      if (nightMix === 1) {
+        drawStack(ctx, manifest, cache, seg.nightKey, ...moment);
+      } else {
+        drawStack(ctx, manifest, cache, seg.primaryKey, ...moment);
+        if (nightMix > 0.001) {
+          // Dissolve a imagem noturna já composta para preservar as oclusões.
+          nightContext.clearRect(0, 0, W, H);
+          drawStack(nightContext, manifest, cache, seg.nightKey, ...moment);
+          ctx.save();
+          ctx.globalAlpha *= nightMix;
+          ctx.drawImage(nightContext.canvas, 0, 0);
+          ctx.restore();
+        }
       }
       drawLanternGlows(ctx, seg.lanterns, t, (0.55 + 0.45 * nightMix) * alpha);
     } else {
-      drawStack(ctx, manifest, cache, seg.id, seg.layerProfiles, seg.baseMotion, p, t, extraPush, outSwipeDir, smoother(outProg), 1);
+      drawStack(ctx, manifest, cache, seg.id, seg.layerProfiles, seg.baseMotion, p, t, extraPush, outSwipeDir, smoother(outProg));
       // Em Q06, reduz levemente poeira/brilho excessivo ao entrar no repouso neutro p/ compatibilidade com v09
       const holdCalm = seg.settleAt ? (1 - 0.35 * smooth(clamp((t - seg.settleAt) / 3.0))) : 1;
       drawLanternGlows(ctx, seg.lanterns, t, holdCalm * alpha);
@@ -398,8 +405,32 @@
     ctx.restore();
   }
 
+  function maskTransition(ctx, style, progress) {
+    const leftFirst = style === 'canopy-push-right' || style === 'corner-turn-right';
+    const feather = 0.24;
+    const edge = lerp(-feather, 1, progress);
+    const gradient = ctx.createLinearGradient(leftFirst ? 0 : W, 0, leftFirst ? W : 0, 0);
+    [0, clamp(edge), clamp(edge + feather / 2), clamp(edge + feather), 1].forEach(stop => {
+      const alpha = 1 - smoother((stop - edge) / feather);
+      gradient.addColorStop(stop, `rgba(0, 0, 0, ${alpha})`);
+    });
+    ctx.save();
+    ctx.globalCompositeOperation = 'destination-in';
+    ctx.fillStyle = gradient;
+    ctx.fillRect(0, 0, W, H);
+    ctx.restore();
+  }
+
   function createEngine(canvas, manifest, cache) {
     const ctx = canvas.getContext('2d', { alpha: false });
+    const createCompositingContext = () => {
+      const layerCanvas = document.createElement('canvas');
+      layerCanvas.width = W;
+      layerCanvas.height = H;
+      return layerCanvas.getContext('2d');
+    };
+    const transitionContext = createCompositingContext();
+    const nightContext = createCompositingContext();
     const paperCanvas = createPaperPatternCanvas();
     const paperPattern = ctx.createPattern(paperCanvas, 'repeat');
 
@@ -412,10 +443,10 @@
           break;
         }
       }
-      const key = active.primaryKey || active.id;
-      const mode = manifest.scenes[key] ? manifest.scenes[key].mode : 'base-fallback';
+      const sceneKey = active.nightKey && gt >= active.nightEnd ? active.nightKey : (active.primaryKey || active.id);
+      const mode = manifest.scenes[sceneKey] ? manifest.scenes[sceneKey].mode : 'base-fallback';
       const isHold = Boolean(active.settleAt && gt >= active.settleAt);
-      return { time: gt, segment: active, mode, isHold };
+      return { time: gt, segment: active, sceneKey, mode, isHold };
     }
 
     function renderAt(time) {
@@ -445,10 +476,19 @@
       if (next && t >= transStart) {
         const transProg = clamp((t - transStart) / transDur);
         const mix = smoother(transProg);
-        renderSegment(ctx, manifest, cache, curr, t, 1, transProg, 1);
-        renderSegment(ctx, manifest, cache, next, t, mix, 0, transProg);
+        renderSegment(ctx, nightContext, manifest, cache, curr, t, 1, transProg, 1);
+        transitionContext.clearRect(0, 0, W, H);
+        renderSegment(transitionContext, nightContext, manifest, cache, next, t, 1, 0, transProg);
+        maskTransition(transitionContext, curr.transitionStyle, mix);
+        ctx.drawImage(transitionContext.canvas, 0, 0);
+      } else if (openAlpha < 1) {
+        transitionContext.clearRect(0, 0, W, H);
+        renderSegment(transitionContext, nightContext, manifest, cache, curr, t, 1, 0, 1);
+        ctx.globalAlpha = openAlpha;
+        ctx.drawImage(transitionContext.canvas, 0, 0);
+        ctx.globalAlpha = 1;
       } else {
-        renderSegment(ctx, manifest, cache, curr, t, openAlpha, 0, 1);
+        renderSegment(ctx, nightContext, manifest, cache, curr, t, 1, 0, 1);
       }
 
       // Acabamento tatil MUITO sutil de papel algodao (reduz para 0 no hold final de Q06 p/ encaixe com v09)

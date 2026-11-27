@@ -1,5 +1,7 @@
 # Cena 6 · Viagem a Belém e chegada ao abrigo (MM-12) · Piloto v05
 
+**27/11/2026 · Etapa 2 em revisão.** Consulte o [registro atualizado](../../../../storyboards/MM-12/pacote-2p5d-codex-v05/etapa-2-revisao.md) e o [manifesto dos 23 planos e 13 provas](../../../../storyboards/MM-12/pacote-2p5d-codex-v05/manifesto-etapa-2.csv). O histórico do piloto aprovado está abaixo.
+
 **26/11/2026 · Etapa 0 aprovada por Victor · Etapa 1 (8 bases unificadas v05) concluída · Etapa 2 (camadas RGBA restantes) pronta para Codex.**
 
 ### Atualização Etapa 1 · 26/11/2026 (Antigravity, após aprovação do piloto)
