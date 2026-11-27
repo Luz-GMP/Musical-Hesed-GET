@@ -18,7 +18,7 @@ As detentas contam a própria história de novo, agora entendendo a liberdade qu
 | “Ele já nos libertou!” e depois a fala de todas | A conversa volta à liberdade delas e termina em uma afirmação coletiva. | Retome a panorâmica da sala. Na fala de todas, mostre Jesus bebê e a frase “ELE NASCEU, E ISSO MUDA TUDO.” A composição ainda precisa ser montada e lida à distância. |
 | Terminada a frase, começa a música | Entra **Brilha Tua Luz**, de Aline Barros e Isaías Saad. A luz ganha alcance conforme o elenco responde. | Para o vídeo próprio, proponha luz junto ao bebê (15–30 s), luz no ambiente (25–45 s) e luz alcançando o elenco (25–60 s). Conceito em revisão. No fim, marque a cortina para retirar o cenário e trocar o figurino antes do filme de Victor. |
 
-**Antes de entregar.** Confira com Isaac qual bebê o público viu. Prepare a composição da frase e apresente as três imagens do número antes de fechar o vídeo.
+**Antes de entregar.** Confira com Isaac qual bebê o público viu. Prepare a composição da frase e apresente as três imagens do número antes de fechar o vídeo. [Retomada do quadro do nascimento e das camadas](../../storyboards/MM-06/retomada-2026-11-27.md)
 
 ## Como preparar e passar adiante
 

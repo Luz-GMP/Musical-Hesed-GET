@@ -1,5 +1,7 @@
 # Briefings dos quadros · HESED
 
+**MM-06-Q04 · quadro do nascimento.** O estudo parte do interior da MM12-Q06 com a mureta contínua atrás do abrigo. A V06 traz seis planos e duas provas estáticas. O bebê e a manjedoura têm recorte em arquivo separado, com composição e passagem à MM-07 em aberto. A retomada da Cena 8 depende do quadro confirmado por Isaac. [Guia de retomada](MM-06/retomada-2026-11-27.md) · [Registro técnico do estudo V06](MM-06/registro-interior-MM12-Q06-v06.md)
+
 Para montar e ensaiar, siga o [Roteiro de montagem do telão](../guias/cena-a-cena/pdf/HESED-roteiro-de-montagem.pdf). Leia cada deixa na ordem do palco: fala ou ação, entrada da música, imagem a sustentar e sinal de saída.
 
 **Distribuição vigente · 19/11/2026.** Victor fecha as Cenas 1, 2 e 9. Isaac fecha as Cenas 3, 4 e 5. Eduardo (Dudu) fecha as Cenas 6, 7 e 8. Cada pessoa prepara e entrega suas cenas diretamente à operação. A MM-16 é integralmente de Victor. As músicas em ajuste por Isaac seguem a partir das versões existentes. [Guia de execução por pessoa](../guias/cena-a-cena/quem-faz-as-musicas.md)

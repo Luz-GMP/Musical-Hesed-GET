@@ -17,6 +17,10 @@
 
 Como preencher: [storyboards/README.md](../README.md).
 
+## Retomada em outro dispositivo
+
+A MM-06-Q04 tem um recorte de bebê e manjedoura e um estudo do interior derivado da MM12-Q06 V06 em seis planos. Isaac confere a montagem e o último quadro da Cena 3. Victor usa o quadro confirmado como referência para a Cena 8. [Guia, mídia e conferência](retomada-2026-11-27.md)
+
 ## Conceito em uma frase
 
 

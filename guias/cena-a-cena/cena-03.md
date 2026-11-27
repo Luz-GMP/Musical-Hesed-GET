@@ -19,7 +19,7 @@ Mari conta de onde veio o pecado e por que Jesus veio ao mundo. A cena alterna a
 | “Enviando alguém pra nos salvar” | A conversa segue até as perguntas sobre o bebê e sobre Belém. | MM-06. Volte no tempo da cruz aos milagres, à infância e ao bebê. Deixe o último quadro durar enquanto houver fala. |
 | Depois da conversa sobre Belém da Judeia | Entra **Nasceu em Belém**, de Marcus Salles. Luz de palco laranja e azul. | Do bebê, passe ao céu estrelado da MM-07. Teste um céu com duas intensidades de estrela, ciclo de 30–45 s para o recorte de cerca de 5 min. A produção escolhe a passagem e quanto tempo fica o céu. Depois, volte à casa. |
 
-**Antes de entregar.** Retome a regressão até o bebê que já tem em andamento. Mostre à direção o último bebê e a primeira estrela lado a lado.
+**Antes de entregar.** Retome a regressão até o bebê que já tem em andamento. Mostre à direção o último bebê e a primeira estrela lado a lado. [Guia de retomada da MM-06-Q04](../../storyboards/MM-06/retomada-2026-11-27.md)
 
 ## Como preparar e passar adiante
 
