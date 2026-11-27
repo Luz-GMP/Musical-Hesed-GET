@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Revisão · HESED Cena 6 · MM-12 · Plano-sequência 2.5D v05</title>
+  <style>
+    :root { color-scheme: dark; }
+    * { box-sizing: border-box; }
+    body { margin: 0; font-family: "Segoe UI", system-ui, sans-serif; background: #0b1018; color: #ece7de; display: flex; flex-direction: column; min-height: 100vh; }
+    header { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 12px; padding: 12px 18px; border-bottom: 1px solid #243247; background: #101826; }
+    header h1 { margin: 0; font-size: 16px; color: #e2b46a; }
+    .meta { font-size: 12px; color: #a7b6cb; }
+    .viewer { flex: 1; display: flex; align-items: center; justify-content: center; padding: 14px; }
+    .frame { position: relative; width: min(94vw, 1280px); aspect-ratio: 16 / 9; background: #000; border: 1px solid #2a3a52; box-shadow: 0 20px 50px #00000088; overflow: hidden; }
+    canvas { width: 100%; height: 100%; display: block; }
+    .hud { position: absolute; left: 14px; bottom: 14px; background: #0b121ecc; border: 1px solid #d3a15b66; padding: 8px 12px; border-radius: 6px; font-size: 12px; pointer-events: none; }
+    .hud b { color: #f0c988; display: block; margin-bottom: 2px; }
+    .badge { display: inline-block; margin-left: 8px; padding: 1px 6px; border-radius: 4px; font-size: 11px; font-weight: 600; }
+    .badge.layers { background: #1e4d3a; color: #b8f5d6; }
+    .badge.fallback { background: #4a371b; color: #f7d399; }
+    .controls { padding: 12px 18px 16px; background: #101826; border-top: 1px solid #243247; display: flex; flex-direction: column; gap: 10px; }
+    .row { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; }
+    button { background: #1c2a3f; color: #ece7de; border: 1px solid #324766; border-radius: 5px; padding: 6px 11px; font-size: 12px; cursor: pointer; }
+    button:hover { background: #263955; border-color: #d3a15b; }
+    button.primary { background: #9b6c2c; border-color: #d3a15b; color: #fff; font-weight: 600; }
+    input[type="range"] { flex: 1; accent-color: #d3a15b; }
+    .tc { font-family: Consolas, monospace; font-size: 13px; color: #f0c988; min-width: 140px; text-align: right; }
+  </style>
+  <script src="assets/manifesto-camadas.js"></script>
+  <script src="plano-sequencia.js"></script>
+</head>
+<body>
+  <header>
+    <h1>HESED · Cena 6 · MM-12 · Plano-sequência 2.5D v05</h1>
+    <div class="meta">1920×1080 · 30 fps · 01:52.000 (provisório de revisão, sem áudio) · Q06 repousa em 1,00 aos 01:44.000</div>
+  </header>
+  <div class="viewer">
+    <div class="frame">
+      <canvas id="stage" width="1920" height="1080"></canvas>
+      <div class="hud" id="hud">Carregando ativos 2.5D…</div>
+    </div>
+  </div>
+  <div class="controls">
+    <div class="row">
+      <button id="playBtn" class="primary">▶ Reproduzir</button>
+      <input id="scrubber" type="range" min="0" max="112" step="0.033333" value="0">
+      <span class="tc" id="tc">00:00.000 / 01:52.000</span>
+    </div>
+    <div class="row" id="cues"></div>
+  </div>
+  <script>
+    const fmt = s => {
+      const m = Math.floor(s / 60);
+      const sec = (s % 60).toFixed(3).padStart(6, '0');
+      return `${String(m).padStart(2, '0')}:${sec}`;
+    };
+
+    const canvas = document.getElementById('stage');
+    const scrubber = document.getElementById('scrubber');
+    const tc = document.getElementById('tc');
+    const hud = document.getElementById('hud');
+    const playBtn = document.getElementById('playBtn');
+    const cuesEl = document.getElementById('cues');
+
+    let engine = null;
+    let playing = false;
+    let currentTime = 0;
+    let lastTs = 0;
+
+    function updateUI(t) {
+      if (!engine) return;
+      engine.renderAt(t);
+      scrubber.value = String(t);
+      tc.textContent = `${fmt(t)} / ${fmt(engine.duration)}`;
+      const info = engine.getActiveInfo(t);
+      const badgeClass = info.mode === '2.5d-layers' ? 'layers' : 'fallback';
+      const badgeText = info.mode === '2.5d-layers' ? '2.5D REAL (camadas)' : 'BASE v05 (aguardando RGBA)';
+      const holdText = info.isHold ? ' · REPOUSO NEUTRO 1,00' : '';
+      hud.innerHTML = `<b>${info.segment.label}<span class="badge ${badgeClass}">${badgeText}</span></b><span>${info.segment.cue}${holdText}</span>`;
+    }
+
+    const jumps = [
+      ['Q01 · Caminho', 0],
+      ['Q02 · Belém', 15],
+      ['Q07 · Entrada', 29],
+      ['Q03 · Chegada', 41],
+      ['Q03→Q04 · Anoitecer', 51],
+      ['Q04 · Noite', 58],
+      ['Q05 · Porta', 67],
+      ['Q08 · Saída', 81],
+      ['Q06 · Abrigo 2.5D', 94],
+      ['Q06 · Hold 1,00', 105]
+    ];
+    jumps.forEach(([label, sec]) => {
+      const b = document.createElement('button');
+      b.textContent = label;
+      b.onclick = () => { playing = false; playBtn.textContent = '▶ Reproduzir'; currentTime = sec; updateUI(sec); };
+      cuesEl.appendChild(b);
+    });
+
+    scrubber.oninput = () => { playing = false; playBtn.textContent = '▶ Reproduzir'; currentTime = Number(scrubber.value); updateUI(currentTime); };
+    playBtn.onclick = () => {
+      playing = !playing;
+      playBtn.textContent = playing ? '⏸ Pausar' : '▶ Reproduzir';
+      if (playing) { lastTs = performance.now(); requestAnimationFrame(tick); }
+    };
+
+    function tick(now) {
+      if (!playing || !engine) return;
+      const dt = (now - lastTs) / 1000;
+      lastTs = now;
+      currentTime += dt;
+      if (currentTime >= engine.duration) {
+        currentTime = engine.duration;
+        playing = false;
+        playBtn.textContent = '▶ Reproduzir';
+      }
+      updateUI(currentTime);
+      if (playing) requestAnimationFrame(tick);
+    }
+
+    window.MM12PlanoSequencia.mount(canvas).then(e => {
+      engine = e;
+      updateUI(0);
+    });
+  </script>
+</body>
+</html>
