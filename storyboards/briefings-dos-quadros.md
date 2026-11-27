@@ -68,13 +68,118 @@ Os prompts abaixo já repetem a instrução de imagem limpa; ao levá-los à fer
 
 ## MM-07 · Nasceu em Belém
 
-**Cena:** 3. **Responsável:** Eduardo (Dudu). **Ficha-resumo:** [MM-07/README.md](MM-07/README.md).
+**Cena:** 3. **Responsável:** Isaac. **Ficha-resumo:** [MM-07/README.md](MM-07/README.md).
 
 **Função, gatilho e costuras:** Playback de Nasceu em Belém (Marcus Salles). Entra depois da fala da Ladra: “...desse jeito aí faz bem mais sentido mesmo”. Recebe o estado do bebê do MM-06 (Isaac); a costura do mesmo frame é proposta D-01. Não há destinatário de outra peça indicado na ficha; na Cena 4 retorna a sala MM-03 (Victor).
 
-**Pontos de conferência:** Belém à distância → céu → caminho/cidade → luz/nascimento. Preservar os 10 quadros da prancha como estudos. O roteiro indica continuar com o bebê durante a música: a abertura panorâmica e o desenvolvimento de viagem/sem hospedagem precisam ser conferidos com Dudu/Isaac e com o MM-12 de Victor. Não interpretar a prancha como autorização para mudar essa continuidade.
+**Pontos de conferência históricos:** Belém à distância → céu → caminho/cidade → luz/nascimento era a progressão das montagens narrativas rejeitadas. Preservar os 10 quadros da prancha como acervo, sem retomá-los por iniciativa do agente. A direção de conteúdo vigente usa céu estrelado com duas intensidades durante toda a música; o estilo em gravura é proposta do Isaac, não aprovação da direção.
 
-**Contrato visual proposto:** Mesma Belém de pedra clara e formas simples, mesmo horizonte e mesma estrela. Maria, José e bebê devem ter referências de identidade e figurino compartilhadas com MM-06/MM-12; ainda não foram entregues individualmente. Azul-noturno nos exteriores, âmbar discreto nos interiores e luz suave no nascimento.
+**Contrato visual histórico das montagens rejeitadas:** mesma Belém de pedra clara e formas simples, mesmo horizonte e mesma estrela; Maria, José e bebê compartilhariam referências com MM-06/MM-12. Esse contrato explica os Q01–Q10 preservados abaixo, mas não rege a entrega atual em camadas, que não contém personagens nem cenas da letra.
+
+### Camadas em gravura v01 · proposta do Isaac · 27/11/2026
+
+**Situação e escopo:** proposta visual sem aprovação da direção. A produção escolheu um céu estrelado como base de toda a música, com duas intensidades. As montagens narrativas anteriores foram rejeitadas e permanecem somente no histórico: não retomar casal caminhando, portas, hospedaria, manjedoura ou cenas da letra. A paisagem vazia da Judeia do século I funciona como profundidade atmosférica; não há personagens no telão.
+
+**Diretrizes/fontes e IDs consultados:** guia de construção; seção MM-07 deste caderno; ficha MM-07; ficha e roteiro de montagem da Cena 3, p. 4; roteiro; briefing; Bíblia de Produção v0.1; alinhamento das fontes; decisões; mapa de cenas; página de Isaac; guia de entrega e guia de timecodes. Referência de acabamento examinada: ensaio local em gravura derivado da prova de linguagem da MM-05, somente para traço, papel e paleta.
+
+**Contrato compartilhado:** gravura em metal colorida, com linhas finas de buril, hachuras cruzadas, grão de papel e retícula leve. Sombras e linhas em azul-noturno profundo, sem preto puro; áreas claras em creme envelhecido; luz dourada quente; vermelho terroso apenas como acento raro. Cores chapadas, levemente desbotadas, sem fotografia, 3D ou pintura digital lisa. Mesma câmera, horizonte e luz em todas as camadas; estrela no terço superior, levemente à direita. Sem texto, assinatura ou moldura. Cada arquivo abaixo é uma base limpa para parallax/puppet, não um quadro narrativo novo nem uma aprovação.
+
+#### MM-07-CAM-REF · `REF_composto.png`
+
+- **Situação e origem:** proposta do Isaac; composição piloto 16:9 a gerar a partir do contrato compartilhado e das fontes da Cena 3.
+- **Função:** travar estilo, perspectiva, horizonte, posição da estrela e relações entre céu, Belém, colinas e primeiro plano antes das extrações.
+- **Continuidade:** recebe o bebê da MM-06 por transição ainda a definir e entrega o retorno à casa MM-03; serve como única referência geométrica das dez camadas v01.
+- **Prompt proposto:** paisagem noturna vazia da Judeia do século I em gravura colorida, Belém distante, colinas secas, oliveiras, pedras e galho de oliveira; estrela no terço superior levemente à direita; composição 16:9 com profundidade de parallax e centro inferior livre; aplicar integralmente o contrato compartilhado.
+
+#### MM-07-CAM-L0 · `L0_ceu_noite.png`
+
+- **Situação e origem:** proposta; derivada de `REF_composto.png`.
+- **Função:** placa opaca do céu noturno, com estrelas pequenas em creme, sem estrela de Belém e sem terra.
+- **Continuidade:** conserva distribuição estelar, azul-noturno e direção de luz do composto; recebe L1 e as camadas terrestres sem criar horizonte próprio.
+- **Prompt proposto:** extrair/reconstruir apenas o céu noturno do composto em faixa panorâmica, sem estrela principal, nuvens, terra, cidade ou vegetação; manter gravura, papel e paleta.
+
+#### MM-07-CAM-L0B · `L0b_ceu_dourado.png`
+
+- **Situação e origem:** proposta; versão de clímax derivada de L0 e do mesmo composto.
+- **Função:** segunda intensidade opaca do mesmo céu, banhada por luz dourada vinda da posição da estrela.
+- **Continuidade:** mesma composição e estrelas de L0; apenas a intensidade e o banho dourado mudam, sem deslocamento de elementos.
+- **Prompt proposto:** alterar somente a luz e a cor do céu L0 para um clímax dourado contido, preservando integralmente estrelas, hachuras e composição.
+
+#### MM-07-CAM-L1 · `L1_nuvens.png`
+
+- **Situação e origem:** proposta; derivada do composto.
+- **Função:** faixas finas de nuvem/névoa em hachura para deriva ambiental.
+- **Continuidade:** conserva escala, altura e direção de luz do composto; céu e terra ficam transparentes.
+- **Prompt proposto:** isolar somente faixas finas de nuvem e névoa do composto, em hachura azul/creme, sobre transparência real, sem estrelas, terra ou cidade.
+
+#### MM-07-CAM-L2 · `L2_belem.png`
+
+- **Situação e origem:** proposta; derivada do composto.
+- **Função:** Belém distante e suas colinas de apoio, com casas de pedra de teto plano; céu vazio/transparente.
+- **Continuidade:** preserva horizonte, escala, arquitetura e perspectiva do composto; recebe as luzes separadas de L2b.
+- **Prompt proposto:** isolar Belém distante sobre as colinas do composto, sem céu, estrelas, nuvens, luzes de janela, primeiro plano ou vegetação próxima; transparência acima do horizonte.
+
+#### MM-07-CAM-L2B · `L2b_belem_luzes.png`
+
+- **Situação e origem:** proposta; derivada de L2 e do composto.
+- **Função:** somente janelas e lamparinas acesas para pulsação de intensidade.
+- **Continuidade:** pontos luminosos nas mesmas posições das aberturas de L2; todo o restante transparente.
+- **Prompt proposto:** manter exclusivamente os pequenos pontos dourados de janelas e lamparinas correspondentes a L2, sem arquitetura, halo excessivo, céu ou terreno.
+
+#### MM-07-CAM-L3 · `L3_colinas.png`
+
+- **Situação e origem:** proposta; derivada do composto.
+- **Função:** colinas médias com oliveiras, mais escuras que Belém, para o plano intermediário.
+- **Continuidade:** acompanha o mesmo horizonte e a mesma direção de luz; não cobre a silhueta principal de L2 nem o centro livre do primeiro plano.
+- **Prompt proposto:** isolar as colinas médias e oliveiras do composto, em gravura azul-noturno, sem céu, cidade, luzes ou pedras próximas; transparência acima.
+
+#### MM-07-CAM-L4 · `L4_frente_pedras.png`
+
+- **Situação e origem:** proposta; derivada do composto.
+- **Função:** terra e pedras nos cantos inferiores, mantendo o centro livre para leitura do palco e do parallax.
+- **Continuidade:** preserva perspectiva, escala e recorte inferior do composto; não contém galhos ou capim animável.
+- **Prompt proposto:** isolar somente pedras e terra dos cantos inferiores do composto, com centro livre e transparência no restante.
+
+#### MM-07-CAM-L4B · `L4b_frente_galhos.png`
+
+- **Situação e origem:** proposta; derivada do composto.
+- **Função:** galho de oliveira no canto superior esquerdo e capim alto na base, separados para puppet.
+- **Continuidade:** mantém pontos de entrada e escala do composto; sem pedras, colinas, cidade ou céu.
+- **Prompt proposto:** isolar apenas o galho de oliveira superior esquerdo e os tufos de capim alto da base, com bordas limpas e transparência real.
+
+#### MM-07-CAM-L5 · `L5_estrela_nucleo.png`
+
+- **Situação e origem:** proposta; derivada da estrela do composto.
+- **Função:** núcleo creme/dourado da estrela de Belém, separado para pulsação.
+- **Continuidade:** centro da estrela coincide com L5b; a posição de montagem é a do terço superior levemente à direita no composto.
+- **Prompt proposto:** isolar somente o núcleo compacto creme e dourado da estrela, sem raios longos, céu ou texto, centralizado em tela quadrada transparente.
+
+#### MM-07-CAM-L5B · `L5b_estrela_raios.png`
+
+- **Situação e origem:** proposta; derivada da estrela do composto.
+- **Função:** raios longos dourados em hachura, separados para rotação/respiração de luz.
+- **Continuidade:** mesmo centro e mesma direção de L5; sem núcleo preenchido e sem céu.
+- **Prompt proposto:** isolar somente os raios longos da estrela, em hachura dourada, centralizados em tela quadrada transparente; sem núcleo, halo opaco ou fundo.
+
+**Registro da geração v01 · 27/11/2026:** ImageGen integrado, com `REF_composto.png` como referência geométrica e o ensaio local em gravura como referência somente de acabamento no composto. Prompts efetivamente enviados e pós-processamento estão documentados na [ficha MM-07](MM-07/README.md#prompts-efetivamente-enviados).
+
+| ID | Arquivo/localização | Versão e tamanho | Alpha | Feedback e continuidade |
+| --- | --- | --- | --- | --- |
+| MM-07-CAM-REF | [REF_composto.png](MM-07/camadas-gravura-v01/REF_composto.png) | v01 · 3840×2160 | Opaco | Travou estilo, horizonte, estrela e relação dos planos; proposta sem aprovação. |
+| MM-07-CAM-L0 | [L0_ceu_noite.png](MM-07/camadas-gravura-v01/L0_ceu_noite.png) | v01 · 3840×1620 | Opaco | Céu limpo da estrela principal e da terra; encaixa com L1. |
+| MM-07-CAM-L0B | [L0b_ceu_dourado.png](MM-07/camadas-gravura-v01/L0b_ceu_dourado.png) | v01 · 3840×1620 | Opaco | Mesma placa em banho dourado; intensidade depende do master/ensaio. |
+| MM-07-CAM-L1 | [L1_nuvens.png](MM-07/camadas-gravura-v01/L1_nuvens.png) | v01 · 3840×1620 | RGBA real | Faixas finas separadas; movimento deve permanecer lento. |
+| MM-07-CAM-L2 | [L2_belem.png](MM-07/camadas-gravura-v01/L2_belem.png) | v01 · 3840×1080 | RGBA real | Cidade separada das luzes; revisar borda fina contra L3 no primeiro parallax. |
+| MM-07-CAM-L2B | [L2b_belem_luzes.png](MM-07/camadas-gravura-v01/L2b_belem_luzes.png) | v01 · 3840×1080 | RGBA real | Limpeza de alpha reteve somente pontos luminosos; intensidade a ensaiar. |
+| MM-07-CAM-L3 | [L3_colinas.png](MM-07/camadas-gravura-v01/L3_colinas.png) | v01 · 3840×1080 | RGBA acima do relevo | T1 deixou lacuna inferior; T2 estendeu a terra até a base e é a versão entregue. |
+| MM-07-CAM-L4 | [L4_frente_pedras.png](MM-07/camadas-gravura-v01/L4_frente_pedras.png) | v01 · 3840×1080 | RGBA real | Cantos inferiores separados, centro livre. |
+| MM-07-CAM-L4B | [L4b_frente_galhos.png](MM-07/camadas-gravura-v01/L4b_frente_galhos.png) | v01 · 3840×1080 | RGBA real | Galho e capins isolados para puppet; conferir escala do galho no telão. |
+| MM-07-CAM-L5 | [L5_estrela_nucleo.png](MM-07/camadas-gravura-v01/L5_estrela_nucleo.png) | v01 · 1024×1024 | RGBA real | Núcleo centralizado; compartilhar a mesma coordenada com L5b. |
+| MM-07-CAM-L5B | [L5b_estrela_raios.png](MM-07/camadas-gravura-v01/L5b_estrela_raios.png) | v01 · 2048×2048 | RGBA real | Núcleo/halo residual removidos no pós-processamento; raios centralizados. |
+
+**Referências reais:** `REF_composto.png` gerado nesta rodada; ensaio local MM-09-Q01 em gravura como referência de acabamento; roteiro de montagem p. 4 e documentos listados acima. Não foi recebido o frame final do bebê MM-06 nem o master P-02. **Aprovação:** pendente.
+
+**Tempo e aprovação:** duração, intensidade e sincronismo a definir com o master P-02 e em ensaio. Nenhuma camada v01 está aprovada antes da revisão de Isaac/direção e do teste no LED.
 
 ### MM-07-Q01 · Abertura
 

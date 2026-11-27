@@ -29,18 +29,20 @@ Da última imagem do bebê ao céu estrelado de *Nasceu em Belém*, com moviment
 - A ordem abaixo é a ordem de estudo da prancha, não uma sincronização aprovada. Todos os tempos ficam **a definir com o master**.
 - A direção vigente da Cena 3 pede testar primeiro a passagem do bebê para o céu estrelado; a produção decide se o céu sustenta a canção ou se outros estados entram depois.
 - As prévias de parallax Q01 V01/V02 foram rejeitadas por manterem a imagem estática e por efeitos que distorciam a arte. O arquivo HTML é preservado apenas como histórico, não como take atual.
-- A primeira entrega atual é um take piloto da viagem Q03, com câmera quase fixa e avanço perceptível da comitiva. Viagem, cidade e abrigo também aparecem no MM-12 de Eduardo; não duplicar a atuação física nem antecipar MM-13.
+- O antigo take piloto da viagem Q03 pertence às montagens narrativas rejeitadas e não é entrega atual. A entrega atual é o céu estrelado em camadas de gravura v01, ainda como proposta visual do Isaac.
 - Não incluir texto/lyrics automaticamente; frases ou impactos dependem da direção e da audição do master.
 
-## Piloto atual · MM07-Q03 · viagem
+## Histórico rejeitado · MM07-Q03 · viagem
 
 - **Primeiro quadro:** [MM07-Q03.JPG](MM07-Q03.JPG), preservado sem alteração.
 - **Ação:** Maria sobre o jumento e José avançam alguns passos pelo caminho rumo a Belém, mantendo direção, proporções, figurino, horizonte, arquitetura, luz e paleta.
 - **Câmera e efeitos:** quase fixa; sem zoom para simular deslocamento, ondulação, esticamento, cintilação ou transformação entre artes. Apenas tecido e outros movimentos secundários discretos podem acompanhar a caminhada.
 - **Saída:** take curto em 16:9, com resolução e cadência reais registradas no arquivo; revisão integral em movimento antes da apresentação.
-- **Estado:** plano e prompt prontos, mas nenhum gerador de vídeo autorizado/conectado está disponível nesta sessão. A faixa musical permanece separada; não há render nem aprovação.
+- **Estado:** piloto encerrado pela decisão posterior de sustentar a música com céu estrelado. Plano e prompt ficam apenas no histórico; não retomar a viagem, gerar render ou tratá-la como direção atual.
 
-## Quadros
+## Quadros · acervo narrativo rejeitado
+
+Os dez quadros abaixo permanecem preservados como acervo histórico, mas não formam a montagem vigente e não devem ser retomados por iniciativa do agente. A direção de conteúdo atual usa o céu estrelado com duas intensidades durante toda a música.
 
 | ID | Base disponível | O que se vê | Movimento / transição | Controle |
 | --- | --- | --- | --- | --- |
@@ -65,6 +67,206 @@ Da última imagem do bebê ao céu estrelado de *Nasceu em Belém*, com moviment
 - **Paleta proposta:** azul-noturno/azul profundo para exteriores; sombra azul e terra/pedra para profundidade; âmbar de lamparina nos pontos quentes; dourado e branco suave reservados ao nascimento; evitar branco estourado e cores modernas dominantes.
 - **Atmosfera:** início contemplativo e frio; aproximação com calor humano; interior âmbar; crescimento de luz no nascimento; recuperação para esperança exterior.
 - **Continuidade necessária:** mesmo horizonte/cidade/estrela entre Q01, Q02, Q09 e Q10; casal, roupas, jumento, manjedoura e bebê consistentes entre Q03, Q05, Q06 e Q07/Q08. Os estudos atuais não comprovam essa continuidade.
+
+## Camadas em gravura v01 (proposta do Isaac)
+
+**Situação:** proposta visual do Isaac, sem aprovação da direção e sem teste no LED. A produção escolheu o **céu estrelado com duas intensidades** como base de toda a música. Esta série não reabre as duas montagens narrativas rejeitadas: não há casal caminhando, portas, hospedaria, manjedoura ou cenas da letra. O estilo de gravura é a proposta em revisão; o conteúdo de céu contínuo é a função vigente da MM-07.
+
+**Diretrizes consultadas:** guia de construção, caderno MM-07, esta ficha, Cena 3, roteiro de montagem p. 4, roteiro, briefing, Bíblia de Produção v0.1, alinhamento das fontes, decisões, mapa de cenas, ficha de Isaac, guia de entrega e guia de timecodes. Como referência de acabamento, foi examinado o ensaio local em gravura derivado da prova de linguagem da MM-05; ele orientou somente traço, papel e paleta.
+
+**Local:** [`camadas-gravura-v01/`](camadas-gravura-v01/). Os arquivos foram gerados pelo ImageGen integrado e normalizados para os tamanhos solicitados com reamostragem Lanczos. Nas camadas transparentes, o canal alpha real foi preservado; não foi usado fundo magenta. A L3 teve uma segunda geração para eliminar a lacuna inferior encontrada na primeira recomposição. L2b recebeu limpeza de alpha para manter apenas luzes; L5b recebeu remoção do núcleo e do halo fraco, deixando os raios longos.
+
+| ID | Arquivo | Tamanho real | Fundo / alpha | Função e conferência |
+| --- | --- | --- | --- | --- |
+| MM-07-CAM-REF | [REF_composto.png](camadas-gravura-v01/REF_composto.png) | 3840×2160 | Opaco, RGB | Referência 16:9 de estilo, perspectiva, horizonte e luz. |
+| MM-07-CAM-L0 | [L0_ceu_noite.png](camadas-gravura-v01/L0_ceu_noite.png) | 3840×1620 | Opaco, RGB | Céu noturno sem estrela principal e sem terra. |
+| MM-07-CAM-L0B | [L0b_ceu_dourado.png](camadas-gravura-v01/L0b_ceu_dourado.png) | 3840×1620 | Opaco, RGB | Mesmo céu em intensidade dourada de clímax. |
+| MM-07-CAM-L1 | [L1_nuvens.png](camadas-gravura-v01/L1_nuvens.png) | 3840×1620 | Transparente, RGBA | Faixas finas de nuvem/névoa; 11,043% do canvas com alpha útil. |
+| MM-07-CAM-L2 | [L2_belem.png](camadas-gravura-v01/L2_belem.png) | 3840×1080 | Transparente, RGBA | Belém distante sem luzes; 8,230% do canvas com alpha útil. |
+| MM-07-CAM-L2B | [L2b_belem_luzes.png](camadas-gravura-v01/L2b_belem_luzes.png) | 3840×1080 | Transparente, RGBA | Pontos de janelas/lamparinas; 0,905% do canvas com alpha útil. |
+| MM-07-CAM-L3 | [L3_colinas.png](camadas-gravura-v01/L3_colinas.png) | 3840×1080 | Transparente acima, RGBA | Colinas e terra contínua até a base; 94,447% do canvas com alpha útil. |
+| MM-07-CAM-L4 | [L4_frente_pedras.png](camadas-gravura-v01/L4_frente_pedras.png) | 3840×1080 | Transparente, RGBA | Pedras apenas nos cantos inferiores; 9,946% do canvas com alpha útil. |
+| MM-07-CAM-L4B | [L4b_frente_galhos.png](camadas-gravura-v01/L4b_frente_galhos.png) | 3840×1080 | Transparente, RGBA | Galho superior esquerdo e tufos de capim separados; 14,783% do canvas com alpha útil. |
+| MM-07-CAM-L5 | [L5_estrela_nucleo.png](camadas-gravura-v01/L5_estrela_nucleo.png) | 1024×1024 | Transparente, RGBA | Núcleo centralizado, creme/dourado; 4,041% do canvas com alpha útil. |
+| MM-07-CAM-L5B | [L5b_estrela_raios.png](camadas-gravura-v01/L5b_estrela_raios.png) | 2048×2048 | Transparente, RGBA | Raios longos centralizados, sem núcleo; 4,332% do canvas com alpha útil. |
+
+**Encaixe verificado:** uma recomposição de QA em canvas 3840×1080 confirmou continuidade espacial entre L0/L1, L2/L2b, L3 e L4/L4b. L5/L5b compartilham o centro de seus canvases quadrados; na montagem, o par deve ser posicionado na coordenada da estrela do `REF_composto.png`. A cidade e as colinas mantêm a mesma direção geral, mas, por terem sido derivações generativas e não máscaras pixel a pixel, o recorte fino deve ser revisto no primeiro movimento de parallax.
+
+### Prompts efetivamente enviados
+
+<details>
+<summary>REF_composto.png</summary>
+
+```text
+Use case: historical-scene
+Asset type: quadro de referência composto 16:9 para telão e separação posterior em camadas 2.5D
+Input image: referência exclusivamente de acabamento gráfico, densidade de hachuras, papel e paleta; não copiar pessoas, arquitetura, enquadramento ou objetos dela.
+Primary request: criar uma única paisagem noturna vazia da Judeia do século I, pronta para ser decomposta em parallax. Belém aparece distante sobre colinas secas, com casas baixas de pedra clara e tetos planos. Oliveiras esparsas nas colinas médias. Pedras e terra ocupam somente os cantos inferiores, deixando o centro inferior livre. Um galho de oliveira entra pelo canto superior esquerdo e poucos tufos de capim alto aparecem na base. No céu, pequenas estrelas creme e faixas finas de nuvem/névoa. A estrela de Belém é o foco único, no terço superior levemente à direita, com núcleo creme/dourado e raios longos discretos.
+Style/medium: gravura em metal colorida à mão, no espírito das ilustrações bíblicas do século XIX de Gustave Doré; linhas finas de buril, hachuras cruzadas bem visíveis que seguem volume, contorno firme, textura de papel creme envelhecido e retícula leve. Cores chapadas, um pouco desbotadas.
+Composition/framing: plano geral panorâmico horizontal 16:9, horizonte baixo e contínuo, mesma perspectiva para futura extração de camadas; céu amplo; profundidade clara em cinco planos: céu, nuvens, Belém distante, colinas médias, primeiro plano. Centro inferior visualmente livre. Margens suficientes para parallax.
+Lighting/mood: noite reverente e contemplativa; luz vem da estrela no terço superior direito e toca suavemente a cidade e as cristas das colinas; pequenos pontos dourados de janelas e lamparinas.
+Color palette: linhas e sombras em azul-noturno profundo #142B49 e #101B29, nunca preto puro; áreas claras em papel creme envelhecido #E8DFCF; luz dourada quente #D3A15B; vermelho terroso somente em acentos raríssimos e quase imperceptíveis.
+Constraints: sem pessoas ou animais; sem casal caminhando; sem portas fechadas, hospedaria, estábulo, manjedoura ou cenas da letra; paisagem historicamente plausível, sem elementos modernos e sem fantasia medieval; sem lua; sem texto, letras, números, assinatura, moldura, borda, logotipo ou marca-d'água.
+Avoid: aparência fotográfica, 3D, pintura digital lisa, céu preto puro, flare moderno, excesso de brilho, cidade monumental, castelo, torres góticas, composição lotada.
+```
+</details>
+
+<details>
+<summary>L0_ceu_noite.png</summary>
+
+```text
+Use case: background-extraction
+Asset type: L0_ceu_noite.png, placa panorâmica opaca para parallax 2.5D
+Input image: a imagem fornecida é a única referência geométrica e estilística.
+Primary request: reconstrua apenas o céu noturno da imagem de referência como uma faixa panorâmica horizontal muito larga, proporção exata 64:27. Preserve o azul-noturno, as hachuras de gravura em metal, textura de papel e a distribuição das pequenas estrelas creme. Remova completamente a estrela de Belém e seus raios, todas as nuvens, toda a terra, cidade, colinas, árvores, galhos, pedras e capim. Preencha de forma natural as áreas removidas com o mesmo céu e estrelas pequenas, sem emendas.
+Composition/framing: céu contínuo de ponta a ponta, sem horizonte; apropriado para 3840×1620.
+Constraints: fundo opaco; sem estrela principal; sem luz dourada concentrada; sem texto, borda, assinatura ou marca-d'água; sem preto puro.
+Avoid: fotografia, 3D, pintura digital lisa, manchas vazias ou transparência.
+```
+</details>
+
+<details>
+<summary>L0b_ceu_dourado.png</summary>
+
+```text
+Use case: lighting-weather
+Asset type: L0b_ceu_dourado.png, segunda intensidade opaca do céu para o clímax
+Input images: Image 1 is the exact sky plate to preserve; Image 2 only identifies the original star position and the color language.
+Primary request: change only the illumination and color atmosphere of Image 1. Preserve every small star, every engraving stroke, the exact panoramic 64:27 composition and all geometry. Add a restrained warm golden wash that originates from the original star position in Image 2, in the upper third slightly right of center, and spreads softly across the same sky. Do not add the Bethlehem star, its rays, clouds, land or any new object.
+Style/medium: same hand-colored metal engraving, aged cream paper and cross-hatching.
+Color palette: retain deep night blue #142B49/#101B29 with a stronger warm gold #D3A15B and cream #E8DFCF; never pure black.
+Constraints: opaque background; change lighting/color only; exact same star field and composition; no text, border, signature, watermark, flare or white blowout.
+```
+</details>
+
+<details>
+<summary>L1_nuvens.png</summary>
+
+```text
+Use case: background-extraction
+Asset type: L1_nuvens.png, camada atmosférica transparente para parallax
+Input image: a imagem fornecida é a única referência geométrica e estilística.
+Primary request: isole somente as faixas finas de nuvem e névoa visíveis no céu da referência, preservando exatamente sua altura relativa, direção, escala e desenho geral. As nuvens devem manter o acabamento de gravura em metal, linhas finas e hachuras azul/creme.
+Composition/framing: tela horizontal 16:9 completa; nuvens em suas posições originais, sem recortar ou aproximar.
+Constraints: transparência real em todo o restante da tela; sem céu azul, estrelas, estrela de Belém, cidade, terra, colinas, árvores, galhos, pedras ou capim; sem texto, borda, assinatura ou marca-d'água.
+Avoid: fundo quadriculado desenhado, halo retangular, nuvens fotográficas ou massa opaca.
+```
+</details>
+
+<details>
+<summary>L2_belem.png</summary>
+
+```text
+Use case: background-extraction
+Asset type: L2_belem.png, camada distante transparente para parallax
+Input image: a imagem fornecida é a única referência geométrica e estilística.
+Primary request: isole a silhueta distante de Belém e a estreita colina de apoio imediatamente sob as casas, preservando exatamente a posição, escala, perspectiva, arquitetura baixa de pedra e horizonte da referência. Remova as luzes douradas das janelas e lamparinas para que sejam adicionadas em camada separada. Mantenha gravura em metal colorida, hachuras e papel.
+Composition/framing: tela horizontal 16:9 completa, cidade no mesmo lugar e tamanho da referência; não centralizar nem ampliar.
+Constraints: transparência real acima do horizonte e em todas as áreas que não pertencem à cidade/colina de apoio; sem céu, estrelas, nuvens, estrela principal, colinas médias, oliveiras próximas, primeiro plano, galhos, pedras ou capim; sem texto ou marca-d'água.
+Avoid: cidade nova, castelo medieval, torres góticas, fundo preenchido ou recorte apertado.
+```
+</details>
+
+<details>
+<summary>L2b_belem_luzes.png</summary>
+
+```text
+Use case: background-extraction
+Asset type: L2b_belem_luzes.png, transparent practical-light plate
+Input images: Image 1 is the exact extracted Bethlehem layer and establishes the positions of openings; Image 2 shows the original warm lights and color.
+Primary request: create only the tiny warm golden window and oil-lamp lights that correspond exactly to openings in the extracted Bethlehem of Image 1. Preserve the same full 16:9 canvas and the same distant city position. Each light is a small engraved cream/gold point with a very restrained halo. Everything except those light points must be transparent.
+Constraints: no architecture, hills, sky, stars, clouds, main star, trees, ground, text, border, signature or watermark; do not add lights outside the city; no repositioning or enlargement.
+Avoid: electric streetlights, large glowing windows, bokeh, neon, black matte or checkerboard drawn into the image.
+```
+</details>
+
+<details>
+<summary>L3_colinas.png · T1 e correção T2</summary>
+
+```text
+Use case: background-extraction
+Asset type: L3_colinas.png, camada intermediária transparente para parallax
+Input image: a imagem fornecida é a única referência geométrica e estilística.
+Primary request: isole somente as colinas médias e suas oliveiras esparsas da referência, preservando o mesmo horizonte, escala, ondulação do relevo, direção de luz e acabamento em gravura azul-noturno. As colinas devem ser mais escuras que Belém. Não inclua a cidade nem a faixa de primeiro plano.
+Composition/framing: tela horizontal 16:9 completa; relevo em sua posição original, sem centralizar ou aproximar.
+Constraints: transparência real acima das cristas e no restante não pertencente às colinas; sem céu, estrelas, nuvens, estrela principal, Belém, janelas, pedras dos cantos, terra frontal, galho superior ou capim; sem texto ou marca-d'água.
+Avoid: fundo quadriculado desenhado, silhueta preta sólida, paisagem diferente ou recorte apertado.
+```
+
+T1 deixou uma faixa transparente abaixo das colinas. O arquivo entregue usa a correção T2:
+
+```text
+Use case: precise-object-edit
+Asset type: correção de L3_colinas.png, camada intermediária transparente para parallax
+Input images: Image 1 is the current L3 extraction and its upper silhouette, trees, scale and lighting must be preserved. Image 2 is the full composite and is used only to reconstruct the matching ground texture below the current cut edge.
+Primary request: change only the lower edge of Image 1. Extend the same engraved rolling earth and middle hills continuously downward until the bottom edge of the full canvas, so there is no transparent gap below the hills. Preserve exactly the upper ridge line, olive trees, horizontal placement, perspective, night-blue cross-hatching and warm grazing light of Image 1. The new lower extension must be a quiet continuous dirt/hill surface with no rocks in the corners and no tall grass, because those belong to separate foreground layers.
+Composition/framing: full panoramic landscape canvas; hills occupy the lower portion and connect solidly to the bottom edge; everything above the ridge line remains genuinely transparent.
+Constraints: keep the upper silhouette and all existing trees unchanged; transparent only above the hills; no sky, stars, clouds, main star, Bethlehem, buildings, window lights, foreground rocks, upper olive branch, tall grass, people, text, border, signature or watermark.
+Avoid: floating island, transparent strip at bottom, black matte, checkerboard drawn into the image, new trees, new horizon, recentering or zoom.
+```
+</details>
+
+<details>
+<summary>L4_frente_pedras.png</summary>
+
+```text
+Use case: background-extraction
+Asset type: L4_frente_pedras.png, transparent foreground plate
+Input image: the supplied composite is the only geometric and stylistic reference.
+Primary request: isolate only the foreground earth and rock clusters that enter from the lower left and lower right corners of the composite. Preserve their exact perspective, scale, placement, engraving hatching and warm edge light. Keep the broad lower center completely free. Exclude all tall grass so it can be animated separately.
+Composition/framing: full 16:9 canvas, objects remain at the original edges; do not center, enlarge or crop them.
+Constraints: genuine transparency everywhere else; no sky, stars, star, clouds, Bethlehem, hills, olive trees, upper branch or grass; no text or watermark.
+Avoid: painted checkerboard, black matte, filled ground strip, tight crop or new rocks.
+```
+</details>
+
+<details>
+<summary>L4b_frente_galhos.png</summary>
+
+```text
+Use case: background-extraction
+Asset type: L4b_frente_galhos.png, transparent puppet foliage plate
+Input image: the supplied composite is the only geometric and stylistic reference.
+Primary request: isolate only the olive branch entering from the upper left corner and the separate tall grass tufts at the lower left and lower right base. Preserve their exact scale, entry points, direction, engraved outlines and golden edge light. Keep all pieces separated from one another on the full canvas for puppet animation.
+Composition/framing: full 16:9 canvas; branch remains anchored off-canvas at upper left; grass remains anchored along the bottom edges.
+Constraints: genuine transparency everywhere else; no sky, stars, clouds, star, city, hills, trees, earth or rocks; no text or watermark.
+Avoid: checkerboard drawn into the image, rectangular halos, added leaves, new grass or a filled bottom strip.
+```
+</details>
+
+<details>
+<summary>L5_estrela_nucleo.png</summary>
+
+```text
+Use case: background-extraction
+Asset type: L5_estrela_nucleo.png, transparent square light element
+Input image: the supplied composite is the only reference for the Bethlehem star design.
+Primary request: isolate only the compact luminous cream-and-gold core of the Bethlehem star. Remove every long ray and remove the sky completely. Preserve the engraved hand-colored character, soft compact halo and warm center without white clipping.
+Composition/framing: square 1:1 canvas; star core centered exactly in the canvas; generous transparent padding on all sides.
+Constraints: genuine transparent background; no long rays, no sky texture, no small stars, no clouds, no land, no text, border, signature or watermark.
+Avoid: modern lens flare, round sun, cross symbol, hard rectangular glow or black background.
+```
+</details>
+
+<details>
+<summary>L5b_estrela_raios.png</summary>
+
+```text
+Use case: background-extraction
+Asset type: L5b_estrela_raios.png, transparent square ray element
+Input image: the supplied composite is the only reference for the Bethlehem star design.
+Primary request: isolate only the long golden rays of the Bethlehem star, including the main vertical and horizontal engraved rays and the delicate secondary ray hatching. Remove the bright core and remove the sky completely. Keep the center empty/transparent so the separate core layer can sit over it.
+Composition/framing: square 1:1 canvas; ray intersection centered exactly in the canvas; generous transparent padding; full rays visible and not cropped.
+Constraints: genuine transparent background; no luminous core, no sky, no small stars, no clouds, no land, no text, border, signature or watermark.
+Avoid: modern lens flare, solid cross, thick neon beams, black background or painted checkerboard.
+```
+</details>
+
+### Avaliação desta v01
+
+- **Saiu bem:** linguagem de gravura coesa; paleta azul-noturno/creme/dourado; ausência de pessoas e cenas da letra; centro livre; dois céus; transparência real; cidade, luzes, nuvens, pedras, foliage e estrela em elementos separados; recomposição sem lacuna após a correção da L3.
+- **Precisa de revisão no primeiro teste de animação:** conferir o recorte fino entre L2 e L3 durante deslocamentos maiores; reduzir o tamanho do galho L4b se ele competir com a estrela; decidir em ensaio a intensidade de L0b e L2b.
+- **Camada que não encaixou na primeira tentativa:** L3 terminava antes da base e foi refeita. A versão entregue encaixa; nenhuma das demais exige reposicionamento para a recomposição 3840×1080 usada no QA. L5/L5b exigem apenas a mesma coordenada de montagem, pois os dois arquivos têm canvas quadrado de tamanhos diferentes e centro comum.
 
 ## Histórico · MM07-Q01 · parallax V01/V02 rejeitadas
 
