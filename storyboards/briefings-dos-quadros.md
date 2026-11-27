@@ -1,6 +1,6 @@
 # Briefings dos quadros · HESED
 
-**MM-06-Q04 · quadro do nascimento.** O estudo parte do interior da MM12-Q06 com a mureta contínua atrás do abrigo. A V06 traz seis planos e duas provas estáticas. O bebê e a manjedoura têm recorte em arquivo separado, com composição e passagem à MM-07 em aberto. A retomada da Cena 8 depende do quadro confirmado por Isaac. [Guia de retomada](MM-06/retomada-2026-11-27.md) · [Registro técnico do estudo V06](MM-06/registro-interior-MM12-Q06-v06.md)
+**MM-06-Q04 · quadro do nascimento · composição v01 (27/11/2026).** Bebê e manjedoura da V12 em primeiro plano sob a lanterna, sobre os seis planos do interior MM12-Q06 V06. Mureta atrás da estrebaria, porteira solidária ao batente e feno junto à janela. Montagem com os PNGs existentes de 1672 × 941. O neutro e o parallax foram conferidos. Isaac avalia a sustentação durante o diálogo e a passagem para a estrela da MM-07. Victor retoma o quadro confirmado na Cena 8, com texto em camada própria para a fala coletiva. [Composição e provas](MM-06/q04-composicao-v01/README.md) · [Fontes](MM-06/retomada-2026-11-27.md)
 
 Para montar e ensaiar, siga o [Roteiro de montagem do telão](../guias/cena-a-cena/pdf/HESED-roteiro-de-montagem.pdf). Leia cada deixa na ordem do palco: fala ou ação, entrada da música, imagem a sustentar e sinal de saída.
 

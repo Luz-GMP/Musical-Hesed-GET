@@ -6,7 +6,7 @@ Para registrar o andamento, use a **cena e a deixa** do [Roteiro de montagem do 
 
 **Responsáveis atuais.** Victor fecha as Cenas 1, 2 e 6 a 9, dando continuidade ao trabalho de Eduardo. Isaac fecha as Cenas 3 a 5.
 
-**Distribuição atualizada:** 19/11/2026. **Última conciliação das versões abaixo:** 16/11/2026 · por Codex, a pedido de Victor (conciliação local/remota de MM-01/MM-02 e feedback de produção; sem novo aceite técnico). **Atualização de andamento:** 21/11/2026 · Codex (Q01–Q03 e insert v16 em animações 2.5D individuais silenciosas; marcadores por arquivo; tempos musicais pendentes de P-02; sem montagem completa da Cena 7 nesta entrega). **MM-12:** 27/11/2026 · Codex (continuidade v05, mídia e montagem de revisão). **MM-06 e retomada na Cena 8** · 27/11/2026 · Codex (camadas do interior e recorte do bebê preparados para composição).
+**Distribuição atualizada:** 19/11/2026. **Última conciliação das versões abaixo:** 16/11/2026 · por Codex, a pedido de Victor (conciliação local/remota de MM-01/MM-02 e feedback de produção; sem novo aceite técnico). **Atualização de andamento:** 21/11/2026 · Codex (Q01–Q03 e insert v16 em animações 2.5D individuais silenciosas; marcadores por arquivo; tempos musicais pendentes de P-02; sem montagem completa da Cena 7 nesta entrega). **MM-12:** 27/11/2026 · Codex (continuidade v05, mídia e montagem de revisão). **MM-06-Q04:** 27/11/2026 · Codex (composição v01 em avaliação por Isaac).
 
 Cada pessoa atualiza **a própria linha** quando muda de etapa. Na dúvida sobre as etapas, veja [guias/fluxo-de-trabalho.md](guias/fluxo-de-trabalho.md).
 
@@ -21,7 +21,7 @@ Cada pessoa atualiza **a própria linha** quando muda de etapa. Na dúvida sobre
 | MM-03 | Sala da casa | 2–8, nos retornos indicados | Victor | 🎨 | V03 e variações preservadas; estado cozinha direita/preto esquerda definido | [Preparar/revisar enquadramento e cues recebidos](docs/plano-ajustes-2026-11-16.md) sem regerar a casa aprovada | Enquadramento/ensaio; P-09/P-15 |
 | MM-04 | Criação perfeita (loop) | 3 | Isaac | 🎨 | storyboard v01 | Revisar [prancha](<storyboards/MM-04/STB MM04.jpg>), escolher base piloto e conferir a continuidade com MM-05 | - |
 | MM-05 | Queda (silhuetas de luz) | 3 | Isaac | 🎨 | **V03 oficial · 6 quadros (D-24)** | Usar [V03 aprovada](<storyboards/MM-05/STB MM05.jpg>); alinhar bases MM-04/MM-06, produzir alpha e testar no LED | Base/paleta final MM-04 |
-| MM-06 | Retorno temporal → bebê | 3 | Isaac | 🎨 | Estudo Q04 com interior em seis planos e recorte do bebê | [Retomar a composição e o loop](storyboards/MM-06/retomada-2026-11-27.md), validar a passagem à MM-07 e enviar a referência a Victor para a Cena 8 | Revisão artística, deixa e teste no LED |
+| MM-06 | Retorno temporal → bebê | 3 | Isaac | 🎨 | [Q04 composição v01](storyboards/MM-06/q04-composicao-v01/README.md), com parallax conferido | Isaac avalia o quadro e a passagem à MM-07. Victor usa o quadro confirmado na Cena 8, com texto em camada própria na fala coletiva. | Revisão artística, deixa e teste no LED |
 | MM-07 | Nasceu em Belém (playback) | 3 | Isaac | ⬜ | - | Mapear a faixa | MM-06 (frame final) |
 | MM-08 | Maravilhosa Graça / Goel (arquivo) | 4 | Isaac | ⬜ | - | Localizar material bruto de Goel | P-03 |
 | MM-09 | Profetas (loop) | 5 | Isaac | 🎨 | novo estudo v03 | Revisar [nova proposta](<storyboards/MM-09/STB MM09.jpg>): anúncio, espera e crença/dúvida; versões antigas excluídas (D-27) | - |

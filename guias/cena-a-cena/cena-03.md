@@ -16,10 +16,10 @@ Mari conta de onde veio o pecado e por que Jesus veio ao mundo. A cena alterna a
 | Durante “Deus criou tudo perfeito” | Começa **Há Muito Tempo Atrás** no meio da fala. O volume sobe aos poucos. | O jardim íntegro acompanha a criação. Para a primeira montagem, experimente 2 a 4 vistas, 25–50 s por vista, com espaço para a dança. Os quadros do jardim estão em revisão. |
 | No verso “Então Deus falou: haja luz” | O verde-claro se espalha no palco e sai o foco isolado de Alana. | Sustente a criação durante a dança. Ao terminar a música, volte à cozinha e à luz da mesa antes da pergunta de Adultério. |
 | Adultério pergunta como tudo deu errado | Mari fala da escolha humana de viver longe de Deus. | Da cozinha, passe à MM-05 na fala combinada. Use a V03 aprovada com seis quadros, do jardim luminoso à queda. A mordida pertence a este momento. |
-| “Enviando alguém pra nos salvar” | A conversa segue até as perguntas sobre o bebê e sobre Belém. | MM-06. Volte no tempo da cruz aos milagres, à infância e ao bebê. Deixe o último quadro durar enquanto houver fala. |
+| “Enviando alguém pra nos salvar” | A conversa segue até as perguntas sobre o bebê e sobre Belém. | MM-06. Volte no tempo da cruz aos milagres, à infância e ao bebê. Sustente [Q04 v01](../../storyboards/MM-06/q04-composicao-v01/README.md) durante a fala, com enquadramento e movimento em avaliação por Isaac. |
 | Depois da conversa sobre Belém da Judeia | Entra **Nasceu em Belém**, de Marcus Salles. Luz de palco laranja e azul. | Do bebê, passe ao céu estrelado da MM-07. Teste um céu com duas intensidades de estrela, ciclo de 30–45 s para o recorte de cerca de 5 min. A produção escolhe a passagem e quanto tempo fica o céu. Depois, volte à casa. |
 
-**Antes de entregar.** Retome a regressão até o bebê que já tem em andamento. Mostre à direção o último bebê e a primeira estrela lado a lado. [Guia de retomada da MM-06-Q04](../../storyboards/MM-06/retomada-2026-11-27.md)
+**Antes de entregar.** Isaac avalia o quadro final e mostra à direção [o bebê e a primeira estrela candidata lado a lado](../../storyboards/MM-06/q04-composicao-v01/passagem-MM07.jpg). Definam a passagem e a sustentação durante a fala. Depois da confirmação, Victor recupera o mesmo quadro para a Cena 8.
 
 ## Como preparar e passar adiante
 

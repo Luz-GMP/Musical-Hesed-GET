@@ -1,0 +1,182 @@
+<!doctype html>
+<html lang="pt-BR">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>HESED · MM-06-Q04 v01</title>
+<style>
+  :root { color-scheme: dark; font: 16px/1.5 system-ui, sans-serif; background: #111214; color: #efe9df; }
+  body { margin: 0; padding: clamp(12px, 3vw, 36px); }
+  main { max-width: 1500px; margin-inline: auto; }
+  h1 { font-size: clamp(1.4rem, 3vw, 2.4rem); margin: 0 0 .25rem; line-height: 1.1; }
+  p { margin: .3rem 0 1rem; color: #cbc2b5; }
+  button { font: inherit; padding: .45rem .8rem; border: 1px solid #6b6253; border-radius: .32rem; background: #222124; color: inherit; cursor: pointer; }
+  button[aria-pressed="true"] { background: #ecd2a5; border-color: #ecd2a5; color: #211a12; }
+  button:focus-visible, input:focus-visible { outline: 2px solid #efd388; outline-offset: 3px; }
+  .controls { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin: 1rem 0; }
+  .slider { display: flex; gap: .6rem; align-items: center; }
+  .slider input { accent-color: #e2b575; }
+  .slider output { min-width: 4ch; font-variant-numeric: tabular-nums; }
+  figure { margin: 0; }
+  #viewport { position: relative; width: 100%; aspect-ratio: 1672 / 941; overflow: hidden; background: #141820; }
+  #frame { position: absolute; width: 1672px; height: 941px; transform: scale(var(--fit, 1)); transform-origin: 0 0; overflow: hidden; }
+  #world { position: absolute; inset: 0; transform: scale(1.0410958904); }
+  .plane { position: absolute; inset: 0; transform: translateX(var(--dx, 0px)); }
+  .plane img { position: absolute; inset: 0; width: 1672px; height: 941px; }
+  #interior { mask: url(#mascara-soleira); }
+  #contato { position: absolute; left: 360px; top: 858px; width: 510px; height: 120px; transform: rotate(-3deg); background: radial-gradient(ellipse, #201206b0 0%, #20120659 32%, #20120600 72%); }
+  #manjedoura img { transform-origin: 0 0; transform: translate(8px, 180px) scale(.82); filter: saturate(.94) sepia(.06) brightness(.96); }
+  #fala-coletiva { position: absolute; inset: 0; pointer-events: none; }
+  #fala-coletiva::before { content: ""; position: absolute; inset: 0; background: radial-gradient(ellipse 49% 36% at 79% 42%, #07101bd9 0%, #07101b94 48%, #07101b00 100%); }
+  #fala-coletiva p { position: absolute; top: 327px; right: 82px; width: 650px; margin: 0; color: #f5dbc0; text-align: center; font: 900 70px/1 "Arial Black", system-ui, sans-serif; letter-spacing: .015em; text-shadow: 0 3px 22px #040609; }
+  #fala-coletiva span { display: block; margin-top: 14px; font-size: 49px; line-height: 1.15; }
+</style>
+<main>
+  <h1>Nascimento · MM-06-Q04 v01</h1>
+  <p>Revisão de Isaac para o último quadro da regressão da Cena 3.</p>
+  <figure aria-label="Composição do nascimento">
+    <div id="viewport">
+      <div id="frame">
+        <!-- Difusão de uma borda vertical do piso herdada da V06, sob a soleira. -->
+        <svg width="0" height="0" aria-hidden="true" style="position:absolute">
+          <defs>
+            <linearGradient id="difusao-horizontal">
+              <stop stop-color="black" stop-opacity="0"/>
+              <stop offset=".45" stop-color="black" stop-opacity=".22"/>
+              <stop offset="1" stop-color="black"/>
+            </linearGradient>
+            <linearGradient id="difusao-vertical" x2="0" y2="1">
+              <stop stop-color="white" stop-opacity="0"/>
+              <stop offset=".23" stop-color="white" stop-opacity=".80"/>
+              <stop offset=".62" stop-color="white" stop-opacity=".42"/>
+              <stop offset="1" stop-color="white" stop-opacity="0"/>
+            </linearGradient>
+            <mask id="faixa-soleira" maskUnits="userSpaceOnUse" x="938" y="742" width="35" height="65" style="mask-type:alpha">
+              <rect x="938" y="742" width="35" height="65" fill="url(#difusao-vertical)"/>
+            </mask>
+            <mask id="mascara-soleira" maskUnits="userSpaceOnUse" x="0" y="0" width="1672" height="941">
+              <rect width="1672" height="941" fill="white"/>
+              <rect x="938" y="742" width="35" height="65" fill="url(#difusao-horizontal)" mask="url(#faixa-soleira)"/>
+            </mask>
+          </defs>
+        </svg>
+        <div id="world" aria-label="Jesus bebê na manjedoura. Do interior da estrebaria, a vista se abre para Belém à noite.">
+          <div class="plane" data-parallax="-17">
+            <img alt="" src="../midia-retomada/interior-MM12-Q06-V06/MM12-Q06-L01-BG-cleanplate.png">
+          </div>
+          <div class="plane" data-parallax="-10">
+            <img alt="" src="../midia-retomada/interior-MM12-Q06-V06/MM12-Q06-L02-MG-belem-ciprestes.png">
+          </div>
+          <div class="plane" data-parallax="-4">
+            <img alt="" src="../midia-retomada/interior-MM12-Q06-V06/MM12-Q06-L03-FG-mureta-terreno.png">
+          </div>
+          <!-- Piso, batente e porteira usam a mesma matriz em todos os estados. -->
+          <div id="estrutura" class="plane" data-parallax="8">
+            <img id="interior" alt="" src="../midia-retomada/interior-MM12-Q06-V06/MM12-Q06-L04-FG-interior.png">
+            <img alt="" src="../midia-retomada/interior-MM12-Q06-V06/MM12-Q06-L05-OBJ-porteira.png">
+          </div>
+          <div class="plane" data-parallax="20">
+            <img alt="" src="../midia-retomada/interior-MM12-Q06-V06/MM12-Q06-L06-FG-feno.png">
+          </div>
+          <!-- A manjedoura e a sombra acompanham a velocidade do piso. -->
+          <div id="manjedoura" class="plane" data-parallax="8">
+            <div id="contato"></div>
+            <img alt="" src="../midia-retomada/bebe-MM06-Q04/MM06-Q04-L02-MG-bebe-manjedoura.png">
+          </div>
+        </div>
+        <div id="fala-coletiva" hidden>
+          <p>ELE NASCEU, <span>E ISSO MUDA TUDO.</span></p>
+        </div>
+      </div>
+    </div>
+  </figure>
+  <div class="controls">
+    <button id="neutral" type="button">Neutro</button>
+    <button id="play" type="button" aria-pressed="false">Reproduzir parallax</button>
+    <label class="slider">Deslocamento
+      <input id="position" type="range" min="-100" max="100" value="0">
+      <output id="reading" for="position">0%</output>
+    </label>
+    <button id="caption" type="button" aria-pressed="false">Fala coletiva · Cena 8</button>
+    <button id="fullscreen" type="button">Tela cheia</button>
+  </div>
+  <p id="status" role="status"></p>
+</main>
+<script>
+  const viewport = document.querySelector('#viewport');
+  const frame = document.querySelector('#frame');
+  const planes = [...document.querySelectorAll('[data-parallax]')];
+  const position = document.querySelector('#position');
+  const reading = document.querySelector('#reading');
+  const play = document.querySelector('#play');
+  const caption = document.querySelector('#caption');
+  const collective = document.querySelector('#fala-coletiva');
+  const status = document.querySelector('#status');
+  let animation = null;
+
+  function setPosition(value) {
+    const amount = Math.max(-100, Math.min(100, Number(value)));
+    position.value = amount;
+    reading.value = `${Math.round(amount)}%`;
+    for (const plane of planes) {
+      plane.style.setProperty('--dx', `${amount * Number(plane.dataset.parallax) / 100}px`);
+    }
+  }
+
+  function stop() {
+    animation?.cancel();
+    animation = null;
+    play.setAttribute('aria-pressed', 'false');
+    play.textContent = 'Reproduzir parallax';
+  }
+
+  position.addEventListener('input', () => {
+    stop();
+    setPosition(position.value);
+  });
+  document.querySelector('#neutral').addEventListener('click', () => {
+    stop();
+    setPosition(0);
+  });
+  play.addEventListener('click', () => {
+    if (animation) {
+      setPosition(0);
+      stop();
+      return;
+    }
+    setPosition(0);
+    const keyframes = [0, 1, 0, -1, 0];
+    const tracks = planes.map(plane => plane.animate(
+      keyframes.map(amount => ({
+        transform: `translateX(${amount * Number(plane.dataset.parallax)}px)`,
+        easing: 'ease-in-out'
+      })),
+      { duration: 16000, iterations: Infinity }
+    ));
+    animation = { cancel: () => tracks.forEach(track => track.cancel()) };
+    play.setAttribute('aria-pressed', 'true');
+    play.textContent = 'Parar parallax';
+  });
+  caption.addEventListener('click', () => {
+    collective.hidden = !collective.hidden;
+    caption.setAttribute('aria-pressed', String(!collective.hidden));
+  });
+  document.querySelector('#fullscreen').addEventListener('click', async () => {
+    try {
+      await viewport.requestFullscreen();
+      status.textContent = '';
+    } catch {
+      status.textContent = 'Tela cheia indisponível neste navegador.';
+    }
+  });
+  new ResizeObserver(([entry]) => {
+    const { width, height } = entry.contentRect;
+    const fit = Math.min(width / 1672, height / 941);
+    frame.style.setProperty('--fit', fit);
+    frame.style.left = `${(width - 1672 * fit) / 2}px`;
+    frame.style.top = `${(height - 941 * fit) / 2}px`;
+  }).observe(viewport);
+  Promise.all([...viewport.querySelectorAll('img')].map(img => img.decode())).catch(() => {
+    status.textContent = 'Falha ao abrir um PNG. Abra em uma cópia local com a pasta midia-retomada ao lado desta composição.';
+  });
+</script>
+</html>
