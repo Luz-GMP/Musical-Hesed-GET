@@ -6,7 +6,7 @@ Para registrar o andamento, use a **cena e a deixa** do [Roteiro de montagem do 
 
 **Responsáveis atuais.** Victor fecha as Cenas 1, 2 e 6 a 9, dando continuidade ao trabalho de Eduardo. Isaac fecha as Cenas 3 a 5.
 
-**Distribuição atualizada:** 19/11/2026. **Última conciliação das versões abaixo:** 16/11/2026 · por Codex, a pedido de Victor (conciliação local/remota de MM-01/MM-02 e feedback de produção; sem novo aceite técnico). **Atualização de andamento:** 21/11/2026 · Codex (Q01–Q03 e insert v16 em animações 2.5D individuais silenciosas; marcadores por arquivo; tempos musicais pendentes de P-02; sem montagem completa da Cena 7 nesta entrega).
+**Distribuição atualizada:** 19/11/2026. **Última conciliação das versões abaixo:** 16/11/2026 · por Codex, a pedido de Victor (conciliação local/remota de MM-01/MM-02 e feedback de produção; sem novo aceite técnico). **Atualização de andamento:** 21/11/2026 · Codex (Q01–Q03 e insert v16 em animações 2.5D individuais silenciosas; marcadores por arquivo; tempos musicais pendentes de P-02; sem montagem completa da Cena 7 nesta entrega). **MM-12:** 27/11/2026 · Codex (continuidade v05, mídia e montagem de revisão).
 
 Cada pessoa atualiza **a própria linha** quando muda de etapa. Na dúvida sobre as etapas, veja [guias/fluxo-de-trabalho.md](guias/fluxo-de-trabalho.md).
 
@@ -27,7 +27,7 @@ Cada pessoa atualiza **a própria linha** quando muda de etapa. Na dúvida sobre
 | MM-09 | Profetas (loop) | 5 | Isaac | 🎨 | novo estudo v03 | Revisar [nova proposta](<storyboards/MM-09/STB MM09.jpg>): anúncio, espera e crença/dúvida; versões antigas excluídas (D-27) | - |
 | MM-10 | Cristo eterno / universo | 5 | Isaac | ⬜ | - | - | - |
 | MM-11 | Luz do Mundo (playback) | 5 | Isaac | ⬜ | - | Mapear a faixa | P-02 (audio master) |
-| MM-12 | Viagem, cidade e estábulo | 6–7 | Victor | 🎨 | prancha aprovada D-47 · bases v01 | Revisar [seis imagens individuais](storyboards/MM-12/README.md#imagens-individuais--v01), guardar PNGs no Drive e comparar o primeiro caminho com o último céu de Isaac | Entrada anterior P-09/P-15; saída técnica P-01 |
+| MM-12 | Viagem, cidade e estábulo | 6–7 | Victor | 🎨 | v05 · piloto aprovado, oito bases e montagem de revisão | [Retomar a Etapa 2](storyboards/MM-12/pacote-2p5d-codex-v05/continuidade-2026-11-27.md), completar planos e conferir costura com Isaac e v09 | P-01, P-12, P-13 e P-17 |
 | MM-13 | Noite, estrela e pastores | 5 | Isaac | ⬜ | referências da MM-13 | Preparar Ó Noite Santa na Cena 5 e indicar o último céu a Victor. A imagem de anjos v09 fica na Cena 7. | Luz a validar no ensaio |
 | MM-14 | Recapitulação na casa | 8 | Victor | 🎨 | Panorâmica noturna iluminada da casa | Sustentar a casa vazia para as seis ações feitas pelas atrizes. Em seguida, retomar o nascimento e passar aos atos da MM-15. | Deixas com o elenco |
 | MM-15 | Vida e atos de Jesus | 8 | Victor | 🎨 | prancha + quatro bases v01 · para revisão | Revisar bases Q01–Q04 e identidade; alinhar costura com MM-14 e saída sob diálogo | Saída P-08/P-15; matriz P-01 |
@@ -52,7 +52,7 @@ Escolha sua ficha. [Victor · cenas 1, 2 e 6 a 9](equipe/victor.md) · [Isaac ·
 | [Cena 3](guias/cena-a-cena/cena-03.md) · Criação, queda e Belém | Isaac | Voltar à cozinha após o jardim. Passar do bebê para as estrelas na deixa de Belém. | A registrar |
 | [Cena 4](guias/cena-a-cena/cena-04.md) · Graça e Páscoa | Isaac | Marcar a entrada dos cortes de Goel na fala do perdão e devolver a imagem à conversa. | A registrar |
 | [Cena 5](guias/cena-a-cena/cena-05.md) · Da visão de Mari a Ó Noite Santa | Isaac | Voltar à cozinha após o mundinho. Mostrar o último céu a Victor. | A registrar |
-| [Cena 6](guias/cena-a-cena/cena-06.md) · Caminho até o abrigo | Victor | Segurar o mesmo estábulo vazio da MM-12 ao entrar na Cena 7. | A registrar |
+| [Cena 6](guias/cena-a-cena/cena-06.md) · Caminho até o abrigo | Victor | Segurar o Q06 vazio na abertura da Cena 7 e acionar MM13-Q06 v09 na fala da multidão (D-61). | [Marcadores de revisão v05](projetos/AI-Filmmaker/mm12-cena06-v05/marcadores.md) |
 | [Cena 7](guias/cena-a-cena/cena-07.md) · Anúncio e gerações | Victor | Revisar os grupos geracionais nas animações individuais Q01–Q03; alinhar entrada/retomada da v16 e saída ao master P-02; ensaiar o retorno à cozinha/luz. | [Storyboard e animações individuais v01](storyboards/MM-17/README.md); v16 autorizada neste uso (D-61); MM-17 continua ID proposto |
 | [Cena 8](guias/cena-a-cena/cena-08.md) · Recapitulação e Brilha Tua Luz | Victor | Marcar a cortina após Brilha Tua Luz para a troca antes da MM-16. | A registrar |
 | [Cena 9](guias/cena-a-cena/cena-09.md) · Filme final | Victor | GO ao fim da troca de figurino e cenário. Ensaiar o acendimento de Natal e a saída em preto. | [Integral v01 aprovada](docs/producao-victor/mm16-integral-v01.md) e [191 marcadores](entregas/MM16/integral-v01/MM16-Maravilhosa-Graca-Integral-v01-marcadores.md) |
