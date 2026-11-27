@@ -1,1 +1,4 @@
-/pacote-2p5d-v05/
+/pacote-2p5d-v05/**/*
+!/pacote-2p5d-v05/**/
+!/pacote-2p5d-v05/**/*.png
+!/pacote-2p5d-v05/**/*.md
