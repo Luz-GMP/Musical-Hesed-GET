@@ -268,6 +268,23 @@ Avoid: modern lens flare, solid cross, thick neon beams, black background or pai
 - **Precisa de revisão no primeiro teste de animação:** conferir o recorte fino entre L2 e L3 durante deslocamentos maiores; reduzir o tamanho do galho L4b se ele competir com a estrela; decidir em ensaio a intensidade de L0b e L2b.
 - **Camada que não encaixou na primeira tentativa:** L3 terminava antes da base e foi refeita. A versão entregue encaixa; nenhuma das demais exige reposicionamento para a recomposição 3840×1080 usada no QA. L5/L5b exigem apenas a mesma coordenada de montagem, pois os dois arquivos têm canvas quadrado de tamanhos diferentes e centro comum.
 
+## Oito placas em gravura para a versão dinâmica
+
+Proposta do Isaac para a Cena 3 de *Nasceu em Belém*. O composto v01 fornece a abertura em plano geral. As placas variam o enquadramento do mesmo ambiente estrelado. O master P-02 orientará os pontos da música na montagem.
+
+| Placa | Uso previsto na música |
+| --- | --- |
+| [P01 · Estrela em detalhe](camadas-gravura-v01/cenas/MM07-P01.png) | Introdução → estrofe 1 e acentos dos refrões |
+| [P02 · Galhos em contra-plongée](camadas-gravura-v01/cenas/MM07-P02.png) | Refrões 1 e 2 |
+| [P03 · Caminho até Belém](camadas-gravura-v01/cenas/MM07-P03.png) | Estrofe 1 e retorno invertido na estrofe 2 |
+| [P04 · Belém de perto](camadas-gravura-v01/cenas/MM07-P04.png) | Fim da estrofe 1 e estrofe 2 |
+| [P05 · Vista alta das colinas](camadas-gravura-v01/cenas/MM07-P05.png) | Meio da estrofe 1 e refrão final |
+| [P06 · Roda de raios dourada](camadas-gravura-v01/cenas/MM07-P06.png) | Ponte com espaço para títulos em edição |
+| [P07 · Oliveiral sob o luar](camadas-gravura-v01/cenas/MM07-P07.png) | Estrofe 2 |
+| [P08 · Alvorecer dourado](camadas-gravura-v01/cenas/MM07-P08.png) | Fechamento |
+
+Os oito PNGs são opacos, em 3840×2160, ampliados das imagens de 1672×941 geradas com o ImageGen integrado. O [caderno de quadros](../briefings-dos-quadros.md#placas-da-versão-dinâmica--mm07-p01-a-mm07-p08) reúne o briefing, os prompts efetivamente enviados e a conferência por placa.
+
 ## Histórico · MM07-Q01 · parallax V01/V02 rejeitadas
 
 - **Base preservada:** `MM07-Q01.JPG`; nenhuma nova imagem canônica foi gerada ou sobrescrita.

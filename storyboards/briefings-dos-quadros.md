@@ -181,6 +181,102 @@ Os prompts abaixo já repetem a instrução de imagem limpa; ao levá-los à fer
 
 **Tempo e aprovação:** duração, intensidade e sincronismo a definir com o master P-02 e em ensaio. Nenhuma camada v01 está aprovada antes da revisão de Isaac/direção e do teste no LED.
 
+### Placas da versão dinâmica · MM07-P01 a MM07-P08
+
+**Situação e origem.** Proposta do Isaac de 27/11/2026 para a Cena 3, *Nasceu em Belém* (Marcus Salles). O recado local `PROMPTS-MM07-CENAS-GRAVURA.md` especifica oito vistas atmosféricas da mesma Judeia. O [composto v01](MM-07/camadas-gravura-v01/REF_composto.png) serve de referência de traço, papel, paleta, posição da estrela e continuidade de paisagem. Ele permanece como base da entrada e do plano aberto.
+
+**Palco e telão.** A Ladra encerra a conversa sobre Belém da Judeia e entra a música com luz laranja e azul. A MM-07 recebe o quadro sustentado do bebê da MM-06, passa ao céu estrelado e entrega o retorno à casa MM-03 para a Cena 4. Isaac prepara as imagens e entrega à operação. As oito placas mostram paisagens vazias, com céu estrelado, a estrela de Belém e variações de perspectiva. O roteiro de montagem, p. 4, e a [ficha da Cena 3](../guias/cena-a-cena/cena-03.md) orientam as deixas. A costura com o bebê e os tempos dependem do frame da MM-06, do master P-02 e de ensaio.
+
+**Composição e luz.** Linhas de buril e hachuras azul-noturno, papel creme envelhecido, brilhos em dourado quente e vermelho terroso em acentos raros. Preservar a leitura da estrela, a escala da paisagem e o centro inferior livre para eventual tipografia em edição. Usar um quadro opaco limpo de 3840×2160 por placa.
+
+**Movimento e sincronização.** A tabela registra intenções de montagem do recado de Isaac. Os tempos ficam a definir com o master P-02. A proposta combina varreduras de tinta, dissoluções por luz, passagens pelo brilho, cortes casados pela posição da estrela e panorâmicas rápidas nos refrões. Os acentos de “Nasceu!” combinam troca de plano e clarão da estrela. A proposta reserva o quadro de impacto para “EMANUEL” e prevê palavras-chave discretas adicionadas na edição, fora da área da estrela.
+
+| ID | Imagem-base e continuidade | Movimento sugerido | Momento proposto |
+| --- | --- | --- | --- |
+| MM07-P01 · Estrela em detalhe | A estrela de Belém ocupa o terço superior central, em plano muito fechado: núcleo brilhante e raios finos de buril em leque, algumas nuvens em hachura cortando os raios, céu azul-noturno com estrelas pequenas. Sem terra. Raios longos o bastante para um push-in atravessá-los. | Plano detalhe, avanço pelo brilho da estrela | Introdução → estrofe 1 e acentos dos refrões |
+| MM07-P02 · Galhos em contra-plongée | Câmera no chão olhando para cima: galhos de oliveira com folhas em hachura dourada emolduram os cantos superiores; entre eles o céu noturno e a estrela de Belém no terço superior direito. Tronco largo e sombrio em um dos lados, centro do céu livre. | Câmera rente ao chão, inclinação ascendente | Refrões 1 e 2 |
+| MM07-P03 · Caminho até Belém | Estrada de terra seca e pedras serpenteando do primeiro plano até Belém iluminada no alto de uma colina distante, em perspectiva de ponto de fuga. Oliveiras e capim nas margens; estrela no terço superior. Estrada vazia. | Ponto de fuga, avanço pelo caminho e recuo na reprise | Estrofe 1 e retorno invertido na estrofe 2 |
+| MM07-P04 · Belém de perto | Vista de grua sobre os telhados planos de pedra clara de Belém, com um beco de degraus vazio à esquerda e janelas e lamparinas acesas em ouro; ao alto, o céu estrelado e a estrela de Belém. Sem pessoas, sem portas em destaque, sem ruídos de cena narrativa. | Vista de grua, subida do beco aos telhados e à estrela | Fim da estrofe 1 e estrofe 2 |
+| MM07-P05 · Vista alta das colinas | Panorama de cima: vales e colinas da Judeia em camadas, Belém pequena e iluminada ao longe, oliveirais em manchas; metade superior da imagem é céu estrelado com a estrela. Muita profundidade, camadas bem separadas. | Plano geral alto, deriva lateral com paralaxe | Meio da estrofe 1 e refrão final |
+| MM07-P06 · Roda de raios dourada | Céu noturno abstrato dominado por uma grande roda de raios dourados em gravura irradiando da estrela, com arcos concêntricos finos e estrelas pequenas em constelações. Sem terra. Centro da imagem relativamente livre para títulos. | Céu radial, aproximação lenta | Ponte com espaço para títulos em edição |
+| MM07-P07 · Oliveiral sob o luar | Plano médio lateral: fileiras de oliveiras de troncos retorcidos sobre terreno suave, luz azulada de lua e brilhos dourados nas folhas; ao fundo, colinas baixas e a estrela. Sem Belém em destaque. | Plano médio lateral, travelling entre fileiras | Estrofe 2 |
+| MM07-P08 · Alvorecer dourado | Mesma paisagem do composto (Belém ao fundo, colinas, oliveiras), mas com o horizonte tomado por luz dourada de amanhecer; o céu passa do azul-noturno ao âmbar; a estrela esmaece e se afasta. Plano aberto, calmo e esperançoso. | Plano aberto, desaceleração e recuo | Fechamento |
+
+**Diretrizes consultadas.** Guia de construção, caderno MM-07, ficha da peça, recado de Isaac, ficha da Cena 3, roteiro de montagem p. 4, roteiro, briefing, Bíblia de Produção v0.1, alinhamento das fontes e decisões D-01/D-55. Aprovação artística e conferência no LED pendentes.
+
+#### Prompts enviados ao ImageGen integrado
+
+Cada chamada usou o [composto v01](MM-07/camadas-gravura-v01/REF_composto.png) como referência, com o bloco comum abaixo seguido pelo trecho específico da placa.
+
+```text
+Anexar `REF_composto.png` como referência de estilo, paleta, traço e posição da estrela.
+Gravura em metal colorida (estilo Gustave Doré), linhas finas de buril, hachuras cruzadas, grão de papel e retícula leve. Sombras e linhas em azul-noturno profundo, sem preto puro; claros em creme envelhecido; luz dourada quente só nos brilhos; vermelho terroso apenas como acento raro. Cores chapadas, levemente desbotadas; sem fotografia, 3D ou pintura digital lisa. Judeia do século I: pedra clara, casas de teto plano, oliveiras, colinas secas. Sem pessoas, sem animais, sem anjos, sem texto, assinatura ou moldura. 16:9, 3840×2160, imagem inteira e limpa (nada de prancha, números ou colagem). Centro-inferior relativamente livre, para palavras-chave sobre a imagem.
+Gere uma única imagem estática, opaca, ocupando todo o quadro. Use a imagem anexada como referência de continuidade visual e adapte o enquadramento ao plano abaixo. Mantenha a estrela reconhecível e o céu estrelado como motivo principal. A câmera e os efeitos serão animados depois.
+```
+
+**MM07-P01**
+
+```text
+P01 · Estrela em detalhe. A estrela de Belém ocupa o terço superior central, em plano muito fechado: núcleo brilhante e raios finos de buril em leque, algumas nuvens em hachura cortando os raios, céu azul-noturno com estrelas pequenas. Sem terra. Raios longos o bastante para um push-in atravessá-los.
+```
+
+**MM07-P02**
+
+```text
+P02 · Galhos em contra-plongée. Câmera no chão olhando para cima: galhos de oliveira com folhas em hachura dourada emolduram os cantos superiores; entre eles o céu noturno e a estrela de Belém no terço superior direito. Tronco largo e sombrio em um dos lados, centro do céu livre.
+```
+
+**MM07-P03**
+
+```text
+P03 · Caminho até Belém. Estrada de terra seca e pedras serpenteando do primeiro plano até Belém iluminada no alto de uma colina distante, em perspectiva de ponto de fuga. Oliveiras e capim nas margens; estrela no terço superior. Estrada vazia.
+```
+
+**MM07-P04**
+
+```text
+P04 · Belém de perto. Vista de grua sobre os telhados planos de pedra clara de Belém, com um beco de degraus vazio à esquerda e janelas e lamparinas acesas em ouro; ao alto, o céu estrelado e a estrela de Belém. Sem pessoas, sem portas em destaque, sem ruídos de cena narrativa.
+```
+
+**MM07-P05**
+
+```text
+P05 · Vista alta das colinas. Panorama de cima: vales e colinas da Judeia em camadas, Belém pequena e iluminada ao longe, oliveirais em manchas; metade superior da imagem é céu estrelado com a estrela. Muita profundidade, camadas bem separadas.
+```
+
+**MM07-P06**
+
+```text
+P06 · Roda de raios dourada. Céu noturno abstrato dominado por uma grande roda de raios dourados em gravura irradiando da estrela, com arcos concêntricos finos e estrelas pequenas em constelações. Sem terra. Centro da imagem relativamente livre para títulos.
+```
+
+**MM07-P07**
+
+```text
+P07 · Oliveiral sob o luar. Plano médio lateral: fileiras de oliveiras de troncos retorcidos sobre terreno suave, luz azulada de lua e brilhos dourados nas folhas; ao fundo, colinas baixas e a estrela. Sem Belém em destaque.
+```
+
+**MM07-P08**
+
+```text
+P08 · Alvorecer dourado. Mesma paisagem do composto (Belém ao fundo, colinas, oliveiras), mas com o horizonte tomado por luz dourada de amanhecer; o céu passa do azul-noturno ao âmbar; a estrela esmaece e se afasta. Plano aberto, calmo e esperançoso. Preserve o arranjo de Belém, das colinas e das oliveiras da referência. A estrela ainda é visível no céu em transição, sem disco solar.
+```
+
+#### Resultado e conferência
+
+As oito placas foram geradas em **1672×941** e exportadas em **3840×2160**, PNG RGB opaco, com reamostragem Lanczos. A conferência visual verificou o céu estrelado, a linguagem de gravura e as diferenças de enquadramento. A P01 centraliza a estrela. Em cortes casados com os planos em que ela fica à direita, a montagem deve prever o alinhamento. As bases são imagens estáticas. Os acentos de luz, o movimento e a sincronização dependem da edição e do master.
+
+| Arquivo | Resultado visual |
+| --- | --- |
+| [MM07-P01.png](MM-07/camadas-gravura-v01/cenas/MM07-P01.png) | Núcleo e raios no terço superior central. Nuvens gravadas e céu inteiro, com foco legível para a aproximação. |
+| [MM07-P02.png](MM-07/camadas-gravura-v01/cenas/MM07-P02.png) | Tronco à esquerda e folhagem nos cantos superiores. O céu ocupa a maior parte do quadro e a estrela fica à direita. |
+| [MM07-P03.png](MM-07/camadas-gravura-v01/cenas/MM07-P03.png) | Caminho sinuoso e desocupado conduz a Belém ao fundo. A perspectiva sustenta a proposta de avanço. |
+| [MM07-P04.png](MM-07/camadas-gravura-v01/cenas/MM07-P04.png) | Viela com degraus à esquerda, lamparinas e telhados planos próximos. A estrela se mantém acima da cidade. |
+| [MM07-P05.png](MM-07/camadas-gravura-v01/cenas/MM07-P05.png) | Vales em planos sucessivos, com Belém pequena ao fundo. A silhueta do galho reaparece como referência visual do composto. |
+| [MM07-P06.png](MM-07/camadas-gravura-v01/cenas/MM07-P06.png) | Arcos concêntricos e raios dourados partem da estrela. O centro inferior tem espaço para tipografia em edição. |
+| [MM07-P07.png](MM-07/camadas-gravura-v01/cenas/MM07-P07.png) | Oliveiras em fileiras, com tronco recortado no primeiro plano e colinas ao fundo. A cidade fica fora de destaque. |
+| [MM07-P08.png](MM-07/camadas-gravura-v01/cenas/MM07-P08.png) | Belém permanece no mesmo setor do composto, com horizonte dourado e estrela mais fraca ainda visível. |
+
 ### MM-07-Q01 · Abertura
 
 - **Função narrativa:** Estabelecer Belém e a expectativa do nascimento.
