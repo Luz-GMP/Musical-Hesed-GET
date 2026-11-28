@@ -6,7 +6,7 @@ Para registrar o andamento, use a **cena e a deixa** do [Roteiro de montagem do 
 
 **Responsáveis atuais.** Victor fecha as Cenas 1, 2 e 6 a 9, dando continuidade ao trabalho de Eduardo. Isaac fecha as Cenas 3 a 5.
 
-**Distribuição atualizada:** 19/11/2026. **Última conciliação das versões abaixo:** 16/11/2026 · por Codex, a pedido de Victor (conciliação local/remota de MM-01/MM-02 e feedback de produção; sem novo aceite técnico). **Atualização de andamento:** 21/11/2026 · Codex (Q01–Q03 e insert v16 em animações 2.5D individuais silenciosas; marcadores por arquivo; tempos musicais pendentes de P-02; sem montagem completa da Cena 7 nesta entrega). **MM-12:** 27/11/2026 · Codex (Etapa 2 da v05 em revisão, oito pilhas 2.5D). **MM-06-Q04:** 27/11/2026 · Codex (composição v01 em avaliação por Isaac).
+**Distribuição atualizada:** 19/11/2026. **Última conciliação das versões abaixo:** 16/11/2026 · por Codex, a pedido de Victor (conciliação local/remota de MM-01/MM-02 e feedback de produção; sem novo aceite técnico). **Atualização de andamento:** 21/11/2026 · Codex (Q01–Q03 e insert v16 em animações 2.5D individuais silenciosas; marcadores por arquivo; tempos musicais pendentes de P-02; sem montagem completa da Cena 7 nesta entrega). **MM-12:** 27/11/2026 · Codex (Etapa 2 da v05 em revisão, oito pilhas 2.5D). **MM-06-Q04:** 27/11/2026 · Codex (composição v01 em avaliação por Isaac). **Cena 1 · Quebrando as Correntes:** 27/11/2026 · Victor / Antigravity (6 takes aprovados e Master Integral v01 1080p24 compilado; 51 marcadores D-60 conferidos).
 
 Cada pessoa atualiza **a própria linha** quando muda de etapa. Na dúvida sobre as etapas, veja [guias/fluxo-de-trabalho.md](guias/fluxo-de-trabalho.md).
 
@@ -47,7 +47,7 @@ Escolha sua ficha. [Victor · cenas 1, 2 e 6 a 9](equipe/victor.md) · [Isaac ·
 
 | Cena | Quem fecha | Primeiro trabalho / próxima ação | Versão ou entrega da cena |
 | --- | --- | --- | --- |
-| [Cena 1](guias/cena-a-cena/cena-01.md) · Prisão e libertação | Victor | Exterior após a retrospectiva. Cortina e elevador após a saída. | A registrar |
+| [Cena 1](guias/cena-a-cena/cena-01.md) · Prisão e libertação | Victor | Exterior após a retrospectiva. Ensaiar GO, leitura no telão e cortina/elevador após a saída. | [Quebrando as Correntes · Master Integral v01](docs/producao-victor/cena01-quebrando-as-correntes-master-v01.md) e [51 marcadores](entregas/Cena01/quebrando-as-correntes-master-integral-v01/Cena01-Quebrando-as-Correntes-Master-Integral-v01-marcadores.md) |
 | [Cena 2](guias/cena-a-cena/cena-02.md) · Chegada à mesa | Victor | Identificar a cozinha V03-01 para Isaac. | A registrar |
 | [Cena 3](guias/cena-a-cena/cena-03.md) · Criação, queda e Belém | Isaac | Voltar à cozinha após o jardim. Passar do bebê para as estrelas na deixa de Belém. | A registrar |
 | [Cena 4](guias/cena-a-cena/cena-04.md) · Graça e Páscoa | Isaac | Marcar a entrada dos cortes de Goel na fala do perdão e devolver a imagem à conversa. | A registrar |

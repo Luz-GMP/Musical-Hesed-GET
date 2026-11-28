@@ -1,0 +1,29 @@
+# Cena 1 · Quebrando as Correntes · Master Integral v01 (`1080p24`)
+
+**HESED · Cena 1 (*Da prisão à liberdade*) · Victor · Master integral compilado em 27/11/2026 a partir dos 6 takes aprovados artisticamente por Victor.**
+
+O vídeo utiliza a faixa completa local de *Quebrando as Correntes* (Wagner Oliveira, `Quebrando-as-Correntes.mp3`, `223,967 s`, preenchida com `0,033 s` de silêncio final para fechar exatos `224,000 s`) e integra, sem perda geracional no vídeo (`-c:v copy`), os 6 takes produzidos no **HyperFrames 0.9.72** em papel rasgado 2.5D com tipografia cinética: **Take 01 v01** (Intro + 1º Verso), **Take 02 v03** (1º Refrão Void 2.5D), **Take 03 v03** (2º Verso — arco limpo, travessia física das portas, esteira e clímax), **Take 04 v03** (2º Refrão + Ponte com pulsos macro, 4 correntes nos coturnos, X travando/explodindo e abertura revelando Jesus de costas da MM-16), **Take 05 v01** (3º Verso — Filipenses 2:7 e Romanos 6:6) e **Take 06 v01** (Refrão Final, Ladra e Jesus lado a lado no horizonte, silêncio *“Verdadeiramente livre.”*, pulsos *“Hey!”* e fade limpo para preto absoluto `#000000` em `03:43.750`–`03:43.958`).
+
+## Arquivos da versão compilada (acervo local · P-13)
+
+| Arquivo no acervo local | Especificação | SHA-256 |
+| --- | --- | --- |
+| `entregas/Cena01/quebrando-as-correntes-master-integral-v01/Cena01-Quebrando-as-Correntes-Master-Integral-v01-1080p24.mp4` | H.264 (`Constrained Baseline` L4.0), `1920 × 1080` progressivo, `24/1 fps`, `BT.709`, `5.376` quadros, `03:44.000`, AAC LC `48 kHz` estéreo (`~259 kbps`, `-14,0 LUFS`, true peak `-3,7 dBFS`), `117.722.585 bytes` | `ccc540440dc311489531a21e411987e3b15a2dbf65f9859134ff74fbbf14bc54` |
+| `entregas/Cena01/quebrando-as-correntes-take01-v01/Cena01-Quebrando-as-Correntes-Take01-v01-1080p24.mp4` | Take 01 v01 (`00:00.000`–`00:47.000`, `1.128` quadros, `38.612.355 bytes`) — aprovado | `bdf3ea95d62d772680d3525fafd1ca7e9d8303ee9f388ccc727bf1c003b4b068` |
+| `entregas/Cena01/quebrando-as-correntes-take02-v03/Cena01-Quebrando-as-Correntes-Take02-v03-1080p24.mp4` | Take 02 v03 (`00:47.000`–`01:09.000`, `528` quadros, `9.380.909 bytes`) — aprovado | `7389f9004cffd4f69349dbf6484308753c44ec63e11b35e94b374046625ea23b` |
+| `entregas/Cena01/quebrando-as-correntes-take03-v03/Cena01-Quebrando-as-Correntes-Take03-v03-1080p24.mp4` | Take 03 v03 (`01:09.000`–`01:42.000`, `792` quadros, `14.543.508 bytes`) — aprovado | `b2def26eedb0cc81a7bec1f3af3d257158f1c043a5ce44b730bab9acb6c4ef43` |
+| `entregas/Cena01/quebrando-as-correntes-take04-v03/Cena01-Quebrando-as-Correntes-Take04-v03-1080p24.mp4` | Take 04 v03 (`01:42.000`–`02:25.500`, `1.044` quadros, `19.983.413 bytes`) — aprovado | `163275dd6e21f3f985d2fd85e5b6442298913f788939f1ae387ca5cdfe6ea385` |
+| `entregas/Cena01/quebrando-as-correntes-take05-v01/Cena01-Quebrando-as-Correntes-Take05-v01-1080p24.mp4` | Take 05 v01 (`02:25.500`–`02:47.000`, `516` quadros, `9.351.719 bytes`) — aprovado | `4619d72fdc8b7141234c4d1eba8df8033f60bd1ff48353af701d9e2c29fc55f0` |
+| `entregas/Cena01/quebrando-as-correntes-take06-v01/Cena01-Quebrando-as-Correntes-Take06-v01-1080p24.mp4` | Take 06 v01 (`02:47.000`–`03:44.000`, `1.368` quadros, `24.073.794 bytes`) — aprovado | `4e6c94193d37cae4af2625509d9fb21c7664cb1c973b9eb5a990d145f2fd6e7d` |
+| `Quebrando-as-Correntes.mp3` | Faixa de áudio master de referência (`223,967 s`, MP3 `44,1 kHz` estéreo) | `36e8ab2dafd0a47086e8794125c52deb6305b31b16465416e4ca86004906205c` |
+
+Os caminhos acima são relativos à raiz do acervo local HESED. Este repositório guarda a documentação, os marcadores `D-60`, a prancha QA das emendas e os códigos/manifestos HyperFrames; os arquivos `.mp4` e `.mp3` permanecem fora do Git conforme `.gitignore` e [P-13](../pendencias.md).
+
+[Tabela unificada com 51 marcadores](../../entregas/Cena01/quebrando-as-correntes-master-integral-v01/Cena01-Quebrando-as-Correntes-Master-Integral-v01-marcadores.md) · [Prancha QA das 5 emendas](../../entregas/Cena01/quebrando-as-correntes-master-integral-v01/Cena01-Quebrando-as-Correntes-Master-Integral-v01-qa-emendas.jpg) · Editáveis HyperFrames: [Take 01 v01](../../projetos/AI-Filmmaker/cena01-correntes-take01-v01/filmmaker.project.json) · [Take 02 v03](../../projetos/AI-Filmmaker/cena01-correntes-take02-v03/filmmaker.project.json) · [Take 03 v03](../../projetos/AI-Filmmaker/cena01-correntes-take03-v03/filmmaker.project.json) · [Take 04 v03](../../projetos/AI-Filmmaker/cena01-correntes-take04-v03/filmmaker.project.json) · [Take 05 v01](../../projetos/AI-Filmmaker/cena01-correntes-take05-v01/filmmaker.project.json) · [Take 06 v01](../../projetos/AI-Filmmaker/cena01-correntes-take06-v01/filmmaker.project.json).
+
+## Operação e validação
+
+- **Deixa de palco para o GO (`00:00:00.000`):** fala da Ladra (*“Rapaziada, seguinte, lili cantou e nós tá aqui até agora porque? Bora trocar ideia em outro lugar, eu que não vou ficar pagando de doida na porta da cadeia dando bobeira.”*), com o exterior V06 (`MM01-Q01`) já em espera após o retorno pós-MM-02. As atrizes se levantam e saem ao vivo.
+- **Saída e deixa manual separada:** o MP4 encerra em fade limpo para preto absoluto `#000000` (`03:41.400`–`03:43.750`, sustentado até `03:44.000`). O **som de elevador / telemarketing** permanece **fora do MP4** como cue manual separado disparado com a cortina fechada durante a troca para a Cena 2 (casa da Mari à noite).
+- **Validação técnica executada:** `ffprobe` confirmando `1920 × 1080` progressivo, `24/1 fps`, `BT.709`, `5.376` quadros exatos e `224,000 s`; decodificação integral `ffmpeg -v error` = exit `0`; medição `ebur128`/`volumedetect` (`-14,0 LUFS`, `LRA 5,5 LU`, true peak `-3,7 dBFS`); `signalstats` do último quadro `q5375` (`YMIN=YAVG=YMAX=16`, preto absoluto); inspeção visual das 5 emendas (`00:47`, `01:09`, `01:42`, `02:25.5`, `02:47`) sem salto nem quadro preto.
+- **Pendências:** conferência do Master Integral no telão/LED e validação das deixas ao vivo em ensaio de palco.

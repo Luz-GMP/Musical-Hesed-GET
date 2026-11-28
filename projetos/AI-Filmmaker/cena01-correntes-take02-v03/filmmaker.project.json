@@ -1,0 +1,169 @@
+{
+  "schema": "ai-filmmaker.project/v1",
+  "project": {
+    "id": "cena01-correntes-take02-v03",
+    "title": "Cena 1 · Quebrando as Correntes · Take 02 (1º Refrão Void 2.5D + Tipografia Cinética, v03)"
+  },
+  "workflow": {
+    "phase": "scene-review",
+    "currentScene": "take-02"
+  },
+  "delivery": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 24,
+    "status": "draft"
+  },
+  "timeline": {
+    "musicMode": "global"
+  },
+  "assets": [
+    {
+      "id": "ancora-take01",
+      "path": "cena/ancora-take01.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Quadro final do Take 01 v01 (00:46.958, quadro 1127) para emenda contínua",
+      "rights": "Projeto HESED",
+      "sha256": "74fa76a4e69071b9f3d3de7828d137bfbdba76957fbe18f29063779359a076e2"
+    },
+    {
+      "id": "t02-guia-mestre",
+      "path": "cena/00-composicao-mestre-referencia.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Quadro-guia mestre de composição, cor, material e luz (camadas/manifesto-camadas.json)",
+      "rights": "Projeto HESED",
+      "sha256": "15873c4eceedc473c4fd61b2bde8d104d03f0619fbba79cbe75992c720bac204"
+    },
+    {
+      "id": "t02-fundo-void",
+      "path": "cena/01-fundo-void-papel.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Camada 01 Void vazio em papel rasgado (camadas/manifesto-camadas.json)",
+      "rights": "Projeto HESED",
+      "sha256": "382c57de5a37a4c9c8faf1eb961e675fd0c067ffb0fd37dedd84bfaee7c70458"
+    },
+    {
+      "id": "t02-ladra-acorrentada",
+      "path": "cena/02-ladra-costas-acorrentada.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Camada 02 Ladra de costas acorrentada RGBA (camadas/manifesto-camadas.json)",
+      "rights": "Projeto HESED",
+      "sha256": "01f76a8975f590c6d96737ae815f7ed93caa6f781230ab2aa340b2be2138780e"
+    },
+    {
+      "id": "t02-ladra-livre",
+      "path": "cena/03-ladra-costas-livre.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Camada 03 Ladra de costas livre RGBA alinhada no pé de apoio (camadas/manifesto-camadas.json)",
+      "rights": "Projeto HESED",
+      "sha256": "fcd1f2b8839d15cf4b9f40458016e04ebfdc9ffbec12343aa091c9f16a100dff"
+    },
+    {
+      "id": "t02-frente-esq",
+      "path": "cena/04-corrente-diagonal-frente-esq.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Camada 04 metade esquerda corrente inferior primeiro plano RGBA",
+      "rights": "Projeto HESED",
+      "sha256": "3f5500958908718c4847c0bc9903fc7b39f72b5dbc887f7d562e1e21cffc53b5"
+    },
+    {
+      "id": "t02-frente-dir",
+      "path": "cena/05-corrente-diagonal-frente-dir.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Camada 05 metade direita corrente inferior primeiro plano RGBA",
+      "rights": "Projeto HESED",
+      "sha256": "548858ea1bf3fc7c8d330e87a5596f0c4f48039dfebde845f36bc5e311f6c9f3"
+    },
+    {
+      "id": "t02-meio-esq",
+      "path": "cena/06-corrente-diagonal-meio-esq.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Camada 06 metade esquerda corrente superior intermediária RGBA",
+      "rights": "Projeto HESED",
+      "sha256": "1de527c1fa936ba8828b3a07da5e879512e65da67edda29c1a4d0cf21c9b7824"
+    },
+    {
+      "id": "t02-meio-dir",
+      "path": "cena/07-corrente-diagonal-meio-dir.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Camada 07 metade direita corrente superior intermediária RGBA",
+      "rights": "Projeto HESED",
+      "sha256": "e23ae418c33002429a8acda9d8b57d5af2171d9b59a68f358e8698c56c7e18f2"
+    },
+    {
+      "id": "t02-elos-kit",
+      "path": "cena/08-elos-rompidos-kit.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Camada 08 kit de 8 elos rompidos em papel rasgado RGBA",
+      "rights": "Projeto HESED",
+      "sha256": "69c7c35831c96d8693034919e97785a444f926a391e6c68dc36479fae2412eca"
+    },
+    {
+      "id": "t02-algema-chao",
+      "path": "cena/09-corrente-chao-caida.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Camada 09 algema aberta caída no piso RGBA",
+      "rights": "Projeto HESED",
+      "sha256": "5fb2706261167f45f9ac17df9f63dfd6b9955e9529571b0b804d0de2a378c33e"
+    },
+    {
+      "id": "musica-take02-wav",
+      "path": "cena/musica.wav",
+      "kind": "audio",
+      "status": "ready",
+      "provenance": "Recorte 00:47.000–01:09.000 (22,000 s) PCM 44.1 kHz estéreo de Quebrando-as-Correntes.mp3",
+      "rights": "Faixa de referência do espetáculo HESED",
+      "sha256": "8ca7e5212441403887df0f84b3447a6f4bce7058017357be8d869aa5143eb55b"
+    }
+  ],
+  "scenes": [
+    {
+      "id": "take-02",
+      "version": 3,
+      "status": "review",
+      "durationSec": 22,
+      "preview": {
+        "engine": "hyperframes",
+        "source": "cena/index.html"
+      },
+      "layers": [
+        { "id": "void-papel-rasgado-e-sombras", "role": "background", "assetId": "t02-fundo-void" },
+        { "id": "ladra-malha-viva-e-algema", "role": "content", "assetId": "t02-ladra-acorrentada" },
+        { "id": "correntes-diagonais-e-tipografia-cinetica", "role": "intermediate", "assetId": "t02-meio-esq" },
+        { "id": "estilhacos-3d-na-lente", "role": "foreground", "assetId": "t02-elos-kit" }
+      ],
+      "audio": {
+        "voice": [],
+        "music": [
+          {
+            "assetId": "musica-take02-wav",
+            "startSec": 0,
+            "endSec": 22,
+            "sourceStartSec": 47,
+            "sourceEndSec": 69
+          }
+        ],
+        "ambience": [],
+        "sfx": []
+      },
+      "approvals": []
+    }
+  ],
+  "capabilities": {
+    "semanticMediaIndex": { "status": "not-planned" },
+    "externalTimeline": { "status": "not-planned" },
+    "backgroundRemoval": { "status": "not-planned" },
+    "lipSync": { "status": "not-planned" }
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "schema": "ai-filmmaker.project/v1",
+  "project": {
+    "id": "cena01-correntes-take06-v01",
+    "title": "Cena 1 · Quebrando as Correntes · Take 06 v01 (Refrão Final + Encerramento · 02:47–03:44)"
+  },
+  "workflow": {
+    "phase": "scene-review",
+    "currentScene": "take-06"
+  },
+  "delivery": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 24,
+    "status": "draft"
+  },
+  "timeline": {
+    "musicMode": "global"
+  },
+  "assets": [
+    {
+      "id": "ancora-take05",
+      "path": "cena/ancora-take05.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Quadro final aprovado do Take 05 v01 (00:21.458, quadro 515) com Ladra livre no horizonte",
+      "rights": "Projeto HESED",
+      "sha256": "74e9f7eb426d6556a8ec75f5158408be6d98efc60935a2fa392ceade74889812"
+    },
+    {
+      "id": "ponte-horizonte",
+      "path": "cena/ponte-horizonte.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Horizonte luminoso em papel rasgado reaproveitado do Take 04",
+      "rights": "Projeto HESED",
+      "sha256": "db00f4daa910d0576513f54b4bce26f419f30c56ee850dc2b09b457511af57cc"
+    },
+    {
+      "id": "coturnos-bg",
+      "path": "cena/coturnos-bg.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Plano baixo dos coturnos em papel rasgado reaproveitado do Take 04",
+      "rights": "Projeto HESED",
+      "sha256": "754672729fed39e3fb663d224bc00bce269ec3f1efcf0a33845f3407e6892883"
+    },
+    {
+      "id": "corrente-pes",
+      "path": "cena/corrente-pes.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Corrente macro para queda aos coturnos reaproveitada do Take 04",
+      "rights": "Projeto HESED",
+      "sha256": "a2bbc3aa3f472eda9e57c6a7b6afd42340f875346d562eb4f366394f1c249a6b"
+    },
+    {
+      "id": "mm16-jesus-costas",
+      "path": "cena/mm16-jesus-costas.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Recorte RGBA de Jesus de costas em papel rasgado (MM-16)",
+      "rights": "Projeto HESED",
+      "sha256": "50cd5700a499a617a5eff9e6e1bad3a7f5a3efc91f0db79d60638b2536ca9f4b"
+    },
+    {
+      "id": "t02-ladra-livre",
+      "path": "cena/t02-ladra-costas-livre.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Ladra de costas livre RGBA reaproveitada do Take 02 (apoio [996,842])",
+      "rights": "Projeto HESED",
+      "sha256": "fcd1f2b8839d15cf4b9f40458016e04ebfdc9ffbec12343aa091c9f16a100dff"
+    },
+    {
+      "id": "t02-frente-esq",
+      "path": "cena/t02-frente-esq.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Metade esquerda corrente frente reaproveitada do Take 02",
+      "rights": "Projeto HESED",
+      "sha256": "3f5500958908718c4847c0bc9903fc7b39f72b5dbc887f7d562e1e21cffc53b5"
+    },
+    {
+      "id": "t02-frente-dir",
+      "path": "cena/t02-frente-dir.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Metade direita corrente frente reaproveitada do Take 02",
+      "rights": "Projeto HESED",
+      "sha256": "548858ea1bf3fc7c8d330e87a5596f0c4f48039dfebde845f36bc5e311f6c9f3"
+    },
+    {
+      "id": "t02-meio-esq",
+      "path": "cena/t02-meio-esq.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Metade esquerda corrente íntegra reaproveitada do Take 02",
+      "rights": "Projeto HESED",
+      "sha256": "1de527c1fa936ba8828b3a07da5e879512e65da67edda29c1a4d0cf21c9b7824"
+    },
+    {
+      "id": "t02-meio-dir",
+      "path": "cena/t02-meio-dir.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Metade direita corrente íntegra reaproveitada do Take 02",
+      "rights": "Projeto HESED",
+      "sha256": "e23ae418c33002429a8acda9d8b57d5af2171d9b59a68f358e8698c56c7e18f2"
+    },
+    {
+      "id": "t02-elos-kit",
+      "path": "cena/t02-elos-kit.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Kit de 8 elos rompidos reaproveitado do Take 02",
+      "rights": "Projeto HESED",
+      "sha256": "69c7c35831c96d8693034919e97785a444f926a391e6c68dc36479fae2412eca"
+    },
+    {
+      "id": "musica-take06-wav",
+      "path": "cena/musica.wav",
+      "kind": "audio",
+      "status": "ready",
+      "provenance": "Recorte 02:47.000–03:44.000 (57,000 s exatos) PCM 44.1 kHz estéreo de Quebrando-as-Correntes.mp3",
+      "rights": "Faixa de referência do espetáculo HESED",
+      "sha256": "ed3b786b989679ac52c1862e057b9cc0322f7caaab59078974dbd4cc125bd65b"
+    }
+  ],
+  "scenes": [
+    {
+      "id": "take-06",
+      "version": 1,
+      "status": "review",
+      "durationSec": 57.0,
+      "preview": {
+        "engine": "hyperframes",
+        "source": "cena/index.html"
+      },
+      "layers": [
+        { "id": "horizonte-e-coturnos-papel", "role": "background", "assetId": "ponte-horizonte" },
+        { "id": "ladra-e-jesus-lado-a-lado", "role": "content", "assetId": "t02-ladra-livre" },
+        { "id": "correntes-em-x-e-tipografia", "role": "intermediate", "assetId": "t02-meio-esq" },
+        { "id": "estilhacos-3d-e-fade-cortina", "role": "foreground", "assetId": "t02-elos-kit" }
+      ],
+      "audio": {
+        "voice": [],
+        "music": [
+          {
+            "assetId": "musica-take06-wav",
+            "startSec": 0,
+            "endSec": 57.0,
+            "sourceStartSec": 167.0,
+            "sourceEndSec": 224.0
+          }
+        ],
+        "ambience": [],
+        "sfx": []
+      },
+      "approvals": []
+    }
+  ],
+  "capabilities": {
+    "semanticMediaIndex": { "status": "not-planned" },
+    "externalTimeline": { "status": "not-planned" },
+    "backgroundRemoval": { "status": "not-planned" },
+    "lipSync": { "status": "not-planned" }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "schema": "ai-filmmaker.project/v1",
+  "project": {
+    "id": "cena01-correntes-take01-v01",
+    "title": "Cena 1 · Quebrando as Correntes · Take 01 (Intro + 1º Verso, HyperFrames v01)"
+  },
+  "workflow": {
+    "phase": "scene-review",
+    "currentScene": "take-01"
+  },
+  "delivery": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 24,
+    "status": "draft"
+  },
+  "timeline": {
+    "musicMode": "global"
+  },
+  "assets": [
+    {
+      "id": "mm01-q01-exterior",
+      "path": "cena/q01-exterior.png",
+      "kind": "image",
+      "status": "approved",
+      "provenance": "Cópia de MMs Victor/MM01/MM01-Q01-ATMOSFERA-MESTRE.png (V06, D-40, p. 32 do storyboard v03)",
+      "rights": "Projeto HESED",
+      "sha256": "ecdc184e0bcb765265d27f7e2ebd1f5d2a4c1c92278b46491138bf213607cd91"
+    },
+    {
+      "id": "mm01-q03-patio",
+      "path": "cena/q03-patio.png",
+      "kind": "image",
+      "status": "approved",
+      "provenance": "Cópia de MMs Victor/MM01/MM01-Q03-ATMOSFERA-NOTURNA.png (V06, D-40)",
+      "rights": "Projeto HESED",
+      "sha256": "1e2fab4a7d30f53ec1fffa3c4e24de5d9af6a9c6c9aa936346e6c193467a71f9"
+    },
+    {
+      "id": "mm01-q02-guarita",
+      "path": "cena/q02-guarita.png",
+      "kind": "image",
+      "status": "approved",
+      "provenance": "Cópia de MMs Victor/MM01/MM01-Q02-ATMOSFERA-NOTURNA.png (V06, D-40)",
+      "rights": "Projeto HESED",
+      "sha256": "ad6c2e83f439e8b5cc9c851ac96d2f9e5bc0a266be009f6003d56c2be4b317ef"
+    },
+    {
+      "id": "musica-take01-wav",
+      "path": "cena/musica.wav",
+      "kind": "audio",
+      "status": "ready",
+      "provenance": "Recorte 00:00–00:47.000 em PCM 44.1 kHz estéreo de Quebrando-as-Correntes.mp3 (Wagner Oliveira)",
+      "rights": "Faixa de referência do espetáculo HESED",
+      "sha256": "fe241ccb805ae25e0c4d7d11d701cc465f6c7ab86be5d607a10dda55d5b10dcb"
+    }
+  ],
+  "scenes": [
+    {
+      "id": "take-01",
+      "version": 1,
+      "status": "review",
+      "durationSec": 47,
+      "preview": {
+        "engine": "hyperframes",
+        "source": "cena/index.html"
+      },
+      "layers": [
+        { "id": "exterior-v06-q01-q03-q02", "role": "background", "assetId": "mm01-q01-exterior" },
+        { "id": "neblina-e-luzes-noturnas", "role": "intermediate" },
+        { "id": "tipografia-cinetica-pontual", "role": "foreground" }
+      ],
+      "audio": {
+        "voice": [],
+        "music": [
+          {
+            "assetId": "musica-take01-wav",
+            "startSec": 0,
+            "endSec": 47,
+            "sourceStartSec": 0,
+            "sourceEndSec": 47
+          }
+        ],
+        "ambience": [],
+        "sfx": []
+      },
+      "approvals": []
+    }
+  ],
+  "capabilities": {
+    "semanticMediaIndex": { "status": "not-planned" },
+    "externalTimeline": { "status": "not-planned" },
+    "backgroundRemoval": { "status": "not-planned" },
+    "lipSync": { "status": "not-planned" }
+  }
+}

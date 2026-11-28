@@ -1,0 +1,151 @@
+{
+  "schema": "ai-filmmaker.project/v1",
+  "project": {
+    "id": "cena01-correntes-take03-v03",
+    "title": "Cena 1 · Quebrando as Correntes · Take 03 v03 (2º Verso Papel 2.5D + Clímax Centralizado)"
+  },
+  "workflow": {
+    "phase": "scene-review",
+    "currentScene": "take-03"
+  },
+  "delivery": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 24,
+    "status": "draft"
+  },
+  "timeline": {
+    "musicMode": "global"
+  },
+  "assets": [
+    {
+      "id": "ancora-take02",
+      "path": "cena/ancora-take02.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Quadro final aprovado do Take 02 v03 (00:21.958, quadro 527) para emenda contínua",
+      "rights": "Projeto HESED",
+      "sha256": "dc03669f26c2f4b1cbf4777d3eed6c4bf658e7f4702e1f377aa4342f90e366e9"
+    },
+    {
+      "id": "t02-fundo-void",
+      "path": "cena/t02-fundo-void-papel.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Camada 01 Void vazio em papel rasgado reaproveitada do Take 02",
+      "rights": "Projeto HESED",
+      "sha256": "382c57de5a37a4c9c8faf1eb961e675fd0c067ffb0fd37dedd84bfaee7c70458"
+    },
+    {
+      "id": "t02-ladra-livre",
+      "path": "cena/t02-ladra-costas-livre.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Camada 03 Ladra de costas livre RGBA reaproveitada do Take 02",
+      "rights": "Projeto HESED",
+      "sha256": "fcd1f2b8839d15cf4b9f40458016e04ebfdc9ffbec12343aa091c9f16a100dff"
+    },
+    {
+      "id": "t03-arco-frente",
+      "path": "cena/01-arco-papel-frente.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Camada 01 arco de papel rasgado primeiro plano RGBA (sempre scale >= 1.03)",
+      "rights": "Projeto HESED",
+      "sha256": "e79123c7cf4a55b997abd6b244de863fffb12a78585b2235ac31a5076c6e9175"
+    },
+    {
+      "id": "t03-porta-moldura",
+      "path": "cena/03-porta-void-moldura.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Camada 03 batente da porta solitária no Void RGBA",
+      "rights": "Projeto HESED",
+      "sha256": "a200137645368d82b88a2f8fd07a9f2ad0f1acf286843a465b12a5e0bbb1e364"
+    },
+    {
+      "id": "t03-porta-folha",
+      "path": "cena/04-porta-void-folha.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Camada 04 folha da porta solitária com dobradiça em x=795 RGBA",
+      "rights": "Projeto HESED",
+      "sha256": "ed5df9b867dff4a5596f3df2aa5e5ca0cd8e3ae6689813b9c5460780defdb1c9"
+    },
+    {
+      "id": "t03-ladra-porta",
+      "path": "cena/05-ladra-costas-mao-porta.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Camada 05 Ladra de costas diante da porta RGBA alinhada em y=842",
+      "rights": "Projeto HESED",
+      "sha256": "e02667c52045a9d6ae2bceb207d10073ef2209bc8452d5c9d882992576da7dc3"
+    },
+    {
+      "id": "t03-caminho-encruzilhada",
+      "path": "cena/06-caminho-encruzilhada-papel.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Camada 06 caminho em perspectiva no Void em papel rasgado RGB",
+      "rights": "Projeto HESED",
+      "sha256": "0278bbf02127156008e50c694a36770a347ddf03d7f242ac9f67851ef05b8b3e"
+    },
+    {
+      "id": "t03-redeas-sombras",
+      "path": "cena/07-redeas-sombras-esq.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Camada 07 rédeas e elos sombrios em primeiro plano esquerdo RGBA",
+      "rights": "Projeto HESED",
+      "sha256": "15c1804dcb18e6202e728609c9eb1d1e520e18537c0d3feae76e2b9fb842b1a8"
+    },
+    {
+      "id": "musica-take03-wav",
+      "path": "cena/musica.wav",
+      "kind": "audio",
+      "status": "ready",
+      "provenance": "Recorte 01:09.000–01:42.000 (33,000 s) PCM 44.1 kHz estéreo de Quebrando-as-Correntes.mp3",
+      "rights": "Faixa de referência do espetáculo HESED",
+      "sha256": "900a8f2785d73cb8bb51baab7475d703cb71249788cc3bcb1785b9af0dc062ba"
+    }
+  ],
+  "scenes": [
+    {
+      "id": "take-03",
+      "version": 3,
+      "status": "review",
+      "durationSec": 33,
+      "preview": {
+        "engine": "hyperframes",
+        "source": "cena/index.html"
+      },
+      "layers": [
+        { "id": "void-e-caminho-papel-rasgado", "role": "background", "assetId": "t02-fundo-void" },
+        { "id": "travessia-porta-e-ladra-malha-viva", "role": "content", "assetId": "t03-ladra-porta" },
+        { "id": "moldura-arco-frente-e-tipografia", "role": "intermediate", "assetId": "t03-arco-frente" },
+        { "id": "redeas-sombras-primeiro-plano", "role": "foreground", "assetId": "t03-redeas-sombras" }
+      ],
+      "audio": {
+        "voice": [],
+        "music": [
+          {
+            "assetId": "musica-take03-wav",
+            "startSec": 0,
+            "endSec": 33,
+            "sourceStartSec": 69,
+            "sourceEndSec": 102
+          }
+        ],
+        "ambience": [],
+        "sfx": []
+      },
+      "approvals": []
+    }
+  ],
+  "capabilities": {
+    "semanticMediaIndex": { "status": "not-planned" },
+    "externalTimeline": { "status": "not-planned" },
+    "backgroundRemoval": { "status": "not-planned" },
+    "lipSync": { "status": "not-planned" }
+  }
+}

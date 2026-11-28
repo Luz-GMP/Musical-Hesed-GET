@@ -1,0 +1,178 @@
+{
+  "schema": "ai-filmmaker.project/v1",
+  "project": {
+    "id": "cena01-correntes-take05-v01",
+    "title": "Cena 1 · Quebrando as Correntes · Take 05 v01 (3º Verso · Filipenses 2:7 + Romanos 6:6)"
+  },
+  "workflow": {
+    "phase": "scene-review",
+    "currentScene": "take-05"
+  },
+  "delivery": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 24,
+    "status": "draft"
+  },
+  "timeline": {
+    "musicMode": "global"
+  },
+  "assets": [
+    {
+      "id": "ancora-take04",
+      "path": "cena/ancora-take04.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Quadro final aprovado do Take 04 v03 (00:43.458, quadro 1043) com Jesus de costas no horizonte",
+      "rights": "Projeto HESED",
+      "sha256": "cdb71747b0576031334c3fbce7ca94c1f62236660a299e37f9e4586ad68602ce"
+    },
+    {
+      "id": "ponte-horizonte",
+      "path": "cena/ponte-horizonte.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Horizonte luminoso em papel rasgado reaproveitado do Take 04",
+      "rights": "Projeto HESED",
+      "sha256": "db00f4daa910d0576513f54b4bce26f419f30c56ee850dc2b09b457511af57cc"
+    },
+    {
+      "id": "t02-fundo-void",
+      "path": "cena/t02-fundo-void-papel.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Void em papel rasgado reaproveitado do Take 02",
+      "rights": "Projeto HESED",
+      "sha256": "382c57de5a37a4c9c8faf1eb961e675fd0c067ffb0fd37dedd84bfaee7c70458"
+    },
+    {
+      "id": "veu-esq",
+      "path": "cena/veu-esq.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Véu frontal esquerdo em papel rasgado reaproveitado do Take 04",
+      "rights": "Projeto HESED",
+      "sha256": "725b14d143ee7b189f126ef2022abaeacaf5a796905c83171371cf42f6c4ebb8"
+    },
+    {
+      "id": "veu-dir",
+      "path": "cena/veu-dir.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Véu frontal direito em papel rasgado reaproveitado do Take 04",
+      "rights": "Projeto HESED",
+      "sha256": "f7d420e9c9879c763ef3d447d991c9d4994948f11a06d67c489668483f615dad"
+    },
+    {
+      "id": "mm16-jesus-costas",
+      "path": "cena/mm16-jesus-costas.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Recorte RGBA de Jesus de costas em papel rasgado (MM-16)",
+      "rights": "Projeto HESED",
+      "sha256": "50cd5700a499a617a5eff9e6e1bad3a7f5a3efc91f0db79d60638b2536ca9f4b"
+    },
+    {
+      "id": "t02-ladra-livre",
+      "path": "cena/t02-ladra-costas-livre.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Ladra de costas livre RGBA reaproveitada do Take 02 (apoio [996,842])",
+      "rights": "Projeto HESED",
+      "sha256": "fcd1f2b8839d15cf4b9f40458016e04ebfdc9ffbec12343aa091c9f16a100dff"
+    },
+    {
+      "id": "t02-meio-esq",
+      "path": "cena/t02-meio-esq.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Metade esquerda corrente íntegra reaproveitada do Take 02",
+      "rights": "Projeto HESED",
+      "sha256": "1de527c1fa936ba8828b3a07da5e879512e65da67edda29c1a4d0cf21c9b7824"
+    },
+    {
+      "id": "t02-meio-dir",
+      "path": "cena/t02-meio-dir.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Metade direita corrente íntegra reaproveitada do Take 02",
+      "rights": "Projeto HESED",
+      "sha256": "e23ae418c33002429a8acda9d8b57d5af2171d9b59a68f358e8698c56c7e18f2"
+    },
+    {
+      "id": "t02-elos-kit",
+      "path": "cena/t02-elos-kit.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Kit de 8 elos rompidos reaproveitado do Take 02",
+      "rights": "Projeto HESED",
+      "sha256": "69c7c35831c96d8693034919e97785a444f926a391e6c68dc36479fae2412eca"
+    },
+    {
+      "id": "t02-algema-chao",
+      "path": "cena/t02-algema-chao.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Algema aberta caída no piso reaproveitada do Take 02",
+      "rights": "Projeto HESED",
+      "sha256": "5fb2706261167f45f9ac17df9f63dfd6b9955e9529571b0b804d0de2a378c33e"
+    },
+    {
+      "id": "t04-corrente-chao",
+      "path": "cena/t04-corrente-chao.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Corrente solta caída no chão reaproveitada do Take 04",
+      "rights": "Projeto HESED",
+      "sha256": "a2bbc3aa3f472eda9e57c6a7b6afd42340f875346d562eb4f366394f1c249a6b"
+    },
+    {
+      "id": "musica-take05-wav",
+      "path": "cena/musica.wav",
+      "kind": "audio",
+      "status": "ready",
+      "provenance": "Recorte 02:25.500–02:47.000 (21,500 s) PCM 44.1 kHz estéreo de Quebrando-as-Correntes.mp3",
+      "rights": "Faixa de referência do espetáculo HESED",
+      "sha256": "3878c507720852e2f6389d0869e355bacaf7e47695b41328f73aafde3e765fe1"
+    }
+  ],
+  "scenes": [
+    {
+      "id": "take-05",
+      "version": 1,
+      "status": "review",
+      "durationSec": 21.5,
+      "preview": {
+        "engine": "hyperframes",
+        "source": "cena/index.html"
+      },
+      "layers": [
+        { "id": "horizonte-void-cruz-rasgada", "role": "background", "assetId": "ponte-horizonte" },
+        { "id": "jesus-velho-enterrado-ladra-nova", "role": "content", "assetId": "mm16-jesus-costas" },
+        { "id": "corrente-wipe-e-tipografia", "role": "intermediate", "assetId": "t02-meio-esq" },
+        { "id": "estilhacos-3d-mecanicos", "role": "foreground", "assetId": "t02-elos-kit" }
+      ],
+      "audio": {
+        "voice": [],
+        "music": [
+          {
+            "assetId": "musica-take05-wav",
+            "startSec": 0,
+            "endSec": 21.5,
+            "sourceStartSec": 145.5,
+            "sourceEndSec": 167.0
+          }
+        ],
+        "ambience": [],
+        "sfx": []
+      },
+      "approvals": []
+    }
+  ],
+  "capabilities": {
+    "semanticMediaIndex": { "status": "not-planned" },
+    "externalTimeline": { "status": "not-planned" },
+    "backgroundRemoval": { "status": "not-planned" },
+    "lipSync": { "status": "not-planned" }
+  }
+}

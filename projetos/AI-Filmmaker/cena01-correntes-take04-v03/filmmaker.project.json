@@ -1,0 +1,214 @@
+{
+  "schema": "ai-filmmaker.project/v1",
+  "project": {
+    "id": "cena01-correntes-take04-v03",
+    "title": "Cena 1 · Quebrando as Correntes · Take 04 v03 (2º Refrão + Ponte · X Íntegro + Jesus de Costas)"
+  },
+  "workflow": {
+    "phase": "scene-review",
+    "currentScene": "take-04"
+  },
+  "delivery": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 24,
+    "status": "draft"
+  },
+  "timeline": {
+    "musicMode": "global"
+  },
+  "assets": [
+    {
+      "id": "ancora-take03",
+      "path": "cena/ancora-take03.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Quadro final aprovado do Take 03 v03 (00:32.958, quadro 791) para emenda contínua",
+      "rights": "Projeto HESED",
+      "sha256": "43aeb8795943c259962d57ba6255d0c9ebf72af08006098aec4274f2589e94ed"
+    },
+    {
+      "id": "t02-fundo-void",
+      "path": "cena/t02-fundo-void-papel.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Camada 01 Void vazio em papel rasgado reaproveitada do Take 02",
+      "rights": "Projeto HESED",
+      "sha256": "382c57de5a37a4c9c8faf1eb961e675fd0c067ffb0fd37dedd84bfaee7c70458"
+    },
+    {
+      "id": "t02-ladra-livre",
+      "path": "cena/t02-ladra-costas-livre.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Camada 03 Ladra de costas livre RGBA reaproveitada do Take 02 (apoio [996,842])",
+      "rights": "Projeto HESED",
+      "sha256": "fcd1f2b8839d15cf4b9f40458016e04ebfdc9ffbec12343aa091c9f16a100dff"
+    },
+    {
+      "id": "t02-frente-esq",
+      "path": "cena/t02-frente-esq.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Metade esquerda corrente frente reaproveitada do Take 02 (original + espelhada em X)",
+      "rights": "Projeto HESED",
+      "sha256": "3f5500958908718c4847c0bc9903fc7b39f72b5dbc887f7d562e1e21cffc53b5"
+    },
+    {
+      "id": "t02-frente-dir",
+      "path": "cena/t02-frente-dir.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Metade direita corrente frente reaproveitada do Take 02 (original + espelhada em X)",
+      "rights": "Projeto HESED",
+      "sha256": "548858ea1bf3fc7c8d330e87a5596f0c4f48039dfebde845f36bc5e311f6c9f3"
+    },
+    {
+      "id": "t02-meio-esq",
+      "path": "cena/t02-meio-esq.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Metade esquerda corrente meio reaproveitada do Take 02 (original + espelhada em X)",
+      "rights": "Projeto HESED",
+      "sha256": "1de527c1fa936ba8828b3a07da5e879512e65da67edda29c1a4d0cf21c9b7824"
+    },
+    {
+      "id": "t02-meio-dir",
+      "path": "cena/t02-meio-dir.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Metade direita corrente meio reaproveitada do Take 02 (original + espelhada em X)",
+      "rights": "Projeto HESED",
+      "sha256": "e23ae418c33002429a8acda9d8b57d5af2171d9b59a68f358e8698c56c7e18f2"
+    },
+    {
+      "id": "t02-elos-kit",
+      "path": "cena/t02-elos-kit.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Kit de 8 elos rompidos em papel rasgado reaproveitado do Take 02",
+      "rights": "Projeto HESED",
+      "sha256": "69c7c35831c96d8693034919e97785a444f926a391e6c68dc36479fae2412eca"
+    },
+    {
+      "id": "t04-pulsos-esq",
+      "path": "cena/01-pulsos-macro-esq.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Camada 01 pulso esquerdo macro com metade do elo RGBA (camadas/manifesto-camadas.json)",
+      "rights": "Projeto HESED",
+      "sha256": "5764f4aeb112b8582679840374971286df550523249fdc5c3fd44a240964228f"
+    },
+    {
+      "id": "t04-pulsos-dir",
+      "path": "cena/02-pulsos-macro-dir.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Camada 02 pulso direito macro com metade do elo RGBA (camadas/manifesto-camadas.json)",
+      "rights": "Projeto HESED",
+      "sha256": "0449d700bc54ed0a3a3ddb220f864d80e7231903a615e96cc88060ed8d4b0328"
+    },
+    {
+      "id": "t04-coturnos-bg",
+      "path": "cena/03-plano-baixo-piso-coturnos.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Camada 03 plano baixo dos coturnos no piso de papel rasgado RGB",
+      "rights": "Projeto HESED",
+      "sha256": "754672729fed39e3fb663d224bc00bce269ec3f1efcf0a33845f3407e6892883"
+    },
+    {
+      "id": "t04-corrente-pes",
+      "path": "cena/04-corrente-caida-pes-macro.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Camada 04 corrente macro para queda ao lado dos coturnos RGBA",
+      "rights": "Projeto HESED",
+      "sha256": "a2bbc3aa3f472eda9e57c6a7b6afd42340f875346d562eb4f366394f1c249a6b"
+    },
+    {
+      "id": "t04-ponte-bg",
+      "path": "cena/06-ponte-fundo-horizonte-papel.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Camada 06 horizonte luminoso limpo da Ponte em papel rasgado RGB (piso y=842)",
+      "rights": "Projeto HESED",
+      "sha256": "db00f4daa910d0576513f54b4bce26f419f30c56ee850dc2b09b457511af57cc"
+    },
+    {
+      "id": "t04-veu-esq",
+      "path": "cena/07-veu-papel-esq.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Camada 07 véu frontal esquerdo com sangria integral RGBA",
+      "rights": "Projeto HESED",
+      "sha256": "725b14d143ee7b189f126ef2022abaeacaf5a796905c83171371cf42f6c4ebb8"
+    },
+    {
+      "id": "t04-veu-dir",
+      "path": "cena/08-veu-papel-dir.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Camada 08 véu frontal direito com sangria integral RGBA",
+      "rights": "Projeto HESED",
+      "sha256": "f7d420e9c9879c763ef3d447d991c9d4994948f11a06d67c489668483f615dad"
+    },
+    {
+      "id": "mm16-jesus-costas",
+      "path": "cena/mm16-jesus-costas.png",
+      "kind": "image",
+      "status": "ready",
+      "provenance": "Recorte RGBA de Jesus de costas em papel rasgado reaproveitado de projetos/AI-Filmmaker/mm16-correntes-v26/cena/jesus.png (1024x1536)",
+      "rights": "Projeto HESED",
+      "sha256": "50cd5700a499a617a5eff9e6e1bad3a7f5a3efc91f0db79d60638b2536ca9f4b"
+    },
+    {
+      "id": "musica-take04-wav",
+      "path": "cena/musica.wav",
+      "kind": "audio",
+      "status": "ready",
+      "provenance": "Recorte 01:42.000–02:25.500 (43,500 s) PCM 44.1 kHz estéreo de Quebrando-as-Correntes.mp3",
+      "rights": "Faixa de referência do espetáculo HESED",
+      "sha256": "72a5e7bc68fcf63382f6c404e9a8f9fe2ecc84e3f5a7d5ba19a03a75405efa23"
+    }
+  ],
+  "scenes": [
+    {
+      "id": "take-04",
+      "version": 3,
+      "status": "review",
+      "durationSec": 43.5,
+      "preview": {
+        "engine": "hyperframes",
+        "source": "cena/index.html"
+      },
+      "layers": [
+        { "id": "void-coturnos-horizonte-papel", "role": "background", "assetId": "t04-ponte-bg" },
+        { "id": "pulsos-corrente-ladra-malha", "role": "content", "assetId": "t02-ladra-livre" },
+        { "id": "x-correntes-e-tipografia", "role": "intermediate", "assetId": "t02-frente-esq" },
+        { "id": "veus-ponte-e-estilhacos-3d", "role": "foreground", "assetId": "t04-veu-esq" }
+      ],
+      "audio": {
+        "voice": [],
+        "music": [
+          {
+            "assetId": "musica-take04-wav",
+            "startSec": 0,
+            "endSec": 43.5,
+            "sourceStartSec": 102,
+            "sourceEndSec": 145.5
+          }
+        ],
+        "ambience": [],
+        "sfx": []
+      },
+      "approvals": []
+    }
+  ],
+  "capabilities": {
+    "semanticMediaIndex": { "status": "not-planned" },
+    "externalTimeline": { "status": "not-planned" },
+    "backgroundRemoval": { "status": "not-planned" },
+    "lipSync": { "status": "not-planned" }
+  }
+}

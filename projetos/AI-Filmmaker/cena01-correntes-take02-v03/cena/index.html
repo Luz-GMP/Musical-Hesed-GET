@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <title>Cena 1 · Quebrando as Correntes · Take 02 (1º Refrão 2.5D)</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; }
+    main { position: relative; width: 1920px; height: 1080px; overflow: hidden; background: #070504; }
+    canvas { position: absolute; inset: 0; width: 1920px; height: 1080px; }
+    img { display: none; }
+  </style>
+  <script src="gsap.min.js"></script>
+  <script src="marcadores.js"></script>
+  <script src="cena.js" defer></script>
+</head>
+<body>
+  <main id="correntes02" data-composition-id="correntes02" data-width="1920" data-height="1080" data-fps="24" data-start="0" data-duration="22">
+    <img id="ancora01" src="ancora-take01.png" alt="">
+    <img id="voidBg" src="01-fundo-void-papel.png" alt="">
+    <img id="ladraPresa" src="02-ladra-costas-acorrentada.png" alt="">
+    <img id="ladraLivre" src="03-ladra-costas-livre.png" alt="">
+    <img id="frenteEsq" src="04-corrente-diagonal-frente-esq.png" alt="">
+    <img id="frenteDir" src="05-corrente-diagonal-frente-dir.png" alt="">
+    <img id="meioEsq" src="06-corrente-diagonal-meio-esq.png" alt="">
+    <img id="meioDir" src="07-corrente-diagonal-meio-dir.png" alt="">
+    <img id="elosKit" src="08-elos-rompidos-kit.png" alt="">
+    <img id="algemaChao" src="09-corrente-chao-caida.png" alt="">
+    <canvas id="plano" width="1920" height="1080" aria-label="Cena 1 Quebrando as Correntes Take 02: Void em papel rasgado 2.5D, ruptura mecânica das correntes diagonais, avanço até a Ladra de costas e libertação das algemas."></canvas>
+    <audio id="musica" class="clip" src="musica.wav" data-start="0" data-duration="22" data-track-index="0"></audio>
+  </main>
+</body>
+</html>
